@@ -1,0 +1,48 @@
+{
+ "schema_version": "1.0.0",
+ "content_version": "2026.11.27-1",
+ "generated_at": "2026-11-27T00:31:32-05:00",
+ "last_checked": "2026-11-26T23:02:00-05:00",
+ "last_checked_note": "來源連結最後一次 HTTP 檢查（parts/lt.json，48 條 URL 200）",
+ "tracks": {
+  "CRS2": "CRS 2.0（amended CRS）",
+  "CARF": "CARF",
+  "INTEG": "一併管理"
+ },
+ "timezone": "America/Toronto",
+ "files": [
+  "badges.json",
+  "case.json",
+  "changelog.json",
+  "comparison.json",
+  "diagrams.json",
+  "elements.json",
+  "flashcards.json",
+  "industries.json",
+  "levels.json",
+  "library.json",
+  "meta.json",
+  "news.json",
+  "provisions.json",
+  "quiz.json",
+  "roles.json",
+  "sessions.json",
+  "sources.json",
+  "terms.json",
+  "timeline.json",
+  "trees.json",
+  "unverified.json"
+ ],
+ "generator": "tools/build_content.py",
+ "disclaimer": "教育用途，唔係稅務意見。",
+ "changelog_baseline": {
+  "field": "baseline",
+  "baseline_date": "2026-11-26",
+  "meaning": "baseline:true = 初版建置嘅記錄，UI 唔使當「新」；之後嘅記錄 baseline:false"
+ },
+ "zh_coverage": {
+  "provisions_with_zh": 46,
+  "provisions_total": 46
+ },
+ "terms_total": 149
+}

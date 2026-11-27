@@ -1,0 +1,235 @@
+{
+ "schema": "trees",
+ "items": [
+  {
+   "id": "T-CRS",
+   "track": "CRS2",
+   "title": "CRS：個帳戶須唔須申報？",
+   "short": "答幾條是非題，睇個結果",
+   "detail": "學習用嘅簡化版本，唔包括所有例外，例如 non-reporting FI 同 undocumented account。",
+   "start": "c1",
+   "nodes": [
+    {
+     "id": "c1",
+     "q": "個帳戶係咪由香港 reporting financial institution（RFI）維持？",
+     "hint": "RFI 主要係銀行、證券商、保險公司、投資基金（LegCo Bills Committee 報告）。",
+     "yes": "c2",
+     "no": "r_notfi"
+    },
+    {
+     "id": "c2",
+     "q": "個帳戶係咪 excluded account？",
+     "hint": "Sch 17C Part 3，例如符合條件嘅退休金帳戶、遺產帳戶；2028 年起加入 capital contribution account 同低值 specified e-money（Sch 17C para 5A，HK$78,000）。",
+     "yes": "r_excl",
+     "no": "c3"
+    },
+    {
+     "id": "c3",
+     "q": "帳戶持有人係個人（individual）？",
+     "hint": "揀「否」= 實體（entity）。",
+     "yes": "c4",
+     "no": "c5"
+    },
+    {
+     "id": "c4",
+     "q": "持有人係咪任何 reportable jurisdiction（Sch 17E）嘅稅務居民？",
+     "hint": "以 self-certification 為準並做 reasonableness check。雙重居民要申報全部稅區，唔可以用 tiebreaker（2028 年起 Sch 17D para 2B）。香港本身唔係 reportable jurisdiction。",
+     "yes": "r_rep",
+     "no": "r_hkonly"
+    },
+    {
+     "id": "c5",
+     "q": "實體本身係咪 reportable jurisdiction 稅務居民（而且唔係 excluded person）？",
+     "yes": "r_rep_entity",
+     "no": "c6"
+    },
+    {
+     "id": "c6",
+     "q": "實體係咪 passive NFE？",
+     "hint": "Active NFE（例如有實質營運業務）唔使 look-through。",
+     "yes": "c7",
+     "no": "r_noentity"
+    },
+    {
+     "id": "c7",
+     "q": "有冇任何 controlling person 係 reportable jurisdiction 稅務居民？",
+     "yes": "r_rep_cp",
+     "no": "r_noentity"
+    }
+   ],
+   "results": [
+    {
+     "id": "r_notfi",
+     "verdict": "唔屬香港 CRS 申報範圍",
+     "tone": "info",
+     "why": "Part 8A 嘅責任落喺香港 RFI。其他地方嘅機構可能要喺當地申報。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_aeoi.htm",
+     "source_id": "AEOI"
+    },
+    {
+     "id": "r_excl",
+     "verdict": "唔須申報（excluded account）",
+     "tone": "success",
+     "why": "Financial account 嘅定義唔包括 excluded account，而且 FI 唔可以揀 opt out（2017 年 HKICPA 年會 A5(f)）。",
+     "src": "https://www.hkicpa.org.hk/-/media/HKICPA-Website/HKICPA/section5_membership/Professional-Representation/pdf-file/tax-b/28.pdf",
+     "source_id": "X01"
+    },
+    {
+     "id": "r_rep",
+     "verdict": "屬 reportable account：須申報",
+     "tone": "danger",
+     "why": "RFI 要喺 BIR80 申報 required information（s.50C、50F）。2028 年起仲要報埋有冇有效 self-cert、帳戶類型、新定舊帳戶、聯名帳戶等資料。",
+     "src": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+     "source_id": "CO"
+    },
+    {
+     "id": "r_hkonly",
+     "verdict": "唔須申報",
+     "tone": "success",
+     "why": "IRD FAQ：唔係香港以外任何地區稅務居民嘅香港納稅人唔會被申報。",
+     "src": "https://www.ird.gov.hk/eng/faq/dta_aeoi.htm",
+     "source_id": "FAQ"
+    },
+    {
+     "id": "r_rep_entity",
+     "verdict": "須申報（實體本身係 reportable person）",
+     "tone": "danger",
+     "why": "如果實體同時係 passive NFE，仲要 look-through 去睇 controlling persons。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_aeoi.htm",
+     "source_id": "AEOI"
+    },
+    {
+     "id": "r_noentity",
+     "verdict": "唔須申報",
+     "tone": "success",
+     "why": "實體唔係 reportable person；而且唔係 passive NFE，或者冇 controlling person 係 reportable。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_aeoi.htm",
+     "source_id": "AEOI"
+    },
+    {
+     "id": "r_rep_cp",
+     "verdict": "須申報（因為 controlling person）",
+     "tone": "danger",
+     "why": "Passive NFE 有 controlling person 係 reportable person，就屬 reportable account。2028 年起要報埋每個 controlling person 嘅角色（role）。",
+     "src": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+     "source_id": "CO"
+    }
+   ],
+   "quotes": [],
+   "sources": [
+    "AEOI",
+    "X01",
+    "CO",
+    "FAQ"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/dta_aeoi.htm",
+   "minutes": 1.5,
+   "element_ids": [
+    "fi",
+    "excl",
+    "sc",
+    "cp",
+    "rp2"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "T-CARF",
+   "track": "CARF",
+   "title": "CARF：須唔須申報？",
+   "short": "答幾條是非題，睇個結果",
+   "detail": "學習用嘅簡化版本，唔包括所有例外，例如 non-reporting FI 同 undocumented account。",
+   "start": "k1",
+   "nodes": [
+    {
+     "id": "k1",
+     "q": "你係咪以業務形式（as a business）為客戶進行 exchange transactions 嘅個人或實體？",
+     "hint": "包括做 counterparty、intermediary，或者提供 trading platform（s.50M 嘅 RCASP 定義）。",
+     "yes": "k2",
+     "no": "r_notrcasp"
+    },
+    {
+     "id": "k2",
+     "q": "同香港有冇 nexus？",
+     "hint": "IRD 列出嘅 nexus：香港稅務居民；喺香港成立而有法人地位或須向 IRD 報稅；喺香港管理；或者喺香港有 regular place of business（包括分行）。",
+     "yes": "k3",
+     "no": "r_nonexus"
+    },
+    {
+     "id": "k3",
+     "q": "所涉資產係咪 relevant crypto-asset？",
+     "hint": "以下唔計：CBDC、specified electronic money product，或者 RCASP 合理判定唔可以用嚟支付或投資嘅 crypto-asset（s.50M）。",
+     "yes": "k4",
+     "no": "r_notrca"
+    },
+    {
+     "id": "k4",
+     "q": "Crypto-asset user（或者非 active entity 嘅 controlling person）係咪 reportable jurisdiction 稅務居民？",
+     "hint": "Reportable jurisdiction 名單由 Commissioner 公布（s.50M(13)），IRD 話會「in due course」公布。",
+     "yes": "r_carfrep",
+     "no": "r_carfno"
+    }
+   ],
+   "results": [
+    {
+     "id": "r_notrcasp",
+     "verdict": "唔係 RCASP",
+     "tone": "info",
+     "why": "唔使負 CARF 責任，但可能要負 CRS 責任（例如 investment entity 投資 crypto）。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+     "source_id": "CARF"
+    },
+    {
+     "id": "r_nonexus",
+     "verdict": "唔係 HKRCASP",
+     "tone": "info",
+     "why": "冇香港 nexus 就唔使喺香港登記同申報，但可能喺其他 CARF 稅區有責任（cascading nexus）。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+     "source_id": "CARF"
+    },
+    {
+     "id": "r_notrca",
+     "verdict": "呢項資產唔使喺 CARF 申報",
+     "tone": "warning",
+     "why": "仍然要喺 31/1 前登記（s.50O），就算冇嘢報都要。CBDC 同 specified e-money 喺 2028 年起由 amended CRS 處理。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_carfrep",
+     "verdict": "須申報 relevant transactions",
+     "tone": "danger",
+     "why": "要按每類 relevant crypto-asset 匯總申報 exchange（crypto↔fiat、crypto↔crypto）同 transfers，包括超過 HK$390,000 嘅 reportable retail payment transactions。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+     "source_id": "CARF"
+    },
+    {
+     "id": "r_carfno",
+     "verdict": "唔使申報呢個 user",
+     "tone": "success",
+     "why": "不過仍然要做盡職審查、保存紀錄同登記。可以揀對非 reportable user 都做同一套程序（s.50P(3)）。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+     "source_id": "CARF"
+    }
+   ],
+   "quotes": [],
+   "sources": [
+    "CARF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "minutes": 1.5,
+   "element_ids": [
+    "rcasp",
+    "rca",
+    "dd",
+    "rp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  }
+ ]
+}

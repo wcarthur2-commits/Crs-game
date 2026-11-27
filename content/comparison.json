@@ -1,0 +1,273 @@
+{
+ "schema": "comparison",
+ "items": [
+  {
+   "id": "cmp-integ",
+   "track": "INTEG",
+   "title": "一併管理：CRS 2.0 同 CARF 重疊同分別",
+   "short": "兩制邊度一樣、邊度唔同",
+   "detail": "Venn 圖 + 對照表。表內條文號碼見 elements.json 引文。",
+   "updated": "2026-11-26",
+   "status": "UNVERIFIED",
+   "unverified_reason": "schema 3.0 檔案（U7）、CARF schema（U4）、首次 CARF 交換月份未經官方確認",
+   "sources": [
+    "O8",
+    "O4",
+    "OECD",
+    "BRF",
+    "CO",
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "venn": {
+    "sets": [
+     {
+      "label": "CRS 2.0",
+      "items": [
+       "CBDC、SEMP",
+       "crypto 衍生工具",
+       "投資 crypto 嘅 investment entity",
+       "AEOI Portal",
+       "XML Schema 3.0"
+      ]
+     },
+     {
+      "label": "CARF",
+      "items": [
+       "Relevant crypto-assets 交易",
+       "RRPT > $390,000",
+       "CARF Portal",
+       "nil return",
+       "s.82E 行政罰款"
+      ]
+     }
+    ],
+    "overlap": {
+     "label": "兩邊都有",
+     "items": [
+      "唔可以用 tiebreaker",
+      "CP 角色要報",
+      "Self-cert + reasonableness",
+      "紀錄 6 年",
+      "強制登記",
+      "Crypto 形式嘅金融資產（gross proceeds 單向 switch-off）"
+     ]
+    }
+   },
+   "rows": [
+    {
+     "id": "eff",
+     "topic": "生效",
+     "crs2": "2028-01-01（Ord 8 Part 2 Division 2）",
+     "carf": "2027-01-01（Ord 8 Part 2 Division 1）",
+     "relation": "唔同：CARF 早一年",
+     "sources": [
+      "O8"
+     ],
+     "element_id": "cmp"
+    },
+    {
+     "id": "who",
+     "topic": "申報主體",
+     "crs2": "Reporting financial institution（RFI）",
+     "carf": "HKRCASP（按香港 nexus，s.50N）",
+     "relation": "有重疊：RFI 可以同時係 HKRCASP",
+     "sources": [
+      "O8",
+      "S25"
+     ],
+     "element_id": "cmp"
+    },
+    {
+     "id": "assets",
+     "topic": "資產",
+     "crs2": "Financial accounts，加 CBDC、SEMP、crypto 衍生工具、投資 crypto 嘅 investment entity",
+     "carf": "Relevant crypto-assets（唔包括 CBDC、SEMP）",
+     "relation": "分工：CBDC／SEMP 同間接持有 → CRS；直接 crypto 交易 → CARF",
+     "sources": [
+      "OECD",
+      "CO"
+     ],
+     "element_id": "cmp"
+    },
+    {
+     "id": "report",
+     "topic": "申報內容",
+     "crs2": "帳戶結餘、收入、gross proceeds；新增 self-cert 狀態、CP 角色等",
+     "carf": "按每類 crypto-asset 匯總交易（exchange、transfer、RRPT > $390,000）",
+     "relation": "共通：兩邊都要報 CP 角色",
+     "sources": [
+      "O8"
+     ],
+     "element_id": "crep"
+    },
+    {
+     "id": "reg",
+     "topic": "登記",
+     "crs2": "AEOI Portal；現有 RFI 2027-03-31 或之前（s.50AB）",
+     "carf": "CARF Portal（計劃 2027 年 9 月）；首次符合 nexus 翌年 1 月 31 日（s.50O）",
+     "relation": "唔同系統、唔同限期",
+     "sources": [
+      "O4",
+      "O8",
+      "BRF"
+     ],
+     "element_id": "sys"
+    },
+    {
+     "id": "schema",
+     "topic": "報表格式",
+     "crs2": "Financial Account Information Return XML Schema 3.0（U7）",
+     "carf": "CARF data schema 未公佈（U4）",
+     "relation": "兩套 schema",
+     "sources": [
+      "BRF"
+     ],
+     "element_id": "sys"
+    },
+    {
+     "id": "exch",
+     "topic": "首次交換",
+     "crs2": "2029 年起（簡報：2029 年 9 月）",
+     "carf": "2028 年起（月份 UNVERIFIED）",
+     "relation": "唔同",
+     "sources": [
+      "PR",
+      "BRF"
+     ],
+     "element_id": "cmp"
+    },
+    {
+     "id": "tb",
+     "topic": "雙重居民",
+     "crs2": "唔可以用 tiebreaker（Sch 17D Pt 7 s.2B）",
+     "carf": "唔可以用 tiebreaker（Sch 17EA Pt 6 s.3）",
+     "relation": "相同規則，唔同條文",
+     "sources": [
+      "O8"
+     ],
+     "element_id": "cmp"
+    },
+    {
+     "id": "sc",
+     "topic": "Self-cert",
+     "crs2": "新帳戶要有效 self-cert；例外先暫用舊帳戶程序（Sch 17D Pt 7 s.2A）",
+     "carf": "新舊用戶都要；現有用戶 2028-01-01 前補收（Sch 17EA Pt 3）",
+     "relation": "可以共用：Sch 17EA Pt 2 s.2",
+     "sources": [
+      "O8"
+     ],
+     "element_id": "ddshare"
+    },
+    {
+     "id": "dual",
+     "topic": "雙重申報",
+     "crs2": "CARF 報咗嘅 gross proceeds 可以唔報（s.50G(4)），可選擇另報",
+     "carf": "照報，CRS 報咗唔代替 CARF",
+     "relation": "單向：but not vice versa",
+     "sources": [
+      "O8",
+      "BRF"
+     ],
+     "element_id": "dual"
+    },
+    {
+     "id": "rec",
+     "topic": "紀錄保存",
+     "crs2": "6 年（s.50D(2)，Ord 4）",
+     "carf": "6 年（s.50S(2)）；OECD 最少 5 年",
+     "relation": "相同年期",
+     "sources": [
+      "O4",
+      "O8",
+      "OECD"
+     ],
+     "element_id": "gov"
+    },
+    {
+     "id": "pen",
+     "topic": "罰則",
+     "crs2": "ss.80B–80F；self-cert 虛假陳述 s.80(2E)/(2F) 第 3 級",
+     "carf": "s.80R：第 3 級或每人 $1,000 起；公訴最高第 6 級或每人 $20,000 加監禁 3 年；s.82E 行政罰款",
+     "relation": "唔同罰則表",
+     "sources": [
+      "O16",
+      "O8"
+     ],
+     "element_id": "gov"
+    }
+   ],
+   "legacy_table": {
+    "columns": [
+     "項目",
+     "CRS（現行）",
+     "CRS 2.0（amended CRS）",
+     "CARF"
+    ],
+    "rows": [
+     [
+      "香港法律",
+      "Part 8A、Sch 17C/17D/17E（2016 年起）",
+      "Ord 8 of 2026 Div 2 修訂 Part 8A、17C、17D",
+      "Ord 8 of 2026 Div 1：新 Part 8B ss.50M–50Y、Sch 17EA"
+     ],
+     [
+      "生效",
+      "2016 年 6 月 30 日（框架）；Ord 4 自 2027 年 1 月 1 日加強",
+      "2028 年 1 月 1 日",
+      "2027 年 1 月 1 日"
+     ],
+     [
+      "首次交換",
+      "2018 年 9 月",
+      "2029 年（計劃 9 月）",
+      "2028 年（計劃 9 月）"
+     ],
+     [
+      "申報主體",
+      "Reporting financial institution",
+      "RFI（範圍擴大至涉及 digital money 同 crypto 嘅機構）",
+      "RCASP，按香港 nexus"
+     ],
+     [
+      "資產或帳戶",
+      "Financial accounts",
+      "加入 CBDC、specified e-money、crypto 衍生工具、投資 crypto 嘅 investment entity",
+      "Relevant crypto-assets（交易，唔係結餘）"
+     ],
+     [
+      "申報內容",
+      "身份、TIN、結餘、收入、gross proceeds",
+      "另加：有冇有效 self-cert、controlling person 角色、新定舊帳戶、聯名帳戶、帳戶類型",
+      "按每類資產匯總：exchange、transfers、超過 $390,000 嘅 RRPT"
+     ],
+     [
+      "雙重居民",
+      "Self-cert",
+      "申報全部，唔可以用 tiebreaker（17D para 2B）",
+      "申報全部（17EA para 3）"
+     ],
+     [
+      "登記",
+      "2027 年起 RFI 強制登記（s.50AB）",
+      "同 CRS",
+      "HKRCASP 強制登記（s.50O）"
+     ],
+     [
+      "主要罰則",
+      "ss.80B–80F；2027 年起按帳戶數計",
+      "同 CRS",
+      "s.80R：第 3 級或每人 $1,000 起，最高第 6 級；administrative penalty"
+     ],
+     [
+      "OECD 文本",
+      "CRS 第二版（2017）",
+      "2023 update to the CRS（2023 年 6 月 8 日）",
+      "CARF Rules 加 Commentary（2023 年 6 月 8 日）"
+     ]
+    ],
+    "track": "INTEG"
+   }
+  }
+ ]
+}

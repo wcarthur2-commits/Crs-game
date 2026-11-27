@@ -1,0 +1,925 @@
+{
+ "schema": "library",
+ "items": [
+  {
+   "id": "lib-status",
+   "track": "INTEG",
+   "title": "現況摘要",
+   "short": "現況摘要",
+   "detail": null,
+   "blocks": [
+    {
+     "type": "Metrics",
+     "props": {
+      "metrics": [
+       {
+        "value": "13/11/2026",
+        "label": "Ord. No. 8 of 2026",
+        "detail": "CARF 同 amended CRS 已立法"
+       },
+       {
+        "value": "1/1/2027",
+        "label": "CARF 生效",
+        "detail": "加埋 CRS 行政框架（Ord 4）"
+       },
+       {
+        "value": "1/1/2028",
+        "label": "Amended CRS 生效",
+        "detail": "2029 年首次交換"
+       },
+       {
+        "value": "2028",
+        "label": "首次 CARF 交換",
+        "detail": "計劃喺 9 月"
+       }
+      ]
+     },
+     "id": "lib-status-1",
+     "track": "INTEG"
+    },
+    {
+     "type": "Properties",
+     "props": {
+      "items": [
+       {
+        "label": "已立法：CARF 加 CRS 2.0",
+        "value": "Ord. No. 8 of 2026，新增 Part 8B（ss.50M–50Y）同 Sch 17EA，並修訂 Part 8A、Sch 17C、17D。https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       },
+       {
+        "label": "已立法：CRS 行政框架",
+        "value": "Ord. No. 4 of 2026，2026 年 6 月 26 日制定；Ord. No. 8 of 2026 Part 3 再作修訂（2026 年 11 月 13 日制定），兩者都係 2027 年 1 月 1 日生效。https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm"
+       },
+       {
+        "label": "現行 CRS",
+        "value": "Part 8A IRO（2016 年起），2018 年首次交換，Sch 17E 有 129 個 reportable jurisdictions（LegCo BC 報告）。https://www.ird.gov.hk/eng/tax/dta_aeoi.htm"
+       },
+       {
+        "label": "OECD 承諾",
+        "value": "Hong Kong (China) 屬 CARF「first exchanges by 2028」（2026 年 9 月 14 日更新）。https://www.oecd.org/content/dam/oecd/en/networks/global-forum-tax-transparency/commitments-carf.pdf"
+       },
+       {
+        "label": "MCAA",
+        "value": {
+         "status": "未簽",
+         "tone": "warning"
+        }
+       },
+       {
+        "label": "MCAA 說明",
+        "value": "Hong Kong 未出現喺 CARF MCAA 簽署名單（截至 2026 年 10 月 30 日），亦未出現喺 CRS MCAA Addendum 名單（截至 2026 年 11 月 10 日）。https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/carf-mcaa-signatories.pdf"
+       }
+      ]
+     },
+     "id": "lib-status-2",
+     "track": "INTEG"
+    },
+    {
+     "type": "Callout",
+     "lead": "重點",
+     "text": "LegCo 喺 2026 年 11 月 4 日通過條例草案（連同政府提出嘅修正案），2026 年 11 月 13 日制定。IRD 嘅 AEOI、CARF 同 amended CRS 網頁已經喺 2026 年 11 月 17 至 18 日之間更新，刪咗「Subject to the passage」，改寫「Ordinance 2026 was enacted on 13 November 2026」。amended CRS 說明頁搬咗去新網址 https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm 。CARF guidance、CARF Portal、data schema 同 reportable/partner jurisdiction 名單都話「in due course」先公布。",
+     "id": "lib-status-3",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-timeline",
+   "track": "INTEG",
+   "title": "香港實施時間表",
+   "short": "標「計劃」嘅係諮詢文件或新聞稿講嘅行政安排，未有法定日期。",
+   "detail": "標「計劃」嘅係諮詢文件或新聞稿講嘅行政安排，未有法定日期。",
+   "blocks": [
+    {
+     "type": "Table",
+     "props": {
+      "columns": [
+       "日期",
+       "事件",
+       "性質",
+       "官方來源"
+      ],
+      "rows": [
+       [
+        "2025-12-09",
+        "FSTB 同 IRD 開始諮詢（至 2026-02-06）",
+        "諮詢",
+        "https://www.ird.gov.hk/eng/ppr/archives/25120901.htm"
+       ],
+       [
+        "2026-03-27",
+        "AEOI Bill 2026 刊憲（4 月 1 日首讀）",
+        "條例草案",
+        "https://www.legco.gov.hk/yr2026/english/bc/bc102/reports/bc10220260617cb3-672-e.pdf"
+       ],
+       [
+        "2026-05-22",
+        "CARF 同 amended CRS Bill 刊憲（6 月 3 日首讀）",
+        "條例草案",
+        "https://www.ird.gov.hk/eng/ppr/archives/26052005.htm"
+       ],
+       [
+        "2026-06-17",
+        "LegCo 通過 AEOI Bill",
+        "立法",
+        "https://www.ird.gov.hk/eng/ppr/archives/26061706.htm"
+       ],
+       [
+        "2026-06-26",
+        "Ord. No. 4 of 2026 刊憲",
+        {
+         "text": "已立法",
+         "tone": "success"
+        },
+        "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm"
+       ],
+       [
+        "2026-11-04",
+        "LegCo 通過 CARF 同 amended CRS Bill（連修正案）",
+        "立法",
+        "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm"
+       ],
+       [
+        "2026-11-13",
+        "Ord. No. 8 of 2026",
+        {
+         "text": "已立法",
+         "tone": "success"
+        },
+        "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       ],
+       [
+        "2026-12-31",
+        "Pre-existing crypto-asset user 分界日",
+        "法定定義",
+        "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       ],
+       [
+        "2027-01-01",
+        "CARF（Part 8B）同 Ord 4 生效",
+        {
+         "text": "生效",
+         "tone": "warning"
+        },
+        "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       ],
+       [
+        "2027-03-31",
+        "未登記嘅現有 RFI 登記限期",
+        "法定期限",
+        "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm"
+       ],
+       [
+        "2027 年 9 月",
+        "RCASP 登記開放（視乎 CARF Portal）",
+        "計劃",
+        "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf"
+       ],
+       [
+        "2027 年第 4 季",
+        "提交自行開發軟件嘅測試檔案",
+        "計劃",
+        "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf"
+       ],
+       [
+        "2028-01-31",
+        "2027 年首次符合 nexus 嘅 HKRCASP 登記限期（s.50O(2)）",
+        "法定期限",
+        "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       ],
+       [
+        "2028-01-01",
+        "Amended CRS 生效",
+        {
+         "text": "生效",
+         "tone": "warning"
+        },
+        "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       ],
+       [
+        "2028 年 1 月至 6 月",
+        "IRD 發出 CARF 報表，RCASP 提交",
+        "計劃",
+        "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf"
+       ],
+       [
+        "2028 年 9 月",
+        "首次 CARF 交換",
+        "計劃",
+        "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm"
+       ],
+       [
+        "2029 年 6 月",
+        "首份包含 amended CRS 資料嘅 CRS 報表",
+        "計劃",
+        "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf"
+       ],
+       [
+        "2029 年 9 月",
+        "首次按 amended CRS 交換",
+        "計劃",
+        "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm"
+       ]
+      ]
+     },
+     "id": "lib-timeline-1",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-law",
+   "track": "INTEG",
+   "title": "主要條文原文",
+   "short": "原文抄自刊憲本（IRD 網站上嘅 PDF）。",
+   "detail": "原文抄自刊憲本（IRD 網站上嘅 PDF）。e-Legislation 嘅綜合本我開唔到，現行綜合文字要再自行核對。",
+   "blocks": [
+    {
+     "type": "Quote",
+     "cite": "Ord. No. 8 of 2026, s.1(3)–(5) — https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "text": "(3) Division 1 of Part 2, except section 8, comes into operation on 1 January 2027. (4) Section 8 comes into operation immediately after the Inland Revenue (Amendment) (Automatic Exchange of Information) Ordinance 2026 (4 of 2026) comes into operation. (5) Division 2 of Part 2 comes into operation on 1 January 2028.",
+     "id": "lib-law-1",
+     "track": "INTEG"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.50M “reporting crypto-asset service provider” — Ord. No. 8 of 2026",
+     "text": "means an individual or entity that provides, as a business, a service of effectuating exchange transactions for or on behalf of customers, including by way of acting as a counterparty to, or as an intermediary of, the exchange transactions, or by making available a trading platform;",
+     "id": "lib-law-2",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.50M “relevant crypto-asset”，排除項目 — Ord. No. 8 of 2026",
+     "text": "(a) a central bank digital currency; (b) a specified electronic money product; or (c) a crypto-asset that, as adequately determined by a reporting crypto-asset service provider, cannot be used for payment or investment purposes;",
+     "id": "lib-law-3",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.50M “reportable retail payment transaction” — Ord. No. 8 of 2026",
+     "text": "means a transfer of relevant crypto-assets in consideration of goods or services for a value exceeding $390,000;",
+     "id": "lib-law-4",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.50O HKRCASPs must register — Ord. No. 8 of 2026",
+     "text": "(1) Despite section 50N(4), (5), (6), (7), (8) and (9), an HKRCASP must register with the Commissioner in accordance with subsection (2) and section 50V(1). (2) The registration must be made on or before 31 January of the calendar year following the calendar year in which the HKRCASP first meets any of the criteria specified in section 50N(1) and (2).",
+     "id": "lib-law-5",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.50P(1)（節錄）— Ord. No. 8 of 2026",
+     "text": "identify whether a crypto-asset user is a reportable user and whether a controlling person is a reportable person; … incorporate into those procedures the due diligence requirements in Schedule 17EA.",
+     "id": "lib-law-6",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "Sch 17EA para 3 No reliance on tiebreaker rules — Ord. No. 8 of 2026",
+     "text": "(a) cannot rely on the tiebreaker rules contained in any applicable tax arrangements to determine the user’s or controlling person’s jurisdiction of residence; and (b) must declare all of the user’s or controlling person’s jurisdictions of residence.",
+     "id": "lib-law-7",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.80R(5) — Ord. No. 8 of 2026（用於 s.80R(1)(a)(ii)，即 s.50P 盡職審查）",
+     "text": "(a) a fine at level 3; or (b) a fine of $1,000 multiplied by the number of the crypto-asset users and the controlling persons of the users who are the subjects of the offence, whichever is the higher.",
+     "id": "lib-law-8",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.80R(2) — Ord. No. 8 of 2026",
+     "text": "For subsection (1)(a)(i), (ii) and (iii), engaging a service provider under section 50U(1) does not in itself constitute a reasonable excuse.",
+     "id": "lib-law-9",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.80(2ZE) — Ord. No. 8 of 2026",
+     "text": "A person who commits an offence under subsection (2ZD) is liable on conviction to a fine at level 3.",
+     "id": "lib-law-10",
+     "track": "CARF"
+    },
+    {
+     "type": "Quote",
+     "cite": "Sch 17D new para 2B — Ord. No. 8 of 2026",
+     "text": "(a) cannot rely on the tiebreaker rules contained in any applicable tax arrangements to determine the account holder’s or the controlling person’s jurisdiction of residence; and (b) must declare all of the account holder’s or controlling person’s jurisdictions of residence.",
+     "id": "lib-law-11",
+     "track": "CRS2"
+    },
+    {
+     "type": "Quote",
+     "cite": "Sch 17C new para 5A Low-value specified electronic money products — Ord. No. 8 of 2026",
+     "text": "(a) it represents all specified electronic money products held for the benefit of a customer; and (b) the rolling average 90-day end-of-day aggregate account balance or value during any period of 90 consecutive days did not exceed $78,000 at any day during the calendar year or other appropriate reporting period.",
+     "id": "lib-law-12",
+     "track": "CRS2"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.50C(1)，按 2016 年制定本（Ord. No. 22 of 2016）— https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Eng.pdf",
+     "text": "A reporting financial institution must furnish a return in accordance with a notice given by an assessor under subsection (2) and in compliance with subsections (4) and (5).",
+     "id": "lib-law-13",
+     "track": "CRS2"
+    },
+    {
+     "type": "Quote",
+     "cite": "s.80(2F)，按 2016 年制定本",
+     "text": "A person who commits an offence under subsection (2E) is liable on conviction to a fine at level 3.",
+     "id": "lib-law-14",
+     "track": "CRS2"
+    },
+    {
+     "type": "Quote",
+     "cite": "新 s.50AB(1)，Ord. No. 4 of 2026（2027 年 1 月 1 日起）",
+     "text": "A reporting financial institution must register with the Commissioner in accordance with subsection (2).",
+     "id": "lib-law-15",
+     "track": "CRS2"
+    },
+    {
+     "type": "Quote",
+     "cite": "IRD：Inland Revenue (Amendment) (Automatic Exchange of Information) Ordinance 2026 頁，Enhancing record keeping requirements (Updated) — https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+     "text": "If an entity is dissolved and, at any time during the six years before its dissolution, it was an RFI, every specified officer (i.e. every director of (or, if there was no director, every trustee of or every person who was responsible for the management of) the entity immediately before its dissolution) or the designated officer (i.e. one of the specified officers or a person who performed managerial functions in relation to the entity) (if any) of the entity must ensure that the relevant record keeping requirement is complied with despite the dissolution.",
+     "id": "lib-law-16",
+     "track": "CRS2"
+    },
+    {
+     "type": "Callout",
+     "lead": "新（2026-11-18）：RFI 解散後嘅紀錄保存",
+     "text": "IRD 嘅 Ord 4 頁（標示「Updated」）而家寫明，RFI 解散後嘅紀錄保存責任由 specified officer 或者 designated officer 承擔。呢個係 Ord. No. 8 of 2026 Part 3 對 Ord 4 嘅修訂，寫法同 CARF 頁一致。舊版只寫「every person who was a director (or a trustee or person responsible for the management, if there was no director)」。",
+     "id": "lib-law-17",
+     "track": "INTEG"
+    },
+    {
+     "type": "Text",
+     "text": "其他：s.80R(4) 規定持續罪行每日另罰 $500。條文仲有 $5,000、$10,000、$20,000 乘以涉及人數（第 4 至 6 級）嘅較重罰則，觸發條件請睇 PDF 原文。",
+     "id": "lib-law-18",
+     "track": "INTEG"
+    },
+    {
+     "type": "Subheading",
+     "text": "生效日期：Ord. No. 8 of 2026 s.1",
+     "id": "lib-law-19",
+     "track": "INTEG"
+    },
+    {
+     "type": "Subheading",
+     "text": "CARF 定義（s.50M）",
+     "id": "lib-law-20",
+     "track": "INTEG"
+    },
+    {
+     "type": "Subheading",
+     "text": "CARF 登記同盡職審查（s.50O、s.50P、Sch 17EA）",
+     "id": "lib-law-21",
+     "track": "INTEG"
+    },
+    {
+     "type": "Subheading",
+     "text": "CARF 罰則（s.80R、s.80(2ZE)）",
+     "id": "lib-law-22",
+     "track": "INTEG"
+    },
+    {
+     "type": "Subheading",
+     "text": "Amended CRS（2028 年 1 月 1 日起）",
+     "id": "lib-law-23",
+     "track": "INTEG"
+    },
+    {
+     "type": "Subheading",
+     "text": "現行 CRS（Part 8A）同 Ord 4 of 2026",
+     "id": "lib-law-24",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-compare",
+   "track": "INTEG",
+   "title": "CRS、CRS 2.0、CARF 比較",
+   "short": "CRS、CRS 2.0、CARF 比較",
+   "detail": null,
+   "blocks": [
+    {
+     "type": "Table",
+     "props": {
+      "columns": [
+       "項目",
+       "CRS（現行）",
+       "CRS 2.0（amended CRS）",
+       "CARF"
+      ],
+      "rows": [
+       [
+        "香港法律",
+        "Part 8A、Sch 17C/17D/17E（2016 年起）",
+        "Ord 8 of 2026 Div 2 修訂 Part 8A、17C、17D",
+        "Ord 8 of 2026 Div 1：新 Part 8B ss.50M–50Y、Sch 17EA"
+       ],
+       [
+        "生效",
+        "2016 年 6 月 30 日（框架）；Ord 4 自 2027 年 1 月 1 日加強",
+        "2028 年 1 月 1 日",
+        "2027 年 1 月 1 日"
+       ],
+       [
+        "首次交換",
+        "2018 年 9 月",
+        "2029 年（計劃 9 月）",
+        "2028 年（計劃 9 月）"
+       ],
+       [
+        "申報主體",
+        "Reporting financial institution",
+        "RFI（範圍擴大至涉及 digital money 同 crypto 嘅機構）",
+        "RCASP，按香港 nexus"
+       ],
+       [
+        "資產或帳戶",
+        "Financial accounts",
+        "加入 CBDC、specified e-money、crypto 衍生工具、投資 crypto 嘅 investment entity",
+        "Relevant crypto-assets（交易，唔係結餘）"
+       ],
+       [
+        "申報內容",
+        "身份、TIN、結餘、收入、gross proceeds",
+        "另加：有冇有效 self-cert、controlling person 角色、新定舊帳戶、聯名帳戶、帳戶類型",
+        "按每類資產匯總：exchange、transfers、超過 $390,000 嘅 RRPT"
+       ],
+       [
+        "雙重居民",
+        "Self-cert",
+        "申報全部，唔可以用 tiebreaker（17D para 2B）",
+        "申報全部（17EA para 3）"
+       ],
+       [
+        "登記",
+        "2027 年起 RFI 強制登記（s.50AB）",
+        "同 CRS",
+        "HKRCASP 強制登記（s.50O）"
+       ],
+       [
+        "主要罰則",
+        "ss.80B–80F；2027 年起按帳戶數計",
+        "同 CRS",
+        "s.80R：第 3 級或每人 $1,000 起，最高第 6 級；administrative penalty"
+       ],
+       [
+        "OECD 文本",
+        "CRS 第二版（2017）",
+        "2023 update to the CRS（2023 年 6 月 8 日）",
+        "CARF Rules 加 Commentary（2023 年 6 月 8 日）"
+       ]
+      ]
+     },
+     "id": "lib-compare-1",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-ird",
+   "track": "INTEG",
+   "title": "IRD 指引同 FAQ",
+   "short": "截至查閱時，IRD 未出 CARF 或 amended CRS 嘅 guida…",
+   "detail": "截至查閱時，IRD 未出 CARF 或 amended CRS 嘅 guidance。新聞稿話會發出，並已成立專責小組。",
+   "blocks": [
+    {
+     "type": "LinkCards",
+     "props": {
+      "links": [
+       {
+        "title": "Guidance for Financial Institutions（18 章，CRS）",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/guidance.htm"
+       },
+       {
+        "title": "AEOI FAQ",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/faq/dta_aeoi.htm"
+       },
+       {
+        "title": "Crypto-Asset Reporting Framework 專頁",
+        "site": "ird.gov.hk",
+        "date": "2026-06-22",
+        "href": "https://www.ird.gov.hk/eng/tax/dta_carf.htm"
+       },
+       {
+        "title": "Am I an RCASP under CARF？流程圖",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/pdf/carf/Am%20I%20an%20RCASP%20under%20CARF(eng).pdf"
+       },
+       {
+        "title": "CARF 同 amended CRS Ordinance 2026 說明頁",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm"
+       },
+       {
+        "title": "AEOI Ordinance 2026（強制登記、罰則）",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm"
+       },
+       {
+        "title": "Compliance（審查重點、罰則）",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm"
+       },
+       {
+        "title": "Common AEOI Issues",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/issues.htm"
+       },
+       {
+        "title": "Self-certification",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/self_cert.htm"
+       },
+       {
+        "title": "Reportable Jurisdictions（Sch 17E）",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/rpt_jur.htm"
+       },
+       {
+        "title": "AEOI Portal：登記同提交報表",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/portal.htm"
+       },
+       {
+        "title": "RFI Self-Assessment Tool",
+        "site": "ird.gov.hk",
+        "href": "https://www.ird.gov.hk/eng/tax/aeoi/assessment_tool.htm"
+       }
+      ]
+     },
+     "id": "lib-ird-1",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-hkicpa",
+   "track": "CRS2",
+   "title": "HKICPA 同 IRD 年會",
+   "short": "根據 IRD 索引頁 https://www.ird.gov.hk/eng/t…",
+   "detail": "根據 IRD 索引頁 https://www.ird.gov.hk/eng/tax/taxrep_am.htm，2014 至 2025 年嘅 Tax Bulletin 全部用全文搜尋過。",
+   "blocks": [
+    {
+     "type": "Table",
+     "props": {
+      "columns": [
+       "年會",
+       "AEOI 或 CRS 議項",
+       "會議紀要"
+      ],
+      "rows": [
+       [
+        "2015（TaxB 26）",
+        "A4(h) Automatic exchange of information：時間表，以 2017 年立法為條件，2018 年底前首次交換",
+        "https://www.hkicpa.org.hk/-/media/HKICPA-Website/HKICPA/section5_membership/Professional-Representation/pdf-file/tax-b/26.pdf"
+       ],
+       [
+        "2016（TaxB 27）",
+        "冇專項，只喺 BEPS 議項提過 AEOI 立法優先",
+        "https://www.hkicpa.org.hk/-/media/HKICPA-Website/HKICPA/section5_membership/Professional-Representation/pdf-file/tax-b/27.pdf"
+       ],
+       [
+        "2017（TaxB 28）",
+        "A5(c) AEOI 下嘅 ordinary resident；A5(d) 個人帳戶持有人罰則 s.80(2E)；A5(e) 首次交換；A5(f) CRS（excluded accounts 唔可以 opt out、reason-to-know）",
+        "https://www.hkicpa.org.hk/-/media/HKICPA-Website/HKICPA/section5_membership/Professional-Representation/pdf-file/tax-b/28.pdf"
+       ],
+       [
+        "2018、2019、2021、2022",
+        "搵唔到 AEOI 或 CRS 議項",
+        "https://www.ird.gov.hk/eng/tax/taxrep_am.htm"
+       ],
+       [
+        "2020（TaxB 31）",
+        "冇專項，只提過基金身份會影響 AEOI 同 FATCA 責任",
+        "https://www.hkicpa.org.hk/-/media/Document/APD/TF/Tax-bulletin/031_Oct-2020.pdf"
+       ],
+       [
+        "2023（TaxB 34）",
+        "冇專項，A3(b) EOI 討論提及已公布嘅 AEOI 數據",
+        "https://www.hkicpa.org.hk/-/media/Document/APD/TF/Tax-bulletin/034_April-2024.pdf"
+       ],
+       [
+        "2024（TaxB 35）",
+        "搵唔到 AEOI 或 CRS 議項",
+        "https://www.hkicpa.org.hk/-/media/Document/APD/TF/Tax-bulletin/035_May-2025.pdf"
+       ],
+       [
+        "2025（TaxB 36，2026 年 3 月）",
+        "搵唔到 AEOI 或 CRS 議項（會議喺 2025 年 5 月 30 日舉行）",
+        "https://www.hkicpa.org.hk/-/media/Document/APD/TF/Tax-bulletin/036_Mar-2026.pdf"
+       ],
+       [
+        "2026",
+        {
+         "text": "UNVERIFIED：會議紀要未公布",
+         "tone": "warning"
+        },
+        "持續留意 IRD 索引頁"
+       ]
+      ]
+     },
+     "id": "lib-hkicpa-1",
+     "track": "CRS2"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-oecd",
+   "track": "INTEG",
+   "title": "OECD 官方文本",
+   "short": "OECD 官方文本",
+   "detail": null,
+   "blocks": [
+    {
+     "type": "LinkCards",
+     "props": {
+      "links": [
+       {
+        "title": "International Standards for AEOI in Tax Matters：CARF 同 2023 update to the CRS",
+        "site": "oecd.org",
+        "date": "2023-06-08",
+        "href": "https://www.oecd.org/en/publications/international-standards-for-automatic-exchange-of-information-in-tax-matters_896d79d1-en.html"
+       },
+       {
+        "title": "同一份文件 PDF（Rules 加 Commentaries、MCAA）",
+        "site": "oecd.org",
+        "date": "2023-06",
+        "href": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf"
+       },
+       {
+        "title": "OECD Recommendation OECD/LEGAL/0407（2023 年 6 月 8 日修訂）",
+        "site": "oecd.org",
+        "href": "https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0407"
+       },
+       {
+        "title": "CARF FAQs（2025 年 12 月更新，IRD 副本）",
+        "site": "ird.gov.hk",
+        "date": "2025-12",
+        "href": "https://www.ird.gov.hk/eng/pdf/carf/faqs-crypto-asset-reporting-framework(dec2025).pdf"
+       },
+       {
+        "title": "CARF Step-by-Step Guide（IRD 副本）",
+        "site": "ird.gov.hk",
+        "date": "2024-11",
+        "href": "https://www.ird.gov.hk/eng/pdf/carf/step-by-step-guide-understanding-implementing-crypto-asset-reporting-framework.pdf"
+       },
+       {
+        "title": "Tax Transparency Resource Centre（CRS、CARF XML schema、FAQ、MCAA）",
+        "site": "oecd.org",
+        "href": "https://www.oecd.org/en/topics/sub-issues/international-standards-on-tax-transparency/tax-transparency-resource-centre.html"
+       },
+       {
+        "title": "CARF commitments：77 個稅區，HK 屬 2028 批",
+        "site": "oecd.org",
+        "date": "2026-09-14",
+        "href": "https://www.oecd.org/content/dam/oecd/en/networks/global-forum-tax-transparency/commitments-carf.pdf"
+       },
+       {
+        "title": "CARF MCAA 簽署名單",
+        "site": "oecd.org",
+        "date": "2026-10-30",
+        "href": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/carf-mcaa-signatories.pdf"
+       },
+       {
+        "title": "CRS MCAA Addendum 簽署名單",
+        "site": "oecd.org",
+        "date": "2026-11-10",
+        "href": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/addendum-crs-mcaa-signatories.pdf"
+       }
+      ]
+     },
+     "id": "lib-oecd-1",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-news",
+   "track": "INTEG",
+   "title": "近期動向（過去 12 個月）",
+   "short": "近期動向（過去 12 個月）",
+   "detail": null,
+   "blocks": [
+    {
+     "type": "Table",
+     "props": {
+      "columns": [
+       "日期",
+       "動向",
+       "來源"
+      ],
+      "rows": [
+       [
+        "2026-11-18",
+        "IRD 更新 AEOI、CARF、Ord 4 同 legislation 網頁，寫明已制定；amended CRS 頁搬去新網址；RFI 解散後紀錄保存改由 specified officer 或 designated officer 負責",
+        "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm"
+       ],
+       [
+        "2026-11-13",
+        "Ord. No. 8 of 2026（CARF 加 amended CRS）刊憲本",
+        "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+       ],
+       [
+        "2026-11-10",
+        "OECD CRS MCAA Addendum 名單更新，HK 唔喺名單",
+        "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/addendum-crs-mcaa-signatories.pdf"
+       ],
+       [
+        "2026-11-04",
+        "LegCo 通過 CARF 同 amended CRS Bill",
+        "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm"
+       ],
+       [
+        "2026-11-02",
+        "LegCo 宣布 11 月 4 日恢復二讀",
+        "https://www.ird.gov.hk/eng/ppr/archives/26110201.htm"
+       ],
+       [
+        "2026-10-30",
+        "OECD CARF MCAA 名單更新，HK 唔喺名單",
+        "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/carf-mcaa-signatories.pdf"
+       ],
+       [
+        "2026-09-14",
+        "Global Forum：Argentina 承諾，CARF 承諾增至 77 個稅區",
+        "https://www.oecd.org/en/networks/global-forum-tax-transparency/news-events/2026/argentina-commits-to-start-automatic-exchange-of-information-on-crypto-asset-transactions-by-2029.html"
+       ],
+       [
+        "2026-06-26",
+        "Ord. No. 4 of 2026 刊憲",
+        "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm"
+       ],
+       [
+        "2026-06-22",
+        "IRD What's New 列出 CARF 專頁",
+        "https://www.ird.gov.hk/eng/tax/dta_carf.htm"
+       ],
+       [
+        "2026-06-17",
+        "LegCo 通過 AEOI Bill 2026",
+        "https://www.ird.gov.hk/eng/ppr/archives/26061706.htm"
+       ],
+       [
+        "2026-06-01",
+        "CARF Bill 6 月 3 日首讀",
+        "https://www.ird.gov.hk/eng/ppr/archives/26060101.htm"
+       ],
+       [
+        "2026-05-20",
+        "CARF Bill 5 月 22 日刊憲",
+        "https://www.ird.gov.hk/eng/ppr/archives/26052005.htm"
+       ],
+       [
+        "2026-03-27",
+        "AEOI Bill 2026 刊憲",
+        "https://www.legco.gov.hk/yr2026/english/bc/bc102/reports/bc10220260617cb3-672-e.pdf"
+       ],
+       [
+        "2025-12-09",
+        "政府開始諮詢",
+        "https://www.ird.gov.hk/eng/ppr/archives/25120901.htm"
+       ]
+      ]
+     },
+     "id": "lib-news-1",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-tree",
+   "track": "INTEG",
+   "title": "須唔須申報？決策樹",
+   "short": "學習用嘅簡化版本",
+   "detail": "學習用嘅簡化版本，唔包括所有例外，例如 non-reporting FI 同 undocumented account。",
+   "blocks": [
+    {
+     "type": "BulletList",
+     "props": {
+      "items": null
+     },
+     "id": "lib-tree-1",
+     "track": "INTEG"
+    },
+    {
+     "type": "Callout",
+     "lead": null,
+     "text": "{current.hint ?? \"揀一個答案。\"}",
+     "id": "lib-tree-2",
+     "track": "INTEG"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  },
+  {
+   "id": "lib-unverified",
+   "track": "INTEG",
+   "title": "UNVERIFIED 同未能存取嘅資料",
+   "short": "UNVERIFIED 同未能存取嘅資料",
+   "detail": null,
+   "blocks": [
+    {
+     "type": "BulletList",
+     "props": {
+      "items": [
+       "UNVERIFIED：e-Legislation Cap. 112 綜合本因為瀏覽器檢查開唔到，條文原文抄自 IRD 網站上嘅刊憲本同 2016 年制定本。",
+       "已核實（2026-11-15 更新）：CARF 最高罰則（公訴：第 6 級或 $20,000 × 涉及人數，加監禁 3 年）已經喺 Ord 8 s.80R(14) 原文核實。",
+       "UNVERIFIED：LegCo Brief、LSD 報告 LS26/2026 下載失敗，只見到搜尋摘要；IRD 會尋求批准簽署 CARF MCAA 一點未直接核實。第 4 級同第 6 級罰款嘅金額未從官方來源核實，題庫只寫級別。",
+       "題庫推論：Ord 4 新 s.80B(3A) 適用於改編後嘅 s.80B(1)(a)(ia)。按 2016 年制定本，原 (i) 係 s.50B(1) or (2)；2016 至 2026 年間有冇其他修訂未經綜合本核對（UNVERIFIED）。",
+       "題庫標「【UNVERIFIED／計劃】」嘅題目，答案來自諮詢文件嘅計劃日期，唔係法定日期。",
+       "UNVERIFIED：CARF 條例草案委員會報告搵唔到。",
+       "UNVERIFIED：OECD 2025 AEOI peer review 對 HK 嘅評級（搜尋摘要話係 On Track，原頁 403）。2022 年 on track 已經由 LegCo 報告核實。",
+       "計劃日期（未有法定依據）：2027 年 9 月開放登記、2028 年 6 月 CARF 報表到期、2029 年 6 月 CRS 2.0 報表等，以 IRD 將來嘅通知為準。IRD 2026 年 11 月簡介會簡報已寫明 CARF Portal「scheduled to be launched in September 2027」同報表「early June」，但仍然係計劃，唔係法定日期。",
+       "UNVERIFIED：首次 CARF 交換嘅月份。政府新聞稿只講 starting from 2028；PwC 新聞稿附錄寫 Sep 2028。",
+       "UNVERIFIED：遊戲角色「RO」唔係 Part 8A／8B 或 IRD 簡報入面嘅法定角色；IRD 一般查詢信嘅回覆期限、更正已交報表嘅程序、用戶拒絕提供 self-cert 嘅法定處理、family office 嘅分類，全部未核實。",
+       "知識地圖標「待補充」嘅來源位：change of circumstances、雙重申報規則嘅香港條文原文；amended CRS 數碼金融產品條文原文；reportable person 同報表限期嘅 OECD 位；多個知識點嘅業界評論。",
+       "UNVERIFIED：HKICPA 2026 年會只見 HKICPA LinkedIn 帖文（2026 年 6 月 10 日），未有官方紀要。"
+      ]
+     },
+     "id": "lib-unverified-1",
+     "track": "INTEG"
+    },
+    {
+     "type": "Callout",
+     "lead": "免責聲明",
+     "text": "本頁只供教育同學習參考，唔構成正式稅務或法律意見。實際個案請參考最新官方條文、IRD 指引，並諮詢專業顧問。資料截至 2026 年 11 月 18 日。",
+     "id": "lib-unverified-2",
+     "track": "INTEG"
+    },
+    {
+     "type": "Callout",
+     "lead": "最後更新 2026-11-26",
+     "text": "新增：知識地圖（19 個知識點，每個 4 類來源同掌握度）同遊戲中心（今晚一局、揀時長開一節、角色 × 行業、大案五幕、新例速遞、徽章）。之前 2026-11-18 嘅更新內容：IRD 網頁已經改寫成條例已制定；amended CRS 連結換成 crs_ordinance_2026.htm；Ord 4 部分加入 RFI 解散後紀錄保存（specified officer／designated officer）；題庫新增 3 題；近期動向加一行。IRD 網頁冇寫修訂日期，所以 11 月 17 至 18 日呢個更新時段係按每日比對推斷。",
+     "id": "lib-unverified-3",
+     "track": "INTEG"
+    }
+   ],
+   "status": "UNVERIFIED",
+   "unverified_reason": "呢部分係 UNVERIFIED 清單本身",
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "note": "頁面「資料庫」部分嘅靜態內容（原樣抽出）。動態部分（決策樹、flashcards、小測、題庫）見各自檔案。"
+  }
+ ]
+}

@@ -1,0 +1,311 @@
+{
+ "schema": "timeline",
+ "items": [
+  {
+   "id": "TL-01",
+   "track": "INTEG",
+   "date": "2025-12-09",
+   "title": "FSTB 同 IRD 開始諮詢（至 2026-02-06）",
+   "short": "FSTB 同 IRD 開始諮詢（至 2026-02-06）",
+   "detail": null,
+   "nature": "諮詢",
+   "kind": "event",
+   "sources": [
+    "X02"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/25120901.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-02",
+   "track": "CRS2",
+   "date": "2026-03-27",
+   "title": "AEOI Bill 2026 刊憲（4 月 1 日首讀）",
+   "short": "AEOI Bill 2026 刊憲（4 月 1 日首讀）",
+   "detail": null,
+   "nature": "條例草案",
+   "kind": "event",
+   "sources": [
+    "X03"
+   ],
+   "source_url": "https://www.legco.gov.hk/yr2026/english/bc/bc102/reports/bc10220260617cb3-672-e.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-03",
+   "track": "INTEG",
+   "date": "2026-05-22",
+   "title": "CARF 同 amended CRS Bill 刊憲（6 月 3 日首讀）",
+   "short": "CARF 同 amended CRS Bill 刊憲（6 月 3 日首讀）",
+   "detail": null,
+   "nature": "條例草案",
+   "kind": "event",
+   "sources": [
+    "X04"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26052005.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-04",
+   "track": "CRS2",
+   "date": "2026-06-17",
+   "title": "LegCo 通過 AEOI Bill",
+   "short": "LegCo 通過 AEOI Bill",
+   "detail": null,
+   "nature": "立法",
+   "kind": "event",
+   "sources": [
+    "X05"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26061706.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-05",
+   "track": "INTEG",
+   "date": "2026-06-26",
+   "title": "Ord. No. 4 of 2026 刊憲",
+   "short": "Ord. No. 4 of 2026 刊憲",
+   "detail": null,
+   "nature": "已立法",
+   "kind": "enacted",
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-06",
+   "track": "INTEG",
+   "date": "2026-11-04",
+   "title": "LegCo 通過 CARF 同 amended CRS Bill（連修正案）",
+   "short": "LegCo 通過 CARF 同 amended CRS Bill（連修正案）",
+   "detail": null,
+   "nature": "立法",
+   "kind": "event",
+   "sources": [
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-07",
+   "track": "INTEG",
+   "date": "2026-11-13",
+   "title": "Ord. No. 8 of 2026",
+   "short": "Ord. No. 8 of 2026",
+   "detail": null,
+   "nature": "已立法",
+   "kind": "enacted",
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-08",
+   "track": "CARF",
+   "date": "2026-12-31",
+   "title": "Pre-existing crypto-asset user 分界日",
+   "short": "Pre-existing crypto-asset user 分界日",
+   "detail": null,
+   "nature": "法定定義",
+   "kind": "enacted",
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-09",
+   "track": "INTEG",
+   "date": "2027-01-01",
+   "title": "CARF（Part 8B）同 Ord 4 生效",
+   "short": "CARF（Part 8B）同 Ord 4 生效",
+   "detail": null,
+   "nature": "生效",
+   "kind": "enacted",
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-10",
+   "track": "CRS2",
+   "date": "2027-03-31",
+   "title": "未登記嘅現有 RFI 登記限期",
+   "short": "未登記嘅現有 RFI 登記限期",
+   "detail": null,
+   "nature": "法定期限",
+   "kind": "enacted",
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-11",
+   "track": "CARF",
+   "date": "2027 年 9 月",
+   "title": "RCASP 登記開放（視乎 CARF Portal）",
+   "short": "RCASP 登記開放（視乎 CARF Portal）",
+   "detail": null,
+   "nature": "計劃",
+   "kind": "planned",
+   "sources": [
+    "CONS"
+   ],
+   "source_url": "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-12",
+   "track": "INTEG",
+   "date": "2027 年第 4 季",
+   "title": "提交自行開發軟件嘅測試檔案",
+   "short": "提交自行開發軟件嘅測試檔案",
+   "detail": null,
+   "nature": "計劃",
+   "kind": "planned",
+   "sources": [
+    "CONS"
+   ],
+   "source_url": "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-13",
+   "track": "CARF",
+   "date": "2028-01-31",
+   "title": "2027 年首次符合 nexus 嘅 HKRCASP 登記限期（s.50O(2)）",
+   "short": "2027 年首次符合 nexus 嘅 HKRCASP 登記限期",
+   "detail": null,
+   "nature": "法定期限",
+   "kind": "enacted",
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-14",
+   "track": "INTEG",
+   "date": "2028-01-01",
+   "title": "Amended CRS 生效",
+   "short": "Amended CRS 生效",
+   "detail": null,
+   "nature": "生效",
+   "kind": "enacted",
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-15",
+   "track": "CARF",
+   "date": "2028 年 1 月至 6 月",
+   "title": "IRD 發出 CARF 報表，RCASP 提交",
+   "short": "IRD 發出 CARF 報表，RCASP 提交",
+   "detail": null,
+   "nature": "計劃",
+   "kind": "planned",
+   "sources": [
+    "CONS"
+   ],
+   "source_url": "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-16",
+   "track": "CARF",
+   "date": "2028 年 9 月",
+   "title": "首次 CARF 交換",
+   "short": "首次 CARF 交換",
+   "detail": null,
+   "nature": "計劃",
+   "kind": "planned",
+   "sources": [
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "status": "UNVERIFIED",
+   "unverified_reason": "官方只講 starting from 2028；9 月只見於 PwC",
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-17",
+   "track": "CRS2",
+   "date": "2029 年 6 月",
+   "title": "首份包含 amended CRS 資料嘅 CRS 報表",
+   "short": "首份包含 amended CRS 資料嘅 CRS 報表",
+   "detail": null,
+   "nature": "計劃",
+   "kind": "planned",
+   "sources": [
+    "CONS"
+   ],
+   "source_url": "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "TL-18",
+   "track": "CRS2",
+   "date": "2029 年 9 月",
+   "title": "首次按 amended CRS 交換",
+   "short": "首次按 amended CRS 交換",
+   "detail": null,
+   "nature": "計劃",
+   "kind": "planned",
+   "sources": [
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  }
+ ]
+}

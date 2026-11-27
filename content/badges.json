@@ -1,0 +1,224 @@
+{
+ "schema": "badges",
+ "items": [
+  {
+   "id": "first",
+   "track": "INTEG",
+   "icon": null,
+   "title": "初登場",
+   "short": "完成第一關",
+   "detail": null,
+   "rule": {
+    "type": "levels_completed",
+    "n": 1
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "zero",
+   "track": "INTEG",
+   "icon": null,
+   "title": "零風險",
+   "short": "情境決策 0 風險分完成",
+   "detail": null,
+   "rule": {
+    "type": "zero_risk_story",
+    "n": 1
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "tl",
+   "track": "INTEG",
+   "icon": null,
+   "title": "排序大師",
+   "short": "排序題全啱",
+   "detail": null,
+   "rule": {
+    "type": "perfect_kind",
+    "kind": "order",
+    "n": 1
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "match",
+   "track": "INTEG",
+   "icon": null,
+   "title": "配對全中",
+   "short": "配對冇錯",
+   "detail": null,
+   "rule": {
+    "type": "perfect_kind",
+    "kind": "match",
+    "n": 1
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "streak",
+   "track": "INTEG",
+   "icon": null,
+   "title": "連勝 8",
+   "short": "快答 8 題全中",
+   "detail": null,
+   "rule": {
+    "type": "streak",
+    "n": 8
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "case",
+   "track": "INTEG",
+   "icon": null,
+   "title": "結案",
+   "short": "完成大案五幕",
+   "detail": null,
+   "rule": {
+    "type": "case_complete",
+    "case_id": "case-chan"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "roles",
+   "track": "INTEG",
+   "icon": null,
+   "title": "五角全通",
+   "short": "5 個角色各完成最少 1 關",
+   "detail": null,
+   "rule": {
+    "type": "roles_each",
+    "roles": [
+     "r1",
+     "r2",
+     "r3",
+     "r4",
+     "r5"
+    ],
+    "n": 1
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "night",
+   "track": "INTEG",
+   "icon": null,
+   "title": "今晚打咗卡",
+   "short": "完成今晚一局",
+   "detail": null,
+   "rule": {
+    "type": "nightly",
+    "n": 1
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "map",
+   "track": "INTEG",
+   "icon": null,
+   "title": "地圖探險家",
+   "short": "10 個知識點有成績",
+   "detail": null,
+   "rule": {
+    "type": "elements_scored",
+    "n": 10
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "crs2",
+   "track": "CRS2",
+   "icon": null,
+   "title": "CRS 2.0 入門",
+   "short": "完成 5 關 CRS 2.0",
+   "detail": null,
+   "rule": {
+    "type": "track_levels",
+    "track": "CRS2",
+    "n": 5
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "new": true
+  },
+  {
+   "id": "carf",
+   "track": "CARF",
+   "icon": null,
+   "title": "CARF 入門",
+   "short": "完成 5 關 CARF",
+   "detail": null,
+   "rule": {
+    "type": "track_levels",
+    "track": "CARF",
+    "n": 5
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "new": true
+  },
+  {
+   "id": "mgmt",
+   "track": "INTEG",
+   "icon": null,
+   "title": "一併管理",
+   "short": "完成 3 關一併管理",
+   "detail": null,
+   "rule": {
+    "type": "track_levels",
+    "track": "INTEG",
+    "n": 3
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26",
+   "new": true
+  }
+ ]
+}

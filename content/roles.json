@@ -1,0 +1,70 @@
+{
+ "schema": "roles",
+ "items": [
+  {
+   "id": "r1",
+   "track": "INTEG",
+   "title": "前線 due diligence",
+   "short": "開戶、self-certification、CARF crypto-asset…",
+   "detail": "開戶、self-certification、CARF crypto-asset user onboarding",
+   "label": "前線",
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "r2",
+   "track": "INTEG",
+   "title": "第二道防線（2nd line 合規）",
+   "short": "覆核、監察、補救、處理前線升級、委員會報告",
+   "detail": "覆核、監察、補救、處理前線升級、委員會報告",
+   "label": "第二道防線",
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "r3",
+   "track": "INTEG",
+   "title": "RO（遊戲角色）",
+   "short": "決策同問責、IRD 查詢、向 CCO 匯報。",
+   "detail": "決策同問責、IRD 查詢、向 CCO 匯報。RO 只係遊戲角色名：Part 8A／8B 同 IRD 簡報都冇呢個法定角色（UNVERIFIED）",
+   "label": "RO（遊戲角色）",
+   "status": "UNVERIFIED",
+   "unverified_reason": "RO 唔係法定角色（遊戲角色名）",
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "r4",
+   "track": "INTEG",
+   "title": "特殊個案",
+   "short": "雙重稅務居民、有問題嘅 self-cert、crypto 申報出錯",
+   "detail": "雙重稅務居民、有問題嘅 self-cert、crypto 申報出錯",
+   "label": "特殊個案",
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "r5",
+   "track": "INTEG",
+   "title": "設計合規計劃",
+   "short": "開戶 App、政策、程序、培訓、系統",
+   "detail": "開戶 App、政策、程序、培訓、系統",
+   "label": "設計合規計劃",
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  }
+ ]
+}

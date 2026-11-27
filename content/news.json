@@ -1,0 +1,263 @@
+{
+ "schema": "news",
+ "order": "newest first; prepend new cards",
+ "items": [
+  {
+   "id": "N-2026-11-26-01",
+   "track": "CARF",
+   "date": "2026-11-26",
+   "title": "IRD 簡介會：CARF Portal 推出日期",
+   "short": "第一次有官方講 Portal 幾時推出。係計劃日期，簡報有免責聲明。",
+   "detail": "第一次有官方講 Portal 幾時推出。係計劃日期，簡報有免責聲明。",
+   "quotes": [
+    {
+     "text": "CARF Portal is still under development and scheduled to be launched in September 2027.",
+     "pin": null,
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "planned",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "reg"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-26-02",
+   "track": "CRS2",
+   "date": "2026-11-26",
+   "title": "IRD 簡介會：amended CRS 新 schema 同首次交換",
+   "short": "新 schema 用於 Return 2028（2029 年申報）",
+   "detail": "新 schema 用於 Return 2028（2029 年申報），要準備測試檔案。",
+   "quotes": [
+    {
+     "text": "Financial Account Information Return XML Schema 3.0 … September 2029: First exchange of data by IRD under the amended CRS",
+     "pin": null,
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "planned",
+   "verification": "UNVERIFIED",
+   "unverified_reason": "XML Schema 3.0 檔案 IRD 未公佈（U7）",
+   "element_ids": [
+    "ret2"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-26-03",
+   "track": "CARF",
+   "date": "2026-11-26",
+   "title": "IRD 簡介會：現有 crypto 用戶 self-cert",
+   "short": "新客就喺開戶時收。",
+   "detail": "新客就喺開戶時收。",
+   "quotes": [
+    {
+     "text": "For pre-existing customers, obtain self-certifications by 1 January 2028",
+     "pin": null,
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "enacted",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "dd"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-26-04",
+   "track": "CARF",
+   "date": "2026-11-26",
+   "title": "IRD 簡介會：CARF nil return",
+   "short": "PwC 指 CSA 收窄咗 nil return 嘅情況",
+   "detail": "PwC 指 CSA 收窄咗 nil return 嘅情況，見知識地圖「CARF 申報資料」。",
+   "quotes": [
+    {
+     "text": "Nil return is required.",
+     "pin": null,
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "enacted",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "crep"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-18-05",
+   "track": "INTEG",
+   "date": "2026-11-18",
+   "title": "IRD：Amendment Ordinance 已制定",
+   "short": "CARF 由 1 Jan 2027、amended CRS 由 1 Jan 2…",
+   "detail": "CARF 由 1 Jan 2027、amended CRS 由 1 Jan 2028 起實施。IRD 頁約 11 月 17 至 18 日更新。",
+   "quotes": [
+    {
+     "text": "The Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance 2026 was enacted on 13 November 2026.",
+     "pin": null,
+     "source_id": "CO",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "status": "enacted",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "cmp"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-18-06",
+   "track": "CRS2",
+   "date": "2026-11-18",
+   "title": "IRD：amended CRS 新增申報資料",
+   "short": "系統要加欄位。",
+   "detail": "系統要加欄位。",
+   "quotes": [
+    {
+     "text": "whether valid self-certification for each reportable person has been obtained, the role(s) of controlling persons or equity interest holders, whether the account is a pre-existing account or a new account, whether the account is a joint account and the number of joint account holders, and the type of financial account.",
+     "pin": null,
+     "source_id": "CO",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "status": "enacted",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "ret2"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-18-07",
+   "track": "INTEG",
+   "date": "2026-11-18",
+   "title": "IRD：避免重複申報",
+   "short": "但 RFI 可以選擇喺 amended CRS 另外報。",
+   "detail": "但 RFI 可以選擇喺 amended CRS 另外報。",
+   "quotes": [
+    {
+     "text": "RFIs are not required to report such information under the amended CRS if it is already reported under CARF.",
+     "pin": null,
+     "source_id": "CO",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "status": "enacted",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "dual"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "N-2026-11-04-08",
+   "track": "INTEG",
+   "date": "2026-11-04",
+   "title": "政府新聞稿：交換時間",
+   "short": "新聞稿冇講 CARF 首次交換嘅月份。",
+   "detail": "新聞稿冇講 CARF 首次交換嘅月份。",
+   "quotes": [
+    {
+     "text": "… to exchange with partner jurisdictions starting from 2028. The amended CRS will also take effect in 2028, and the IRD will automatically exchange financial account information with suitable partners in accordance with the new standard starting from 2029.",
+     "pin": null,
+     "source_id": "PR",
+     "url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "status": "planned",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "cmp",
+    "mcaa"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-26"
+  }
+ ]
+}

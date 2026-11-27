@@ -1,0 +1,1124 @@
+{
+ "schema": "sources",
+ "items": {
+  "BRF": {
+   "id": "BRF",
+   "title": "IRD 簡介會簡報：Recent Legislative Amendments (CARF and CRS amendments)（2026 年 11 月）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "CO": {
+   "id": "CO",
+   "title": "IRD：Amended CRS Ordinance 2026 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "CARF": {
+   "id": "CARF",
+   "title": "IRD：Crypto-Asset Reporting Framework 專頁（dta_carf.htm）",
+   "url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "AEOI": {
+   "id": "AEOI",
+   "title": "IRD：AEOI 主頁",
+   "url": "https://www.ird.gov.hk/eng/tax/dta_aeoi.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "PR": {
+   "id": "PR",
+   "title": "政府新聞稿 PR 26110404（2026-11-04）",
+   "url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "ORD": {
+   "id": "ORD",
+   "title": "Ord. No. 8 of 2026（IRD CARF 頁副本）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Inland%20Revenue%20(Amendment)%20(Crypto-Asset%20Reporting%20Framework%20and%20Amended%20Common%20Reporting%20Standard)%20Ordinance%202026(eng).pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "O8": {
+   "id": "O8",
+   "title": "Inland Revenue (Amendment) (CARF and Amended CRS) Ordinance 2026（Ord. No. 8 of 2026，憲報本）",
+   "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf"
+  },
+  "O4P": {
+   "id": "O4P",
+   "title": "IRD：AEOI Ordinance 2026 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "O16": {
+   "id": "O16",
+   "title": "Inland Revenue (Amendment) (No. 3) Ordinance 2016（Ord. No. 22 of 2016，制定本）",
+   "url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Eng.pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf"
+  },
+  "GUID": {
+   "id": "GUID",
+   "title": "IRD Guidance for Financial Institutions（2016，全份）",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "FAQ": {
+   "id": "FAQ",
+   "title": "IRD AEOI FAQ",
+   "url": "https://www.ird.gov.hk/eng/faq/dta_aeoi.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "SC": {
+   "id": "SC",
+   "title": "IRD Self-certification 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/self_cert.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "SCF": {
+   "id": "SCF",
+   "title": "IRD 個人 self-certification 範本表格",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/scf_ind.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "RCF": {
+   "id": "RCF",
+   "title": "IRD 流程圖：Am I an RCASP under CARF?",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Am%20I%20an%20RCASP%20under%20CARF(eng).pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "OECD": {
+   "id": "OECD",
+   "title": "OECD (2023) International Standards for AEOI: CARF and 2023 update to the CRS（PDF）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "CRSFAQ": {
+   "id": "CRSFAQ",
+   "title": "OECD CRS-related FAQs（Dec 2025）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/crs-related-faqs.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "CARFFAQ": {
+   "id": "CARFFAQ",
+   "title": "OECD CARF FAQs（Dec 2025，IRD 寄存副本）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/faqs-crypto-asset-reporting-framework(dec2025).pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "PWC": {
+   "id": "PWC",
+   "title": "PwC HK Tax News Flash Issue 18（2026-11-04）",
+   "url": "https://www.pwchk.com/en/hk-tax-news/2026q4/hongkongtax-news-nov2026-18.pdf",
+   "kind": "industry",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "O4": {
+   "id": "O4",
+   "title": "Inland Revenue (Amendment) (Automatic Exchange of Information) Ordinance 2026（Ord. No. 4 of 2026）",
+   "url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(Automatic%20Exchange%20of%20Information)%20Ordinance%202026_Eng.pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(Automatic%20Exchange%20of%20Information)%20Ordinance%202026_Chi.pdf"
+  },
+  "BILL": {
+   "id": "BILL",
+   "title": "IRD：Amended CRS Ordinance 2026 頁（舊稱 Bill 頁）",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "ISS": {
+   "id": "ISS",
+   "title": "IRD：AEOI issues 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/issues.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "COMP": {
+   "id": "COMP",
+   "title": "IRD：AEOI comparison 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "CONS": {
+   "id": "CONS",
+   "title": "FSTB／IRD 諮詢文件（2025-12）",
+   "url": "https://www.gov.hk/en/residents/government/publication/consultation/docs/2026/crypto-framework.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "OECDC": {
+   "id": "OECDC",
+   "title": "OECD CARF commitments 名單",
+   "url": "https://www.oecd.org/content/dam/oecd/en/networks/global-forum-tax-transparency/commitments-carf.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "MCAA": {
+   "id": "MCAA",
+   "title": "OECD CARF MCAA 簽署名單",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/carf-mcaa-signatories.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S1": {
+   "id": "S1",
+   "title": "International Standards for AEOI in Tax Matters: CARF and 2023 update to the CRS（出版頁，8 June 2023）",
+   "url": "https://www.oecd.org/en/publications/international-standards-for-automatic-exchange-of-information-in-tax-matters_896d79d1-en.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S2": {
+   "id": "S2",
+   "title": "同上 PDF",
+   "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S3": {
+   "id": "S3",
+   "title": "Consolidated text of the CRS (2025)（出版頁）",
+   "url": "https://www.oecd.org/en/publications/2025/04/consolidated-text-of-the-common-reporting-standard-2025_e478bc04.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S4": {
+   "id": "S4",
+   "title": "同上 PDF",
+   "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/04/consolidated-text-of-the-common-reporting-standard-2025_e478bc04/055664b1-en.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S5": {
+   "id": "S5",
+   "title": "CRS-related FAQs（Last updated December 2025）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/crs-related-faqs.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S6": {
+   "id": "S6",
+   "title": "CARF FAQs（Last updated December 2025）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/faqs-crypto-asset-reporting-framework.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S7": {
+   "id": "S7",
+   "title": "CARF XML Schema (July 2025) – User Guide（出版頁）",
+   "url": "https://www.oecd.org/en/publications/2025/07/crypto-asset-reporting-framework-xml-schema-july-2025_d1f81247.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S8": {
+   "id": "S8",
+   "title": "同上 PDF",
+   "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2025/07/crypto-asset-reporting-framework-xml-schema-july-2025_d1f81247/6e60235b-en.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S9": {
+   "id": "S9",
+   "title": "CARF XML Schema v1.5 ZIP",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/xml-schema-carf-v1.5.zip",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S10": {
+   "id": "S10",
+   "title": "CARF XML Schema User Guide（2 October 2024，舊版）",
+   "url": "https://www.oecd.org/en/publications/2024/10/crypto-asset-reporting-framework-xml-schema_d15d81d3.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S11": {
+   "id": "S11",
+   "title": "Amended CRS XML Schema – User Guide（出版頁，2 October 2024）",
+   "url": "https://www.oecd.org/en/publications/2024/10/amended-common-reporting-standard-xml-schema_27960161.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S12": {
+   "id": "S12",
+   "title": "同上 PDF（UG Version 4.0／schema v3.0）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/10/amended-common-reporting-standard-xml-schema_27960161/dd7ee57a-en.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S13": {
+   "id": "S13",
+   "title": "CRS XML Schema v3.0 ZIP",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/xml-schema-crs.zip",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S14": {
+   "id": "S14",
+   "title": "CRS XML Schema UG Version 3.0（June 2019，對應 schema v2.0）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/common-reporting-standard-xml-schema-user-guide-for-tax-administrations-version-3-0-june-2019_32dc1e5a/93b6aa4a-en.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S15": {
+   "id": "S15",
+   "title": "OECD 公告（2 October 2024）",
+   "url": "https://www.oecd.org/en/about/news/announcements/2024/10/crypto-asset-reporting-framework-and-amended-common-reporting-standard-oecd-releases-it-format-for-transmitting-information-and-issues-interpretative-guidance.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S16": {
+   "id": "S16",
+   "title": "Tax Transparency Resource Centre",
+   "url": "https://www.oecd.org/en/topics/sub-issues/international-standards-on-tax-transparency/tax-transparency-resource-centre.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S17": {
+   "id": "S17",
+   "title": "CARF commitments（Last update 14 September 2026）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/networks/global-forum-tax-transparency/commitments-carf.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S18": {
+   "id": "S18",
+   "title": "CARF MCAA signatories（30 October 2026）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/carf-mcaa-signatories.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S19": {
+   "id": "S19",
+   "title": "Addendum to CRS MCAA signatories（10 November 2026）",
+   "url": "https://www.oecd.org/content/dam/oecd/en/topics/policy-issues/tax-transparency-and-international-co-operation/addendum-crs-mcaa-signatories.pdf",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 403,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S20": {
+   "id": "S20",
+   "title": "Ord. No. 8 of 2026（憲報本，IRD 寄存）",
+   "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S21": {
+   "id": "S21",
+   "title": "Ord 8 IRD 副本（CARF 頁）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Inland%20Revenue%20(Amendment)%20(Crypto-Asset%20Reporting%20Framework%20and%20Amended%20Common%20Reporting%20Standard)%20Ordinance%202026(eng).pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S21b": {
+   "id": "S21b",
+   "title": "Ord 8 IRD 副本（AEOI 頁）",
+   "url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(Crypto-Asset%20Reporting%20Framework%20and%20Amended%20Common%20Reporting%20Standard)%20Ordinance%202026_Eng.pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S22": {
+   "id": "S22",
+   "title": "Ord. No. 4 of 2026（AEOI）",
+   "url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(Automatic%20Exchange%20of%20Information)%20Ordinance%202026_Eng.pdf",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S23": {
+   "id": "S23",
+   "title": "e-Legislation Cap. 112（UNVERIFIED：U1）",
+   "url": "https://www.elegislation.gov.hk/hk/cap112",
+   "kind": "law",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:01 EST"
+   },
+   "status": "UNVERIFIED",
+   "unverified_reason": "e-Legislation Cap. 112 綜合本開唔到（U1）",
+   "updated": "2026-11-26"
+  },
+  "S24": {
+   "id": "S24",
+   "title": "IRD：Inland Revenue (Amendment) (No. 3) Ordinance 2016（Ord 22 of 2016）頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2016.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S25": {
+   "id": "S25",
+   "title": "CARF 主頁",
+   "url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S26": {
+   "id": "S26",
+   "title": "Amended CRS Ordinance 2026 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S27": {
+   "id": "S27",
+   "title": "AEOI Ordinance 2026 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S28": {
+   "id": "S28",
+   "title": "AEOI 主頁",
+   "url": "https://www.ird.gov.hk/eng/tax/dta_aeoi.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S29": {
+   "id": "S29",
+   "title": "Guidance for FIs 索引",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/guidance.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S29-ch3": {
+   "id": "S29-ch3",
+   "title": "IRD Guidance for FIs（2016） Chapter 3",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/chapter3.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S29-ch5": {
+   "id": "S29-ch5",
+   "title": "IRD Guidance for FIs（2016） Chapter 5",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/chapter5.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S29-ch6": {
+   "id": "S29-ch6",
+   "title": "IRD Guidance for FIs（2016） Chapter 6",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/chapter6.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S29-ch10": {
+   "id": "S29-ch10",
+   "title": "IRD Guidance for FIs（2016） Chapter 10",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/chapter10.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S29-ch18": {
+   "id": "S29-ch18",
+   "title": "IRD Guidance for FIs（2016） Chapter 18",
+   "url": "https://www.ird.gov.hk/eng/pdf/2016/chapter18.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S30": {
+   "id": "S30",
+   "title": "XML schema 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/schema.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S31": {
+   "id": "S31",
+   "title": "Self-certification 範本頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/self_cert.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S32": {
+   "id": "S32",
+   "title": "IRD 簡報 \"Recent Legislative Amendments (CARF and CRS amendments)\"",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S33": {
+   "id": "S33",
+   "title": "IRD 新聞稿 PR 26110404（4 November 2026）",
+   "url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S34": {
+   "id": "S34",
+   "title": "\"Am I an RCASP under CARF?\"",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Am%20I%20an%20RCASP%20under%20CARF(eng).pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S35": {
+   "id": "S35",
+   "title": "CARF FAQ（IRD 寄存副本，Dec 2025）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/faqs-crypto-asset-reporting-framework(dec2025).pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S36": {
+   "id": "S36",
+   "title": "OECD step-by-step guide（IRD 寄存）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/step-by-step-guide-understanding-implementing-crypto-asset-reporting-framework.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S37": {
+   "id": "S37",
+   "title": "CARF XML Schema UG（IRD 寄存）",
+   "url": "https://www.ird.gov.hk/eng/pdf/carf/Crypto-Asset%20Reporting%20Framework%20XML%20Schema%20(EN).pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S41": {
+   "id": "S41",
+   "title": "AEOI Portal 頁",
+   "url": "https://www.ird.gov.hk/eng/tax/aeoi/portal.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S38": {
+   "id": "S38",
+   "title": "條例草案頁（UNVERIFIED：U11）",
+   "url": "https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10005&session=2026",
+   "kind": "legco",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "UNVERIFIED",
+   "unverified_reason": "條例草案頁（U11）",
+   "updated": "2026-11-26"
+  },
+  "S39": {
+   "id": "S39",
+   "title": "LegCo Brief（File Ref: TsyB R2 00/800-3/6/0 (C)；檔名日期 20260520）",
+   "url": "https://www.legco.gov.hk/yr2026/english/brief/tsybr200800360c_20260520-e.pdf",
+   "kind": "legco",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "S40": {
+   "id": "S40",
+   "title": "LC Paper No. LS26/2026, Legal Service Division Report（\"Paper for the House Committee Meeting on 5 June 2026\"）",
+   "url": "https://www.legco.gov.hk/yr2026/english/hc/papers/hc20260605ls-26-e.pdf",
+   "kind": "legco",
+   "lang": "en",
+   "accessed": "2026-11-26",
+   "link_check": {
+    "http": 200,
+    "checked": "2026-11-26 23:02 EST"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "X01": {
+   "id": "X01",
+   "title": "https://www.hkicpa.org.hk/-/media/HKICPA-Website/HKICPA/section5_membership/Professional-Representation/pdf-file/tax-b/28.pdf",
+   "url": "https://www.hkicpa.org.hk/-/media/HKICPA-Website/HKICPA/section5_membership/Professional-Representation/pdf-file/tax-b/28.pdf",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "X02": {
+   "id": "X02",
+   "title": "https://www.ird.gov.hk/eng/ppr/archives/25120901.htm",
+   "url": "https://www.ird.gov.hk/eng/ppr/archives/25120901.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "X03": {
+   "id": "X03",
+   "title": "https://www.legco.gov.hk/yr2026/english/bc/bc102/reports/bc10220260617cb3-672-e.pdf",
+   "url": "https://www.legco.gov.hk/yr2026/english/bc/bc102/reports/bc10220260617cb3-672-e.pdf",
+   "kind": "legco",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "X04": {
+   "id": "X04",
+   "title": "https://www.ird.gov.hk/eng/ppr/archives/26052005.htm",
+   "url": "https://www.ird.gov.hk/eng/ppr/archives/26052005.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "X05": {
+   "id": "X05",
+   "title": "https://www.ird.gov.hk/eng/ppr/archives/26061706.htm",
+   "url": "https://www.ird.gov.hk/eng/ppr/archives/26061706.htm",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  }
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "id": "sessions",
+ "track": "INTEG",
+ "updated": "2026-11-26",
+ "note": "參考：而家頁面嘅抽題規則。App 工房可以改。",
+ "presets": [
+  {
+   "id": "p5",
+   "minutes": 5,
+   "draw": {
+    "short_items": [
+     3,
+     5
+    ],
+    "from": [
+     "quiz",
+     "flashcards"
+    ],
+    "max_minutes_per_item": 1
+   },
+   "news": 0
+  },
+  {
+   "id": "p10",
+   "minutes": 10,
+   "draw": {
+    "levels": "budget",
+    "news": 1
+   }
+  },
+  {
+   "id": "p15",
+   "minutes": 15,
+   "draw": {
+    "levels": "budget",
+    "news": 1,
+    "max_long": 1
+   }
+  },
+  {
+   "id": "p30",
+   "minutes": 30,
+   "draw": {
+    "levels": "budget",
+    "news": 2,
+    "max_long": 2
+   }
+  }
+ ],
+ "rules": [
+  "預算＝時長 − 新聞卡數 × 0.5 分鐘",
+  "先唔准連續兩關同一種 kind，第二輪先放寬",
+  "長寫作（long）唔可以連續，15 分鐘最多 1 篇，30 分鐘最多 2 篇",
+  "新聞卡插喺第 1 關之後（30 分鐘再插喺中間）",
+  "可以按 track 篩選：只抽 track 相同嘅 levels／quiz／flashcards",
+  "5 分鐘：每個 track 有 ≥30 個 minutes ≤ 1 嘅短項目可抽"
+ ],
+ "tonight": {
+  "rotation_by_weekday": {
+   "0": [
+    "case"
+   ],
+   "1": [
+    "match"
+   ],
+   "2": [
+    "sort",
+    "order"
+   ],
+   "3": [
+    "spot"
+   ],
+   "4": [
+    "story"
+   ],
+   "5": [
+    "quiz"
+   ],
+   "6": [
+    "build",
+    "write"
+   ]
+  },
+  "seed": "YYYYMMDD",
+  "note": "同一日撳幾多次都係同一關；玩完出一張新聞卡"
+ }
+}

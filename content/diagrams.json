@@ -1,0 +1,901 @@
+{
+ "schema": "diagrams",
+ "items": [
+  {
+   "id": "dg-legal",
+   "track": "INTEG",
+   "title": "法律框架分層",
+   "short": "OECD 標準 → 香港條例 → 附表 → IRD 行政 → 機構內部",
+   "nodes": [
+    {
+     "id": "oecd-carf",
+     "label": "OECD CARF Rules + Commentary（2023）",
+     "layer": 1,
+     "element_id": "rcasp"
+    },
+    {
+     "id": "oecd-crs",
+     "label": "OECD amended CRS（2023 update）",
+     "layer": 1,
+     "element_id": "dfp"
+    },
+    {
+     "id": "oecd-faq",
+     "label": "OECD CRS／CARF FAQs",
+     "layer": 1
+    },
+    {
+     "id": "ord8",
+     "label": "Ord. No. 8 of 2026",
+     "layer": 2,
+     "element_id": "cmp"
+    },
+    {
+     "id": "ord4",
+     "label": "Ord. No. 4 of 2026",
+     "layer": 2,
+     "element_id": "reg2"
+    },
+    {
+     "id": "p8a",
+     "label": "Cap. 112 Part 8A（CRS）",
+     "layer": 3,
+     "element_id": "fi"
+    },
+    {
+     "id": "p8b",
+     "label": "Cap. 112 Part 8B（CARF，ss.50M–50Y）",
+     "layer": 3,
+     "element_id": "rcasp"
+    },
+    {
+     "id": "s17c",
+     "label": "Sch 17C（excluded accounts 等）",
+     "layer": 4,
+     "element_id": "excl"
+    },
+    {
+     "id": "s17d",
+     "label": "Sch 17D（CRS 盡職審查）",
+     "layer": 4,
+     "element_id": "sc"
+    },
+    {
+     "id": "s17ea",
+     "label": "Sch 17EA（CARF 盡職審查）",
+     "layer": 4,
+     "element_id": "dd"
+    },
+    {
+     "id": "ird",
+     "label": "IRD 簡報、指引、FAQ",
+     "layer": 5
+    },
+    {
+     "id": "portal",
+     "label": "AEOI Portal／CARF Portal",
+     "layer": 5,
+     "element_id": "sys"
+    },
+    {
+     "id": "inst",
+     "label": "機構：政策、程序、系統、紀錄",
+     "layer": 6,
+     "element_id": "prog"
+    }
+   ],
+   "edges": [
+    {
+     "from": "oecd-carf",
+     "to": "p8b",
+     "label": "按 CARF publications 解釋（s.50Y）"
+    },
+    {
+     "from": "oecd-crs",
+     "to": "p8a",
+     "label": "2028 年起納入"
+    },
+    {
+     "from": "ord8",
+     "to": "p8b",
+     "label": "新加（Division 1）"
+    },
+    {
+     "from": "ord8",
+     "to": "p8a",
+     "label": "修訂（Division 2）"
+    },
+    {
+     "from": "ord4",
+     "to": "p8a",
+     "label": "登記、紀錄（2027 年起）"
+    },
+    {
+     "from": "p8a",
+     "to": "s17c"
+    },
+    {
+     "from": "p8a",
+     "to": "s17d"
+    },
+    {
+     "from": "p8b",
+     "to": "s17ea"
+    },
+    {
+     "from": "s17ea",
+     "to": "s17d",
+     "label": "Pt 2 s.2：可依賴 CRS 盡職審查"
+    },
+    {
+     "from": "oecd-faq",
+     "to": "ird",
+     "label": "解釋參考"
+    },
+    {
+     "from": "p8b",
+     "to": "portal",
+     "label": "s.50V 指定系統"
+    },
+    {
+     "from": "ird",
+     "to": "inst"
+    },
+    {
+     "from": "portal",
+     "to": "inst"
+    }
+   ],
+   "layers": {
+    "1": "OECD 標準",
+    "2": "修訂條例",
+    "3": "Cap. 112 主體",
+    "4": "附表",
+    "5": "IRD 行政",
+    "6": "機構"
+   },
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [
+    "O8",
+    "O4",
+    "OECD",
+    "BRF"
+   ],
+   "updated": "2026-11-26",
+   "detail": "學習用示意圖；節點如有 element_id 可以連去知識點。",
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf"
+  },
+  {
+   "id": "dg-programme",
+   "track": "INTEG",
+   "title": "合規計劃框架",
+   "short": "管治 → 政策 → 盡職審查 → 系統 → 申報 → 紀錄 → 監察",
+   "nodes": [
+    {
+     "id": "gov",
+     "label": "管治同問責",
+     "group": "管治",
+     "element_id": "gov"
+    },
+    {
+     "id": "pol",
+     "label": "政策同程序（CRS policies、controls、guidance）",
+     "group": "管治",
+     "element_id": "prog"
+    },
+    {
+     "id": "reg",
+     "label": "登記（AEOI Portal／CARF Portal）",
+     "group": "行政",
+     "element_id": "sys"
+    },
+    {
+     "id": "dd",
+     "label": "盡職審查：self-cert、reasonableness、change of circumstances",
+     "group": "營運",
+     "element_id": "ddshare"
+    },
+    {
+     "id": "sys",
+     "label": "系統同數據：XML schema、逐筆交易",
+     "group": "營運",
+     "element_id": "sys"
+    },
+    {
+     "id": "rep",
+     "label": "申報：CRS return／CARF return（包括 nil）",
+     "group": "營運",
+     "element_id": "crep"
+    },
+    {
+     "id": "rec",
+     "label": "紀錄保存 6 年",
+     "group": "行政",
+     "element_id": "gov"
+    },
+    {
+     "id": "sp",
+     "label": "外判 SP 監察（責任唔轉移）",
+     "group": "監察",
+     "element_id": "sp"
+    },
+    {
+     "id": "mon",
+     "label": "抽查同補救",
+     "group": "監察",
+     "element_id": "prog",
+     "status": "UNVERIFIED",
+     "note": "實務做法，唔係我來源入面嘅法定要求"
+    },
+    {
+     "id": "trn",
+     "label": "培訓",
+     "group": "監察",
+     "element_id": "prog",
+     "status": "UNVERIFIED",
+     "note": "良好做法，唔係法定要求"
+    },
+    {
+     "id": "comm",
+     "label": "委員會報告",
+     "group": "管治",
+     "element_id": "prog",
+     "status": "UNVERIFIED",
+     "note": "遊戲情境，唔係法定要求"
+    }
+   ],
+   "edges": [
+    {
+     "from": "gov",
+     "to": "pol"
+    },
+    {
+     "from": "pol",
+     "to": "reg"
+    },
+    {
+     "from": "pol",
+     "to": "dd"
+    },
+    {
+     "from": "dd",
+     "to": "sys"
+    },
+    {
+     "from": "sys",
+     "to": "rep"
+    },
+    {
+     "from": "rep",
+     "to": "rec"
+    },
+    {
+     "from": "dd",
+     "to": "rec"
+    },
+    {
+     "from": "sp",
+     "to": "dd",
+     "label": "代做"
+    },
+    {
+     "from": "mon",
+     "to": "dd",
+     "label": "覆核"
+    },
+    {
+     "from": "mon",
+     "to": "comm"
+    },
+    {
+     "from": "comm",
+     "to": "gov"
+    },
+    {
+     "from": "trn",
+     "to": "dd"
+    }
+   ],
+   "status": "UNVERIFIED",
+   "unverified_reason": "框架排列屬學習用整理；監察、培訓、委員會唔係法定要求",
+   "sources": [
+    "BRF",
+    "O8",
+    "O4"
+   ],
+   "updated": "2026-11-26",
+   "detail": "學習用示意圖；節點如有 element_id 可以連去知識點。",
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf"
+  },
+  {
+   "id": "dg-roles",
+   "track": "INTEG",
+   "title": "角色同責任",
+   "short": "前線 → 第二道防線 → RO（遊戲角色）→ 管理層；IRD 同 SP 喺外面",
+   "nodes": [
+    {
+     "id": "cust",
+     "label": "客戶／crypto-asset user",
+     "group": "外部"
+    },
+    {
+     "id": "r1",
+     "label": "前線 due diligence",
+     "group": "機構"
+    },
+    {
+     "id": "r2",
+     "label": "第二道防線（2nd line 合規）",
+     "group": "機構"
+    },
+    {
+     "id": "r3",
+     "label": "RO（遊戲角色）",
+     "group": "機構",
+     "status": "UNVERIFIED",
+     "note": "RO 唔係法定角色"
+    },
+    {
+     "id": "r4",
+     "label": "特殊個案",
+     "group": "機構"
+    },
+    {
+     "id": "r5",
+     "label": "設計合規計劃",
+     "group": "機構"
+    },
+    {
+     "id": "sp",
+     "label": "Service provider",
+     "group": "外部",
+     "element_id": "sp"
+    },
+    {
+     "id": "ird",
+     "label": "IRD（Commissioner）",
+     "group": "外部"
+    },
+    {
+     "id": "off",
+     "label": "Specified officer／designated officer（解散後）",
+     "group": "機構",
+     "element_id": "gov"
+    }
+   ],
+   "edges": [
+    {
+     "from": "cust",
+     "to": "r1",
+     "label": "self-cert"
+    },
+    {
+     "from": "r1",
+     "to": "r2",
+     "label": "升級"
+    },
+    {
+     "from": "r4",
+     "to": "r2",
+     "label": "特殊個案"
+    },
+    {
+     "from": "r2",
+     "to": "r3",
+     "label": "匯報"
+    },
+    {
+     "from": "r5",
+     "to": "r1",
+     "label": "設計開戶流程"
+    },
+    {
+     "from": "sp",
+     "to": "r2",
+     "label": "受監察"
+    },
+    {
+     "from": "r3",
+     "to": "ird",
+     "label": "回覆查詢"
+    },
+    {
+     "from": "off",
+     "to": "ird",
+     "label": "紀錄責任"
+    }
+   ],
+   "status": "UNVERIFIED",
+   "unverified_reason": "RO、第二道防線等係遊戲角色；法定責任落喺 RFI／HKRCASP 同 specified officer",
+   "sources": [
+    "O4",
+    "O8"
+   ],
+   "updated": "2026-11-26",
+   "detail": "學習用示意圖；節點如有 element_id 可以連去知識點。",
+   "source_url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(Automatic%20Exchange%20of%20Information)%20Ordinance%202026_Eng.pdf"
+  },
+  {
+   "id": "dg-map-crs2",
+   "track": "CRS2",
+   "title": "知識地圖：CRS 2.0（amended CRS）",
+   "short": "12 個知識點",
+   "nodes": [
+    {
+     "id": "fi",
+     "label": "財務機構類別（FI categories）",
+     "group": "範圍",
+     "element_id": "fi"
+    },
+    {
+     "id": "dfp",
+     "label": "Amended CRS 數碼金融產品",
+     "group": "範圍",
+     "element_id": "dfp"
+    },
+    {
+     "id": "excl",
+     "label": "Excluded accounts",
+     "group": "範圍",
+     "element_id": "excl"
+    },
+    {
+     "id": "sc",
+     "label": "CRS self-certification",
+     "group": "盡職審查",
+     "element_id": "sc"
+    },
+    {
+     "id": "tb",
+     "label": "CRS：雙重稅務居民唔可以用 tiebreaker",
+     "group": "盡職審查",
+     "element_id": "tb"
+    },
+    {
+     "id": "coc2",
+     "label": "CRS change of circumstances",
+     "group": "盡職審查",
+     "element_id": "coc2"
+    },
+    {
+     "id": "cp",
+     "label": "CRS controlling persons",
+     "group": "盡職審查",
+     "element_id": "cp"
+    },
+    {
+     "id": "rp2",
+     "label": "CRS reportable person／account",
+     "group": "盡職審查",
+     "element_id": "rp2"
+    },
+    {
+     "id": "reg2",
+     "label": "RFI 登記（AEOI Portal）",
+     "group": "申報同行政",
+     "element_id": "reg2"
+    },
+    {
+     "id": "ret2",
+     "label": "Amended CRS 報表同新欄位",
+     "group": "申報同行政",
+     "element_id": "ret2"
+    },
+    {
+     "id": "rec2",
+     "label": "CRS 紀錄保存",
+     "group": "申報同行政",
+     "element_id": "rec2"
+    },
+    {
+     "id": "pen2",
+     "label": "CRS 罰則",
+     "group": "申報同行政",
+     "element_id": "pen2"
+    }
+   ],
+   "edges": [
+    {
+     "from": "fi",
+     "to": "dfp",
+     "label": "related"
+    },
+    {
+     "from": "fi",
+     "to": "excl",
+     "label": "related"
+    },
+    {
+     "from": "dfp",
+     "to": "fi",
+     "label": "prereq"
+    },
+    {
+     "from": "dfp",
+     "to": "excl",
+     "label": "related"
+    },
+    {
+     "from": "excl",
+     "to": "dfp",
+     "label": "related"
+    },
+    {
+     "from": "sc",
+     "to": "fi",
+     "label": "prereq"
+    },
+    {
+     "from": "tb",
+     "to": "sc",
+     "label": "prereq"
+    },
+    {
+     "from": "coc2",
+     "to": "sc",
+     "label": "prereq"
+    },
+    {
+     "from": "cp",
+     "to": "sc",
+     "label": "prereq"
+    },
+    {
+     "from": "rp2",
+     "to": "fi",
+     "label": "prereq"
+    },
+    {
+     "from": "reg2",
+     "to": "fi",
+     "label": "prereq"
+    },
+    {
+     "from": "ret2",
+     "to": "rp2",
+     "label": "prereq"
+    },
+    {
+     "from": "ret2",
+     "to": "cp",
+     "label": "related"
+    },
+    {
+     "from": "rec2",
+     "to": "ret2",
+     "label": "related"
+    },
+    {
+     "from": "pen2",
+     "to": "sc",
+     "label": "related"
+    }
+   ],
+   "external_edges": [],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "updated": "2026-11-26",
+   "detail": "撳節點可以去返對應知識點（element_id）。",
+   "source_url": null
+  },
+  {
+   "id": "dg-map-carf",
+   "track": "CARF",
+   "title": "知識地圖：CARF",
+   "short": "15 個知識點",
+   "nodes": [
+    {
+     "id": "rcasp",
+     "label": "RCASP 同香港 nexus",
+     "group": "範圍",
+     "element_id": "rcasp"
+    },
+    {
+     "id": "rca",
+     "label": "Relevant crypto-assets",
+     "group": "範圍",
+     "element_id": "rca"
+    },
+    {
+     "id": "rtx",
+     "label": "Relevant transactions",
+     "group": "範圍",
+     "element_id": "rtx"
+    },
+    {
+     "id": "dd",
+     "label": "CARF 盡職審查",
+     "group": "盡職審查",
+     "element_id": "dd"
+    },
+    {
+     "id": "csc",
+     "label": "CARF self-certification 同 reasonableness",
+     "group": "盡職審查",
+     "element_id": "csc"
+    },
+    {
+     "id": "ctb",
+     "label": "CARF：雙重稅務居民唔可以用 tiebreaker",
+     "group": "盡職審查",
+     "element_id": "ctb"
+    },
+    {
+     "id": "coc",
+     "label": "CARF change of circumstances",
+     "group": "盡職審查",
+     "element_id": "coc"
+    },
+    {
+     "id": "rp",
+     "label": "CARF reportable user／person",
+     "group": "盡職審查",
+     "element_id": "rp"
+    },
+    {
+     "id": "ccp",
+     "label": "CARF controlling persons",
+     "group": "盡職審查",
+     "element_id": "ccp"
+    },
+    {
+     "id": "reg",
+     "label": "CARF 登記（CARF Portal）",
+     "group": "申報同行政",
+     "element_id": "reg"
+    },
+    {
+     "id": "crep",
+     "label": "CARF 申報資料（包括 nil return）",
+     "group": "申報同行政",
+     "element_id": "crep"
+    },
+    {
+     "id": "ret",
+     "label": "CARF 報表同限期",
+     "group": "申報同行政",
+     "element_id": "ret"
+    },
+    {
+     "id": "rec",
+     "label": "CARF 紀錄保存",
+     "group": "申報同行政",
+     "element_id": "rec"
+    },
+    {
+     "id": "pen",
+     "label": "CARF 罰則同執法",
+     "group": "申報同行政",
+     "element_id": "pen"
+    },
+    {
+     "id": "sp",
+     "label": "CARF 外判 service provider",
+     "group": "申報同行政",
+     "element_id": "sp"
+    }
+   ],
+   "edges": [
+    {
+     "from": "rca",
+     "to": "rcasp",
+     "label": "prereq"
+    },
+    {
+     "from": "rtx",
+     "to": "rca",
+     "label": "prereq"
+    },
+    {
+     "from": "dd",
+     "to": "rcasp",
+     "label": "prereq"
+    },
+    {
+     "from": "csc",
+     "to": "dd",
+     "label": "prereq"
+    },
+    {
+     "from": "ctb",
+     "to": "csc",
+     "label": "prereq"
+    },
+    {
+     "from": "coc",
+     "to": "csc",
+     "label": "prereq"
+    },
+    {
+     "from": "rp",
+     "to": "dd",
+     "label": "prereq"
+    },
+    {
+     "from": "ccp",
+     "to": "rp",
+     "label": "prereq"
+    },
+    {
+     "from": "reg",
+     "to": "rcasp",
+     "label": "prereq"
+    },
+    {
+     "from": "crep",
+     "to": "rtx",
+     "label": "prereq"
+    },
+    {
+     "from": "crep",
+     "to": "rp",
+     "label": "prereq"
+    },
+    {
+     "from": "ret",
+     "to": "crep",
+     "label": "prereq"
+    },
+    {
+     "from": "rec",
+     "to": "ret",
+     "label": "related"
+    },
+    {
+     "from": "pen",
+     "to": "dd",
+     "label": "related"
+    },
+    {
+     "from": "pen",
+     "to": "ret",
+     "label": "related"
+    },
+    {
+     "from": "sp",
+     "to": "dd",
+     "label": "related"
+    }
+   ],
+   "external_edges": [],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "updated": "2026-11-26",
+   "detail": "撳節點可以去返對應知識點（element_id）。",
+   "source_url": null
+  },
+  {
+   "id": "dg-map-integ",
+   "track": "INTEG",
+   "title": "知識地圖：一併管理",
+   "short": "7 個知識點",
+   "nodes": [
+    {
+     "id": "cmp",
+     "label": "CRS 2.0 同 CARF：範圍同時間",
+     "group": "兩制關係",
+     "element_id": "cmp"
+    },
+    {
+     "id": "dual",
+     "label": "CARF 同 amended CRS 雙重申報",
+     "group": "兩制關係",
+     "element_id": "dual"
+    },
+    {
+     "id": "ddshare",
+     "label": "兩制共用盡職審查",
+     "group": "兩制關係",
+     "element_id": "ddshare"
+    },
+    {
+     "id": "mcaa",
+     "label": "國際交換同 MCAA",
+     "group": "兩制關係",
+     "element_id": "mcaa"
+    },
+    {
+     "id": "gov",
+     "label": "管治、角色同問責",
+     "group": "管理層",
+     "element_id": "gov"
+    },
+    {
+     "id": "sys",
+     "label": "系統同數據",
+     "group": "管理層",
+     "element_id": "sys"
+    },
+    {
+     "id": "prog",
+     "label": "合規計劃同委員會報告",
+     "group": "管理層",
+     "element_id": "prog"
+    }
+   ],
+   "edges": [
+    {
+     "from": "dual",
+     "to": "cmp",
+     "label": "prereq"
+    },
+    {
+     "from": "mcaa",
+     "to": "cmp",
+     "label": "related"
+    },
+    {
+     "from": "prog",
+     "to": "gov",
+     "label": "related"
+    },
+    {
+     "from": "prog",
+     "to": "sys",
+     "label": "related"
+    }
+   ],
+   "external_edges": [
+    {
+     "from": "cmp",
+     "to": "dfp",
+     "label": "related"
+    },
+    {
+     "from": "cmp",
+     "to": "rca",
+     "label": "related"
+    },
+    {
+     "from": "dual",
+     "to": "rtx",
+     "label": "related"
+    },
+    {
+     "from": "dual",
+     "to": "ret2",
+     "label": "related"
+    },
+    {
+     "from": "ddshare",
+     "to": "dd",
+     "label": "related"
+    },
+    {
+     "from": "ddshare",
+     "to": "sc",
+     "label": "related"
+    },
+    {
+     "from": "gov",
+     "to": "sp",
+     "label": "related"
+    },
+    {
+     "from": "gov",
+     "to": "rec2",
+     "label": "related"
+    },
+    {
+     "from": "sys",
+     "to": "reg",
+     "label": "related"
+    },
+    {
+     "from": "sys",
+     "to": "reg2",
+     "label": "related"
+    }
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "updated": "2026-11-26",
+   "detail": "撳節點可以去返對應知識點（element_id）。",
+   "source_url": null
+  }
+ ]
+}

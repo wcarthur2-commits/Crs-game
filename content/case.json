@@ -1,0 +1,64 @@
+{
+ "schema": "case",
+ "items": [
+  {
+   "id": "case-chan",
+   "track": "CARF",
+   "title": "大案五幕：陳太個案",
+   "short": "由開戶到委員會報告，五幕跟一個個案",
+   "detail": "每幕係一關，按次序解鎖。",
+   "acts": [
+    {
+     "n": 1,
+     "title": "第一幕：陳太開戶",
+     "level_ids": [
+      "A1"
+     ]
+    },
+    {
+     "n": 2,
+     "title": "第二幕：覆核檔案",
+     "level_ids": [
+      "A2"
+     ]
+    },
+    {
+     "n": 3,
+     "title": "第三幕：CCO 要詳情",
+     "level_ids": [
+      "A3",
+      "A3W"
+     ]
+    },
+    {
+     "n": 4,
+     "title": "第四幕：IRD 查詢",
+     "level_ids": [
+      "A4"
+     ]
+    },
+    {
+     "n": 5,
+     "title": "第五幕：委員會報告",
+     "level_ids": [
+      "A5"
+     ]
+    }
+   ],
+   "page_sequence": [
+    "A1",
+    "A2",
+    "A3",
+    "A3W",
+    "A4",
+    "A5"
+   ],
+   "minutes": 15,
+   "status": "verified",
+   "unverified_reason": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-27"
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "schema": "industries",
+ "items": [
+  {
+   "id": "all",
+   "track": "INTEG",
+   "title": "全部行業",
+   "short": "全部行業",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "bank",
+   "track": "INTEG",
+   "title": "銀行",
+   "short": "銀行",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "ins",
+   "track": "INTEG",
+   "title": "保險",
+   "short": "保險",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "fund",
+   "track": "INTEG",
+   "title": "基金",
+   "short": "基金",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "fo",
+   "track": "INTEG",
+   "title": "Family office",
+   "short": "Family office",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": "Family office 冇專門 CRS／CARF 定義，套用屬類比（U9）",
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "trust",
+   "track": "INTEG",
+   "title": "信託公司",
+   "short": "信託公司",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "sec",
+   "track": "INTEG",
+   "title": "證券行",
+   "short": "證券行",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": null,
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  },
+  {
+   "id": "vasp",
+   "track": "INTEG",
+   "title": "虛擬資產平台／RCASP",
+   "short": "虛擬資產平台／RCASP",
+   "detail": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "notes": "\"VATP\" 一詞唔見於 Ord 8；VATP 套用 RCASP 屬類比（U9）",
+   "sources": [],
+   "source_url": null,
+   "updated": "2026-11-26"
+  }
+ ]
+}

@@ -1,0 +1,898 @@
+{
+ "schema": "flashcards",
+ "items": [
+  {
+   "id": "FC-01",
+   "track": "INTEG",
+   "title": "Ord. No. 8 of 2026 嘅全名同日期？",
+   "short": "Inland Revenue (Amendment) (Crypto-Asse…",
+   "detail": "Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance 2026，日期 [13 November 2026]。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "cmp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "Ord. No. 8 of 2026 嘅全名同日期？",
+   "back": "Inland Revenue (Amendment) (Crypto-Asset Reporting Framework and Amended Common Reporting Standard) Ordinance 2026，日期 [13 November 2026]。",
+   "source_id": "O8"
+  },
+  {
+   "id": "FC-02",
+   "track": "CARF",
+   "title": "CARF 喺香港由幾時開始？",
+   "short": "Ord 8 s.1(3)",
+   "detail": "Ord 8 s.1(3)：Part 2 Division 1（第 8 條除外）喺 2027 年 1 月 1 日生效，即新 Part 8B ss.50M–50Y 加 Sch 17EA。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "dd"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "CARF 喺香港由幾時開始？",
+   "back": "Ord 8 s.1(3)：Part 2 Division 1（第 8 條除外）喺 2027 年 1 月 1 日生效，即新 Part 8B ss.50M–50Y 加 Sch 17EA。",
+   "source_id": "O8"
+  },
+  {
+   "id": "FC-03",
+   "track": "CRS2",
+   "title": "Amended CRS（CRS 2.0）幾時生效？",
+   "short": "Ord 8 s.1(5)",
+   "detail": "Ord 8 s.1(5)：Part 2 Division 2 喺 2028 年 1 月 1 日生效，首次按新標準交換喺 2029 年。",
+   "quotes": [],
+   "sources": [
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/ppr/archives/26110404.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "dfp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "Amended CRS（CRS 2.0）幾時生效？",
+   "back": "Ord 8 s.1(5)：Part 2 Division 2 喺 2028 年 1 月 1 日生效，首次按新標準交換喺 2029 年。",
+   "source_id": "PR"
+  },
+  {
+   "id": "FC-04",
+   "track": "CRS2",
+   "title": "Ord. No. 4 of 2026 做咗啲乜？",
+   "short": "加強 CRS 行政框架",
+   "detail": "加強 CRS 行政框架：RFI 強制登記（s.50AB）、6 年紀錄保存、按帳戶數目計嘅罰則、administrative penalty。2027 年 1 月 1 日生效。",
+   "quotes": [],
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "reg2"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "Ord. No. 4 of 2026 做咗啲乜？",
+   "back": "加強 CRS 行政框架：RFI 強制登記（s.50AB）、6 年紀錄保存、按帳戶數目計嘅罰則、administrative penalty。2027 年 1 月 1 日生效。",
+   "source_id": "O4P"
+  },
+  {
+   "id": "FC-05",
+   "track": "CRS2",
+   "title": "未登記嘅現有 RFI 要幾時前喺 AEOI Portal 登記？",
+   "short": "2027 年 3 月 31 日。",
+   "detail": "2027 年 3 月 31 日。之後新成為 RFI 嘅，要喺翌年 1 月 31 日前登記。",
+   "quotes": [],
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "reg2"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "未登記嘅現有 RFI 要幾時前喺 AEOI Portal 登記？",
+   "back": "2027 年 3 月 31 日。之後新成為 RFI 嘅，要喺翌年 1 月 31 日前登記。",
+   "source_id": "O4P"
+  },
+  {
+   "id": "FC-06",
+   "track": "CARF",
+   "title": "HKRCASP 登記限期？",
+   "short": "s.50O(2)",
+   "detail": "s.50O(2)：首次符合 nexus 嗰個公曆年嘅翌年 1 月 31 日或之前。就算冇資料要報都要登記。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "reg"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "HKRCASP 登記限期？",
+   "back": "s.50O(2)：首次符合 nexus 嗰個公曆年嘅翌年 1 月 31 日或之前。就算冇資料要報都要登記。",
+   "source_id": "O8"
+  },
+  {
+   "id": "FC-07",
+   "track": "CARF",
+   "title": "邊啲唔算 relevant crypto-asset？",
+   "short": "CBDC、specified electronic money product",
+   "detail": "CBDC、specified electronic money product，同 RCASP 合理判定唔可以用嚟支付或投資嘅 crypto-asset（s.50M）。",
+   "quotes": [],
+   "sources": [
+    "CARF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "rca"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "邊啲唔算 relevant crypto-asset？",
+   "back": "CBDC、specified electronic money product，同 RCASP 合理判定唔可以用嚟支付或投資嘅 crypto-asset（s.50M）。",
+   "source_id": "CARF"
+  },
+  {
+   "id": "FC-08",
+   "track": "CARF",
+   "title": "Reportable retail payment transaction 嘅門檻？",
+   "short": "以 relevant crypto-asset 換取貨品或服務",
+   "detail": "以 relevant crypto-asset 換取貨品或服務，而價值超過 $390,000（s.50M）。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "rtx"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "Reportable retail payment transaction 嘅門檻？",
+   "back": "以 relevant crypto-asset 換取貨品或服務，而價值超過 $390,000（s.50M）。",
+   "source_id": "O8"
+  },
+  {
+   "id": "FC-09",
+   "track": "INTEG",
+   "title": "雙重稅務居民可唔可以用 tiebreaker？",
+   "short": "唔可以，要申報全部稅務居民地",
+   "detail": "唔可以，要申報全部稅務居民地：CRS 見 Sch 17D para 2B（2028 年起），CARF 見 Sch 17EA para 3。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "tb",
+    "ctb"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "雙重稅務居民可唔可以用 tiebreaker？",
+   "back": "唔可以，要申報全部稅務居民地：CRS 見 Sch 17D para 2B（2028 年起），CARF 見 Sch 17EA para 3。",
+   "source_id": "O8"
+  },
+  {
+   "id": "FC-10",
+   "track": "CARF",
+   "title": "Pre-existing crypto-asset user 嘅分界日？",
+   "short": "喺 2026 年 12 月 31 日或之前同 HKRCASP 建立關係",
+   "detail": "喺 2026 年 12 月 31 日或之前同 HKRCASP 建立關係（s.50M）。IRD 話要喺 CARF 生效後 12 個月內取得 self-cert。",
+   "quotes": [],
+   "sources": [
+    "CARF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "dd"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "Pre-existing crypto-asset user 嘅分界日？",
+   "back": "喺 2026 年 12 月 31 日或之前同 HKRCASP 建立關係（s.50M）。IRD 話要喺 CARF 生效後 12 個月內取得 self-cert。",
+   "source_id": "CARF"
+  },
+  {
+   "id": "FC-11",
+   "track": "INTEG",
+   "title": "Self-certification 作虛假陳述嘅罰則？",
+   "short": "明知或罔顧，罰第 3 級罰款（CRS 見 s.80(2E)/(2F)；",
+   "detail": "明知或罔顧，罰第 3 級罰款（CRS 見 s.80(2E)/(2F)；CARF 見新 s.80(2ZD)/(2ZE)）。",
+   "quotes": [],
+   "sources": [
+    "COMP"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "sc",
+    "csc",
+    "pen2",
+    "pen"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "Self-certification 作虛假陳述嘅罰則？",
+   "back": "明知或罔顧，罰第 3 級罰款（CRS 見 s.80(2E)/(2F)；CARF 見新 s.80(2ZD)/(2ZE)）。",
+   "source_id": "COMP"
+  },
+  {
+   "id": "FC-12",
+   "track": "INTEG",
+   "title": "CARF 同 CRS 2.0 點樣避免重複申報？",
+   "short": "如果 RFI 同時係 RCASP",
+   "detail": "如果 RFI 同時係 RCASP，relevant crypto-asset 嘅 gross proceeds 必須喺 CARF 申報，CRS 下可以唔再報，但可以揀照報。",
+   "quotes": [],
+   "sources": [
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "dual"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "CARF 同 CRS 2.0 點樣避免重複申報？",
+   "back": "如果 RFI 同時係 RCASP，relevant crypto-asset 嘅 gross proceeds 必須喺 CARF 申報，CRS 下可以唔再報，但可以揀照報。",
+   "source_id": "CO"
+  },
+  {
+   "id": "FC-I01",
+   "track": "INTEG",
+   "title": "CARF 同 CRS 係咪同一個框架？",
+   "short": "唔係。OECD",
+   "detail": "唔係。OECD：CARF 係 separate and complementary framework，有啲機構兩邊都要報。",
+   "quotes": [
+    {
+     "text": "As the CARF is a separate and complementary framework, there will be some Entities reporting under both the CRS and the CARF.",
+     "pin": null,
+     "source_id": "OECD",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "OECD"
+   ],
+   "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "cmp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "CARF 同 CRS 係咪同一個框架？",
+   "back": "唔係。OECD：CARF 係 separate and complementary framework，有啲機構兩邊都要報。",
+   "source_id": "OECD",
+   "new": true
+  },
+  {
+   "id": "FC-I02",
+   "track": "INTEG",
+   "title": "避免重複申報係單向定雙向？",
+   "short": "單向：CARF 報咗，CRS 可以唔報；CRS 報咗，CARF 照報。",
+   "detail": "單向：CARF 報咗，CRS 可以唔報；CRS 報咗，CARF 照報。",
+   "quotes": [
+    {
+     "text": "If the information has already been reported under CARF, RFIs not required to report the same information under the amended CRS, but not vice versa",
+     "pin": null,
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "dual"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "避免重複申報係單向定雙向？",
+   "back": "單向：CARF 報咗，CRS 可以唔報；CRS 報咗，CARF 照報。",
+   "source_id": "BRF",
+   "new": true
+  },
+  {
+   "id": "FC-I03",
+   "track": "INTEG",
+   "title": "穩定幣歸邊個框架？",
+   "short": "單一法定貨幣、符合 SEMP 條件 → amended CRS；",
+   "detail": "單一法定貨幣、符合 SEMP 條件 → amended CRS；多種貨幣 → CARF。",
+   "quotes": [
+    {
+     "text": "Under the CARF Rules, stablecoins denominated in a single fiat currency are regarded as SEMP (provided that they fulfil all the relevant conditions) and hence covered by the amended CRS, while those stablecoins denominated in multiple currencies are covered by CARF.",
+     "pin": null,
+     "source_id": "S39",
+     "url": "https://www.legco.gov.hk/yr2026/english/brief/tsybr200800360c_20260520-e.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "S39"
+   ],
+   "source_url": "https://www.legco.gov.hk/yr2026/english/brief/tsybr200800360c_20260520-e.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "cmp",
+    "rca",
+    "dfp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "穩定幣歸邊個框架？",
+   "back": "單一法定貨幣、符合 SEMP 條件 → amended CRS；多種貨幣 → CARF。",
+   "source_id": "S39",
+   "new": true
+  },
+  {
+   "id": "FC-I04",
+   "track": "INTEG",
+   "title": "兩制可唔可以共用盡職審查？",
+   "short": "可以：同時係 RFI 嘅 HKRCASP 可以依賴 Sch 17D 已完成嘅程…",
+   "detail": "可以：同時係 RFI 嘅 HKRCASP 可以依賴 Sch 17D 已完成嘅程序。",
+   "quotes": [
+    {
+     "text": "An HKRCASP that is also a reporting financial institution for the purposes of the Common Reporting Standard may rely on the due diligence procedures completed pursuant to Part 4 of Schedule 17D",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "ddshare"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "兩制可唔可以共用盡職審查？",
+   "back": "可以：同時係 RFI 嘅 HKRCASP 可以依賴 Sch 17D 已完成嘅程序。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I05",
+   "track": "INTEG",
+   "title": "兩制用咩系統登記？",
+   "short": "CRS：AEOI Portal；",
+   "detail": "CRS：AEOI Portal；CARF：CARF Portal（計劃 2027 年 9 月推出）。",
+   "quotes": [
+    {
+     "text": "CARF Portal is still under development and scheduled to be launched in September 2027.",
+     "pin": null,
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "sys"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "兩制用咩系統登記？",
+   "back": "CRS：AEOI Portal；CARF：CARF Portal（計劃 2027 年 9 月推出）。",
+   "source_id": "BRF",
+   "new": true
+  },
+  {
+   "id": "FC-I06",
+   "track": "INTEG",
+   "title": "間接持有 crypto（衍生工具、基金權益）報邊度？",
+   "short": "CRS。",
+   "detail": "CRS。",
+   "quotes": [
+    {
+     "text": "Indirect investments in Relevant Crypto-Assets through traditional financial products, such as derivatives or interests in investment vehicles, are covered by the CRS",
+     "pin": null,
+     "source_id": "OECD",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "OECD"
+   ],
+   "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "cmp",
+    "dfp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26",
+   "front": "間接持有 crypto（衍生工具、基金權益）報邊度？",
+   "back": "CRS。",
+   "source_id": "OECD",
+   "new": true
+  },
+  {
+   "id": "FC-I07",
+   "track": "INTEG",
+   "title": "CARF 紀錄保存期？",
+   "short": "報表到期日後 6 年（s.50S(2)）；",
+   "detail": "報表到期日後 6 年（s.50S(2)）；CRS 都係 6 年（s.50D(2)）。",
+   "quotes": [
+    {
+     "text": "the specified record keeping period is a period of 6 years immediately after the date by which the return is required to be furnished under section 50Q(1)",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "rec",
+    "rec2"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "CARF 紀錄保存期？",
+   "back": "報表到期日後 6 年（s.50S(2)）；CRS 都係 6 年（s.50D(2)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I08",
+   "track": "INTEG",
+   "title": "改地址要幾時通知局長？",
+   "short": "1 個月內（CARF s.50S(3)；CRS s.50D(3)）。",
+   "detail": "1 個月內（CARF s.50S(3)；CRS s.50D(3)）。",
+   "quotes": [
+    {
+     "text": "If an HKRCASP changes the address, the HKRCASP must notify the Commissioner of the new address within 1 month after the change.",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "rec",
+    "sys"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "改地址要幾時通知局長？",
+   "back": "1 個月內（CARF s.50S(3)；CRS s.50D(3)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I09",
+   "track": "INTEG",
+   "title": "聘 SP 係咪合理辯解？",
+   "short": "唔係（s.80R(2)；s.82E(2)）。",
+   "detail": "唔係（s.80R(2)；s.82E(2)）。",
+   "quotes": [
+    {
+     "text": "engaging a service provider under section 50U(1) does not in itself constitute a reasonable excuse",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "sp",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "聘 SP 係咪合理辯解？",
+   "back": "唔係（s.80R(2)；s.82E(2)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I10",
+   "track": "INTEG",
+   "title": "交咗報表先發現錯誤？",
+   "short": "合理時間內通知局長（s.80R(11)）。",
+   "detail": "合理時間內通知局長（s.80R(11)）。",
+   "quotes": [
+    {
+     "text": "without reasonable excuse, fails to notify the Commissioner of the discovery within a reasonable time",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "gov",
+    "pen"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "交咗報表先發現錯誤？",
+   "back": "合理時間內通知局長（s.80R(11)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I11",
+   "track": "INTEG",
+   "title": "金錢罰則邊個評定？",
+   "short": "局長或副局長親自（s.82E(3)）。",
+   "detail": "局長或副局長親自（s.82E(3)）。",
+   "quotes": [
+    {
+     "text": "may be made only by the Commissioner personally or a deputy commissioner personally",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "pen",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "金錢罰則邊個評定？",
+   "back": "局長或副局長親自（s.82E(3)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I12",
+   "track": "INTEG",
+   "title": "金錢罰則申述期？",
+   "short": "通知發出後唔少於 21 日（s.82E(4)(a)(iii)）。",
+   "detail": "通知發出後唔少於 21 日（s.82E(4)(a)(iii)）。",
+   "quotes": [
+    {
+     "text": "which must not be within 21 days after the notice is given",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "pen"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "金錢罰則申述期？",
+   "back": "通知發出後唔少於 21 日（s.82E(4)(a)(iii)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I13",
+   "track": "INTEG",
+   "title": "唔服金錢罰則點算？",
+   "short": "評定通知後 1 個月內向 Board of Review 上訴",
+   "detail": "評定通知後 1 個月內向 Board of Review 上訴（s.82F(1)）。",
+   "quotes": [
+    {
+     "text": "an appeal against the assessment by giving a notice of appeal to the Board of Review",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "pen",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "唔服金錢罰則點算？",
+   "back": "評定通知後 1 個月內向 Board of Review 上訴（s.82F(1)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I14",
+   "track": "INTEG",
+   "title": "IRD 查詢通知點遵從？",
+   "short": "通知指明期間內，按指明方式同形式（s.50S(12)）。",
+   "detail": "通知指明期間內，按指明方式同形式（s.50S(12)）。",
+   "quotes": [
+    {
+     "text": "within the period specified in the notice; and (b) by the means and in the form (if any) specified in the notice",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "IRD 查詢通知點遵從？",
+   "back": "通知指明期間內，按指明方式同形式（s.50S(12)）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I15",
+   "track": "INTEG",
+   "title": "OECD 合規策略關鍵字？",
+   "short": "Proportionate and risk-based（¶3）。",
+   "detail": "Proportionate and risk-based（¶3）。",
+   "quotes": [
+    {
+     "text": "a proportionate and risk-based comprehensive compliance strategy",
+     "pin": null,
+     "source_id": "OECD",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "OECD"
+   ],
+   "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "gov",
+    "prog"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "OECD 合規策略關鍵字？",
+   "back": "Proportionate and risk-based（¶3）。",
+   "source_id": "OECD",
+   "new": true
+  },
+  {
+   "id": "FC-I16",
+   "track": "INTEG",
+   "title": "確保 self-cert 嘅 strong measure？",
+   "short": "收到有效 self-cert 先執行交易（¶20 例子）。",
+   "detail": "收到有效 self-cert 先執行交易（¶20 例子）。",
+   "quotes": [
+    {
+     "text": "introduce legislation making the effectuating of transactions conditional upon the receipt of a valid self-certification",
+     "pin": null,
+     "source_id": "OECD",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "OECD"
+   ],
+   "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "csc",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "確保 self-cert 嘅 strong measure？",
+   "back": "收到有效 self-cert 先執行交易（¶20 例子）。",
+   "source_id": "OECD",
+   "new": true
+  },
+  {
+   "id": "FC-I17",
+   "track": "INTEG",
+   "title": "CARF 條文點解讀？",
+   "short": "最能確保同 CARF 刊物一致（s.50Y）。",
+   "detail": "最能確保同 CARF 刊物一致（s.50Y）。",
+   "quotes": [
+    {
+     "text": "are to be applied and interpreted in the way that best secures their consistency with the requirements and guidance in the CARF publications",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "gov",
+    "cmp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "CARF 條文點解讀？",
+   "back": "最能確保同 CARF 刊物一致（s.50Y）。",
+   "source_id": "O8",
+   "new": true
+  },
+  {
+   "id": "FC-I18",
+   "track": "INTEG",
+   "title": "解散後邊個負責紀錄？",
+   "short": "每名 specified officer",
+   "detail": "每名 specified officer，或 designated officer（s.50S(7)）。",
+   "quotes": [
+    {
+     "text": "every specified officer, or the designated officer (if any), of the entity must",
+     "pin": null,
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 0.5,
+   "element_ids": [
+    "rec",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "front": "解散後邊個負責紀錄？",
+   "back": "每名 specified officer，或 designated officer（s.50S(7)）。",
+   "source_id": "O8",
+   "new": true
+  }
+ ]
+}

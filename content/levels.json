@@ -1,0 +1,6200 @@
+{
+ "schema": "levels",
+ "kinds": {
+  "match": "配對",
+  "sort": "分類",
+  "order": "排序／砌流程",
+  "spot": "搵錯處",
+  "story": "情境決策",
+  "build": "砌報告",
+  "write": "寫作",
+  "quiz": "限時快答"
+ },
+ "role_labels": {
+  "r1": "前線",
+  "r2": "第二道防線",
+  "r3": "RO（遊戲角色）",
+  "r4": "特殊個案",
+  "r5": "設計合規計劃",
+  "all": "通用",
+  "case": "大案"
+ },
+ "items": [
+  {
+   "id": "TL1",
+   "track": "INTEG",
+   "kind": "order",
+   "title": "CARF／CRS 大日子",
+   "title_long": "時間線 A：CARF 同 amended CRS 大日子",
+   "icon": "list",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "cmp",
+    "reg",
+    "reg2",
+    "ret",
+    "ret2"
+   ],
+   "items": [
+    {
+     "id": "TL1-i1",
+     "text": "Ord. No. 8 of 2026 制定（2026 年 11 月 13 日）",
+     "explain": "IRD：“Ordinance 2026 was enacted on 13 November 2026.”",
+     "source_id": "CO"
+    },
+    {
+     "id": "TL1-i2",
+     "text": "CARF 生效（2027 年 1 月 1 日）",
+     "explain": "IRD：CARF 同 amended CRS “will be implemented from 1 January 2027 onwards and 1 January 2028 onwards respectively.”",
+     "source_id": "CO"
+    },
+    {
+     "id": "TL1-i3",
+     "text": "31 Dec 2026 已係 RFI：AEOI Portal 登記限期（2027 年 3 月 31 日）",
+     "explain": "IRD 簡報：“On or before 31 March 2027”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL1-i4",
+     "text": "CARF Portal 計劃推出（2027 年 9 月）",
+     "explain": "IRD 簡報：“scheduled to be launched in September 2027.”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL1-i5",
+     "text": "Amended CRS 生效（2028 年 1 月 1 日）",
+     "explain": "IRD：“1 January 2028 onwards”。",
+     "source_id": "CO"
+    },
+    {
+     "id": "TL1-i6",
+     "text": "HKRCASP 登記 CARF Portal（2028 年 1 月 31 日前）",
+     "explain": "IRD 簡報：“Before 31 January 2028 — Register with CARF Portal”；s.50O(2)。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL1-i7",
+     "text": "2027 年度 CARF Return 到期（2028 年 6 月初）",
+     "explain": "IRD 簡報：“Before early June 2028 — File CARF Return on time”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL1-i8",
+     "text": "首次 CARF 交換（2028 年，月份 UNVERIFIED）",
+     "explain": "新聞稿：“starting from 2028”。排喺報表之後係推斷。",
+     "source_id": "PR"
+    },
+    {
+     "id": "TL1-i9",
+     "text": "首次按 amended CRS 交換（2029 年 9 月）",
+     "explain": "IRD 簡報：“September 2029: First exchange of data by IRD under the amended CRS”。",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": [
+    "TL1-i1",
+    "TL1-i2",
+    "TL1-i3",
+    "TL1-i4",
+    "TL1-i5",
+    "TL1-i6",
+    "TL1-i7",
+    "TL1-i8",
+    "TL1-i9"
+   ],
+   "short": "排序／砌流程｜9 步｜約 2 分鐘",
+   "detail": "用 ↑ ↓ 由早到遲排好。\nUNVERIFIED：「首次 CARF 交換」官方只講 starting from 2028，月份 UNVERIFIED（PwC 寫 Sep 2028）。",
+   "quotes": [],
+   "sources": [
+    "CO",
+    "BRF",
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "status": "UNVERIFIED",
+   "unverified_reason": "「首次 CARF 交換」官方只講 starting from 2028，月份 UNVERIFIED（PwC 寫 Sep 2028）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "TL2",
+   "track": "CARF",
+   "kind": "order",
+   "title": "HKRCASP 首年路線",
+   "title_long": "時間線 B：HKRCASP 第一年合規路線",
+   "icon": "list",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "dd",
+    "reg",
+    "ret",
+    "rec"
+   ],
+   "items": [
+    {
+     "id": "TL2-i1",
+     "text": "而家至 2026 年 12 月 31 日：檢視自己係咪 HKRCASP",
+     "explain": "“From Now to 31 Dec 2026 — Conduct an early review on whether you are an HKRCASP”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL2-i2",
+     "text": "2027 年 1 月 1 日：CARF 開始運作",
+     "explain": "“From 1 January 2027 — CARF comes into operation”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL2-i3",
+     "text": "2028 年 1 月 1 日前：向現有用戶取得 self-cert",
+     "explain": "“By 1 January 2028 — Obtain a self-certification from pre-existing crypto-asset users”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL2-i4",
+     "text": "2028 年 1 月 31 日前：登記 CARF Portal",
+     "explain": "“Before 31 January 2028 — Register with CARF Portal”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL2-i5",
+     "text": "2028 年 6 月初前：交 2027 年度 CARF Return",
+     "explain": "“Before early June 2028 — File CARF Return on time”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "TL2-i6",
+     "text": "直至 2034 年 6 月初：保存 2027 年度紀錄",
+     "explain": "“Until early June 2034 — Ensure sufficient records … has been kept”",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": [
+    "TL2-i1",
+    "TL2-i2",
+    "TL2-i3",
+    "TL2-i4",
+    "TL2-i5",
+    "TL2-i6"
+   ],
+   "short": "排序／砌流程｜6 步｜約 2 分鐘",
+   "detail": "IRD 簡報 Key Takeaway 嘅次序。",
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "FL1",
+   "track": "CARF",
+   "kind": "order",
+   "title": "CARF 新用戶開戶",
+   "title_long": "砌流程：CARF 新用戶開戶",
+   "icon": "list",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "vasp",
+    "sec"
+   ],
+   "element_ids": [
+    "dd",
+    "csc",
+    "coc",
+    "rp",
+    "ccp"
+   ],
+   "items": [
+    {
+     "id": "FL1-i1",
+     "text": "客戶喺 App 申請開戶",
+     "explain": "簡報：self-cert 要喺 “taking in new customers” 時取得。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "FL1-i2",
+     "text": "收 self-cert：所有稅務居民地同 TIN",
+     "explain": "Sch 17EA para 3：要申報所有居民地。",
+     "source_id": "O8"
+    },
+    {
+     "id": "FL1-i3",
+     "text": "用 KYC 資料做 reasonableness check",
+     "explain": "簡報：“Confirm the reasonableness of the self-certifications”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "FL1-i4",
+     "text": "判斷係咪 reportable user／reportable controlling person",
+     "explain": "s.50P(1)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "FL1-i5",
+     "text": "系統標記申報狀態並保存紀錄",
+     "explain": "s.50S(2)：報表到期日後 6 年。",
+     "source_id": "O8"
+    },
+    {
+     "id": "FL1-i6",
+     "text": "監察 change of circumstances，需要時重新取得 self-cert",
+     "explain": "簡報：“obtain afresh a valid self-certification, or a reasonable explanation and documentation”。",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": [
+    "FL1-i1",
+    "FL1-i2",
+    "FL1-i3",
+    "FL1-i4",
+    "FL1-i5",
+    "FL1-i6"
+   ],
+   "short": "排序／砌流程｜6 步｜約 2 分鐘",
+   "detail": "將流程方塊排成合理次序。\nUNVERIFIED：次序係按 IRD 簡報要點整理嘅遊戲建議，唔係法定步驟次序。",
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "次序係按 IRD 簡報要點整理嘅遊戲建議，唔係法定步驟次序。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "FL2",
+   "track": "CRS2",
+   "kind": "order",
+   "title": "CRS 系統升級專案",
+   "title_long": "砌流程：amended CRS 系統升級專案",
+   "icon": "list",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "bank",
+    "ins",
+    "fund",
+    "sec"
+   ],
+   "element_ids": [
+    "dfp",
+    "ret2",
+    "sys"
+   ],
+   "items": [
+    {
+     "id": "FL2-i1",
+     "text": "檢視現有產品，重新分類新納入範圍產品",
+     "explain": "簡報：“Review existing product offerings and re-classify any newly in-scope products”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "FL2-i2",
+     "text": "更新系統、mapping 去新 schema，產生同驗證測試檔案",
+     "explain": "簡報：“Prepare the upgrade for the reporting systems and mapping to the new schema … and test file generation and validation”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "FL2-i3",
+     "text": "2028 年 1 月 1 日起收集新產品帳戶持有人資料",
+     "explain": "簡報：“Collect the CRS data … in respect of newly in-scope products from 1 Jan 2028”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "FL2-i4",
+     "text": "2029 年用 XML Schema 3.0 交 Return 2028",
+     "explain": "簡報：“to be adopted for Return 2028, reporting in 2029”",
+     "source_id": "BRF"
+    },
+    {
+     "id": "FL2-i5",
+     "text": "2029 年 9 月 IRD 首次按 amended CRS 交換",
+     "explain": "簡報：“September 2029: First exchange of data by IRD under the amended CRS”",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": [
+    "FL2-i1",
+    "FL2-i2",
+    "FL2-i3",
+    "FL2-i4",
+    "FL2-i5"
+   ],
+   "short": "排序／砌流程｜5 步｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "M1",
+   "track": "CARF",
+   "kind": "match",
+   "title": "CARF 條文 ↔ 義務",
+   "title_long": "配對 A：CARF 條文 ↔ 義務",
+   "icon": "link",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "reg",
+    "dd",
+    "ctb",
+    "rec",
+    "sp"
+   ],
+   "pairs": [
+    {
+     "id": "M1-p1",
+     "left": "s.50O",
+     "right": "HKRCASP 登記：首次符合準則嗰年嘅翌年 1 月 31 日或之前",
+     "source_id": "O8"
+    },
+    {
+     "id": "M1-p2",
+     "left": "s.50P",
+     "right": "盡職審查程序，要納入 Sch 17EA 嘅要求",
+     "source_id": "O8"
+    },
+    {
+     "id": "M1-p3",
+     "left": "Sch 17EA para 3",
+     "right": "唔可以靠 tiebreaker，要申報所有居民地",
+     "source_id": "O8"
+    },
+    {
+     "id": "M1-p4",
+     "left": "s.50S(2)",
+     "right": "紀錄保存：報表到期日後 6 年",
+     "source_id": "O8"
+    },
+    {
+     "id": "M1-p5",
+     "left": "s.50S(3)",
+     "right": "改地址 1 個月內通知 Commissioner",
+     "source_id": "O8"
+    },
+    {
+     "id": "M1-p6",
+     "left": "s.50U(2)",
+     "right": "聘 service provider 都唔解除 HKRCASP 責任",
+     "source_id": "O8"
+    }
+   ],
+   "answers": {
+    "M1-p1": "M1-p1",
+    "M1-p2": "M1-p2",
+    "M1-p3": "M1-p3",
+    "M1-p4": "M1-p4",
+    "M1-p5": "M1-p5",
+    "M1-p6": "M1-p6"
+   },
+   "short": "配對｜6 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "M2",
+   "track": "CRS2",
+   "kind": "match",
+   "title": "amended CRS 條文",
+   "title_long": "配對 B：amended CRS 條文",
+   "icon": "link",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "tb",
+    "excl",
+    "pen2",
+    "reg2"
+   ],
+   "pairs": [
+    {
+     "id": "M2-p1",
+     "left": "Sch 17D para 2B",
+     "right": "CRS 帳戶持有人唔可以靠 tiebreaker",
+     "source_id": "O8"
+    },
+    {
+     "id": "M2-p2",
+     "left": "Sch 17C para 5A",
+     "right": "低值 SEMP：90 日滾動平均唔超過 $78,000 屬 excluded",
+     "source_id": "O8"
+    },
+    {
+     "id": "M2-p3",
+     "left": "s.80(2E)/(2F)",
+     "right": "CRS self-cert 明知或罔顧作虛假陳述屬罪行，第 3 級罰款",
+     "source_id": "O16"
+    },
+    {
+     "id": "M2-p4",
+     "left": "s.50AB",
+     "right": "RFI 要向 Commissioner 登記，限期 31 March 2027 或成為 RFI 翌年 1 月 31 日（較遲者）",
+     "source_id": "O4"
+    }
+   ],
+   "answers": {
+    "M2-p1": "M2-p1",
+    "M2-p2": "M2-p2",
+    "M2-p3": "M2-p3",
+    "M2-p4": "M2-p4"
+   },
+   "short": "配對｜4 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "O16",
+    "O4"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "M3",
+   "track": "CARF",
+   "kind": "match",
+   "title": "CARF 定義",
+   "title_long": "配對 C：CARF 定義",
+   "icon": "link",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "rtx",
+    "rca",
+    "dd",
+    "rec"
+   ],
+   "pairs": [
+    {
+     "id": "M3-p1",
+     "left": "Exchange transaction",
+     "right": "Crypto↔fiat，或者 crypto↔crypto",
+     "source_id": "O8"
+    },
+    {
+     "id": "M3-p2",
+     "left": "Reportable retail payment transaction",
+     "right": "用 crypto 換貨品或服務，價值超過 $390,000",
+     "source_id": "O8"
+    },
+    {
+     "id": "M3-p3",
+     "left": "Relevant crypto-asset",
+     "right": "排除 CBDC、SEMP 同唔可以用嚟支付或投資嘅 crypto-asset",
+     "source_id": "O8"
+    },
+    {
+     "id": "M3-p4",
+     "left": "Pre-existing individual crypto-asset user",
+     "right": "截至 2026 年 12 月 31 日已同 HKRCASP 建立關係",
+     "source_id": "O8"
+    },
+    {
+     "id": "M3-p5",
+     "left": "Specified officer",
+     "right": "解散前負責管理實體嘅人（例如 director、trustee）",
+     "source_id": "BRF"
+    },
+    {
+     "id": "M3-p6",
+     "left": "Designated officer",
+     "right": "經全部 specified officers 書面同意而指定嘅人",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": {
+    "M3-p1": "M3-p1",
+    "M3-p2": "M3-p2",
+    "M3-p3": "M3-p3",
+    "M3-p4": "M3-p4",
+    "M3-p5": "M3-p5",
+    "M3-p6": "M3-p6"
+   },
+   "short": "配對｜6 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "M4",
+   "track": "CRS2",
+   "kind": "match",
+   "title": "Responsible RFI 登記",
+   "title_long": "配對 D：Responsible RFI 要幫邊個登記",
+   "icon": "link",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "fund",
+    "trust"
+   ],
+   "element_ids": [
+    "reg2",
+    "fi"
+   ],
+   "pairs": [
+    {
+     "id": "M4-p1",
+     "left": "Umbrella fund",
+     "right": "佢嘅 sub-funds",
+     "source_id": "BRF"
+    },
+    {
+     "id": "M4-p2",
+     "left": "Trustee",
+     "right": "Trusts",
+     "source_id": "BRF"
+    },
+    {
+     "id": "M4-p3",
+     "left": "Fund manager／investment manager",
+     "right": "佢管理嘅 funds 或 trusts",
+     "source_id": "BRF"
+    },
+    {
+     "id": "M4-p4",
+     "left": "Pooling agreement／approved pooled investment fund",
+     "right": "參與嘅 schemes",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": {
+    "M4-p1": "M4-p1",
+    "M4-p2": "M4-p2",
+    "M4-p3": "M4-p3",
+    "M4-p4": "M4-p4"
+   },
+   "short": "配對｜4 對｜約 2 分鐘",
+   "detail": "IRD 簡報：Registration for Other Reporting Financial Institutions。",
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "M5",
+   "track": "CRS2",
+   "kind": "match",
+   "title": "FI 類別",
+   "title_long": "配對 E：FI 類別",
+   "icon": "link",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "bank",
+    "ins",
+    "fund",
+    "sec",
+    "trust"
+   ],
+   "element_ids": [
+    "fi"
+   ],
+   "pairs": [
+    {
+     "id": "M5-p1",
+     "left": "Custodial institution",
+     "right": "為他人持有金融資產佔業務重要部分（IRD：最少 20% 收入）",
+     "source_id": "GUID"
+    },
+    {
+     "id": "M5-p2",
+     "left": "Depository institution",
+     "right": "Banking Ordinance 嘅認可機構，或者喺銀行業務通常運作中接受存款",
+     "source_id": "O16"
+    },
+    {
+     "id": "M5-p3",
+     "left": "Investment entity",
+     "right": "例如 SFO 持牌進行證券交易、資產管理等受規管活動嘅法團",
+     "source_id": "O16"
+    },
+    {
+     "id": "M5-p4",
+     "left": "Specified insurance company",
+     "right": "發出現金值保險合約或年金合約（或有責任就佢付款）嘅保險公司",
+     "source_id": "O16"
+    }
+   ],
+   "answers": {
+    "M5-p1": "M5-p1",
+    "M5-p2": "M5-p2",
+    "M5-p3": "M5-p3",
+    "M5-p4": "M5-p4"
+   },
+   "short": "配對｜4 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "GUID",
+    "O16"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "M6",
+   "track": "CARF",
+   "kind": "match",
+   "title": "CARF 罰則",
+   "title_long": "配對 F：CARF 罰則",
+   "icon": "link",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "pen",
+    "csc"
+   ],
+   "pairs": [
+    {
+     "id": "M6-p1",
+     "left": "s.80(2ZD)/(2ZE)",
+     "right": "CARF self-cert 虛假陳述屬罪行，第 3 級罰款",
+     "source_id": "O8"
+    },
+    {
+     "id": "M6-p2",
+     "left": "s.80R(4)",
+     "right": "定罪後罪行持續，每日另罰 $500",
+     "source_id": "O8"
+    },
+    {
+     "id": "M6-p3",
+     "left": "s.82E",
+     "right": "金錢罰則代替檢控",
+     "source_id": "O8"
+    },
+    {
+     "id": "M6-p4",
+     "left": "s.82F",
+     "right": "評定通知後 1 個月內向 Board of Review 上訴",
+     "source_id": "O8"
+    }
+   ],
+   "answers": {
+    "M6-p1": "M6-p1",
+    "M6-p2": "M6-p2",
+    "M6-p3": "M6-p3",
+    "M6-p4": "M6-p4"
+   },
+   "short": "配對｜4 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "S1",
+   "track": "INTEG",
+   "kind": "sort",
+   "title": "歸邊個制度？",
+   "title_long": "分類 A：歸邊個制度？",
+   "icon": "buckets",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "cmp",
+    "dfp",
+    "dual",
+    "rtx",
+    "tb",
+    "ctb"
+   ],
+   "buckets": [
+    "CARF",
+    "Amended CRS",
+    "兩個都係"
+   ],
+   "items": [
+    {
+     "id": "S1-i1",
+     "text": "交易所為客戶做 BTC 換 HKD",
+     "bucket": 0,
+     "explain": "Exchange transaction（crypto↔fiat），由 RCASP 喺 CARF 申報。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S1-i2",
+     "text": "銀行為客戶持有 specified electronic money product",
+     "bucket": 1,
+     "explain": "SEMP 唔係 relevant crypto-asset，改由 amended CRS 涵蓋。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S1-i3",
+     "text": "Central bank digital currency 帳戶",
+     "bucket": 1,
+     "explain": "IRD：digital money products（CBDC 同 SEMP）納入 CRS。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S1-i4",
+     "text": "參照 crypto-asset 嘅 derivative contracts",
+     "bucket": 1,
+     "explain": "IRD：derivatives referencing relevant crypto-assets 納入 CRS。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S1-i5",
+     "text": "投資 relevant crypto-assets 嘅 investment entity",
+     "bucket": 1,
+     "explain": "IRD：investment entities investing in relevant crypto-assets 納入 CRS。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S1-i6",
+     "text": "唔可以用 tiebreaker，要申報所有居民地",
+     "bucket": 2,
+     "explain": "CARF：Sch 17EA para 3；amended CRS：Sch 17D para 2B。",
+     "source_id": "O8"
+    },
+    {
+     "id": "S1-i7",
+     "text": "RFI 同時係 RCASP：crypto 嘅 gross proceeds 必須申報",
+     "bucket": 0,
+     "explain": "IRD：“must be reported under CARF”；CRS 可以選擇另報。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S1-i8",
+     "text": "用 USDT 向商戶付款買 HK$450,000 貨品",
+     "bucket": 0,
+     "explain": "屬 transfer，超過 $390,000 係 reportable retail payment transaction。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": {
+    "S1-i1": 0,
+    "S1-i2": 1,
+    "S1-i3": 1,
+    "S1-i4": 1,
+    "S1-i5": 1,
+    "S1-i6": 2,
+    "S1-i7": 0,
+    "S1-i8": 0
+   },
+   "short": "分類｜8 項｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "CO",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "S2",
+   "track": "CARF",
+   "kind": "sort",
+   "title": "CARF 涵蓋定排除？",
+   "title_long": "分類 B：relevant crypto-asset 定排除？",
+   "icon": "buckets",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "vasp",
+    "bank"
+   ],
+   "element_ids": [
+    "rca"
+   ],
+   "buckets": [
+    "Relevant crypto-asset",
+    "排除"
+   ],
+   "items": [
+    {
+     "id": "S2-i1",
+     "text": "Bitcoin",
+     "bucket": 0,
+     "explain": "唔屬 s.50M 三個排除項目。",
+     "source_id": "O8"
+    },
+    {
+     "id": "S2-i2",
+     "text": "Ether",
+     "bucket": 0,
+     "explain": "唔屬 s.50M 三個排除項目。",
+     "source_id": "O8"
+    },
+    {
+     "id": "S2-i3",
+     "text": "Central bank digital currency",
+     "bucket": 1,
+     "explain": "s.50M 排除 (a)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "S2-i4",
+     "text": "Specified electronic money product",
+     "bucket": 1,
+     "explain": "s.50M 排除 (b)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "S2-i5",
+     "text": "RCASP 合理判定唔可以用嚟支付或投資嘅 crypto-asset",
+     "bucket": 1,
+     "explain": "s.50M 排除 (c)。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": {
+    "S2-i1": 0,
+    "S2-i2": 0,
+    "S2-i3": 1,
+    "S2-i4": 1,
+    "S2-i5": 1
+   },
+   "short": "分類｜5 項｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "S3",
+   "track": "INTEG",
+   "kind": "sort",
+   "title": "邊年發生？",
+   "title_long": "分類 C：邊年發生？",
+   "icon": "buckets",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "cmp",
+    "reg",
+    "reg2",
+    "ret",
+    "ret2",
+    "dd"
+   ],
+   "buckets": [
+    "2027",
+    "2028",
+    "2029"
+   ],
+   "items": [
+    {
+     "id": "S3-i1",
+     "text": "CARF 生效",
+     "bucket": 0,
+     "explain": "1 Jan 2027。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S3-i2",
+     "text": "CARF Portal 計劃推出",
+     "bucket": 0,
+     "explain": "Sept 2027（計劃）。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S3-i3",
+     "text": "31 Dec 2026 已係 RFI：AEOI Portal 登記限期",
+     "bucket": 0,
+     "explain": "31 Mar 2027。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S3-i4",
+     "text": "Amended CRS 生效",
+     "bucket": 1,
+     "explain": "1 Jan 2028。",
+     "source_id": "CO"
+    },
+    {
+     "id": "S3-i5",
+     "text": "現有 crypto 用戶 self-cert 死線",
+     "bucket": 1,
+     "explain": "By 1 Jan 2028。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S3-i6",
+     "text": "HKRCASP 登記 CARF Portal 限期",
+     "bucket": 1,
+     "explain": "Before 31 Jan 2028。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S3-i7",
+     "text": "2027 年度 CARF Return 到期",
+     "bucket": 1,
+     "explain": "Early June 2028。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S3-i8",
+     "text": "用 XML Schema 3.0 交 Return 2028",
+     "bucket": 2,
+     "explain": "“to be adopted for Return 2028, reporting in 2029”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "S3-i9",
+     "text": "首次按 amended CRS 交換",
+     "bucket": 2,
+     "explain": "Sept 2029。",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": {
+    "S3-i1": 0,
+    "S3-i2": 0,
+    "S3-i3": 0,
+    "S3-i4": 1,
+    "S3-i5": 1,
+    "S3-i6": 1,
+    "S3-i7": 1,
+    "S3-i8": 2,
+    "S3-i9": 2
+   },
+   "short": "分類｜9 項｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "CO",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "S4",
+   "track": "CRS2",
+   "kind": "sort",
+   "title": "保險產品",
+   "title_long": "分類 D：保險公司嘅產品",
+   "icon": "buckets",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "ins"
+   ],
+   "element_ids": [
+    "fi"
+   ],
+   "buckets": [
+    "可能令公司屬 specified insurance company",
+    "單靠呢樣唔會"
+   ],
+   "items": [
+    {
+     "id": "S4-i1",
+     "text": "發出現金值人壽保單（cash value insurance contract）",
+     "bucket": 0,
+     "explain": "s.50A：specified insurance company 發出現金值保險合約或年金合約。",
+     "source_id": "O16"
+    },
+    {
+     "id": "S4-i2",
+     "text": "發出年金合約（annuity contract）",
+     "bucket": 0,
+     "explain": "同上。",
+     "source_id": "O16"
+    },
+    {
+     "id": "S4-i3",
+     "text": "保險經紀代保險公司賣年金，冇付款責任",
+     "bucket": 1,
+     "explain": "IRD Guidance：broker “is not a specified insurance company unless obliged to make payments to the account holder”。",
+     "source_id": "GUID"
+    },
+    {
+     "id": "S4-i4",
+     "text": "保險公司嘅儲備活動（reserving activities）",
+     "bucket": 1,
+     "explain": "IRD Guidance：reserving activities 唔會令保險公司變成 custodial／depository institution。",
+     "source_id": "GUID"
+    }
+   ],
+   "answers": {
+    "S4-i1": 0,
+    "S4-i2": 0,
+    "S4-i3": 1,
+    "S4-i4": 1
+   },
+   "short": "分類｜4 項｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O16",
+    "GUID"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Eng.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "P1",
+   "track": "CRS2",
+   "kind": "spot",
+   "title": "開戶 App self-cert",
+   "title_long": "搵錯處：開戶 App self-cert 畫面（CRS 個人）",
+   "icon": "search",
+   "difficulty": 1,
+   "minutes": 2,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "bank",
+    "sec",
+    "ins"
+   ],
+   "element_ids": [
+    "sc",
+    "tb"
+   ],
+   "doc_title": "開戶 App · Self-Certification（個人）· 草稿",
+   "lines": [
+    {
+     "id": "P1-l1",
+     "text": "姓名：CHAN Tai Man",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P1-l2",
+     "text": "現時住址：Toronto, Canada",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P1-l3",
+     "text": "出生日期：（空白）",
+     "is_error": true,
+     "explain": "IRD 範本：Date of Birth 標 *，係要申報嘅資料。",
+     "source_id": "SCF"
+    },
+    {
+     "id": "P1-l4",
+     "text": "稅務居民地欄：系統只容許揀 1 個",
+     "is_error": true,
+     "explain": "範本：“Indicate all (not restricted to five) jurisdictions of residence.”",
+     "source_id": "SCF"
+    },
+    {
+     "id": "P1-l5",
+     "text": "香港 TIN：填 HKID 號碼",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P1-l6",
+     "text": "加拿大（客戶喺備註手寫）：TIN 空白，冇揀原因 A／B／C",
+     "is_error": true,
+     "explain": "範本：冇 TIN 要提供原因 A、B 或 C；揀 B 要解釋。",
+     "source_id": "SCF"
+    },
+    {
+     "id": "P1-l7",
+     "text": "聲明：change in circumstances 後 30 日內提供更新 self-cert",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P1-l8",
+     "text": "簽署同日期：未簽",
+     "is_error": true,
+     "explain": "範本 Part 3 要有 Signature 同 Date；所有部分都要填（除非唔適用）。",
+     "source_id": "SCF"
+    }
+   ],
+   "answers": [
+    "P1-l3",
+    "P1-l4",
+    "P1-l6",
+    "P1-l8"
+   ],
+   "short": "搵錯處｜4 個錯處｜約 2 分鐘",
+   "detail": "撳有問題嘅欄位，再撳「提交」。參考 IRD 個人 self-cert 範本。",
+   "quotes": [],
+   "sources": [
+    "SCF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/scf_ind.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "P2",
+   "track": "CARF",
+   "kind": "spot",
+   "title": "CARF 2027 SOP",
+   "title_long": "搵錯處：CARF 2027 年度 SOP",
+   "icon": "search",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "dd",
+    "crep",
+    "ctb",
+    "sp",
+    "rec"
+   ],
+   "doc_title": "內部 SOP（草稿 v0.3）",
+   "lines": [
+    {
+     "id": "P2-l1",
+     "text": "新客：2027 年 1 月 1 日起開戶時收 self-cert",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P2-l2",
+     "text": "現有客：2028 年 6 月前補收 self-cert",
+     "is_error": true,
+     "explain": "簡報：pre-existing customers 要 “by 1 January 2028”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "P2-l3",
+     "text": "CARF Portal 推出後，2028 年 1 月 31 日前登記",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P2-l4",
+     "text": "全年冇 reportable user 就唔使理報表",
+     "is_error": true,
+     "explain": "簡報：“Nil return is required.”；s.50Q(7) 列出 nil-type 報表內容。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "P2-l5",
+     "text": "2028 年 6 月初前經 CARF Portal 交 2027 年度報表",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P2-l6",
+     "text": "雙重居民按 tiebreaker 只記一個居民地",
+     "is_error": true,
+     "explain": "Sch 17EA para 3：cannot rely on the tiebreaker rules。",
+     "source_id": "O8"
+    },
+    {
+     "id": "P2-l7",
+     "text": "紀錄保存至報表到期日後 6 年",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P2-l8",
+     "text": "盡職審查外判俾 SP，責任由 SP 全權承擔",
+     "is_error": true,
+     "explain": "s.50U(2)：the HKRCASP is not relieved from the obligation。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": [
+    "P2-l2",
+    "P2-l4",
+    "P2-l6",
+    "P2-l8"
+   ],
+   "short": "搵錯處｜4 個錯處｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "P3",
+   "track": "CRS2",
+   "kind": "spot",
+   "title": "CRS 升級備忘",
+   "title_long": "搵錯處：amended CRS 升級備忘",
+   "icon": "search",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "bank",
+    "fund",
+    "sec",
+    "ins"
+   ],
+   "element_ids": [
+    "dfp",
+    "ret2",
+    "excl",
+    "sc",
+    "cp"
+   ],
+   "doc_title": "IT 同合規聯合備忘（草稿）",
+   "lines": [
+    {
+     "id": "P3-l1",
+     "text": "2028 年 1 月 1 日起收集新納入產品帳戶持有人嘅 CRS 資料",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P3-l2",
+     "text": "Return 2028 沿用現有 XML schema，唔使改",
+     "is_error": true,
+     "explain": "簡報：新 schema “to be adopted for Return 2028, reporting in 2029”（XML Schema 3.0）。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "P3-l3",
+     "text": "新增欄位：有冇有效 self-cert、CP 角色、新定舊帳戶、聯名同人數、帳戶類型",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P3-l4",
+     "text": "低值 SEMP（90 日滾動平均唔超過 $78,000）列為 excluded",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P3-l5",
+     "text": "攞唔到 self-cert 就一律用 pre-existing 程序，當標準做法",
+     "is_error": true,
+     "explain": "簡報：只限 exceptional circumstances，“Not a standard procedure”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "P3-l6",
+     "text": "CBI／RBI 客戶要採取進一步措施確定居民地",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    }
+   ],
+   "answers": [
+    "P3-l2",
+    "P3-l5"
+   ],
+   "short": "搵錯處｜2 個錯處｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "P4",
+   "track": "INTEG",
+   "kind": "spot",
+   "title": "一併管理備忘",
+   "title_long": "搵錯處：CRS 2.0 同 CARF 一併管理備忘",
+   "icon": "search",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "bank",
+    "sec",
+    "vasp"
+   ],
+   "element_ids": [
+    "dual",
+    "ddshare",
+    "cmp",
+    "sys"
+   ],
+   "doc_title": "集團 CRS／CARF 一併管理備忘（草稿）",
+   "lines": [
+    {
+     "id": "P4-l1",
+     "text": "已喺 CARF 報嘅 crypto gross proceeds，CRS 可以唔再報",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P4-l2",
+     "text": "已喺 CRS 報咗，CARF 就唔使報",
+     "is_error": true,
+     "explain": "簡報：“… not required to report the same information under the amended CRS, but not vice versa”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "P4-l3",
+     "text": "RFI 同時係 HKRCASP，可以依賴 CRS 已做嘅盡職審查去做 CARF 盡職審查",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P4-l4",
+     "text": "CRS 用 AEOI Portal 登記；CARF 用 CARF Portal 登記",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "P4-l5",
+     "text": "兩個制度都可以用稅務協定 tiebreaker 決定居民地",
+     "is_error": true,
+     "explain": "Sch 17D Pt 7 s.2B 同 Sch 17EA Pt 6 s.3：兩邊都唔可以，要申報所有居民地。",
+     "source_id": "O8"
+    },
+    {
+     "id": "P4-l6",
+     "text": "CARF 2028 年 1 月 1 日生效，amended CRS 2027 年 1 月 1 日生效",
+     "is_error": true,
+     "explain": "IRD：CARF 同 amended CRS “will be implemented from 1 January 2027 onwards and 1 January 2028 onwards respectively.”（次序調轉咗）",
+     "source_id": "CO"
+    },
+    {
+     "id": "P4-l7",
+     "text": "CBDC 同 SEMP 由 CRS 涵蓋，唔屬 CARF relevant crypto-asset",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    }
+   ],
+   "answers": [
+    "P4-l2",
+    "P4-l5",
+    "P4-l6"
+   ],
+   "short": "搵錯處｜3 個錯處｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8",
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "Q1",
+   "track": "CARF",
+   "kind": "quiz",
+   "title": "CARF 衝刺",
+   "title_long": "限時快問快答：CARF（8 題 × 15 秒）",
+   "icon": "timer",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "reg",
+    "ret",
+    "rtx",
+    "rec",
+    "pen",
+    "sp",
+    "rca",
+    "dd"
+   ],
+   "pool": {
+    "file": "quiz.json",
+    "track": "CARF",
+    "count": 8,
+    "seconds_per_question": 15
+   },
+   "answers": null,
+   "short": "限時快答｜8 題｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [],
+   "source_url": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "Q2",
+   "track": "CRS2",
+   "kind": "quiz",
+   "title": "CRS 2.0 衝刺",
+   "title_long": "限時快問快答：CRS 2.0（8 題 × 15 秒）",
+   "icon": "timer",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "dfp",
+    "ret2",
+    "reg2",
+    "excl",
+    "pen2",
+    "fi"
+   ],
+   "pool": {
+    "file": "quiz.json",
+    "track": "CRS2",
+    "count": 8,
+    "seconds_per_question": 15
+   },
+   "answers": null,
+   "short": "限時快答｜8 題｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [],
+   "source_url": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "Q3",
+   "track": "INTEG",
+   "kind": "quiz",
+   "title": "一併管理衝刺",
+   "title_long": "限時快問快答：一併管理（8 題 × 15 秒）",
+   "icon": "timer",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "all"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "dual",
+    "cmp",
+    "ddshare",
+    "mcaa"
+   ],
+   "pool": {
+    "file": "quiz.json",
+    "track": "INTEG",
+    "count": 8,
+    "seconds_per_question": 15
+   },
+   "answers": null,
+   "short": "限時快答｜8 題｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [],
+   "source_url": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C1",
+   "track": "CARF",
+   "kind": "story",
+   "title": "新 crypto 用戶開戶",
+   "title_long": "前線：新 crypto 用戶開戶",
+   "icon": "chat",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "ctb",
+    "csc",
+    "coc"
+   ],
+   "steps": [
+    {
+     "id": "C1-s1",
+     "who": [
+      {
+       "name": "Ms Lee",
+       "line": "我係香港同加拿大稅務居民，稅務協定 tiebreaker 判我係香港，只填香港得唔得？"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點回應？",
+     "options": [
+      {
+       "id": "C1-s1o1",
+       "text": "得，按 tiebreaker 填香港就夠",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：加拿大居民地冇入系統。Sch 17EA para 3：唔可以靠 tiebreaker，要申報所有居民地。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C1-s1o2",
+       "text": "唔得，請佢申報香港同加拿大兩個居民地",
+       "risk": 0,
+       "correct": true,
+       "explain": "啱。Sch 17EA para 3(b)：must declare all … jurisdictions of residence。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C1-s1o3",
+       "text": "先開戶，self-cert 之後先補",
+       "risk": 2,
+       "correct": false,
+       "explain": "後果：簡報講明新客要喺 “taking in new customers” 時取得 self-cert。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C1-s2",
+     "who": [],
+     "evidence": [
+      "Mr Ho：self-cert 只填香港",
+      "KYC 地址：Vancouver, Canada"
+     ],
+     "prompt": "Mr Ho 嘅資料有矛盾，你點做？",
+     "options": [
+      {
+       "id": "C1-s2o1",
+       "text": "照收",
+       "risk": 2,
+       "correct": false,
+       "explain": "後果：簡報要求 “Confirm the reasonableness of the self-certifications”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C1-s2o2",
+       "text": "要求合理解釋或更新 self-cert，並記錄",
+       "risk": 0,
+       "correct": true,
+       "explain": "啱。OECD Commentary：知道或有理由知道 self-cert 唔可靠，就唔算通過 reasonableness。",
+       "source_id": "OECD"
+      },
+      {
+       "id": "C1-s2o3",
+       "text": "自己改成加拿大",
+       "risk": 2,
+       "correct": false,
+       "explain": "居民地要由客戶自我證明；前線自行改資料冇依據（遊戲判斷）。",
+       "source_id": "SC"
+      }
+     ]
+    },
+    {
+     "id": "C1-s3",
+     "who": [
+      {
+       "name": "Ms Lee",
+       "line": "如果我下年搬去新加坡呢？"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點講？",
+     "options": [
+      {
+       "id": "C1-s3o1",
+       "text": "唔使通知",
+       "risk": 2,
+       "correct": false,
+       "explain": "後果：change of circumstances 冇跟進。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C1-s3o2",
+       "text": "有 change of circumstances 要通知；平台會重新取得有效 self-cert，或者合理解釋同文件",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報原文：“obtain afresh a valid self-certification, or a reasonable explanation and documentation”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C1-s3o3",
+       "text": "等下次開新帳戶先講",
+       "risk": 1,
+       "correct": false,
+       "explain": "太遲。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C1-s1": [
+     "C1-s1o2"
+    ],
+    "C1-s2": [
+     "C1-s2o2"
+    ],
+    "C1-s3": [
+     "C1-s3o2"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "BRF",
+    "OECD",
+    "SC"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C2",
+   "track": "CARF",
+   "kind": "story",
+   "title": "現有用戶補 self-cert",
+   "title_long": "前線：現有用戶補 self-cert",
+   "icon": "chat",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "dd",
+    "csc",
+    "rec",
+    "rp"
+   ],
+   "steps": [
+    {
+     "id": "C2-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "平台有 2,000 個截至 31 Dec 2026 已有關係嘅個人用戶。補收 self-cert 嘅死線係？",
+     "options": [
+      {
+       "id": "C2-s1o1",
+       "text": "2028 年 1 月 1 日",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：“obtain self-certifications by 1 January 2028”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C2-s1o2",
+       "text": "2028 年 1 月 31 日",
+       "risk": 1,
+       "correct": false,
+       "explain": "呢個係 CARF Portal 登記限期。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C2-s1o3",
+       "text": "2028 年 6 月初",
+       "risk": 2,
+       "correct": false,
+       "explain": "呢個係報表到期。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C2-s2",
+     "who": [
+      {
+       "name": "用戶 K",
+       "line": "我寫咗只係香港居民，其實我都係新加坡居民，不過唔想你哋知。"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點處理？",
+     "options": [
+      {
+       "id": "C2-s2o1",
+       "text": "照收",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：你已經知道 self-cert 唔可靠。s.80(2ZD)：明知或罔顧而作出虛假陳述屬罪行。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C2-s2o2",
+       "text": "解釋要如實申報所有居民地，虛假陳述有刑責，請佢重新填",
+       "risk": 0,
+       "correct": true,
+       "explain": "啱。Sch 17EA para 3 加 s.80(2ZD)/(2ZE)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C2-s2o3",
+       "text": "幫佢刪走新加坡",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：你參與咗錯誤申報（遊戲判斷）。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C2-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "用戶聯絡唔到，死線就到。下一步？",
+     "options": [
+      {
+       "id": "C2-s3o1",
+       "text": "按內部升級程序記錄，交第二道防線跟進",
+       "risk": 0,
+       "correct": true,
+       "explain": "合理做法（遊戲判斷）。法定處理方法 UNVERIFIED。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C2-s3o2",
+       "text": "當佢係香港居民，唔報",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇依據假設。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C2-s3o3",
+       "text": "刪除帳戶紀錄",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：紀錄要保存 6 年（s.50S(2)）。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C2-s1": [
+     "C2-s1o1"
+    ],
+    "C2-s2": [
+     "C2-s2o2"
+    ],
+    "C2-s3": [
+     "C2-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：第 3 步：用戶唔提供 self-cert 嘅法定處理方法未核實（UNVERIFIED）。",
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "第 3 步：用戶唔提供 self-cert 嘅法定處理方法未核實（UNVERIFIED）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "I_bank",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "銀行：e-money 錢包",
+   "title_long": "銀行：e-money 錢包同增資帳戶（2028 年起）",
+   "icon": "chat",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "bank"
+   ],
+   "element_ids": [
+    "dfp",
+    "excl",
+    "fi"
+   ],
+   "steps": [
+    {
+     "id": "I_bank-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "銀行推出港元數碼錢包（SEMP）。2028 年 1 月 1 日起點處理？",
+     "options": [
+      {
+       "id": "I_bank-s1o1",
+       "text": "納入 amended CRS；depository institution 包括持有 SEMP 嘅數碼貨幣提供者",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：Depository Institution “Include digital money providers that hold SEMPs and CBDCs”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "I_bank-s1o2",
+       "text": "屬 CARF",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯：SEMP 唔係 relevant crypto-asset（s.50M）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "I_bank-s1o3",
+       "text": "兩邊都唔使",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "CO"
+      }
+     ]
+    },
+    {
+     "id": "I_bank-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "某客戶錢包 90 日滾動平均結餘一直約 HK$20,000，只持有呢個 SEMP。",
+     "options": [
+      {
+       "id": "I_bank-s2o1",
+       "text": "符合 Sch 17C para 5A 條件可屬 excluded account",
+       "risk": 0,
+       "correct": true,
+       "explain": "para 5A：唔超過 $78,000。",
+       "source_id": "O8"
+      },
+      {
+       "id": "I_bank-s2o2",
+       "text": "一定要報",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇考慮低值 SEMP 豁免。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "I_bank-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "公司客戶開戶存入資金等增資（capital contribution account）。",
+     "options": [
+      {
+       "id": "I_bank-s3o1",
+       "text": "符合條件（有限期間、增資、有足夠保障）可屬 excluded account",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：“Capital contribution accounts • Limited period of time • … pending capital increase • Adequate safeguards in place”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "I_bank-s3o2",
+       "text": "一律要報",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇考慮新 excluded account 類別。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "I_bank-s1": [
+     "I_bank-s1o1"
+    ],
+    "I_bank-s2": [
+     "I_bank-s2o1"
+    ],
+    "I_bank-s3": [
+     "I_bank-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8",
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "I_ins",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "保險：cash value 保單",
+   "title_long": "保險：cash value 保單同年金",
+   "icon": "chat",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "ins"
+   ],
+   "element_ids": [
+    "fi"
+   ],
+   "steps": [
+    {
+     "id": "I_ins-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "你嘅保險公司發出有現金值嘅人壽保單。CRS 下公司屬咩？",
+     "options": [
+      {
+       "id": "I_ins-s1o1",
+       "text": "Specified insurance company",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50A：發出現金值保險合約或年金合約（或有責任就佢付款）嘅保險公司。",
+       "source_id": "O16"
+      },
+      {
+       "id": "I_ins-s1o2",
+       "text": "一定係 NFE",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O16"
+      }
+     ]
+    },
+    {
+     "id": "I_ins-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "合作經紀代你賣年金，但冇付款責任。經紀係咪 specified insurance company？",
+     "options": [
+      {
+       "id": "I_ins-s2o1",
+       "text": "唔係，除非有責任向帳戶持有人付款",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD Guidance：broker “is part of the payment chain and is not a specified insurance company unless obliged to make payments”。",
+       "source_id": "GUID"
+      },
+      {
+       "id": "I_ins-s2o2",
+       "text": "係，因為佢賣保單",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "GUID"
+      }
+     ]
+    },
+    {
+     "id": "I_ins-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "年金合約到期。邊個係 account holder？",
+     "options": [
+      {
+       "id": "I_ins-s3o1",
+       "text": "有權收到期付款嘅人",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50A：“the individual or entity that is entitled to receive a payment on the maturity”。",
+       "source_id": "O16"
+      },
+      {
+       "id": "I_ins-s3o2",
+       "text": "賣保單嘅經紀",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O16"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "I_ins-s1": [
+     "I_ins-s1o1"
+    ],
+    "I_ins-s2": [
+     "I_ins-s2o1"
+    ],
+    "I_ins-s3": [
+     "I_ins-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O16",
+    "GUID"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Eng.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "I_sec",
+   "track": "INTEG",
+   "kind": "story",
+   "title": "證券行：tokenised 股份",
+   "title_long": "證券行：tokenised 股份同 crypto 兌換",
+   "icon": "chat",
+   "difficulty": 1,
+   "minutes": 3,
+   "roles": [
+    "r1"
+   ],
+   "industries": [
+    "sec"
+   ],
+   "element_ids": [
+    "fi",
+    "dual",
+    "rcasp",
+    "cmp"
+   ],
+   "steps": [
+    {
+     "id": "I_sec-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "你係 SFC 持牌證券行（dealing in securities）。CRS 下屬咩？",
+     "options": [
+      {
+       "id": "I_sec-s1o1",
+       "text": "Investment entity",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50A：SFO 持牌進行證券交易等受規管活動嘅法團屬 investment entity。",
+       "source_id": "O16"
+      },
+      {
+       "id": "I_sec-s1o2",
+       "text": "唔係 FI",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O16"
+      }
+     ]
+    },
+    {
+     "id": "I_sec-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "客戶買 tokenised shares（以 crypto 形式發行嘅股份）。",
+     "options": [
+      {
+       "id": "I_sec-s2o1",
+       "text": "可能同時係 CARF relevant crypto-asset 同 CRS financial asset；已喺 CARF 報 gross proceeds，CRS 可以唔再報",
+       "risk": 0,
+       "correct": true,
+       "explain": "OECD：“shares issued in crypto form” 例子；IRD amended CRS 頁講避免重複申報。",
+       "source_id": "OECD"
+      },
+      {
+       "id": "I_sec-s2o2",
+       "text": "同 CARF、CRS 都冇關",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "CO"
+      }
+     ]
+    },
+    {
+     "id": "I_sec-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "證券行開始以業務形式為客戶做 crypto 兌換。",
+     "options": [
+      {
+       "id": "I_sec-s3o1",
+       "text": "屬 RCASP；有香港 nexus 就係 HKRCASP，要登記同做盡職審查",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50M RCASP 定義；s.50O 登記。",
+       "source_id": "O8"
+      },
+      {
+       "id": "I_sec-s3o2",
+       "text": "有 SFC 牌就唔使理 CARF",
+       "risk": 3,
+       "correct": false,
+       "explain": "我嘅來源冇咁嘅豁免。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "I_sec-s1": [
+     "I_sec-s1o1"
+    ],
+    "I_sec-s2": [
+     "I_sec-s2o1"
+    ],
+    "I_sec-s3": [
+     "I_sec-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O16",
+    "OECD",
+    "CO",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Eng.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C3",
+   "track": "CARF",
+   "kind": "story",
+   "title": "二線抽查新戶",
+   "title_long": "第二道防線：抽查新戶",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "sp",
+    "rec"
+   ],
+   "steps": [
+    {
+     "id": "C3-s1",
+     "who": [],
+     "evidence": [
+      "抽查 50 個 2027 年新戶",
+      "8 個 self-cert 只有 1 個居民地，但 KYC 顯示海外地址",
+      "3 個冇簽署或日期"
+     ],
+     "prompt": "第一步？",
+     "options": [
+      {
+       "id": "C3-s1o1",
+       "text": "要求前線逐個做 reasonableness check，重新取得有效 self-cert",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：confirm reasonableness；change of circumstances 要重新取得。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C3-s1o2",
+       "text": "樣本細，唔使理",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：系統性問題冇處理。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C3-s1o3",
+       "text": "直接用 KYC 地址改居民地",
+       "risk": 2,
+       "correct": false,
+       "explain": "居民地要由客戶自我證明（遊戲判斷）。",
+       "source_id": "SC"
+      }
+     ]
+    },
+    {
+     "id": "C3-s2",
+     "who": [
+      {
+       "name": "外判 SP",
+       "line": "盡職審查係我哋做，出事我哋負責。"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點回應？",
+     "options": [
+      {
+       "id": "C3-s2o1",
+       "text": "接受，責任已轉移",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯：s.50U(2)；s.80R(2)：聘 SP 本身唔構成合理辯解。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C3-s2o2",
+       "text": "責任仍喺 HKRCASP，要加強監察 SP 並保留紀錄",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50U(2)。OECD CARF FAQ 亦話責任 “remain the responsibility of the Reporting Crypto-Asset Service Provider”。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C3-s2o3",
+       "text": "即刻終止合約，問題帳戶唔使理",
+       "risk": 1,
+       "correct": false,
+       "explain": "可以考慮換 SP，但問題帳戶仍要補救。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C3-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "補救計劃點寫？",
+     "options": [
+      {
+       "id": "C3-s3o1",
+       "text": "列出受影響帳戶、補收時間表、負責人，定期向管理層匯報",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報 Key Takeaways：“Update internal CRS policies, controls and guidance”——呢句原文講 CRS；CARF 對應原文未核實（UNVERIFIED），細節屬遊戲建議。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C3-s3o2",
+       "text": "刪除有問題嘅舊 self-cert",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：違反紀錄保存（s.50S(2)）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C3-s3o3",
+       "text": "等 IRD 查先算",
+       "risk": 2,
+       "correct": false,
+       "explain": "高風險。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C3-s1": [
+     "C3-s1o1"
+    ],
+    "C3-s2": [
+     "C3-s2o2"
+    ],
+    "C3-s3": [
+     "C3-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "SC",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C4",
+   "track": "CARF",
+   "kind": "story",
+   "title": "前線升級個案",
+   "title_long": "第二道防線：前線升級個案",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "vasp",
+    "bank"
+   ],
+   "element_ids": [
+    "coc",
+    "rec",
+    "csc"
+   ],
+   "steps": [
+    {
+     "id": "C4-s1",
+     "who": [
+      {
+       "name": "前線 阿詩",
+       "line": "客戶 Mr Wong 話佢已經唔係加拿大居民，要求刪除舊 self-cert，唔好再報加拿大。點算？"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你俾阿詩嘅建議？",
+     "options": [
+      {
+       "id": "C4-s1o1",
+       "text": "照刪",
+       "risk": 3,
+       "correct": false,
+       "explain": "後果：紀錄要保存 6 年（s.50S(2)；CRS 見 amended s.50D(2)）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C4-s1o2",
+       "text": "請客戶提供新嘅有效 self-cert，或者取得合理解釋同文件；舊紀錄照保存",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：change of circumstances 嘅處理方法。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C4-s1o3",
+       "text": "叫客戶自己同 IRD 講",
+       "risk": 2,
+       "correct": false,
+       "explain": "盡職審查係機構責任。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C4-s2",
+     "who": [],
+     "evidence": [
+      "新 self-cert：只填香港",
+      "客戶仍用加拿大地址收月結單"
+     ],
+     "prompt": "新 self-cert 收到，但有矛盾。",
+     "options": [
+      {
+       "id": "C4-s2o1",
+       "text": "照收",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇做 reasonableness check。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C4-s2o2",
+       "text": "要求解釋同文件，未解決前唔接受",
+       "risk": 0,
+       "correct": true,
+       "explain": "OECD Commentary：fails the reasonableness test 就要 valid self-cert 或 reasonable explanation and documentation。",
+       "source_id": "OECD"
+      },
+      {
+       "id": "C4-s2o3",
+       "text": "即刻終止客戶關係",
+       "risk": 1,
+       "correct": false,
+       "explain": "未必需要（遊戲判斷）。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C4-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "點記錄呢次升級？",
+     "options": [
+      {
+       "id": "C4-s3o1",
+       "text": "喺個案紀錄寫低事實、文件、決定同日期",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：要保存足夠紀錄令報表資料 “readily ascertained”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C4-s3o2",
+       "text": "口頭講咗就算",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇紀錄。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C4-s1": [
+     "C4-s1o2"
+    ],
+    "C4-s2": [
+     "C4-s2o2"
+    ],
+    "C4-s3": [
+     "C4-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "BRF",
+    "OECD"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "W_front",
+   "track": "CARF",
+   "kind": "write",
+   "title": "覆前線阿詩",
+   "title_long": "短寫作：覆前線阿詩（2–3 句）",
+   "icon": "pen",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "vasp",
+    "bank"
+   ],
+   "element_ids": [
+    "coc",
+    "rec"
+   ],
+   "long": false,
+   "intro": "阿詩：「Mr Wong 話佢已經唔係加拿大居民，要求刪除舊 self-cert。點算？」",
+   "prompt": "寫 2–3 句回覆阿詩。",
+   "model_answer": "唔好刪除舊 self-cert，紀錄要按規定保存（報表到期日後 6 年）。請 Mr Wong 提供新嘅有效 self-cert；如果同我哋 KYC 資料有矛盾，要取得合理解釋同文件先接受。收到之後交返我覆核。",
+   "model_source_id": "BRF",
+   "rubric_keywords": [
+    {
+     "label": "保留舊紀錄",
+     "any": [
+      "保留",
+      "唔好刪",
+      "唔刪",
+      "不要刪",
+      "keep",
+      "存檔"
+     ]
+    },
+    {
+     "label": "新嘅有效 self-cert",
+     "any": [
+      "self-cert",
+      "自我證明"
+     ]
+    },
+    {
+     "label": "合理解釋或文件",
+     "any": [
+      "解釋",
+      "文件",
+      "explanation",
+      "document"
+     ]
+    },
+    {
+     "label": "6 年",
+     "any": [
+      "6 年",
+      "六年",
+      "6 years",
+      "6年"
+     ]
+    }
+   ],
+   "checks": [
+    "3 句內講完",
+    "有清楚下一步（邊個做咩）"
+   ],
+   "answers": null,
+   "short": "寫作｜1 篇｜約 2 分鐘",
+   "detail": "阿詩：「Mr Wong 話佢已經唔係加拿大居民，要求刪除舊 self-cert。點算？」",
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "B_comm",
+   "track": "CARF",
+   "kind": "build",
+   "title": "11 月合規委員會",
+   "title_long": "砌報告：每月合規委員會（11 月）",
+   "icon": "blocks",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "reg",
+    "csc",
+    "sp",
+    "dd",
+    "ret",
+    "prog"
+   ],
+   "prompt": "揀 5 項放入委員會報告。",
+   "need": 5,
+   "options": [
+    {
+     "id": "B_comm-o1",
+     "text": "CARF Portal 計劃 2027 年 9 月推出；我哋要喺 2028 年 1 月 31 日前登記",
+     "correct": true,
+     "explain": "IRD 簡報日期（計劃）。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "B_comm-o2",
+     "text": "抽查：8/50 新戶 self-cert 同 KYC 有矛盾，補救中（負責人、目標日期）",
+     "correct": true,
+     "explain": "委員會要知嘅風險。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "B_comm-o3",
+     "text": "SP 監察：外判唔轉移責任，下季覆核 SP",
+     "correct": true,
+     "explain": "s.50U(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "B_comm-o4",
+     "text": "現有用戶 self-cert 補收進度，對比 2028 年 1 月 1 日死線",
+     "correct": true,
+     "explain": "簡報：by 1 January 2028。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "B_comm-o5",
+     "text": "需要決定：批准 XML Schema 3.0 系統升級預算",
+     "correct": true,
+     "explain": "簡報要求準備新 schema mapping 同測試檔案（預算屬遊戲情境）。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "B_comm-o6",
+     "text": "背景：OECD 喺 2023 年發佈 CARF",
+     "correct": false,
+     "explain": "背景資料，唔係本月重點（遊戲判斷）。",
+     "source_id": "PR"
+    },
+    {
+     "id": "B_comm-o7",
+     "text": "SP 已承擔所有法律責任，我哋冇風險",
+     "correct": false,
+     "explain": "錯：s.50U(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "B_comm-o8",
+     "text": "IRD 已確認 2028 年 9 月首次 CARF 交換",
+     "correct": false,
+     "explain": "官方只講 starting from 2028；月份只見於 PwC（UNVERIFIED）。",
+     "source_id": "PR"
+    }
+   ],
+   "answers": [
+    "B_comm-o1",
+    "B_comm-o2",
+    "B_comm-o3",
+    "B_comm-o4",
+    "B_comm-o5"
+   ],
+   "short": "砌報告｜5 項｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8",
+    "PR"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "W_comm",
+   "track": "CARF",
+   "kind": "write",
+   "title": "委員會報告重點",
+   "title_long": "長寫作：每月合規委員會報告重點",
+   "icon": "pen",
+   "difficulty": 3,
+   "minutes": 6,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "reg",
+    "ret",
+    "sp",
+    "prog"
+   ],
+   "long": true,
+   "intro": "用進度、風險、跟進三部分寫本月 CARF／amended CRS 報告重點（5–8 點）。",
+   "prompt": "自由寫，寫完對照範文同評分。",
+   "model_answer": "進度：\n• CARF Portal 計劃 2027 年 9 月推出（IRD 簡報），登記資料已準備 60%。\n• 現有用戶 self-cert 補收 45%，死線 2028 年 1 月 1 日。\n風險：\n• 8/50 新戶 self-cert 同 KYC 有矛盾（負責人：前線主管，月底前補救）。\n• SP 外判唔轉移責任（s.50U(2)），下季覆核 SP。\n跟進同決定：\n• 請委員會批准 XML Schema 3.0 升級預算。\n• 首次 CARF 交換月份未經官方確認（UNVERIFIED），持續監察。",
+   "model_source_id": "BRF",
+   "rubric_keywords": [
+    {
+     "label": "進度",
+     "any": [
+      "進度",
+      "progress",
+      "完成"
+     ]
+    },
+    {
+     "label": "風險",
+     "any": [
+      "風險",
+      "risk"
+     ]
+    },
+    {
+     "label": "跟進行動",
+     "any": [
+      "跟進",
+      "行動",
+      "action"
+     ]
+    },
+    {
+     "label": "日期／限期",
+     "any": [
+      "2028",
+      "2027",
+      "限期",
+      "deadline",
+      "死線"
+     ]
+    },
+    {
+     "label": "負責人",
+     "any": [
+      "負責",
+      "owner"
+     ]
+    },
+    {
+     "label": "需要決定",
+     "any": [
+      "決定",
+      "批准",
+      "approve"
+     ]
+    }
+   ],
+   "checks": [
+    "分開進度、風險、跟進三部分",
+    "每個風險有負責人同日期",
+    "日期有來源",
+    "未核實嘅標咗 UNVERIFIED"
+   ],
+   "answers": null,
+   "short": "寫作｜1 篇｜約 6 分鐘",
+   "detail": "用進度、風險、跟進三部分寫本月 CARF／amended CRS 報告重點（5–8 點）。",
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "I_fund",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "基金同 crypto 投資",
+   "title_long": "基金：fund manager、sub-funds 同 crypto 投資",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r2"
+   ],
+   "industries": [
+    "fund"
+   ],
+   "element_ids": [
+    "fi",
+    "reg2",
+    "dfp"
+   ],
+   "steps": [
+    {
+     "id": "I_fund-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "你係 SFC 持牌資產管理公司。CRS 下屬咩？",
+     "options": [
+      {
+       "id": "I_fund-s1o1",
+       "text": "Investment entity",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50A：SFO 持牌進行資產管理等受規管活動嘅法團。",
+       "source_id": "O16"
+      },
+      {
+       "id": "I_fund-s1o2",
+       "text": "Depository institution",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯：你唔接受存款。",
+       "source_id": "O16"
+      }
+     ]
+    },
+    {
+     "id": "I_fund-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "你係 umbrella fund 嘅 responsible RFI，登記點做？",
+     "options": [
+      {
+       "id": "I_fund-s2o1",
+       "text": "為 sub-funds 登記",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：Umbrella Fund → Sub-funds of the umbrella fund。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "I_fund-s2o2",
+       "text": "只登記 umbrella fund",
+       "risk": 2,
+       "correct": false,
+       "explain": "漏咗 sub-funds。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "I_fund-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "基金開始投資 BTC。2028 年起有咩影響？",
+     "options": [
+      {
+       "id": "I_fund-s3o1",
+       "text": "Amended CRS 嘅 investment entity 定義包括 crypto-assets 作為投資類別",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：Investment Entity “Include crypto-assets as a category of eligible investments”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "I_fund-s3o2",
+       "text": "冇影響",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "CO"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "I_fund-s1": [
+     "I_fund-s1o1"
+    ],
+    "I_fund-s2": [
+     "I_fund-s2o1"
+    ],
+    "I_fund-s3": [
+     "I_fund-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O16",
+    "BRF",
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Eng.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C5",
+   "track": "CARF",
+   "kind": "story",
+   "title": "IRD 查詢信",
+   "title_long": "RO：IRD 查詢信",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 4,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "sp",
+    "pen",
+    "reg",
+    "gov"
+   ],
+   "steps": [
+    {
+     "id": "C5-s1",
+     "who": [],
+     "evidence": [
+      "IRD 來信（虛構）：要求提供 2027 年度 CARF 登記資料、盡職審查程序同抽樣 self-cert",
+      "回覆日期：信內指定"
+     ],
+     "prompt": "第一步？",
+     "options": [
+      {
+       "id": "C5-s1o1",
+       "text": "記低信內限期、指派負責人、即刻收集文件，如實回覆",
+       "risk": 0,
+       "correct": true,
+       "explain": "合理做法（遊戲判斷）。",
+       "source_id": "CARF"
+      },
+      {
+       "id": "C5-s1o2",
+       "text": "交俾 SP 全權處理",
+       "risk": 2,
+       "correct": false,
+       "explain": "s.50U(2)：責任唔轉移。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C5-s1o3",
+       "text": "等 CCO 放完假先處理",
+       "risk": 2,
+       "correct": false,
+       "explain": "可能錯過限期。",
+       "source_id": "CARF"
+      }
+     ]
+    },
+    {
+     "id": "C5-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "SP 漏咗幫你登記。你點向 IRD 解釋？",
+     "options": [
+      {
+       "id": "C5-s2o1",
+       "text": "話已聘 SP，所以有合理辯解",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯：s.80R(2)：engaging a service provider does not in itself constitute a reasonable excuse。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C5-s2o2",
+       "text": "如實說明事實、補救措施同時間表",
+       "risk": 0,
+       "correct": true,
+       "explain": "責任喺 HKRCASP（s.50U(2)）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C5-s2o3",
+       "text": "唔提",
+       "risk": 3,
+       "correct": false,
+       "explain": "高風險。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C5-s3",
+     "who": [],
+     "evidence": [
+      "IRD 發出 s.82E 意向通知（虛構）"
+     ],
+     "prompt": "點應對？",
+     "options": [
+      {
+       "id": "C5-s3o1",
+       "text": "喺通知指定日期前提交申述同證據",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.82E(4)(a)(iii)：指定日期 “must not be within 21 days after the notice is given”。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C5-s3o2",
+       "text": "唔理，評定後先上訴",
+       "risk": 1,
+       "correct": false,
+       "explain": "仍可喺評定通知後 1 個月內向 Board of Review 上訴（s.82F），但錯過申述機會。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C5-s3o3",
+       "text": "準備埋同一件事嘅刑事檢控",
+       "risk": 1,
+       "correct": false,
+       "explain": "s.82E(9)：已評定就唔會因同一作為被 s.80R 控告。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C5-s1": [
+     "C5-s1o1"
+    ],
+    "C5-s2": [
+     "C5-s2o2"
+    ],
+    "C5-s3": [
+     "C5-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 4 分鐘",
+   "detail": "UNVERIFIED：RO 係遊戲角色名（UNVERIFIED 法定角色）。IRD 一般查詢信嘅回覆期限要按信件，我嘅來源冇列（UNVERIFIED）。",
+   "quotes": [],
+   "sources": [
+    "CARF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "status": "UNVERIFIED",
+   "unverified_reason": "RO 係遊戲角色名（UNVERIFIED 法定角色）。IRD 一般查詢信嘅回覆期限要按信件，我嘅來源冇列（UNVERIFIED）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "B_docs",
+   "track": "CARF",
+   "kind": "build",
+   "title": "IRD 查詢文件",
+   "title_long": "砌清單：IRD 查詢要準備咩文件",
+   "icon": "blocks",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "reg",
+    "dd",
+    "rec",
+    "sp"
+   ],
+   "prompt": "IRD 來信（虛構）要 2027 年度 CARF 登記同盡職審查資料。揀 4 項。",
+   "need": 4,
+   "options": [
+    {
+     "id": "B_docs-o1",
+     "text": "CARF Portal 登記紀錄",
+     "correct": true,
+     "explain": "s.50O 登記責任。",
+     "source_id": "O8"
+    },
+    {
+     "id": "B_docs-o2",
+     "text": "盡職審查程序文件同抽樣 self-cert",
+     "correct": true,
+     "explain": "s.50P。",
+     "source_id": "O8"
+    },
+    {
+     "id": "B_docs-o3",
+     "text": "交易同報表紀錄",
+     "correct": true,
+     "explain": "簡報：要保存足夠紀錄令報表資料 readily ascertained。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "B_docs-o4",
+     "text": "SP 合約同你監察 SP 嘅紀錄",
+     "correct": true,
+     "explain": "s.50U(2)：責任唔轉移，所以要證明有監察（遊戲判斷）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "B_docs-o5",
+     "text": "SP 寫嘅「責任由我哋負」聲明，當合理辯解",
+     "correct": false,
+     "explain": "s.80R(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "B_docs-o6",
+     "text": "補做 self-cert 並倒填返開戶日期",
+     "correct": false,
+     "explain": "倒填日期屬誤導做法（遊戲判斷）。",
+     "source_id": null
+    },
+    {
+     "id": "B_docs-o7",
+     "text": "全公司所有客戶嘅完整資料",
+     "correct": false,
+     "explain": "超出查詢範圍，按信件要求提供（遊戲判斷）。",
+     "source_id": null
+    }
+   ],
+   "answers": [
+    "B_docs-o1",
+    "B_docs-o2",
+    "B_docs-o3",
+    "B_docs-o4"
+   ],
+   "short": "砌報告｜4 項｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C6",
+   "track": "CARF",
+   "kind": "story",
+   "title": "CCO 要詳情",
+   "title_long": "RO：CCO 要詳情",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "reg",
+    "dd",
+    "ret",
+    "gov"
+   ],
+   "steps": [
+    {
+     "id": "C6-s1",
+     "who": [
+      {
+       "name": "CCO 黃生",
+       "line": "CARF 我哋實際要做咩、幾時做？一段講晒。"
+      }
+     ],
+     "evidence": [],
+     "prompt": "揀最清楚嘅說明。",
+     "options": [
+      {
+       "id": "C6-s1o1",
+       "text": "結論：我哋係 HKRCASP。2028 年 1 月 31 日前登記 CARF Portal（Portal 計劃 2027 年 9 月推出），2028 年 1 月 1 日前補齊現有用戶 self-cert，2027 年度報表約 2028 年 6 月初交。建議本月成立專案組，並加強監察 SP。來源：IRD 簡報。",
+       "risk": 0,
+       "correct": true,
+       "explain": "結論先、日期、建議、來源。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C6-s1o2",
+       "text": "CARF 係 OECD 新框架，好複雜，我哋會跟進，遲啲再報。",
+       "risk": 1,
+       "correct": false,
+       "explain": "冇日期、冇行動。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C6-s1o3",
+       "text": "CARF 2028 年先生效，而家唔使做，SP 會搞掂。",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯：CARF 1 Jan 2027 生效；SP 唔轉移責任。",
+       "source_id": "CO"
+      }
+     ]
+    },
+    {
+     "id": "C6-s2",
+     "who": [
+      {
+       "name": "CCO 黃生",
+       "line": "Portal 2027 年 9 月推出係咪法定日期？"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點答？",
+     "options": [
+      {
+       "id": "C6-s2o1",
+       "text": "唔係，係 IRD 簡報講嘅 scheduled date，簡報有免責聲明，要留意更新",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：“scheduled to be launched in September 2027.”",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C6-s2o2",
+       "text": "係，條例寫明",
+       "risk": 2,
+       "correct": false,
+       "explain": "我嘅來源冇咁寫。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C6-s1": [
+     "C6-s1o1"
+    ],
+    "C6-s2": [
+     "C6-s2o1"
+    ]
+   },
+   "short": "情境決策｜2 步｜約 2 分鐘",
+   "detail": "UNVERIFIED：RO 係遊戲角色名（UNVERIFIED 法定角色）。",
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "CO",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "RO 係遊戲角色名（UNVERIFIED 法定角色）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "W_cco1",
+   "track": "CARF",
+   "kind": "write",
+   "title": "向 CCO 更新 Portal",
+   "title_long": "短寫作：email 向 CCO 更新 CARF Portal（2–3 句）",
+   "icon": "pen",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "reg"
+   ],
+   "long": false,
+   "intro": null,
+   "prompt": "寫 2–3 句 email。",
+   "model_answer": "黃生：IRD 喺 2026 年 11 月簡介會簡報講 CARF Portal 計劃 2027 年 9 月推出，我哋要喺 2028 年 1 月 31 日前登記。呢個係計劃日期，唔係法定日期，我會每日留意 IRD 更新。建議下個月開始準備登記資料。",
+   "model_source_id": "BRF",
+   "rubric_keywords": [
+    {
+     "label": "2027 年 9 月",
+     "any": [
+      "9 月",
+      "september",
+      "sept",
+      "9月"
+     ]
+    },
+    {
+     "label": "31 Jan 2028",
+     "any": [
+      "1 月 31",
+      "31 jan",
+      "31/1",
+      "1月31"
+     ]
+    },
+    {
+     "label": "計劃日期",
+     "any": [
+      "計劃",
+      "scheduled",
+      "唔係法定",
+      "非法定"
+     ]
+    },
+    {
+     "label": "建議",
+     "any": [
+      "建議",
+      "recommend"
+     ]
+    }
+   ],
+   "checks": [
+    "第一句講到重點",
+    "有來源"
+   ],
+   "answers": null,
+   "short": "寫作｜1 篇｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "W_cco",
+   "track": "CARF",
+   "kind": "write",
+   "title": "CARF 準備 memo",
+   "title_long": "長寫作：俾 CCO 嘅 CARF 準備 memo",
+   "icon": "pen",
+   "difficulty": 3,
+   "minutes": 6,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "reg",
+    "dd",
+    "ret",
+    "rec",
+    "sp",
+    "gov"
+   ],
+   "long": true,
+   "intro": "CCO 要一份 memo：CARF 準備狀況、限期、風險同建議。",
+   "prompt": "寫 5–10 句 memo。",
+   "model_answer": "結論：我哋屬 HKRCASP，CARF 由 2027 年 1 月 1 日起生效，準備大致跟進度，但有兩個風險。\n限期：CARF Portal 計劃 2027 年 9 月推出；2028 年 1 月 31 日前登記；2028 年 1 月 1 日前補齊現有用戶 self-cert；2027 年度報表 2028 年 6 月初到期；紀錄保存至報表到期日後 6 年（來源：IRD 簡報；s.50S(2)）。\n風險：1）self-cert 補收進度落後；2）盡職審查外判，但 s.50U(2) 講明責任唔轉移。\n建議：成立專案組（負責人：合規），每月向委員會匯報；季度覆核 SP。\n未核實：首次 CARF 交換月份（UNVERIFIED）。",
+   "model_source_id": "BRF",
+   "rubric_keywords": [
+    {
+     "label": "CARF 生效 2027",
+     "any": [
+      "2027 年 1 月 1 日",
+      "1 jan 2027",
+      "1/1/2027",
+      "2027年1月1日"
+     ]
+    },
+    {
+     "label": "Portal 2027 年 9 月",
+     "any": [
+      "9 月",
+      "september",
+      "9月"
+     ]
+    },
+    {
+     "label": "登記 31 Jan 2028",
+     "any": [
+      "1 月 31",
+      "31 jan",
+      "1月31"
+     ]
+    },
+    {
+     "label": "現有用戶 self-cert",
+     "any": [
+      "self-cert",
+      "自我證明"
+     ]
+    },
+    {
+     "label": "報表 6 月初",
+     "any": [
+      "6 月",
+      "june",
+      "6月"
+     ]
+    },
+    {
+     "label": "紀錄 6 年",
+     "any": [
+      "6 年",
+      "六年",
+      "6年"
+     ]
+    },
+    {
+     "label": "SP 責任",
+     "any": [
+      "service provider",
+      "sp",
+      "外判"
+     ]
+    },
+    {
+     "label": "建議／行動",
+     "any": [
+      "建議",
+      "recommend",
+      "行動"
+     ]
+    }
+   ],
+   "checks": [
+    "第一句係結論",
+    "每個日期都有來源",
+    "有負責人同時間表",
+    "未核實嘅標咗 UNVERIFIED",
+    "10 句內講完"
+   ],
+   "answers": null,
+   "short": "寫作｜1 篇｜約 6 分鐘",
+   "detail": "CCO 要一份 memo：CARF 準備狀況、限期、風險同建議。",
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "I_trust",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "信託公司",
+   "title_long": "信託公司：trustee-documented trust 同解散",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "trust",
+    "fo"
+   ],
+   "element_ids": [
+    "fi",
+    "reg2",
+    "rec2",
+    "gov"
+   ],
+   "steps": [
+    {
+     "id": "I_trust-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "你嘅信託公司係 RFI，做多個 trust 嘅 trustee，並為呢啲 trust 申報所有 reportable accounts。",
+     "options": [
+      {
+       "id": "I_trust-s1o1",
+       "text": "呢啲 trust 可以係 trustee-documented trust（non-reporting FI）",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD Guidance：“A trust is a non-reporting financial institution if … the trustee of the trust is a reporting financial institution and reports all information required …”",
+       "source_id": "GUID"
+      },
+      {
+       "id": "I_trust-s1o2",
+       "text": "每個 trust 一定要自己申報",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇考慮 trustee-documented trust。",
+       "source_id": "GUID"
+      }
+     ]
+    },
+    {
+     "id": "I_trust-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "屬 RFI 嘅 trusts，登記由邊個做？",
+     "options": [
+      {
+       "id": "I_trust-s2o1",
+       "text": "Trustee 作為 responsible RFI 為 trusts 登記",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：Trustee → Trusts。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "I_trust-s2o2",
+       "text": "唔使登記",
+       "risk": 2,
+       "correct": false,
+       "explain": "Ord 4 起 RFI 要登記（s.50AB(1)）。",
+       "source_id": "O4P"
+      }
+     ]
+    },
+    {
+     "id": "I_trust-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "一個曾係 RFI 嘅 trust 解散。紀錄保存邊個負責？",
+     "options": [
+      {
+       "id": "I_trust-s3o1",
+       "text": "每位 specified officer（例如 trustee），或者 designated officer",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD Ord 4 頁：every specified officer … or the designated officer … must ensure that the relevant record keeping requirement is complied with。",
+       "source_id": "O4P"
+      },
+      {
+       "id": "I_trust-s3o2",
+       "text": "冇人",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O4P"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "I_trust-s1": [
+     "I_trust-s1o1"
+    ],
+    "I_trust-s2": [
+     "I_trust-s2o1"
+    ],
+    "I_trust-s3": [
+     "I_trust-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "GUID",
+    "BRF",
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C7",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "雙重稅務居民",
+   "title_long": "特殊個案：雙重稅務居民",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "bank"
+   ],
+   "element_ids": [
+    "tb",
+    "sc"
+   ],
+   "steps": [
+    {
+     "id": "C7-s1",
+     "who": [
+      {
+       "name": "客戶",
+       "line": "我係香港同新加坡居民，按 DTA 只算香港。（2028 年，銀行帳戶）"
+      }
+     ],
+     "evidence": [],
+     "prompt": "Amended CRS 下點做？",
+     "options": [
+      {
+       "id": "C7-s1o1",
+       "text": "要求申報兩個居民地",
+       "risk": 0,
+       "correct": true,
+       "explain": "Sch 17D para 2B。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C7-s1o2",
+       "text": "接受只報香港",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯：唔可以靠 tiebreaker。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C7-s1o3",
+       "text": "只報新加坡",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯：要申報所有居民地。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C7-s2",
+     "who": [],
+     "evidence": [
+      "客戶以 citizenship by investment 取得某地身份",
+      "self-cert 只寫嗰個地方"
+     ],
+     "prompt": "點處理？",
+     "options": [
+      {
+       "id": "C7-s2o1",
+       "text": "採取進一步措施確定居民地",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報（CBI／RBI）：“To take further measures to ascertain jurisdiction of residence in the self-certifications”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C7-s2o2",
+       "text": "照收",
+       "risk": 2,
+       "correct": false,
+       "explain": "忽略 CBI／RBI 風險。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C7-s1": [
+     "C7-s1o1"
+    ],
+    "C7-s2": [
+     "C7-s2o1"
+    ]
+   },
+   "short": "情境決策｜2 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C8",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "有問題嘅 self-cert",
+   "title_long": "特殊個案：有問題嘅 self-cert",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "bank",
+    "sec"
+   ],
+   "element_ids": [
+    "sc"
+   ],
+   "steps": [
+    {
+     "id": "C8-s1",
+     "who": [],
+     "evidence": [
+      "self-cert：加拿大 TIN 空白",
+      "冇揀原因 A／B／C"
+     ],
+     "prompt": "點處理？",
+     "options": [
+      {
+       "id": "C8-s1o1",
+       "text": "要求填 TIN 或者揀原因（揀 B 要解釋）",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD 範本：“If a TIN is unavailable, provide the appropriate reason A, B or C”。",
+       "source_id": "SCF"
+      },
+      {
+       "id": "C8-s1o2",
+       "text": "自己填客戶 HKID",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯：HKID 只係香港居民嘅 TIN。",
+       "source_id": "SCF"
+      },
+      {
+       "id": "C8-s1o3",
+       "text": "照收",
+       "risk": 2,
+       "correct": false,
+       "explain": "資料唔完整。",
+       "source_id": "SCF"
+      }
+     ]
+    },
+    {
+     "id": "C8-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "表格冇簽署同日期。",
+     "options": [
+      {
+       "id": "C8-s2o1",
+       "text": "退回補簽",
+       "risk": 0,
+       "correct": true,
+       "explain": "範本 Part 3 有 Signature 同 Date。",
+       "source_id": "SCF"
+      },
+      {
+       "id": "C8-s2o2",
+       "text": "照收",
+       "risk": 2,
+       "correct": false,
+       "explain": "唔完整。",
+       "source_id": "SCF"
+      }
+     ]
+    },
+    {
+     "id": "C8-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "（2028 年）例外情況下真係攞唔到 self-cert。",
+     "options": [
+      {
+       "id": "C8-s3o1",
+       "text": "可以用 pre-existing account 嘅程序，但唔係標準做法",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：“Not a standard procedure”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C8-s3o2",
+       "text": "以後所有新戶都咁做，慳時間",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C8-s1": [
+     "C8-s1o1"
+    ],
+    "C8-s2": [
+     "C8-s2o1"
+    ],
+    "C8-s3": [
+     "C8-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "SCF",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/scf_ind.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C9",
+   "track": "CARF",
+   "kind": "story",
+   "title": "crypto 交易歸類出錯",
+   "title_long": "特殊個案：crypto 交易分類出錯",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "bank",
+    "vasp",
+    "sec"
+   ],
+   "element_ids": [
+    "rtx",
+    "crep"
+   ],
+   "steps": [
+    {
+     "id": "C9-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "客戶用 USDT 向商戶付款買 HK$450,000 嘅貨，系統當 exchange transaction。",
+     "options": [
+      {
+       "id": "C9-s1o1",
+       "text": "應該係 transfer；超過 $390,000 屬 reportable retail payment transaction",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50M。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C9-s1o2",
+       "text": "係 crypto↔fiat exchange",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C9-s1o3",
+       "text": "唔使報",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C9-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "發現錯誤之後？",
+     "options": [
+      {
+       "id": "C9-s2o1",
+       "text": "通知第二道防線同 RO、記錄，向 IRD CARF 組查詢更正方法",
+       "risk": 0,
+       "correct": true,
+       "explain": "更正程序 UNVERIFIED；IRD CARF 頁有查詢聯絡。",
+       "source_id": "CARF"
+      },
+      {
+       "id": "C9-s2o2",
+       "text": "靜靜改系統，唔記錄",
+       "risk": 3,
+       "correct": false,
+       "explain": "高風險。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C9-s1": [
+     "C9-s1o1"
+    ],
+    "C9-s2": [
+     "C9-s2o1"
+    ]
+   },
+   "short": "情境決策｜2 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：更正已交報表嘅具體程序同期限未核實（UNVERIFIED）。",
+   "quotes": [],
+   "sources": [
+    "O8",
+    "CARF",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "更正已交報表嘅具體程序同期限未核實（UNVERIFIED）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "D2",
+   "track": "INTEG",
+   "kind": "story",
+   "title": "同一客戶兩邊報",
+   "title_long": "特殊個案：同一客戶喺 CRS 同 CARF 兩邊",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "bank",
+    "vasp",
+    "sec"
+   ],
+   "element_ids": [
+    "dual",
+    "cmp",
+    "ddshare"
+   ],
+   "steps": [
+    {
+     "id": "D2-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "集團 RFI 同時係 RCASP，2028 年度 crypto gross proceeds 只喺 amended CRS 報，CARF 冇報。",
+     "options": [
+      {
+       "id": "D2-s1o1",
+       "text": "有問題：必須喺 CARF 報",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD：“must be reported under CARF”；CRS 報咗唔代替 CARF（簡報：but not vice versa）。",
+       "source_id": "CO"
+      },
+      {
+       "id": "D2-s1o2",
+       "text": "冇問題",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "D2-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "同一客戶喺集團有銀行帳戶（CRS）同 crypto 帳戶（CARF）。tiebreaker 規則？",
+     "options": [
+      {
+       "id": "D2-s2o1",
+       "text": "兩邊都唔可以用",
+       "risk": 0,
+       "correct": true,
+       "explain": "Sch 17D para 2B 同 Sch 17EA para 3。",
+       "source_id": "O8"
+      },
+      {
+       "id": "D2-s2o2",
+       "text": "只係 CARF 唔可以",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "D2-s1": [
+     "D2-s1o1"
+    ],
+    "D2-s2": [
+     "D2-s2o1"
+    ]
+   },
+   "short": "情境決策｜2 步｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "CO",
+    "BRF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/crs_ordinance_2026.htm",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "I_fo",
+   "track": "INTEG",
+   "kind": "story",
+   "title": "Family office 定性",
+   "title_long": "Family office：投資實體定唔係？",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "fo"
+   ],
+   "element_ids": [
+    "fi",
+    "rcasp",
+    "dfp",
+    "cmp"
+   ],
+   "steps": [
+    {
+     "id": "I_fo-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "家族投資公司主要收入來自投資金融資產，並由一間持牌資產管理公司管理。",
+     "options": [
+      {
+       "id": "I_fo-s1o1",
+       "text": "可能屬 managed investment entity",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD Guidance：由 FI 管理，而 “gross income is primarily attributable to investing, reinvesting, or trading in financial assets”。",
+       "source_id": "GUID"
+      },
+      {
+       "id": "I_fo-s1o2",
+       "text": "一定係 active NFE",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "GUID"
+      }
+     ]
+    },
+    {
+     "id": "I_fo-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "另一間家族公司只直接持有香港物業。",
+     "options": [
+      {
+       "id": "I_fo-s2o1",
+       "text": "唔係 investment entity（real property 唔係 financial asset）",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD Guidance：property fund “is not an investment entity … because real property is not a financial asset”。",
+       "source_id": "GUID"
+      },
+      {
+       "id": "I_fo-s2o2",
+       "text": "係 investment entity",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "GUID"
+      }
+     ]
+    },
+    {
+     "id": "I_fo-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "家族公司自己持有 crypto，冇為客戶做兌換。",
+     "options": [
+      {
+       "id": "I_fo-s3o1",
+       "text": "唔係 RCASP；但如屬 investment entity，2028 年起 amended CRS 涵蓋投資 crypto 嘅 investment entity",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50M（as a business … for or on behalf of customers）；IRD amended CRS 頁。",
+       "source_id": "O8"
+      },
+      {
+       "id": "I_fo-s3o2",
+       "text": "一定要登記 CARF Portal",
+       "risk": 2,
+       "correct": false,
+       "explain": "冇為客戶 effectuating exchange transactions 就唔係 RCASP。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "I_fo-s1": [
+     "I_fo-s1o1"
+    ],
+    "I_fo-s2": [
+     "I_fo-s2o1"
+    ],
+    "I_fo-s3": [
+     "I_fo-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：Family office 冇專門 CRS 定義；以下按一般 investment entity 原則推論，實際要逐案分析（UNVERIFIED）。",
+   "quotes": [],
+   "sources": [
+    "GUID",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "Family office 冇專門 CRS 定義；以下按一般 investment entity 原則推論，實際要逐案分析（UNVERIFIED）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C10",
+   "track": "CARF",
+   "kind": "story",
+   "title": "設計開戶 App",
+   "title_long": "設計：開戶 App（CARF 用戶）",
+   "icon": "chat",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "vasp",
+    "bank",
+    "sec"
+   ],
+   "element_ids": [
+    "csc",
+    "ctb",
+    "dd",
+    "rp",
+    "ccp"
+   ],
+   "steps": [
+    {
+     "id": "C10-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "稅務居民地欄位點設計？",
+     "options": [
+      {
+       "id": "C10-s1o1",
+       "text": "可以加多個居民地，每個配 TIN 或冇 TIN 原因",
+       "risk": 0,
+       "correct": true,
+       "explain": "Sch 17EA para 3；IRD 範本：Indicate all (not restricted to five)。",
+       "source_id": "SCF"
+      },
+      {
+       "id": "C10-s1o2",
+       "text": "單一下拉選單",
+       "risk": 2,
+       "correct": false,
+       "explain": "做唔到申報所有居民地。",
+       "source_id": "O8"
+      },
+      {
+       "id": "C10-s1o3",
+       "text": "只問「你係咪香港居民」",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C10-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "TIN 驗證規則？",
+     "options": [
+      {
+       "id": "C10-s2o1",
+       "text": "冇 TIN 就強制揀原因 A／B／C，揀 B 要填解釋",
+       "risk": 0,
+       "correct": true,
+       "explain": "IRD 範本。",
+       "source_id": "SCF"
+      },
+      {
+       "id": "C10-s2o2",
+       "text": "冇 TIN 都可以提交",
+       "risk": 2,
+       "correct": false,
+       "explain": "資料唔完整。",
+       "source_id": "SCF"
+      },
+      {
+       "id": "C10-s2o3",
+       "text": "一律要 HKID",
+       "risk": 2,
+       "correct": false,
+       "explain": "HKID 只係香港居民 TIN。",
+       "source_id": "SCF"
+      }
+     ]
+    },
+    {
+     "id": "C10-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "點識別要行 CARF 流程嘅客？",
+     "options": [
+      {
+       "id": "C10-s3o1",
+       "text": "所有 crypto-asset users 開戶時都收 self-cert，再判斷係咪 reportable",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：“Obtain self-certifications from the crypto-asset users and controlling persons when taking in new customers”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C10-s3o2",
+       "text": "只對外國護照客",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C10-s3o3",
+       "text": "交易超過 $390,000 先收",
+       "risk": 2,
+       "correct": false,
+       "explain": "$390,000 只係 retail payment 門檻。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "C10-s4",
+     "who": [],
+     "evidence": [],
+     "prompt": "Reasonableness check 規則？",
+     "options": [
+      {
+       "id": "C10-s4o1",
+       "text": "自動比對 KYC 地址、電話同 self-cert，矛盾就轉人手",
+       "risk": 0,
+       "correct": true,
+       "explain": "OECD Commentary：用 AML/KYC 資料確認 reasonableness。",
+       "source_id": "OECD"
+      },
+      {
+       "id": "C10-s4o2",
+       "text": "唔比對",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C10-s1": [
+     "C10-s1o1"
+    ],
+    "C10-s2": [
+     "C10-s2o1"
+    ],
+    "C10-s3": [
+     "C10-s3o1"
+    ],
+    "C10-s4": [
+     "C10-s4o1"
+    ]
+   },
+   "short": "情境決策｜4 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：系統設計細節屬遊戲建議，唔係法定規格。",
+   "quotes": [],
+   "sources": [
+    "SCF",
+    "O8",
+    "BRF",
+    "OECD"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/scf_ind.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "系統設計細節屬遊戲建議，唔係法定規格。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "C11",
+   "track": "CRS2",
+   "kind": "story",
+   "title": "政策程序培訓系統",
+   "title_long": "設計：政策、程序、培訓、系統",
+   "icon": "chat",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "bank",
+    "fund",
+    "ins",
+    "sec"
+   ],
+   "element_ids": [
+    "dfp",
+    "ret2",
+    "sc",
+    "prog"
+   ],
+   "steps": [
+    {
+     "id": "C11-s1",
+     "who": [],
+     "evidence": [],
+     "prompt": "Amended CRS 準備第一步？",
+     "options": [
+      {
+       "id": "C11-s1o1",
+       "text": "檢視現有產品，重新分類新納入範圍產品",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報 Key Takeaways。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C11-s1o2",
+       "text": "等到 2029 年",
+       "risk": 3,
+       "correct": false,
+       "explain": "太遲。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C11-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "內部政策改咩？",
+     "options": [
+      {
+       "id": "C11-s2o1",
+       "text": "更新 onboarding 同盡職審查程序、內部 CRS policies、controls 同 guidance",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：“Review onboarding processes …”、“Update internal CRS policies, controls and guidance”。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C11-s2o2",
+       "text": "只改開戶表格",
+       "risk": 1,
+       "correct": false,
+       "explain": "唔夠。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C11-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "系統？",
+     "options": [
+      {
+       "id": "C11-s3o1",
+       "text": "Mapping 去 XML Schema 3.0，產生同驗證測試檔案",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C11-s3o2",
+       "text": "沿用舊 schema",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "C11-s4",
+     "who": [],
+     "evidence": [],
+     "prompt": "培訓？",
+     "options": [
+      {
+       "id": "C11-s4o1",
+       "text": "前線同第二道防線培訓：所有居民地、reasonableness、change of circumstances",
+       "risk": 0,
+       "correct": true,
+       "explain": "良好做法（UNVERIFIED 法定要求）。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "C11-s4o2",
+       "text": "唔使培訓",
+       "risk": 2,
+       "correct": false,
+       "explain": "風險高（遊戲判斷）。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "C11-s1": [
+     "C11-s1o1"
+    ],
+    "C11-s2": [
+     "C11-s2o1"
+    ],
+    "C11-s3": [
+     "C11-s3o1"
+    ],
+    "C11-s4": [
+     "C11-s4o1"
+    ]
+   },
+   "short": "情境決策｜4 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：培訓係遊戲建議嘅良好做法；我嘅來源冇列為法定要求（UNVERIFIED）。",
+   "quotes": [],
+   "sources": [
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "培訓係遊戲建議嘅良好做法；我嘅來源冇列為法定要求（UNVERIFIED）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "A1",
+   "track": "CARF",
+   "kind": "story",
+   "title": "第一幕：陳太開戶",
+   "title_long": "第一幕：前線開戶（陳太）",
+   "icon": "chat",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "case"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "ctb",
+    "rtx"
+   ],
+   "steps": [
+    {
+     "id": "A1-s1",
+     "who": [
+      {
+       "name": "阿詩（前線）",
+       "line": "陳太今日喺 App 開戶，想買賣 BTC 同 USDT。"
+      },
+      {
+       "name": "陳太",
+       "line": "我只係香港居民啊，填香港得啦。"
+      }
+     ],
+     "evidence": [
+      "KYC：住址 Toronto, Canada；電話 +1",
+      "self-cert：居民地只有香港"
+     ],
+     "prompt": "阿詩問你：可唔可以照收？",
+     "options": [
+      {
+       "id": "A1-s1o1",
+       "text": "唔得，要做 reasonableness check，請陳太解釋或更新 self-cert",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：Confirm the reasonableness。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "A1-s1o2",
+       "text": "照收",
+       "risk": 2,
+       "correct": false,
+       "explain": "後果：之後 IRD 會問點解冇跟進（見第四幕）。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "A1-s1o3",
+       "text": "自己改成加拿大",
+       "risk": 2,
+       "correct": false,
+       "explain": "居民地要由客戶自我證明（遊戲判斷）。",
+       "source_id": "SC"
+      }
+     ]
+    },
+    {
+     "id": "A1-s2",
+     "who": [
+      {
+       "name": "陳太",
+       "line": "好啦，我都係加拿大稅務居民，但 DTA 判我係香港居民。"
+      }
+     ],
+     "evidence": [],
+     "prompt": "點填？",
+     "options": [
+      {
+       "id": "A1-s2o1",
+       "text": "兩個居民地都要填",
+       "risk": 0,
+       "correct": true,
+       "explain": "Sch 17EA para 3。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A1-s2o2",
+       "text": "只填香港",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "A1-s3",
+     "who": [
+      {
+       "name": "阿詩",
+       "line": "陳太下個月用 USDT 俾商戶買咗 HK$450,000 嘅名錶。"
+      }
+     ],
+     "evidence": [],
+     "prompt": "呢筆點分類？",
+     "options": [
+      {
+       "id": "A1-s3o1",
+       "text": "Transfer；超過 $390,000 屬 reportable retail payment transaction",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50M。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A1-s3o2",
+       "text": "Exchange transaction",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A1-s3o3",
+       "text": "唔使記錄",
+       "risk": 3,
+       "correct": false,
+       "explain": "錯。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "A1-s1": [
+     "A1-s1o1"
+    ],
+    "A1-s2": [
+     "A1-s2o1"
+    ],
+    "A1-s3": [
+     "A1-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "SC",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "A2",
+   "track": "CARF",
+   "kind": "spot",
+   "title": "第二幕：覆核檔案",
+   "title_long": "第二幕：第二道防線覆核陳太檔案",
+   "icon": "search",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "case"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "ctb",
+    "rtx",
+    "sp"
+   ],
+   "doc_title": "陳太客戶檔案（證據）",
+   "lines": [
+    {
+     "id": "A2-l1",
+     "text": "開戶日期：2027-03-02",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "A2-l2",
+     "text": "Self-cert 初版：只有香港；已收新版，初版存檔",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "A2-l3",
+     "text": "Self-cert 新版：香港 + 加拿大；加拿大 TIN 空白，冇原因",
+     "is_error": true,
+     "explain": "要填 TIN 或者原因 A／B／C（IRD 範本做法）。",
+     "source_id": "SCF"
+    },
+    {
+     "id": "A2-l4",
+     "text": "決策紀錄：DTA tiebreaker 判香港，所以只報香港",
+     "is_error": true,
+     "explain": "Sch 17EA para 3：唔可以靠 tiebreaker。",
+     "source_id": "O8"
+    },
+    {
+     "id": "A2-l5",
+     "text": "USDT 付款 HK$450,000 標記為 exchange transaction",
+     "is_error": true,
+     "explain": "應該係 reportable retail payment transaction（s.50M）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "A2-l6",
+     "text": "紀錄保存：報表到期日後 6 年",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "A2-l7",
+     "text": "備註：SP 負責盡職審查，HKRCASP 唔再覆核",
+     "is_error": true,
+     "explain": "s.50U(2)：責任唔轉移。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": [
+    "A2-l3",
+    "A2-l4",
+    "A2-l5",
+    "A2-l7"
+   ],
+   "short": "搵錯處｜4 個錯處｜約 2 分鐘",
+   "detail": "撳有問題嘅紀錄，再提交。",
+   "quotes": [],
+   "sources": [
+    "SCF",
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/scf_ind.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "A3",
+   "track": "CARF",
+   "kind": "story",
+   "title": "第三幕：CCO 要詳情",
+   "title_long": "第三幕：CCO 要詳情",
+   "icon": "chat",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "case"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "rtx"
+   ],
+   "steps": [
+    {
+     "id": "A3-s1",
+     "who": [
+      {
+       "name": "CCO 黃生",
+       "line": "陳太個案有冇風險？兩句講晒。"
+      }
+     ],
+     "evidence": [],
+     "prompt": "揀最清楚嘅說明。",
+     "options": [
+      {
+       "id": "A3-s1o1",
+       "text": "有風險但已控制：self-cert 漏加拿大 TIN、tiebreaker 錯用、HK$450,000 USDT 付款錯標；已要求補交並改為 reportable retail payment transaction，本週完成。建議覆核同類個案。",
+       "risk": 0,
+       "correct": true,
+       "explain": "結論先、事實、行動、時間。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A3-s1o2",
+       "text": "個案有啲複雜，我哋會繼續跟進。",
+       "risk": 1,
+       "correct": false,
+       "explain": "冇事實冇行動。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "A3-s1o3",
+       "text": "冇風險，DTA 判佢係香港居民。",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯：Sch 17EA para 3。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "A3-s2",
+     "who": [
+      {
+       "name": "CCO 黃生",
+       "line": "要唔要即刻通知 IRD？"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點建議？",
+     "options": [
+      {
+       "id": "A3-s2o1",
+       "text": "先完成內部更正同記錄，再向 IRD CARF 組確認更正程序",
+       "risk": 0,
+       "correct": true,
+       "explain": "程序 UNVERIFIED；IRD CARF 頁有查詢聯絡。",
+       "source_id": "CARF"
+      },
+      {
+       "id": "A3-s2o2",
+       "text": "唔使理",
+       "risk": 3,
+       "correct": false,
+       "explain": "高風險。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "A3-s2o3",
+       "text": "即刻停晒所有 crypto 服務",
+       "risk": 1,
+       "correct": false,
+       "explain": "過度反應（遊戲判斷）。",
+       "source_id": "BRF"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "A3-s1": [
+     "A3-s1o1"
+    ],
+    "A3-s2": [
+     "A3-s2o1"
+    ]
+   },
+   "short": "情境決策｜2 步｜約 2 分鐘",
+   "detail": "UNVERIFIED：主動通知 IRD／更正已交報表嘅程序未核實（UNVERIFIED）。",
+   "quotes": [],
+   "sources": [
+    "O8",
+    "BRF",
+    "CARF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "主動通知 IRD／更正已交報表嘅程序未核實（UNVERIFIED）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "A3W",
+   "track": "CARF",
+   "kind": "write",
+   "title": "第三幕：email 俾 CCO",
+   "title_long": "第三幕（下）：寫 2–3 句 email 俾 CCO",
+   "icon": "pen",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "case"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "rtx"
+   ],
+   "long": false,
+   "intro": null,
+   "prompt": "寫 2–3 句 email 總結陳太個案。",
+   "model_answer": "黃生：陳太個案發現 self-cert 漏咗加拿大居民地同 TIN，而 HK$450,000 USDT 付款錯標為 exchange transaction。已要求補交有效 self-cert，並改為 reportable retail payment transaction，本週內完成。另外會覆核同類個案同 SP 嘅工作。",
+   "model_source_id": "O8",
+   "rubric_keywords": [
+    {
+     "label": "居民地／TIN",
+     "any": [
+      "加拿大",
+      "tin",
+      "居民地"
+     ]
+    },
+    {
+     "label": "$390,000／retail payment",
+     "any": [
+      "390",
+      "retail payment",
+      "零售",
+      "450"
+     ]
+    },
+    {
+     "label": "補救行動",
+     "any": [
+      "補",
+      "更正",
+      "改"
+     ]
+    },
+    {
+     "label": "時間",
+     "any": [
+      "本週",
+      "日內",
+      "之前",
+      "月底"
+     ]
+    }
+   ],
+   "checks": [
+    "結論先行",
+    "有時間同負責人"
+   ],
+   "answers": null,
+   "short": "寫作｜1 篇｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "A4",
+   "track": "CARF",
+   "kind": "story",
+   "title": "第四幕：IRD 查詢",
+   "title_long": "第四幕：IRD 查詢",
+   "icon": "chat",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "case"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "rec",
+    "pen",
+    "sp"
+   ],
+   "steps": [
+    {
+     "id": "A4-s1",
+     "who": [
+      {
+       "name": "IRD 職員（虛構）",
+       "line": "我哋想了解陳太帳戶嘅盡職審查同 2027 年度申報，請按信件日期回覆。"
+      }
+     ],
+     "evidence": [
+      "信件要求：self-cert、KYC 比對紀錄、報表資料"
+     ],
+     "prompt": "第一步？",
+     "options": [
+      {
+       "id": "A4-s1o1",
+       "text": "記低限期、指派負責人、按要求整理文件，如實回覆",
+       "risk": 0,
+       "correct": true,
+       "explain": "合理做法（遊戲判斷）。",
+       "source_id": "CARF"
+      },
+      {
+       "id": "A4-s1o2",
+       "text": "交俾 SP",
+       "risk": 2,
+       "correct": false,
+       "explain": "s.50U(2)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A4-s1o3",
+       "text": "只交對自己有利嘅文件",
+       "risk": 3,
+       "correct": false,
+       "explain": "高風險（遊戲判斷）。",
+       "source_id": "BRF"
+      }
+     ]
+    },
+    {
+     "id": "A4-s2",
+     "who": [
+      {
+       "name": "IRD 職員（虛構）",
+       "line": "點解初版 self-cert 只有香港？"
+      }
+     ],
+     "evidence": [],
+     "prompt": "你點答？",
+     "options": [
+      {
+       "id": "A4-s2o1",
+       "text": "如實講：reasonableness check 發現矛盾，已取得新版並更正（附文件同日期）",
+       "risk": 0,
+       "correct": true,
+       "explain": "簡報：confirm reasonableness；紀錄要保存。",
+       "source_id": "BRF"
+      },
+      {
+       "id": "A4-s2o2",
+       "text": "係客戶錯，同我哋無關",
+       "risk": 2,
+       "correct": false,
+       "explain": "盡職審查係 HKRCASP 責任（s.50P）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A4-s2o3",
+       "text": "話冇紀錄",
+       "risk": 3,
+       "correct": false,
+       "explain": "違反紀錄保存（s.50S）。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "A4-s3",
+     "who": [],
+     "evidence": [
+      "IRD 發出 s.82E 意向通知（虛構）"
+     ],
+     "prompt": "點應對？",
+     "options": [
+      {
+       "id": "A4-s3o1",
+       "text": "喺指定日期前提交申述同證據",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.82E(4)(a)(iii)：唔可以早過通知後 21 日。",
+       "source_id": "O8"
+      },
+      {
+       "id": "A4-s3o2",
+       "text": "唔理",
+       "risk": 2,
+       "correct": false,
+       "explain": "錯過申述機會；評定後 1 個月內先可以上訴（s.82F）。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "A4-s1": [
+     "A4-s1o1"
+    ],
+    "A4-s2": [
+     "A4-s2o1"
+    ],
+    "A4-s3": [
+     "A4-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：IRD 一般查詢信回覆期限 UNVERIFIED（按信件）。",
+   "quotes": [],
+   "sources": [
+    "CARF",
+    "O8",
+    "BRF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+   "status": "UNVERIFIED",
+   "unverified_reason": "IRD 一般查詢信回覆期限 UNVERIFIED（按信件）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "A5",
+   "track": "CARF",
+   "kind": "build",
+   "title": "第五幕：委員會報告",
+   "title_long": "第五幕：委員會報告（陳太個案）",
+   "icon": "blocks",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "case"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "csc",
+    "ctb",
+    "sp",
+    "pen"
+   ],
+   "prompt": "揀 4 項放入委員會報告。",
+   "need": 4,
+   "options": [
+    {
+     "id": "A5-o1",
+     "text": "個案摘要：self-cert 漏報加拿大居民地，已更正",
+     "correct": true,
+     "explain": "Sch 17EA para 3。",
+     "source_id": "O8"
+    },
+    {
+     "id": "A5-o2",
+     "text": "根本原因：App 居民地欄只可以填 1 個",
+     "correct": true,
+     "explain": "IRD 範本要求填所有居民地。",
+     "source_id": "SCF"
+    },
+    {
+     "id": "A5-o3",
+     "text": "跟進：App 改為可填多個居民地加 TIN 驗證，下季上線",
+     "correct": true,
+     "explain": "設計建議（遊戲情境）。",
+     "source_id": "SCF"
+    },
+    {
+     "id": "A5-o4",
+     "text": "IRD 查詢：已按期回覆；s.82E 申述已提交",
+     "correct": true,
+     "explain": "s.82E(4)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "A5-o5",
+     "text": "陳太係 VIP，下次可以通融",
+     "correct": false,
+     "explain": "盡職審查唔分 VIP（遊戲判斷）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "A5-o6",
+     "text": "SP 出錯，所以我哋冇責任",
+     "correct": false,
+     "explain": "s.50U(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "A5-o7",
+     "text": "CARF 2028 年先生效，問題唔急",
+     "correct": false,
+     "explain": "錯：2027 年 1 月 1 日生效。",
+     "source_id": "CO"
+    }
+   ],
+   "answers": [
+    "A5-o1",
+    "A5-o2",
+    "A5-o3",
+    "A5-o4"
+   ],
+   "short": "砌報告｜4 項｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8",
+    "SCF",
+    "CO"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_pen",
+   "track": "INTEG",
+   "kind": "order",
+   "title": "金錢罰則程序",
+   "title_long": "金錢罰則程序",
+   "icon": "list",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp",
+    "bank",
+    "sec"
+   ],
+   "element_ids": [
+    "pen",
+    "gov"
+   ],
+   "items": [
+    {
+     "id": "G_pen-i1",
+     "text": "評稅方發出擬評定金錢罰則通知（s.82E(4)(a)）",
+     "explain": "通知要講明指稱嘅不遵從、可以書面申述，同指定日期。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_pen-i2",
+     "text": "喺指定日期前提交書面申述同證據",
+     "explain": "指定日期 “must not be within 21 days after the notice is given”（s.82E(4)(a)(iii)）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_pen-i3",
+     "text": "局長或副局長親自考慮申述後評定",
+     "explain": "s.82E(3)、(4)(b)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_pen-i4",
+     "text": "收到評定通知",
+     "explain": "通知按 s.58(2) 方式發出（s.82E(6)）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_pen-i5",
+     "text": "評定通知後 1 個月內向 Board of Review 上訴",
+     "explain": "s.82F(1)；要附 s.82F(2) 列明嘅文件。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": [
+    "G_pen-i1",
+    "G_pen-i2",
+    "G_pen-i3",
+    "G_pen-i4",
+    "G_pen-i5"
+   ],
+   "short": "排序／砌流程｜5 步｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_cal",
+   "track": "INTEG",
+   "kind": "order",
+   "title": "兩制管理日程",
+   "title_long": "兩制管理日程",
+   "icon": "list",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "bank",
+    "sec",
+    "vasp"
+   ],
+   "element_ids": [
+    "cmp",
+    "prog",
+    "reg",
+    "reg2"
+   ],
+   "items": [
+    {
+     "id": "G_cal-i1",
+     "text": "2026 年底前：及早檢視係咪 HKRCASP",
+     "explain": "IRD 簡報 Key Takeaway：“Conduct an early review on whether you are an HKRCASP”。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "G_cal-i2",
+     "text": "2027 年 1 月 1 日：CARF 生效",
+     "explain": "Ord 8 s.1(3)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_cal-i3",
+     "text": "2027 年 3 月 31 日：2026 年底已係 RFI 嘅機構登記限期",
+     "explain": "s.50AB(2)(c)(i)（Ord 4）。",
+     "source_id": "O4"
+    },
+    {
+     "id": "G_cal-i4",
+     "text": "2028 年 1 月 1 日：amended CRS 生效；向先前 crypto 使用者取得 self-cert 嘅限期",
+     "explain": "Ord 8 s.1(5)；Sch 17EA Pt 3 s.1(b)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_cal-i5",
+     "text": "2028 年 1 月 31 日前：CARF Portal 登記",
+     "explain": "IRD 簡報 Key Takeaway（Portal 計劃 2027 年 9 月推出）。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "G_cal-i6",
+     "text": "2028 年 6 月初前：交 2027 年 CARF 報表",
+     "explain": "IRD 簡報 Key Takeaway。",
+     "source_id": "BRF"
+    },
+    {
+     "id": "G_cal-i7",
+     "text": "2029 年 9 月：IRD 首次按 amended CRS 交換",
+     "explain": "IRD 簡報 slide p.70。",
+     "source_id": "BRF"
+    }
+   ],
+   "answers": [
+    "G_cal-i1",
+    "G_cal-i2",
+    "G_cal-i3",
+    "G_cal-i4",
+    "G_cal-i5",
+    "G_cal-i6",
+    "G_cal-i7"
+   ],
+   "short": "排序／砌流程｜7 步｜約 3 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "BRF",
+    "O8",
+    "O4"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_m1",
+   "track": "INTEG",
+   "kind": "match",
+   "title": "管理層條文 ↔ 責任",
+   "title_long": "管理層條文 ↔ 責任",
+   "icon": "link",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "gov",
+    "rec",
+    "pen",
+    "sp"
+   ],
+   "pairs": [
+    {
+     "id": "G_m1-p1",
+     "left": "s.50S(2)",
+     "right": "紀錄保存到報表到期日後 6 年",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_m1-p2",
+     "left": "s.50S(11)",
+     "right": "評稅主任可要求提供資料核實報表",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_m1-p3",
+     "left": "s.50U(2)",
+     "right": "聘 SP 唔免除 HKRCASP 責任",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_m1-p4",
+     "left": "s.80R(11)",
+     "right": "發現報表錯誤要合理時間內通知局長",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_m1-p5",
+     "left": "s.82E(3)",
+     "right": "金錢罰則由局長或副局長親自評定",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_m1-p6",
+     "left": "s.82F(1)",
+     "right": "向 Board of Review 上訴",
+     "source_id": "O8"
+    }
+   ],
+   "answers": {
+    "G_m1-p1": "G_m1-p1",
+    "G_m1-p2": "G_m1-p2",
+    "G_m1-p3": "G_m1-p3",
+    "G_m1-p4": "G_m1-p4",
+    "G_m1-p5": "G_m1-p5",
+    "G_m1-p6": "G_m1-p6"
+   },
+   "short": "配對｜6 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_m2",
+   "track": "INTEG",
+   "kind": "match",
+   "title": "OECD 執行期望",
+   "title_long": "OECD 執行期望",
+   "icon": "link",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "vasp",
+    "bank"
+   ],
+   "element_ids": [
+    "gov",
+    "csc",
+    "rec"
+   ],
+   "pairs": [
+    {
+     "id": "G_m2-p1",
+     "left": "Commentary on Section V ¶3",
+     "right": "相稱、以風險為本嘅合規策略",
+     "source_id": "OECD"
+    },
+    {
+     "id": "G_m2-p2",
+     "left": "¶12",
+     "right": "記錄盡職審查步驟、證據同分類",
+     "source_id": "OECD"
+    },
+    {
+     "id": "G_m2-p3",
+     "left": "¶13",
+     "right": "紀錄應要求提供做合規審查",
+     "source_id": "OECD"
+    },
+    {
+     "id": "G_m2-p4",
+     "left": "¶16",
+     "right": "拆細嘅零售付款照當 RRPT 申報",
+     "source_id": "OECD"
+    },
+    {
+     "id": "G_m2-p5",
+     "left": "¶17",
+     "right": "準確及時收集同驗證 self-cert",
+     "source_id": "OECD"
+    },
+    {
+     "id": "G_m2-p6",
+     "left": "¶20",
+     "right": "用 strong measures 確保取得 self-cert",
+     "source_id": "OECD"
+    }
+   ],
+   "answers": {
+    "G_m2-p1": "G_m2-p1",
+    "G_m2-p2": "G_m2-p2",
+    "G_m2-p3": "G_m2-p3",
+    "G_m2-p4": "G_m2-p4",
+    "G_m2-p5": "G_m2-p5",
+    "G_m2-p6": "G_m2-p6"
+   },
+   "short": "配對｜6 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "OECD"
+   ],
+   "source_url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_s1",
+   "track": "INTEG",
+   "kind": "sort",
+   "title": "法定定良好做法？",
+   "title_long": "法定定良好做法？",
+   "icon": "buckets",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "all"
+   ],
+   "element_ids": [
+    "gov",
+    "prog"
+   ],
+   "buckets": [
+    "法定要求",
+    "良好做法（G2）"
+   ],
+   "items": [
+    {
+     "id": "G_s1-i1",
+     "text": "報表到期日後保存紀錄 6 年",
+     "bucket": 0,
+     "explain": "s.50S(2)／s.50D(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_s1-i2",
+     "text": "每月向合規委員會匯報",
+     "bucket": 1,
+     "explain": "法例冇提委員會（G2）。",
+     "source_id": null
+    },
+    {
+     "id": "G_s1-i3",
+     "text": "發現報表錯誤，合理時間內通知局長",
+     "bucket": 0,
+     "explain": "s.80R(11)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_s1-i4",
+     "text": "每年員工培訓",
+     "bucket": 1,
+     "explain": "法例冇明文；s.50P(2) 只要求維持同應用程序（G2）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_s1-i5",
+     "text": "根據 KYC 資料確認 self-cert 合理性",
+     "bucket": 0,
+     "explain": "Sch 17EA Pt 3 s.1(c)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_s1-i6",
+     "text": "每季抽樣測試監控",
+     "bucket": 1,
+     "explain": "測試方法冇法定要求（G2）。",
+     "source_id": null
+    },
+    {
+     "id": "G_s1-i7",
+     "text": "經局長指定系統交電子報表",
+     "bucket": 0,
+     "explain": "s.50V(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_s1-i8",
+     "text": "設 RACI 責任表",
+     "bucket": 1,
+     "explain": "管治工具（G2）。",
+     "source_id": null
+    },
+    {
+     "id": "G_s1-i9",
+     "text": "維持並應用盡職審查程序",
+     "bucket": 0,
+     "explain": "s.50P(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_s1-i10",
+     "text": "定期監察 SP 表現",
+     "bucket": 1,
+     "explain": "法定係責任唔轉移（s.50U(2)）；點監察屬良好做法（G2）。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": {
+    "G_s1-i1": 0,
+    "G_s1-i2": 1,
+    "G_s1-i3": 0,
+    "G_s1-i4": 1,
+    "G_s1-i5": 0,
+    "G_s1-i6": 1,
+    "G_s1-i7": 0,
+    "G_s1-i8": 1,
+    "G_s1-i9": 0,
+    "G_s1-i10": 1
+   },
+   "short": "分類｜10 項｜約 2 分鐘",
+   "detail": "UNVERIFIED：G2：委員會報告、培訓、監控測試、RACI 屬良好做法，唔係法定要求；遊戲判斷部分已標明。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "G2：委員會報告、培訓、監控測試、RACI 屬良好做法，唔係法定要求；遊戲判斷部分已標明。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_spot",
+   "track": "INTEG",
+   "kind": "spot",
+   "title": "董事會簡報",
+   "title_long": "董事會簡報",
+   "icon": "search",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "bank",
+    "vasp",
+    "sec"
+   ],
+   "element_ids": [
+    "gov",
+    "rec",
+    "sp",
+    "pen"
+   ],
+   "doc_title": "俾董事會嘅 CARF／CRS 簡報（草稿）",
+   "lines": [
+    {
+     "id": "G_spot-l1",
+     "text": "CARF 申報已外判俾 SP，申報責任已轉移",
+     "is_error": true,
+     "explain": "錯：s.50U(2)：HKRCASP “is not relieved” from its obligations。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_spot-l2",
+     "text": "CARF 同 CRS 紀錄都保存 5 年",
+     "is_error": true,
+     "explain": "錯：兩邊都係報表到期日後 6 年（s.50S(2)；s.50D(2)）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_spot-l3",
+     "text": "發現已交報表有錯，等下年報表一併更正",
+     "is_error": true,
+     "explain": "錯：要喺合理時間內通知局長（s.80R(11)）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_spot-l4",
+     "text": "IRD 查詢通知可以方便時先回覆",
+     "is_error": true,
+     "explain": "錯：要喺通知指明期間內，按指明方式同形式（s.50S(12)）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_spot-l5",
+     "text": "CARF 報表經 CARF Portal 提交（Portal 計劃 2027 年 9 月推出）",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "G_spot-l6",
+     "text": "金錢罰則評定前，公司可以喺指定日期前提交申述",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    },
+    {
+     "id": "G_spot-l7",
+     "text": "每月合規委員會報告屬內部良好做法，唔係法定要求",
+     "is_error": false,
+     "explain": null,
+     "source_id": null
+    }
+   ],
+   "answers": [
+    "G_spot-l1",
+    "G_spot-l2",
+    "G_spot-l3",
+    "G_spot-l4"
+   ],
+   "short": "搵錯處｜4 個錯處｜約 2 分鐘",
+   "detail": null,
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_fix",
+   "track": "INTEG",
+   "kind": "story",
+   "title": "發現報表有錯",
+   "title_long": "發現報表有錯",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 4,
+   "roles": [
+    "r3"
+   ],
+   "industries": [
+    "vasp",
+    "bank"
+   ],
+   "element_ids": [
+    "gov",
+    "pen",
+    "sp",
+    "rec"
+   ],
+   "steps": [
+    {
+     "id": "G_fix-s1",
+     "who": [],
+     "evidence": [
+      "內部覆核（虛構）：2027 年 CARF 報表漏報一批 transfer"
+     ],
+     "prompt": "第一步？",
+     "options": [
+      {
+       "id": "G_fix-s1o1",
+       "text": "記錄事實、評估影響，合理時間內通知局長",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.80R(11)：無合理辯解唔通知屬罪行。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_fix-s1o2",
+       "text": "等下年報表一併更正",
+       "risk": 3,
+       "correct": false,
+       "explain": "s.80R(11)：要 “within a reasonable time” 通知。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_fix-s1o3",
+       "text": "修改內部紀錄令佢同報表一致",
+       "risk": 3,
+       "correct": false,
+       "explain": "s.50S(1)：紀錄要令資料正確性可以容易確定；改紀錄掩飾屬高風險（遊戲判斷）。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "G_fix-s2",
+     "who": [],
+     "evidence": [
+      "原因（虛構）：SP 系統 mapping 出錯"
+     ],
+     "prompt": "責任點睇？",
+     "options": [
+      {
+       "id": "G_fix-s2o1",
+       "text": "要求 SP 修正，但責任仍然喺公司",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50U(2)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_fix-s2o2",
+       "text": "向 IRD 講係 SP 責任，當合理辯解",
+       "risk": 3,
+       "correct": false,
+       "explain": "s.80R(2)／s.82E(2)：聘 SP 本身唔構成合理辯解。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_fix-s2o3",
+       "text": "換 SP 就算，唔使通知",
+       "risk": 2,
+       "correct": false,
+       "explain": "通知責任仍在（s.80R(11)）。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "G_fix-s3",
+     "who": [],
+     "evidence": [
+      "IRD 發 s.50S(11) 通知（虛構），要報表相關資料"
+     ],
+     "prompt": "點回覆？",
+     "options": [
+      {
+       "id": "G_fix-s3o1",
+       "text": "喺指明期間內，按指明方式同形式提供",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50S(12)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_fix-s3o2",
+       "text": "只俾摘要，其他之後再講",
+       "risk": 2,
+       "correct": false,
+       "explain": "可能唔符合通知要求（s.50S(12)）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_fix-s3o3",
+       "text": "唔回覆，等 IRD 再追",
+       "risk": 3,
+       "correct": false,
+       "explain": "s.80R(1)(b)：唔遵從 s.50S(12) 屬罪行。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "G_fix-s4",
+     "who": [],
+     "evidence": [],
+     "prompt": "點向委員會匯報？",
+     "options": [
+      {
+       "id": "G_fix-s4o1",
+       "text": "講原因、影響、已通知 IRD 嘅日期、補救同時間表",
+       "risk": 0,
+       "correct": true,
+       "explain": "良好做法（G2）。",
+       "source_id": null
+      },
+      {
+       "id": "G_fix-s4o2",
+       "text": "唔匯報，免得麻煩",
+       "risk": 2,
+       "correct": false,
+       "explain": "管治風險（G2，遊戲判斷）。",
+       "source_id": null
+      },
+      {
+       "id": "G_fix-s4o3",
+       "text": "只講「已處理」",
+       "risk": 1,
+       "correct": false,
+       "explain": "資料不足以監督（G2，遊戲判斷）。",
+       "source_id": null
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "G_fix-s1": [
+     "G_fix-s1o1"
+    ],
+    "G_fix-s2": [
+     "G_fix-s2o1"
+    ],
+    "G_fix-s3": [
+     "G_fix-s3o1"
+    ],
+    "G_fix-s4": [
+     "G_fix-s4o1"
+    ]
+   },
+   "short": "情境決策｜4 步｜約 4 分鐘",
+   "detail": "UNVERIFIED：情境虛構；第 4 步委員會匯報屬良好做法（G2）。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "情境虛構；第 4 步委員會匯報屬良好做法（G2）。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_dis",
+   "track": "INTEG",
+   "kind": "story",
+   "title": "解散後邊個負責",
+   "title_long": "解散後邊個負責",
+   "icon": "chat",
+   "difficulty": 2,
+   "minutes": 3,
+   "roles": [
+    "r4"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "rec",
+    "gov"
+   ],
+   "steps": [
+    {
+     "id": "G_dis-s1",
+     "who": [],
+     "evidence": [
+      "一間 HKRCASP（虛構）2031 年解散"
+     ],
+     "prompt": "邊個要通知局長？",
+     "options": [
+      {
+       "id": "G_dis-s1o1",
+       "text": "每名 specified officer（或 designated officer），解散後 1 個月內",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50S(7)(a)；任何一名 specified officer 發通知當全部發咗（s.50S(9)）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_dis-s1o2",
+       "text": "冇人，公司已經冇咗",
+       "risk": 3,
+       "correct": false,
+       "explain": "s.50S(7)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_dis-s1o3",
+       "text": "只有清盤人",
+       "risk": 2,
+       "correct": false,
+       "explain": "s.50S(20)：specified officer 係緊接解散前嘅董事等。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "G_dis-s2",
+     "who": [],
+     "evidence": [],
+     "prompt": "董事想委任前財務總監做 designated officer，要咩？",
+     "options": [
+      {
+       "id": "G_dis-s2o1",
+       "text": "全部 specified officers 書面同意；佢簽 designation notice，列明身分、聯絡、日期，附同意證據",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50S(13)、(14)、(16)(b)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_dis-s2o2",
+       "text": "一名董事話事就得",
+       "risk": 2,
+       "correct": false,
+       "explain": "要全部 specified officers 同意（局長可按 s.50S(15) 接納合理因由）。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_dis-s2o3",
+       "text": "唔使通知局長",
+       "risk": 2,
+       "correct": false,
+       "explain": "s.50S(17)：由局長收到通知當日起有效。",
+       "source_id": "O8"
+      }
+     ]
+    },
+    {
+     "id": "G_dis-s3",
+     "who": [],
+     "evidence": [],
+     "prompt": "Designated officer 搬屋，要做咩？",
+     "options": [
+      {
+       "id": "G_dis-s3o1",
+       "text": "1 個月內通知局長聯絡資料變更",
+       "risk": 0,
+       "correct": true,
+       "explain": "s.50S(8)(b)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_dis-s3o2",
+       "text": "唔使",
+       "risk": 2,
+       "correct": false,
+       "explain": "s.50S(8)(b)。",
+       "source_id": "O8"
+      },
+      {
+       "id": "G_dis-s3o3",
+       "text": "等 IRD 搵先講",
+       "risk": 2,
+       "correct": false,
+       "explain": "s.50S(8)(b)。",
+       "source_id": "O8"
+      }
+     ]
+    }
+   ],
+   "answers": {
+    "G_dis-s1": [
+     "G_dis-s1o1"
+    ],
+    "G_dis-s2": [
+     "G_dis-s2o1"
+    ],
+    "G_dis-s3": [
+     "G_dis-s3o1"
+    ]
+   },
+   "short": "情境決策｜3 步｜約 3 分鐘",
+   "detail": "UNVERIFIED：情境虛構。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "情境虛構。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_bld",
+   "track": "INTEG",
+   "kind": "build",
+   "title": "補救報告重點",
+   "title_long": "補救報告重點",
+   "icon": "blocks",
+   "difficulty": 3,
+   "minutes": 3,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "vasp",
+    "bank"
+   ],
+   "element_ids": [
+    "gov",
+    "prog",
+    "pen"
+   ],
+   "prompt": "報表出錯（虛構），寫俾管理層嘅補救報告。揀 4 項。",
+   "need": 4,
+   "options": [
+    {
+     "id": "G_bld-o1",
+     "text": "受影響使用者同控權人數目",
+     "correct": true,
+     "explain": "部分罰則按人數計（例如 s.80R(8)(b)）。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_bld-o2",
+     "text": "幾時通知咗局長",
+     "correct": true,
+     "explain": "s.80R(11)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_bld-o3",
+     "text": "根本原因（包括 SP）同責任誰屬",
+     "correct": true,
+     "explain": "s.50U(2)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_bld-o4",
+     "text": "保存咗嘅紀錄同證據",
+     "correct": true,
+     "explain": "s.50S(1)。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_bld-o5",
+     "text": "聲明 SP 已承擔法律責任",
+     "correct": false,
+     "explain": "s.80R(2)：聘 SP 唔構成合理辯解。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_bld-o6",
+     "text": "建議刪除舊錯誤紀錄",
+     "correct": false,
+     "explain": "s.50S(1) 要保存紀錄。",
+     "source_id": "O8"
+    },
+    {
+     "id": "G_bld-o7",
+     "text": "等 IRD 發現先處理",
+     "correct": false,
+     "explain": "s.80R(11)。",
+     "source_id": "O8"
+    }
+   ],
+   "answers": [
+    "G_bld-o1",
+    "G_bld-o2",
+    "G_bld-o3",
+    "G_bld-o4"
+   ],
+   "short": "砌報告｜4 項｜約 3 分鐘",
+   "detail": "UNVERIFIED：G2：委員會報告、培訓、監控測試、RACI 屬良好做法，唔係法定要求；遊戲判斷部分已標明。",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "UNVERIFIED",
+   "unverified_reason": "G2：委員會報告、培訓、監控測試、RACI 屬良好做法，唔係法定要求；遊戲判斷部分已標明。",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "G_w",
+   "track": "INTEG",
+   "kind": "write",
+   "title": "覆董事：外判",
+   "title_long": "覆董事：外判",
+   "icon": "pen",
+   "difficulty": 3,
+   "minutes": 2,
+   "roles": [
+    "r5"
+   ],
+   "industries": [
+    "vasp"
+   ],
+   "element_ids": [
+    "sp",
+    "gov"
+   ],
+   "long": false,
+   "intro": "董事：「CARF 申報已經外判俾 SP，我哋係咪唔使理？」",
+   "prompt": "寫 2–3 句回覆董事。",
+   "model_answer": "唔係。s.50U(2) 寫明聘用 service provider 唔會免除我哋喺登記、盡職審查同申報嘅責任，s.80R(2) 亦講明聘用 SP 本身唔構成合理辯解。所以我哋仍要監察 SP、保存紀錄（報表到期日後 6 年），發現錯誤要喺合理時間內通知局長。",
+   "model_source_id": "O8",
+   "rubric_keywords": [
+    {
+     "label": "責任唔轉移",
+     "any": [
+      "50U",
+      "唔會免除",
+      "責任",
+      "not relieved"
+     ]
+    },
+    {
+     "label": "唔係合理辯解",
+     "any": [
+      "合理辯解",
+      "80R",
+      "reasonable excuse"
+     ]
+    },
+    {
+     "label": "監察 SP",
+     "any": [
+      "監察",
+      "監控",
+      "覆核",
+      "monitor"
+     ]
+    }
+   ],
+   "checks": [
+    "3 句內講完",
+    "有引用條文"
+   ],
+   "answers": null,
+   "short": "寫作｜1 篇｜約 2 分鐘",
+   "detail": "董事：「CARF 申報已經外判俾 SP，我哋係咪唔使理？」",
+   "quotes": [],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27"
+  }
+ ]
+}

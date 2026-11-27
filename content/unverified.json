@@ -1,0 +1,247 @@
+{
+ "schema": "unverified",
+ "items": [
+  {
+   "id": "U1",
+   "text": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF 同 2016 年制定本，未同 e-Legislation Cap. 112 綜合本核對",
+   "applies_to": "provisions.json 全部；elements quotes slot=hk",
+   "updated": null
+  },
+  {
+   "id": "U2",
+   "text": "Consolidated CRS 出版頁寫 \"adopted a set of amendments in August 2022\"，同 2023 年 6 月 8 日出版嘅 2023 Standards 有出入；原文照抄",
+   "applies_to": "sources S3／S4",
+   "updated": null
+  },
+  {
+   "id": "U3",
+   "text": "CARF reportable／partner jurisdiction 名單未公佈（IRD：\"The lists will be published and updated in due course.\"）",
+   "applies_to": "rp",
+   "updated": null
+  },
+  {
+   "id": "U4",
+   "text": "香港 CARF data schema 未公佈",
+   "applies_to": "sys",
+   "updated": null
+  },
+  {
+   "id": "U5",
+   "text": "IRD 2016 Guidance Ch.10 ¶6（攞唔到 self-cert 唔應完成開戶）同 Sch 17D Pt 7 s.2A（例外情況暫用舊帳戶程序）有張力；IRD 未出更新指引",
+   "applies_to": "sc；所有 S29-ch* 引文",
+   "updated": null
+  },
+  {
+   "id": "U6",
+   "text": "CARF 報表 \"early June\" 只見於 IRD 簡報；法例係 notice 指明嘅時間（s.50Q(5)）",
+   "applies_to": "ret",
+   "updated": null
+  },
+  {
+   "id": "U7",
+   "text": "IRD 簡報提 Financial Account Information Return XML Schema 3.0，但 IRD schema.htm 只有 version 2.0",
+   "applies_to": "ret2, sys, N-2026-11-26-02",
+   "updated": null
+  },
+  {
+   "id": "U8",
+   "text": "LSD 報告嘅最高罰則（第 6 級、監禁 3 年）已對制定本 s.80R(14)(b) 核實（2026-11-26）；s.80R 全文已抽入 provisions（O8-s80R）；仍屬 U1",
+   "applies_to": "pen",
+   "resolved": true,
+   "updated": null
+  },
+  {
+   "id": "U9",
+   "text": "Family office 同 VATP 嘅套用屬類比（法例冇專門定義；\"VATP\" 唔見於 Ord 8）",
+   "applies_to": "fi, rcasp, I_fo, IQ-26",
+   "updated": null
+  },
+  {
+   "id": "U10",
+   "text": "香港點樣應用 OECD CARF FAQ Sec I No.1（branch）未有 IRD 明確講法",
+   "applies_to": "rcasp",
+   "updated": null
+  },
+  {
+   "id": "U11",
+   "text": "LegCo 條例草案頁（S38）內容未核實",
+   "applies_to": "sources S38",
+   "updated": null
+  },
+  {
+   "id": "U12",
+   "text": "香港唔喺 OECD CARF MCAA（2026-10-30）同 CRS MCAA Addendum（2026-11-10）簽署名單；有冇簽、幾時簽未證實",
+   "applies_to": "mcaa, IQ-24",
+   "updated": null
+  },
+  {
+   "id": "G1",
+   "text": "首次 CARF 交換月份（2028 年 9 月）只見於 PwC；官方只講 starting from 2028",
+   "applies_to": "ret, TL1, timeline",
+   "updated": null
+  },
+  {
+   "id": "G2",
+   "text": "RO、CCO、委員會報告、培訓係遊戲角色或良好做法，唔係法定要求",
+   "applies_to": "gov, prog, roles r3, dg-programme",
+   "updated": null
+  }
+ ],
+ "pending_slots": [
+  {
+   "element_id": "excl",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "sc",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "tb",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "coc2",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "coc2",
+   "slot": "ird",
+   "slot_name": "IRD"
+  },
+  {
+   "element_id": "coc2",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "rp2",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "rp2",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "reg2",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "rec2",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "rec2",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "pen2",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "pen2",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "rtx",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "csc",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "ctb",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "ctb",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "coc",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "rp",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "ccp",
+   "slot": "ird",
+   "slot_name": "IRD"
+  },
+  {
+   "element_id": "ccp",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "reg",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "sp",
+   "slot": "ird",
+   "slot_name": "IRD"
+  },
+  {
+   "element_id": "sp",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "dual",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "ddshare",
+   "slot": "ird",
+   "slot_name": "IRD"
+  },
+  {
+   "element_id": "ddshare",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "mcaa",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  },
+  {
+   "element_id": "prog",
+   "slot": "hk",
+   "slot_name": "香港條文"
+  },
+  {
+   "element_id": "prog",
+   "slot": "oecd",
+   "slot_name": "OECD"
+  },
+  {
+   "element_id": "prog",
+   "slot": "industry",
+   "slot_name": "業界／行業"
+  }
+ ]
+}

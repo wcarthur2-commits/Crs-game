@@ -1,0 +1,3227 @@
+{
+ "schema": "changelog",
+ "entries": [
+  {
+   "date": "2026-11-26",
+   "item_id": "M2",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "刪走 4 對 CARF 罰則配對（搬去新關 M6），加 s.80(2E)/(2F) 同 s.50AB",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "M6",
+   "file": "levels.json",
+   "change": "added",
+   "note": "由舊 M2 分拆出嚟嘅 CARF 罰則配對（內容不變）",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "P3",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "兩句 CARF／CRS 雙重申報句搬去新關 P4",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "P4",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新 INTEG 搵錯處（包括由 P3 搬過嚟嘅兩句）",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C7",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "第 3 步（兩制 tiebreaker）搬去 D2",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C9",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "第 1 步（雙重申報）搬去 D2；改標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "D2",
+   "file": "levels.json",
+   "change": "added",
+   "note": "由 C9 第 1 步同 C7 第 3 步組成",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C3",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "第 3 步解釋加 UNVERIFIED 註：引文原文講 CRS",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "Q1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "只抽 CARF 題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "Q2",
+   "file": "levels.json",
+   "change": "added",
+   "note": "CRS 2.0 快答",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "Q3",
+   "file": "levels.json",
+   "change": "added",
+   "note": "一併管理快答",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "TL1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：cmp,reg,reg2,ret,ret2",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FL1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：dd,csc,coc,rp,ccp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FL2",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：dfp,ret2,sys",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "M1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：reg,dd,ctb,rec,sp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "M4",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：reg2,fi",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "S1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：cmp,dfp,dual,rtx,tb,ctb",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "S3",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：cmp,reg,reg2,ret,ret2,dd",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "P2",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：dd,crep,ctb,sp,rec",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：ctb,csc,coc",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C2",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：dd,csc,rec,rp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "I_sec",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：fi,dual,rcasp,cmp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C3",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,sp,rec",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C4",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：coc,rec,csc",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "B_comm",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：reg,csc,sp,dd,ret,prog",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "W_comm",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：reg,ret,sp,prog",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "I_fund",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：fi,reg2,dfp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C5",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：sp,pen,reg,gov",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C6",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：reg,dd,ret,gov",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "W_cco",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：reg,dd,ret,rec,sp,gov",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "I_trust",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：fi,reg2,rec2,gov",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "I_fo",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：fi,rcasp,dfp,cmp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C10",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,ctb,dd,rp,ccp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "C11",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：dfp,ret2,sc,prog",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "A1",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,ctb,rtx",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "A2",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,ctb,rtx,sp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "A3",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,rtx",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "A3W",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,rtx",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "A4",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,rec,pen,sp",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "A5",
+   "file": "levels.json",
+   "change": "modified",
+   "note": "element_ids 按 track 重新對應：csc,ctb,sp,pen",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-01",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-02",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-03",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-04",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-05",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-06",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-07",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-08",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-09",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-10",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-11",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-12",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-13",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-14",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-15",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-16",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-17",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-18",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-19",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-20",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-21",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-22",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-23",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-24",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-25",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-26",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-27",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-28",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "IQ-29",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FC-I01",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FC-I02",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FC-I03",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FC-I04",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FC-I05",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "FC-I06",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新 INTEG 短題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "coc2",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "cp",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "rp2",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "reg2",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "ret2",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "rec2",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "pen2",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "csc",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "ctb",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "ccp",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "cmp",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "ddshare",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "mcaa",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "gov",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "sys",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "prog",
+   "file": "elements.json",
+   "change": "added",
+   "note": "按 track 分拆或新增知識點",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "sc",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "tb",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "coc",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "rp",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "cp",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "reg",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "ret",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "rec",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "pen",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "dual",
+   "file": "elements.json",
+   "change": "modified",
+   "note": "分 track；引文換成有段落號碼嘅版本；加 provisions[]",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-26",
+   "item_id": "carf",
+   "file": "badges.json",
+   "change": "added",
+   "note": "track 徽章",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "fi",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "dfp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "excl",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "sc",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "tb",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "coc2",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "cp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rp2",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "terms"
+   ],
+   "note": "更新：定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "reg2",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "ret2",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rec2",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "pen2",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rcasp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rca",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rtx",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "dd",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "csc",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "ctb",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "coc",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "ccp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "reg",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "crep",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "ret",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "rec",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "pen",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "sp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "cmp",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "dual",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "ddshare",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "mcaa",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "terms"
+   ],
+   "note": "更新：定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "gov",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "sys",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "provisions",
+    "terms"
+   ],
+   "note": "更新：條文、定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "prog",
+   "file": "elements.json",
+   "change": "modified",
+   "fields": [
+    "terms"
+   ],
+   "note": "更新：定義詞",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s1",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50N",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50O",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50P",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50Q",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50R",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50S",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50U",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50V",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50Y",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17EA-P2",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17EA-P3",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17EA-P6",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s80R",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s82E",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s82F",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17C-5A",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17D-P6-5-2",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17D-P7-2A",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17D-P7-2B",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-17D-P7-6",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O4-s50AB",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s80-2ZD",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s50G-3-4",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O4-s50D-2",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O16-s80-2E",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-rcasp",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-rca",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-ca",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-rtx",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-rrpt",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-ex",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-semp",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-cbdc",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-pre",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-rp",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-ru",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-cp",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-tr",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-rj",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-50M-cau",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O16-50A-fi",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O16-50A-cp",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s19",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s20",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "O8-s21",
+   "file": "provisions.json",
+   "change": "modified",
+   "fields": [
+    "terms",
+    "zh",
+    "zh_status",
+    "zh_text"
+   ],
+   "note": "更新：定義詞、中文條文、中文狀態",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "TL1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "TL2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FL1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FL2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "M1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "M2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "M3",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "M4",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "M5",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "M6",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "S1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "S2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "S3",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "S4",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "P1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "P2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "P3",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "P4",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q3",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "I_bank",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "I_ins",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "I_sec",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C3",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C4",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "W_front",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "B_comm",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "W_comm",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "I_fund",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C5",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "B_docs",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C6",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "W_cco1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "W_cco",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "I_trust",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C7",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C8",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C9",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "D2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "I_fo",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C10",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "C11",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "A1",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "A2",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "A3",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title_long"
+   ],
+   "note": "更新：原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "A3W",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "A4",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title_long"
+   ],
+   "note": "更新：原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "A5",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "title",
+    "title_long"
+   ],
+   "note": "更新：標題、原標題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_pen",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_cal",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_m1",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_m2",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_s1",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_spot",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_fix",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_dis",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_bld",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "G_w",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-30",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-31",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-32",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-33",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-34",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-35",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-36",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-37",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-38",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-39",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-40",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-41",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-42",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-43",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-44",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-45",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-46",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-47",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-48",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-49",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-50",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-51",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-52",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-53",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-54",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-55",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-56",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-57",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-58",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-59",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-60",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-61",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-62",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-63",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-64",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-65",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-66",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-67",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-68",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-69",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-70",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-71",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-72",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-73",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-74",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-75",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-76",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-77",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-78",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-79",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-80",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-81",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-82",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-83",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-84",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-85",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-86",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-87",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-88",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-89",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-90",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-91",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-92",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-93",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-94",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-95",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-96",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-97",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-98",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I07",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I08",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I09",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I10",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I11",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I12",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I13",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I14",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I15",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I16",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I17",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FC-I18",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "case-chan",
+   "file": "case.json",
+   "change": "modified",
+   "fields": [
+    "acts"
+   ],
+   "note": "更新：幕（關卡標題）",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "terms.json",
+   "file": "terms.json",
+   "change": "added",
+   "note": "新檔案（149 項）",
+   "baseline": false
+  }
+ ]
+}
