@@ -1,9 +1,9 @@
 // Session runner and the game engines for every level kind.
-import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v6';
-import { D, IX, P, save, nav, route, trackName } from './state.js?v=v6';
-import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v6';
-import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v6';
-import { treeWalker } from './screens.js?v=v6';
+import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v7';
+import { D, IX, P, save, nav, route, trackName } from './state.js?v=v7';
+import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v7';
+import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet, caveatNote } from './common.js?v=v7';
+import { treeWalker } from './screens.js?v=v7';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
@@ -298,7 +298,8 @@ export function mcqBody(q, sel, onAnswer) {
   if (sel != null) {
     wrap.append(h('div', { class: 'fb ' + (sel === q.answer ? 'ok' : 'bad') }, h('b', null, sel === q.answer ? '✓ 啱' : sel === -2 ? '⏱ 超時' : '✗ 唔啱'),
       explainBlock(q, sel),
-      h('div', { class: 'row-btns' }, (q.quotes && q.quotes.length) || q.source_id ? btn('原文同來源', () => sheet(q.title, ...(q.quotes || []).map(quoteBlock), srcLink(q.source_id || q.source_url)), 'small ghost') : null)));
+      caveatNote(q),
+      h('div', { class: 'row-btns' }, (q.quotes && q.quotes.length) || q.source_id ? btn('原文同來源', () => sheet(q.title, caveatNote(q), ...(q.quotes || []).map(quoteBlock), srcLink(q.source_id || q.source_url)), 'small ghost') : null)));
   }
   if (sel != null && freshAnswer === q.id) { freshAnswer = null; revealFeedback(wrap); }
   return wrap;

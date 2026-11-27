@@ -1,5 +1,5 @@
 // App state: content (D), progress (P, localStorage only), indexes, navigation.
-import { emptyProgress, dayKey } from './engine.js?v=v6';
+import { emptyProgress, dayKey } from './engine.js?v=v7';
 
 export const STORE_KEY = 'crs-game-progress-v1';
 export const D = {};

@@ -1,10 +1,10 @@
 // All screens except play and the provision reader.
-import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v6';
-import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v6';
-import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v6';
-import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v6';
-import { startSession, playOne, mcqBody } from './play.js?v=v6';
-import { layeredGraph, treeFlow, venn } from './diagram.js?v=v6';
+import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v7';
+import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v7';
+import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v7';
+import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v7';
+import { startSession, playOne, mcqBody } from './play.js?v=v7';
+import { layeredGraph, treeFlow, venn } from './diagram.js?v=v7';
 
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
 const KIND_ICON = { match: 'link', sort: 'buckets', order: 'list', spot: 'search', story: 'chat', build: 'blocks', write: 'pen', quiz: 'timer' };
