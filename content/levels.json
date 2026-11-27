@@ -9329,6 +9329,166 @@
    "updated": "2026-11-27"
   },
   {
+   "id": "L2B-901",
+   "track": "CRS2",
+   "kind": "match",
+   "title": "豁免帳戶",
+   "title_long": "配對：Excluded account 類別同條件",
+   "icon": "link",
+   "difficulty": 2,
+   "minutes": 2,
+   "roles": [
+    "r1",
+    "r4"
+   ],
+   "industries": [
+    "bank",
+    "ins",
+    "fund"
+   ],
+   "element_ids": [
+    "excl"
+   ],
+   "pairs": [
+    {
+     "id": "L2B-901-p1",
+     "left": "退休／養老金帳戶",
+     "right": "每年供款 ≤ $390,000 或終身 ≤ $7,800,000",
+     "source_id": "GUID"
+    },
+    {
+     "id": "L2B-901-p2",
+     "left": "定期壽險合約",
+     "right": "保障期喺受保人 90 歲前結束",
+     "source_id": "GUID"
+    },
+    {
+     "id": "L2B-901-p3",
+     "left": "遺產帳戶",
+     "right": "有遺囑副本或死亡證",
+     "source_id": "GUID"
+    },
+    {
+     "id": "L2B-901-p4",
+     "left": "託管帳戶（物業交易）",
+     "right": "唔可以係孖展帳戶",
+     "source_id": "GUID"
+    },
+    {
+     "id": "L2B-901-p5",
+     "left": "信用卡多繳",
+     "right": "防止多繳逾 $390,000 或 60 日內退還",
+     "source_id": "GUID"
+    },
+    {
+     "id": "L2B-901-p6",
+     "left": "休眠帳戶",
+     "right": "結餘 ≤ $7,800，3 年冇交易、6 年冇聯絡",
+     "source_id": "GUID"
+    }
+   ],
+   "answers": {
+    "L2B-901-p1": "L2B-901-p1",
+    "L2B-901-p2": "L2B-901-p2",
+    "L2B-901-p3": "L2B-901-p3",
+    "L2B-901-p4": "L2B-901-p4",
+    "L2B-901-p5": "L2B-901-p5",
+    "L2B-901-p6": "L2B-901-p6"
+   },
+   "short": "配對｜6 對｜約 2 分鐘",
+   "detail": null,
+   "quotes": [
+    {
+     "text": "the annual contributions are limited to $390,000 or less; or",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶1(e)(i)（p.6-1）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "there is a maximum lifetime contribution limit to the account of $7,800,000 or less,",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶1(e)(ii)（p.6-2）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "A life insurance contract with a coverage period that will end before the insured individual attains age 90 is an excluded account if all of the following conditions are met -",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶3（p.6-3）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "An account held solely by an estate is an excluded account if its documentation includes a copy of the deceased’s will or death certificate.",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶4（p.6-3）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "the account is not a margin or similar account established in connection with a sale or exchange of a financial asset; and",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶5(b)(iv)（p.6-4）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "implements policies and procedures either to prevent a customer from making an overpayment in excess of $390,000, or to ensure that any customer overpayment in excess of $390,000 is refunded to the customer within 60 days",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶6(b)（p.6-5）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "An account (other than an annuity contract) with a balance that does not exceed $7,800 is an excluded account if (a) the account holder has not initiated a transaction with regard to the account or any other account held by the account holder with a reporting financial institution in the previous 3 years",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶7(1)（p.6-6）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "(b) the account holder has not communicated with the reporting financial institution regarding the account or any other account held by the account holder with the reporting financial institution in the previous 6 years",
+     "pin": "IRD Guidance for FIs（2016）Ch.6 ¶7(1)（p.6-6）",
+     "source_id": "GUID",
+     "url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+     "lang": "en",
+     "accessed": "2026-11-26",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "GUID"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/2016/guidance.pdf",
+   "status": "verified",
+   "unverified_reason": null,
+   "batch": "crs2/batch_010",
+   "updated": "2026-11-27"
+  },
+  {
    "id": "LCB-001",
    "track": "CARF",
    "title": "交易類別 ↔ 申報計法",

@@ -3819,6 +3819,130 @@
    "source_id": "O8",
    "batch": "carf/batch_010",
    "updated": "2026-11-27"
+  },
+  {
+   "id": "FIB-001",
+   "track": "INTEG",
+   "title": "IRD 有咩工具幫實體自己判斷係咪 RFI？",
+   "short": "AEOI Reporting Financial Institution Sel",
+   "detail": "AEOI Reporting Financial Institution Self-Assessment Tool（IRD AEOI 修訂條例 2026 網頁）。",
+   "quotes": [
+    {
+     "text": "To assist entities in determining whether they meet the definition of an RFI, the entity may use the self-assessment tool below:",
+     "pin": "IRD 網頁：Inland Revenue (Amendment) (AEOI) Ordinance 2026，強制登記段",
+     "source_id": "O4P",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "reg2"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "front": "IRD 有咩工具幫實體自己判斷係咪 RFI？",
+   "back": "AEOI Reporting Financial Institution Self-Assessment Tool（IRD AEOI 修訂條例 2026 網頁）。",
+   "source_id": "O4P",
+   "batch": "integ/batch_001",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "FIB-002",
+   "track": "INTEG",
+   "title": "AEOI 修訂條例 2026 三大主要修訂？",
+   "short": "① RFI 強制登記 ② 加強紀錄保存 ③ 加強罰則（IRD 網頁）。",
+   "detail": "① RFI 強制登記 ② 加強紀錄保存 ③ 加強罰則（IRD 網頁）。",
+   "quotes": [
+    {
+     "text": "Introducing mandatory registration requirement for reporting financial institutions (RFIs)",
+     "pin": "IRD 網頁：主要修訂第 1 項",
+     "source_id": "O4P",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "Enhancing record keeping requirements (Updated)",
+     "pin": "IRD 網頁：主要修訂第 2 項",
+     "source_id": "O4P",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "Enhancing sanctions",
+     "pin": "IRD 網頁：主要修訂第 3 項",
+     "source_id": "O4P",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "cmp",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "front": "AEOI 修訂條例 2026 三大主要修訂？",
+   "back": "① RFI 強制登記 ② 加強紀錄保存 ③ 加強罰則（IRD 網頁）。",
+   "source_id": "O4P",
+   "batch": "integ/batch_001",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "FIB-003",
+   "track": "INTEG",
+   "title": "CRS 行政罰款機制點解引入？",
+   "short": "為咗提高罰則行動嘅時效同成本效益，作為檢控以外嘅另一選擇（IRD 網頁）。",
+   "detail": "為咗提高罰則行動嘅時效同成本效益，作為檢控以外嘅另一選擇（IRD 網頁）。",
+   "quotes": [
+    {
+     "text": "To improve the timeliness and cost-effectiveness of penalty actions, an administrative penalty mechanism is introduced as an alternative to prosecution.",
+     "pin": "IRD 網頁：Inland Revenue (Amendment) (AEOI) Ordinance 2026，Enhancing sanctions 段",
+     "source_id": "O4P",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O4P"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/tax/aeoi/ordinance_2026.htm",
+   "minutes": 0.5,
+   "element_ids": [
+    "pen2",
+    "gov"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "front": "CRS 行政罰款機制點解引入？",
+   "back": "為咗提高罰則行動嘅時效同成本效益，作為檢控以外嘅另一選擇（IRD 網頁）。",
+   "source_id": "O4P",
+   "batch": "integ/batch_001",
+   "updated": "2026-11-27"
   }
  ]
 }
