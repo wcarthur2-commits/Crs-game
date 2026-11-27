@@ -1,9 +1,9 @@
 // Session runner and the game engines for every level kind.
-import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v3';
-import { D, IX, P, save, nav, route, trackName } from './state.js?v=v3';
-import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v3';
-import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v3';
-import { treeWalker } from './screens.js?v=v3';
+import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v4';
+import { D, IX, P, save, nav, route, trackName } from './state.js?v=v4';
+import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v4';
+import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v4';
+import { treeWalker } from './screens.js?v=v4';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
@@ -227,9 +227,11 @@ const GAMES = {
     if (!st.init) {
       st.init = 1;
       let qs = D.quiz.items.filter((q) => q.track === (pool.track || L.track));
-      const quick = qs.filter((q) => q.set === 'quickfire');
-      qs = shuffle(quick, r).concat(shuffle(qs.filter((q) => q.set !== 'quickfire'), r));
-      st.qs = qs.slice(0, pool.count || 8); st.i = 0; st.sel = null; st.secs = pool.seconds_per_question || 15; st.left = st.secs; st.pts = 0; st.streak = 0; st.max = 0; st.good = 0;
+      // half from the quickfire set, the rest from every other question of the track (incl. new batch items), mixed
+      const n = pool.count || 8;
+      const quick = shuffle(qs.filter((q) => q.set === 'quickfire'), r).slice(0, Math.ceil(n / 2));
+      const rest = shuffle(qs.filter((q) => q.set !== 'quickfire'), r).slice(0, n - quick.length);
+      st.qs = shuffle(quick.concat(rest), r); st.i = 0; st.sel = null; st.secs = pool.seconds_per_question || 15; st.left = st.secs; st.pts = 0; st.streak = 0; st.max = 0; st.good = 0;
     }
     clearInterval(st.timer);
     if (st.i >= st.qs.length) {

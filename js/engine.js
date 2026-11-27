@@ -61,7 +61,7 @@ export function buildSession(D, { route, minutes, seed, firstLevelId }) {
   const levelBudget = M <= 5 ? budget - 1.5 : Math.max(budget - 1.5, budget * 0.75);
   const chosen = []; let tot = 0; let longs = 0;
   const first = firstLevelId && D.levels.items.find((l) => l.id === firstLevelId);
-  if (first && first.minutes <= budget) { chosen.push(first); tot += first.minutes; if (first.long) longs++; }
+  if (first && first.minutes <= levelBudget) { chosen.push(first); tot += first.minutes; if (first.long) longs++; }
   const cand = shuffle(levels, r);
   for (let pass = 0; pass < 2; pass++) {
     for (const L of cand) {

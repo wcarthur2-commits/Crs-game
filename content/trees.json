@@ -230,6 +230,674 @@
    "status": "verified",
    "unverified_reason": null,
    "updated": "2026-11-26"
+  },
+  {
+   "id": "TCB-001",
+   "track": "CARF",
+   "title": "CARF：停業或解散，要通知乜？",
+   "short": "答幾條是非題，睇要做咩",
+   "detail": "學習用簡化版本，根據 s.50S；唔包括所有情況。",
+   "start": "e1",
+   "nodes": [
+    {
+     "id": "e1",
+     "q": "而家仍然係 HKRCASP？",
+     "hint": "即係仍然以業務形式為客戶做兌換，並有香港 nexus。",
+     "yes": "e2",
+     "no": "e3"
+    },
+    {
+     "id": "e2",
+     "q": "最近有冇改地址？",
+     "hint": "s.50S(3)。",
+     "yes": "r_addr",
+     "no": "r_keep"
+    },
+    {
+     "id": "e3",
+     "q": "實體已經解散？",
+     "hint": "解散前 6 年內曾經係 HKRCASP 先適用 s.50S(7)。",
+     "yes": "e4",
+     "no": "e5"
+    },
+    {
+     "id": "e4",
+     "q": "Specified officers 有冇有效指定 designated officer？",
+     "hint": "s.50S(13)–(17)：全部 specified officers 書面同意（或 Commissioner 按 s.50S(15) 信納），並由 designated officer 簽署同意。",
+     "yes": "r_do",
+     "no": "r_so"
+    },
+    {
+     "id": "e5",
+     "q": "已經喺停業後 1 個月內通知 Commissioner？",
+     "hint": "s.50S(4)。",
+     "yes": "e6",
+     "no": "r_cease"
+    },
+    {
+     "id": "e6",
+     "q": "之後又再成為 HKRCASP？",
+     "hint": "s.50S(5)。",
+     "yes": "r_again",
+     "no": "r_after"
+    }
+   ],
+   "results": [
+    {
+     "id": "r_addr",
+     "verdict": "1 個月內通知新地址",
+     "tone": "warning",
+     "why": "s.50S(3)：HKRCASP 改地址要喺 1 個月內通知 Commissioner，用指定系統以電子紀錄發出（s.50V(3)）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_keep",
+     "verdict": "繼續履行 Part 8B 責任",
+     "tone": "info",
+     "why": "照常做盡職審查、交表，紀錄保存到交表限期後 6 年（s.50S(1)–(2)）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_do",
+     "verdict": "由 designated officer 負責",
+     "tone": "info",
+     "why": "s.50S(19)：有效指定後，specified officers 免除相關責任；designated officer 要通知解散（如未通知）、確保紀錄保存、通知聯絡資料改動同回應 s.50S(11) 通知。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_so",
+     "verdict": "每個 specified officer 都有責任",
+     "tone": "warning",
+     "why": "s.50S(7)–(8)：解散後 1 個月內通知 Commissioner、確保紀錄保存；聯絡資料改咗要 1 個月內通知。任何一位通知就當全部人已通知（s.50S(9)）。唔遵守屬 s.80U 罪行。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_cease",
+     "verdict": "要盡快通知停業",
+     "tone": "danger",
+     "why": "s.50S(4)：停業後 1 個月內通知。冇合理辯解唔遵守屬 s.80T 罪行，第 3 級罰款，法庭可命令補做。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_again",
+     "verdict": "1 個月內通知再次成為 HKRCASP",
+     "tone": "warning",
+     "why": "s.50S(5)：再次成為 HKRCASP 嗰日後 1 個月內通知 Commissioner。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_after",
+     "verdict": "停業後仍然有責任",
+     "tone": "info",
+     "why": "s.50S(6)：改地址要 1 個月內通知，並要繼續保存紀錄到交表限期後 6 年。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "If an HKRCASP changes the address, the HKRCASP must notify the Commissioner of the new address within 1 month after the change.",
+     "pin": "s.50S(3)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "If an individual or entity ceases to be an HKRCASP, the individual or entity must give a notice of the cessation to the Commissioner within 1 month after the cessation.",
+     "pin": "s.50S(4)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "If, subsequent to the cessation mentioned in subsection (4), the individual or entity becomes an HKRCASP again on a certain date, the individual or entity must, within 1 month after that date, give a notice of that fact to the Commissioner.",
+     "pin": "s.50S(5)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "if the individual or entity changes the individual’s or entity’s address—the individual or entity must notify the Commissioner of the new address within 1 month after the change; and (b) the individual or entity must ensure that the requirement under subsection (1) is complied with despite the cessation.",
+     "pin": "s.50S(6)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "If an entity is dissolved and, at any time during the 6 years before the dissolution, it was an HKRCASP, every specified officer, or the designated officer (if any), of the entity must— (a) give a notice of the dissolution to the Commissioner within 1 month after the dissolution;",
+     "pin": "s.50S(7)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "If there is a valid designation under subsection (17), all specified officers are relieved from their obligations to comply with—",
+     "pin": "s.50S(19)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 1.5,
+   "element_ids": [
+    "rec"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "batch": "carf/batch_006",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "TCB-002",
+   "track": "CARF",
+   "title": "CARF：雙重居民客戶點申報？",
+   "short": "答幾條是非題，睇點處理",
+   "detail": "學習用簡化版本，根據 Sch 17EA Pt 5–6 同 OECD Commentary；唔包括所有情況。",
+   "start": "d1",
+   "nodes": [
+    {
+     "id": "d1",
+     "q": "Self-cert 有冇列出客戶所有稅務居民地？",
+     "hint": "Sch 17EA Pt 6 s.3：唔可以用 tiebreaker，要申報全部居民地。",
+     "yes": "d2",
+     "no": "r_incomplete"
+    },
+    {
+     "id": "d2",
+     "q": "列出嘅居民地之中，有冇 reportable jurisdiction？",
+     "hint": "名單由 Commissioner 公佈（s.50M(13)），未公佈見 U3。",
+     "yes": "d3",
+     "no": "r_none"
+    },
+    {
+     "id": "d3",
+     "q": "每個 reportable jurisdiction 都有 TIN？",
+     "hint": "Sch 17EA Pt 5 s.5。",
+     "yes": "r_all",
+     "no": "d4"
+    },
+    {
+     "id": "d4",
+     "q": "該稅區唔發 TIN，或者本地法例唔要求收集？",
+     "hint": "Sch 17EA Pt 5 s.4 嘅例外。",
+     "yes": "r_all_notin",
+     "no": "d5"
+    },
+    {
+     "id": "d5",
+     "q": "OECD 資料顯示該稅區向所有居民發 TIN？",
+     "hint": "Sch 17EA Pt 6 s.2(b)。",
+     "yes": "r_unreliable",
+     "no": "r_followup"
+    }
+   ],
+   "results": [
+    {
+     "id": "r_incomplete",
+     "verdict": "唔可以依賴，要補",
+     "tone": "danger",
+     "why": "Sch 17EA Pt 6 s.3：要申報全部居民地。要客戶交有效 self-cert。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_none",
+     "verdict": "唔使申報呢個客戶",
+     "tone": "success",
+     "why": "冇 reportable jurisdiction 居民地就唔係 reportable user（實體仍要睇 controlling persons）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_all",
+     "verdict": "每個 reportable jurisdiction 都要報",
+     "tone": "danger",
+     "why": "OECD Commentary on Section III ¶5、¶26：當佢係每個 reportable jurisdiction 嘅 reportable user；Section II ¶3：報每個稅區嘅 TIN。",
+     "src": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "source_id": "OECD"
+    },
+    {
+     "id": "r_all_notin",
+     "verdict": "照報，嗰個稅區唔使 TIN",
+     "tone": "warning",
+     "why": "Sch 17EA Pt 5 s.4；s.50R(14)(a)：唔發 TIN 或唔要求收集就唔使報 TIN，其他資料照報。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_unreliable",
+     "verdict": "唔可以依賴呢份 self-cert",
+     "tone": "danger",
+     "why": "Sch 17EA Pt 6 s.2(b)：冇 TIN 而 OECD 資料顯示該地向所有居民發 TIN，就唔可以依賴。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_followup",
+     "verdict": "向客戶跟進 TIN 或解釋",
+     "tone": "warning",
+     "why": "Self-cert 要包括每個 reportable jurisdiction 嘅 TIN（Pt 5 s.5），除非屬 Pt 5 s.4 例外。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "cannot rely on the tiebreaker rules contained in any applicable tax arrangements to determine the user’s or controlling person’s jurisdiction of residence; and (b) must declare all of the user’s or controlling person’s jurisdictions of residence.",
+     "pin": "Sch 17EA Pt 6 s.3（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "the self-certification must, subject to section 4 of this Part, include the user’s or controlling person’s TIN with respect to the reportable jurisdiction and, if any, each other reportable jurisdiction.",
+     "pin": "Sch 17EA Pt 5 s.5（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "no TIN is required to be collected if— (a) the jurisdiction of residence of the reportable person does not issue a TIN to the reportable person; or (b) where a TIN is issued by the relevant reportable jurisdiction—such TIN is not required to be collected under the domestic law of the jurisdiction.",
+     "pin": "Sch 17EA Pt 5 s.4（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "the self-certification does not contain a TIN and the information disseminated by the Organisation for Economic Co-operation and Development indicates that the reportable jurisdiction issues TINs to all residents for tax purposes;",
+     "pin": "Sch 17EA Pt 6 s.2(b)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "However, an individual may be resident for tax purposes in two or more jurisdictions. In those circumstances, the expectation is that all jurisdictions of residence are to be declared in a self-certification and that the Reporting Crypto-Asset Service Provider must treat the Individual Crypto-Asset User as a Reportable User in respect of each Reportable Jurisdiction.",
+     "pin": "Commentary on Section III ¶5（CARF）",
+     "source_id": "OECD",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "The TIN to be reported is the TIN assigned to the Reportable Person by its jurisdiction of residence (i.e. not by a jurisdiction of source). In the case of a Reportable Person that is identified as having more than one jurisdiction of residence, the TIN to be reported is the Reportable Person’s TIN with respect to each Reportable Jurisdiction.",
+     "pin": "Commentary on Section II ¶3（CARF）",
+     "source_id": "OECD",
+     "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2023/06/international-standards-for-automatic-exchange-of-information-in-tax-matters_ab3a23bc/896d79d1-en.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8",
+    "OECD"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 1.5,
+   "element_ids": [
+    "ctb",
+    "rp",
+    "csc"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "batch": "carf/batch_006",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "TCB-003",
+   "track": "CARF",
+   "title": "CARF：我同香港有冇 nexus？",
+   "short": "答幾條是非題，睇香港責任",
+   "detail": "學習用簡化版本，根據 s.50N、s.50O；唔包括 nexus 層級細節。",
+   "start": "n1",
+   "nodes": [
+    {
+     "id": "n1",
+     "q": "你係咪以業務形式為客戶進行 exchange transactions？",
+     "hint": "s.50M(1) RCASP 定義：包括做 counterparty、intermediary 或提供 trading platform。",
+     "yes": "n2",
+     "no": "r_no"
+    },
+    {
+     "id": "n2",
+     "q": "你係香港稅務居民，或者香港成立（有法人地位／要向 IRD 報稅）？",
+     "hint": "s.50N(1)(a)–(b)；s.50N(10)。",
+     "yes": "n4",
+     "no": "n3"
+    },
+    {
+     "id": "n3",
+     "q": "你喺香港管理，或者喺香港有 regular place of business？",
+     "hint": "s.50N(1)(c)–(d)；單有客戶群唔算（CARF FAQ Sec I Q2）。",
+     "yes": "n4",
+     "no": "n5"
+    },
+    {
+     "id": "n4",
+     "q": "你已因 s.50N(4)–(9) 所列 nexus 喺 partner jurisdiction 遵守 specified requirements？",
+     "hint": "Partner jurisdiction 名單由 Commissioner 公佈（s.50M(13)），未公佈見 U3。",
+     "yes": "r_exempt",
+     "no": "r_full"
+    },
+    {
+     "id": "n5",
+     "q": "你喺香港有分行處理 relevant transactions？",
+     "hint": "s.50N(2)；同一司法管轄區所有單位當一個 branch（s.50M(5)）。",
+     "yes": "r_branch",
+     "no": "r_none"
+    }
+   ],
+   "results": [
+    {
+     "id": "r_no",
+     "verdict": "唔係 RCASP",
+     "tone": "info",
+     "why": "唔使負 CARF 責任（可能仍有 CRS 責任）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_full",
+     "verdict": "HKRCASP：全面 Part 8B 責任",
+     "tone": "danger",
+     "why": "要登記（s.50O）、做盡職審查（s.50P）、交報表（s.50Q）同保存紀錄（s.50S）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_exempt",
+     "verdict": "HKRCASP：豁免香港盡職審查，但照登記同交報表",
+     "tone": "warning",
+     "why": "s.50N(4)–(9)：豁免 s.50P；s.50O(1) 照登記；s.50Q(6) 報豁免資料。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_branch",
+     "verdict": "HKRCASP（分行）：只限經香港分行嘅交易",
+     "tone": "warning",
+     "why": "s.50N(3)(b)；登記照做（s.50O(2) 包括 s.50N(2)）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_none",
+     "verdict": "冇香港 nexus",
+     "tone": "success",
+     "why": "唔使喺香港登記同申報；可能喺其他 CARF 稅區有責任。",
+     "src": "https://www.ird.gov.hk/eng/tax/dta_carf.htm",
+     "source_id": "CARF"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "an individual or entity that is a resident for tax purposes in Hong Kong; (b) an entity that— (i) is incorporated or organized under the laws of Hong Kong; and (ii) has a legal personality in Hong Kong or has an obligation to file tax returns or tax information returns to the Inland Revenue Department with respect to the income of the entity; (c) an entity managed from Hong Kong; or (d) an individual or entity that has a regular place of business in Hong Kong.",
+     "pin": "s.50N(1)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "A reporting crypto-asset service provider is regarded as an HKRCASP if the provider has a branch based in Hong Kong through which relevant transactions are effectuated.",
+     "pin": "s.50N(2)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "if the HKRCASP is one mentioned in subsection (2)—carry out all the obligations under Part 8B with respect to the relevant transactions that are effectuated through the branch based in Hong Kong.",
+     "pin": "s.50N(3)(b)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "the specified requirements are complied with by the HKRCASP under the rules of a partner jurisdiction by virtue of a nexus that is substantially similar to the HKRCASP’s nexus to Hong Kong; and (b) the HKRCASP has to furnish a return under section 50Q(1).",
+     "pin": "s.50N(9)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "Despite section 50N(4), (5), (6), (7), (8) and (9), an HKRCASP must register with the Commissioner in accordance with subsection (2) and section 50V(1). (2) The registration must be made on or before 31 January of the calendar year following the calendar year in which the HKRCASP first meets any of the criteria specified in section 50N(1) and (2).",
+     "pin": "s.50O（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8",
+    "CARF"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 1.5,
+   "element_ids": [
+    "rcasp",
+    "reg"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "batch": "carf/batch_009",
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "TCB-004",
+   "track": "CARF",
+   "title": "CARF：實體客戶要報邊個？",
+   "short": "答幾條是非題，睇要唔要識別 CP",
+   "detail": "學習用簡化版本，根據 Sch 17EA Pt 4；唔包括所有情況。",
+   "start": "m1",
+   "nodes": [
+    {
+     "id": "m1",
+     "q": "實體 user 係咪 excluded person（例如上市公司或其 related entity、政府實體、金融機構）？",
+     "hint": "s.50M(1) excluded person；related entity 要 >50% 投票權及 >50% 股份價值（s.50M(3)）。",
+     "yes": "r_excl",
+     "no": "m2"
+    },
+    {
+     "id": "m2",
+     "q": "Self-cert 顯示實體係 reportable jurisdiction 居民？",
+     "hint": "Sch 17EA Pt 4 s.2(4)。",
+     "yes": "m3",
+     "no": "m3b"
+    },
+    {
+     "id": "m3",
+     "q": "Self-cert 顯示佢係 active entity？",
+     "hint": "Sch 17EA Pt 4 s.3；s.50M(1) active entity。",
+     "yes": "r_user",
+     "no": "m4"
+    },
+    {
+     "id": "m3b",
+     "q": "Self-cert 顯示佢係 active entity？",
+     "hint": "Sch 17EA Pt 4 s.3。",
+     "yes": "r_nouser",
+     "no": "m4b"
+    },
+    {
+     "id": "m4",
+     "q": "有冇 CP 係 reportable jurisdiction 居民（按 CP self-cert）？",
+     "hint": "Sch 17EA Pt 4 s.4–5：用 AML/KYC 識別 CP，用 self-cert 判斷居民地。",
+     "yes": "r_both",
+     "no": "r_user"
+    },
+    {
+     "id": "m4b",
+     "q": "有冇 CP 係 reportable jurisdiction 居民（按 CP self-cert）？",
+     "hint": "Sch 17EA Pt 4 s.4–5。",
+     "yes": "r_cp",
+     "no": "r_nouser"
+    }
+   ],
+   "results": [
+    {
+     "id": "r_excl",
+     "verdict": "唔係 reportable person",
+     "tone": "success",
+     "why": "s.50M(1) reportable person 唔包括 excluded person；亦唔使睇 CP（Pt 4 s.3）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_user",
+     "verdict": "實體本身係 reportable user",
+     "tone": "danger",
+     "why": "報實體嘅名稱、地址、居民地、TIN（s.50R(3)(b)）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_both",
+     "verdict": "實體同 reportable CP 都要報",
+     "tone": "danger",
+     "why": "s.50R(3)(c)：實體資料＋每個 reportable CP 嘅資料同角色。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_cp",
+     "verdict": "因 CP 而要報",
+     "tone": "danger",
+     "why": "實體本身唔係 reportable user，但有 reportable CP 都要報（s.50R(2)(b)、(3)(c)）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    },
+    {
+     "id": "r_nouser",
+     "verdict": "唔使報呢個實體",
+     "tone": "success",
+     "why": "實體唔係 reportable user，亦冇 reportable CP（或係 active entity）。仍要保存盡職審查紀錄（s.50P(1)(a)(iii)）。",
+     "src": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "source_id": "O8"
+    }
+   ],
+   "quotes": [
+    {
+     "text": "If the self-certification indicates that the entity crypto-asset user is a resident for tax purposes in a reportable jurisdiction, the HKRCASP must treat the user as a reportable user unless the HKRCASP reasonably determines, on the basis of the self- certification or information that is in the HKRCASP’s possession or is publicly available, that the user is an excluded person.",
+     "pin": "Sch 17EA Pt 4 s.2(4)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "an HKRCASP must determine whether the user has one or more controlling persons who are reportable persons unless the HKRCASP determines that the user is an active entity on the basis of a self- certification provided by the user.",
+     "pin": "Sch 17EA Pt 4 s.3（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "For the purpose of determining the controlling persons of an entity crypto-asset user, an HKRCASP may rely on the information collected and maintained pursuant to AML/KYC procedures provided that such procedures are consistent with the FATF Recommendations.",
+     "pin": "Sch 17EA Pt 4 s.4（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "rely on a self-certification obtained from the user or the controlling person that enables the HKRCASP to determine the jurisdiction of residence of the controlling person;",
+     "pin": "Sch 17EA Pt 4 s.5(1)（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "an entity the stock of which is regularly traded on one or more established securities markets; (b) an entity that is a related entity of an entity described in paragraph (a); (c) a governmental entity; (d) an international organization; (e) a central bank; or (f) a financial institution other than an entity described in paragraph (e) of the definition of investment entity in this subsection;",
+     "pin": "s.50M(1) excluded person（Ord 8）",
+     "source_id": "O8",
+     "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "O8"
+   ],
+   "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
+   "minutes": 1.5,
+   "element_ids": [
+    "ccp",
+    "rp"
+   ],
+   "status": "verified",
+   "unverified_reason": null,
+   "batch": "carf/batch_009",
+   "updated": "2026-11-27"
   }
  ]
 }

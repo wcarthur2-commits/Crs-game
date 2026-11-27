@@ -1,9 +1,9 @@
 // Boot, router, layout (sidebar on wide screens), service worker.
-import { h, icon, closeSheets } from './ui.js?v=v3';
-import { D, P, loadContent, loadProgress, save, nav, route, unreadNews, TRACK } from './state.js?v=v3';
-import * as S from './screens.js?v=v3';
-import { renderPlay } from './play.js?v=v3';
-import { renderReader } from './reader.js?v=v3';
+import { h, icon, closeSheets } from './ui.js?v=v4';
+import { D, P, loadContent, loadProgress, save, nav, route, unreadNews, TRACK } from './state.js?v=v4';
+import * as S from './screens.js?v=v4';
+import { renderPlay } from './play.js?v=v4';
+import { renderReader } from './reader.js?v=v4';
 
 const NAV = [
   ['#/home', 'home', '主畫面'], ['#/tonight', 'play', '今晚一局'], ['#/games', 'games', '遊戲中心'], ['#/map', 'map', '知識地圖'], ['#/glossary', 'abc', '詞彙表'],
@@ -71,5 +71,5 @@ function registerSW() {
   });
 }
 
-window.__BUILD__ = 'v3';
+window.__BUILD__ = 'v4';
 boot().catch((err) => { console.error(err); if (window.__amFail) window.__amFail(err); });

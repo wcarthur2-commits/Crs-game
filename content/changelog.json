@@ -3341,6 +3341,4622 @@
   },
   {
    "date": "2026-11-27",
+   "item_id": "LCB-001",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-005",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-009",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-013",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-015",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-018",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-022",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-001",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-002",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-003",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-004",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-005",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-006",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-007",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-008",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-001",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-002",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-003",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-004",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-002",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-006",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-010",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-014",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-016",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-020",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-021",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-023",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-005",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-006",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-007",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-008",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-024",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-025",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-012",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-009",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-010",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-011",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-012",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-013",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-014",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-015",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-016",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-017",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-018",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-019",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-020",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-009",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-010",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-011",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-001",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-002",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-001",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-002",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-003",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-004",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-005",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-006",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-007",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-008",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-009",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-010",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-011",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-012",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-013",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-014",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-015",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-016",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-017",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-018",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-019",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-020",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-021",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-022",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-023",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-024",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-025",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-026",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-027",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-028",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-029",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-030",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-031",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-032",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-033",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-034",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-035",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-036",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-037",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-038",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-039",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-040",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-041",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-001",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-002",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-003",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-004",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-005",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-006",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-007",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-008",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-003",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-004",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-007",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-008",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-011",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-017",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-019",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-023",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、explain、industries、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-037",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-021",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-022",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-023",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-024",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-025",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-026",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-027",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-028",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-029",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-030",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-031",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-032",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-033",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-034",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-035",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-036",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-037",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-038",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-012",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-013",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-014",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-015",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-016",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-017",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-018",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-019",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-026",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-027",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-028",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-029",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-030",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-031",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-032",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-033",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-034",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-035",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-036",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "TCB-001",
+   "file": "trees.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "TCB-002",
+   "file": "trees.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-101",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-102",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-101",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-102",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-103",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-104",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-105",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-106",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-107",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-108",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-109",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-110",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-111",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-112",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-113",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-114",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-115",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-116",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-117",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-118",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-119",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-120",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-121",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-122",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-123",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-124",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-125",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-126",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-127",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-128",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-129",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-130",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-131",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-132",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-133",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-134",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-135",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-136",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-137",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-138",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-139",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-140",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-141",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-142",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-101",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-102",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-103",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-104",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-105",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-106",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-107",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-108",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-201",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-202",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-201",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-202",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-203",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-204",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-205",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-206",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-207",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-208",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-209",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-210",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-211",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-212",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-213",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-214",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-215",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-216",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-217",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-218",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-219",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-220",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-221",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-222",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-223",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-224",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-225",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-226",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-227",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-228",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-229",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-230",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-231",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-232",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-233",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-234",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-235",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-236",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-237",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-238",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-239",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-240",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-241",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-201",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-202",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-203",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-204",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-205",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-206",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-043",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-039",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-040",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-041",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-042",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-043",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-044",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-045",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-046",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-047",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-048",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-049",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-050",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-051",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-052",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-053",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-054",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-055",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-056",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-057",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-058",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-059",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-060",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-061",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-062",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-020",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-021",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-022",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-023",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-024",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-025",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-026",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-027",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-028",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-029",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-038",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-039",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-040",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-041",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-042",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-044",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-049",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-106",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "title"
+   ],
+   "note": "更新：詳情、explain、option_explains、options、引文、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-119",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "element_ids",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、知識點、explain、industries、option_explains、options、引文、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-120",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "difficulty",
+    "explain",
+    "format",
+    "industries",
+    "minutes",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：difficulty、explain、format、industries、minutes、option_explains、options、引文、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-121",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "quotes"
+   ],
+   "note": "更新：引文",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-103",
+   "file": "flashcards.json",
+   "change": "modified",
+   "fields": [
+    "quotes"
+   ],
+   "note": "更新：引文",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-045",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-046",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-047",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-048",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-050",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-051",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-052",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-053",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-054",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-055",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "TCB-003",
+   "file": "trees.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "TCB-004",
+   "file": "trees.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-049",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "element_ids",
+    "options",
+    "prompt",
+    "quotes",
+    "title",
+    "title_long"
+   ],
+   "note": "更新：batch、知識點、options、prompt、引文、標題、原標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "LCB-054",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "detail",
+    "element_ids",
+    "intro",
+    "model_answer",
+    "model_source_id",
+    "prompt",
+    "quotes",
+    "roles",
+    "rubric_keywords",
+    "source_url",
+    "sources",
+    "title",
+    "title_long"
+   ],
+   "note": "更新：batch、詳情、知識點、intro、model_answer、model_source_id、prompt、引文、roles、rubric_keywords、source_url、sources、標題、原標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-013",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "difficulty",
+    "explain",
+    "format",
+    "minutes",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、difficulty、explain、format、minutes、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-015",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "difficulty",
+    "explain",
+    "format",
+    "industries",
+    "minutes",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：difficulty、explain、format、industries、minutes、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-028",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "difficulty",
+    "explain",
+    "format",
+    "industries",
+    "minutes",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、difficulty、explain、format、industries、minutes、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-030",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、explain、industries、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-121",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、explain、industries、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-122",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、explain、industries、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-133",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "explain",
+    "format",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：explain、format、industries、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-138",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、explain、industries、option_explains、options、引文、roles、簡述、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-139",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "difficulty",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "title"
+   ],
+   "note": "更新：difficulty、explain、option_explains、options、引文、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-215",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "element_ids",
+    "explain",
+    "format",
+    "industries",
+    "minutes",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、知識點、explain、format、industries、minutes、option_explains、options、引文、roles、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-025",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "title"
+   ],
+   "note": "更新：batch、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-037",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "detail",
+    "difficulty",
+    "element_ids",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：batch、詳情、difficulty、知識點、explain、option_explains、options、引文、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-045",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "detail",
+    "explain"
+   ],
+   "note": "更新：batch、詳情、explain",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-052",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "detail",
+    "element_ids",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "title",
+    "topic"
+   ],
+   "note": "更新：batch、詳情、知識點、explain、option_explains、options、引文、簡述、標題、topic",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-055",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "detail",
+    "difficulty",
+    "element_ids",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "title",
+    "topic"
+   ],
+   "note": "更新：batch、詳情、difficulty、知識點、explain、option_explains、options、引文、簡述、標題、topic",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-056",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "answer",
+    "batch",
+    "detail",
+    "element_ids",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "title",
+    "topic"
+   ],
+   "note": "更新：answer、batch、詳情、知識點、explain、option_explains、options、引文、簡述、標題、topic",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "QCB-057",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "batch",
+    "detail",
+    "element_ids",
+    "explain",
+    "format",
+    "option_explains",
+    "options",
+    "short",
+    "title"
+   ],
+   "note": "更新：batch、詳情、知識點、explain、format、option_explains、options、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-014",
+   "file": "flashcards.json",
+   "change": "modified",
+   "fields": [
+    "back",
+    "batch",
+    "detail",
+    "element_ids",
+    "front",
+    "quotes",
+    "short",
+    "title"
+   ],
+   "note": "更新：back、batch、詳情、知識點、front、引文、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-018",
+   "file": "flashcards.json",
+   "change": "modified",
+   "fields": [
+    "back",
+    "batch",
+    "detail",
+    "element_ids",
+    "front",
+    "quotes",
+    "short",
+    "title"
+   ],
+   "note": "更新：back、batch、詳情、知識點、front、引文、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-021",
+   "file": "flashcards.json",
+   "change": "modified",
+   "fields": [
+    "back",
+    "batch",
+    "detail",
+    "element_ids",
+    "front",
+    "quotes",
+    "short",
+    "title"
+   ],
+   "note": "更新：back、batch、詳情、知識點、front、引文、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "FCB-027",
+   "file": "flashcards.json",
+   "change": "modified",
+   "fields": [
+    "back",
+    "batch",
+    "detail",
+    "element_ids",
+    "front",
+    "quotes",
+    "short",
+    "title"
+   ],
+   "note": "更新：back、batch、詳情、知識點、front、引文、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-301",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-302",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-301",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-302",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-303",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-304",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-305",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-306",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-307",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-308",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-309",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-310",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-311",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-312",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-313",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-314",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-315",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-316",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-317",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-318",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-319",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-320",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-321",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-322",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-323",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-324",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-325",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-326",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-327",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-328",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-329",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-330",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-331",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-332",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-333",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-334",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-335",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-336",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-337",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-338",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-339",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-301",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-302",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-303",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-304",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-401",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-402",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-403",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-404",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-405",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-406",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-333",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "difficulty",
+    "explain",
+    "format",
+    "minutes",
+    "option_explains",
+    "options",
+    "quotes",
+    "roles",
+    "short",
+    "title"
+   ],
+   "note": "更新：difficulty、explain、format、minutes、option_explains、options、引文、roles、簡述、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-336",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "element_ids",
+    "explain",
+    "industries",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：知識點、explain、industries、option_explains、options、引文、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-401",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-402",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-403",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-404",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-405",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-406",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-407",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-408",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-409",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-410",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-411",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-412",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-413",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-414",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-415",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-416",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-417",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-418",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-419",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-420",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-421",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-422",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-401",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-402",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-403",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-501",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-502",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-503",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-504",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-501",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-502",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-503",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-505",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-506",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-507",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-508",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-509",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-510",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-504",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-511",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-512",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-513",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-518",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-519",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-520",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-521",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-522",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-523",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-525",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-526",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-527",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-501",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-502",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-601",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-602",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-601",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-602",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-603",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-604",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-605",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-606",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-607",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-608",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-609",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-610",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-611",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-612",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-613",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-614",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-615",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-616",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-617",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-618",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-619",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-620",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-621",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-622",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-623",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-624",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-625",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-626",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-627",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-628",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-601",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-602",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-603",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-701",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-521",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "detail",
+    "explain",
+    "option_explains",
+    "options",
+    "quotes",
+    "short",
+    "source_id",
+    "source_url",
+    "sources",
+    "title"
+   ],
+   "note": "更新：詳情、explain、option_explains、options、引文、簡述、source_id、source_url、sources、標題",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-701",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-702",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-703",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-704",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-705",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-706",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-707",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-708",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-709",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-710",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "L2B-801",
+   "file": "levels.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-801",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-802",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-803",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-804",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-805",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-806",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-807",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-808",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-809",
+   "file": "quiz.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "F2B-801",
+   "file": "flashcards.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-001",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：雙重居民唔用 tiebreaker、change of circumstances、controlling persons 角色",
+   "note": "CRS 2.0 新題：雙重居民唔用 tiebreaker、change of circumstances、controlling persons 角色",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_001",
+   "counts": {
+    "quiz": 41,
+    "flashcards": 8,
+    "levels": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-002",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：增資帳戶、低值 SEMP、self-cert 有效性同 90 日、reportable person、報表新欄位",
+   "note": "CRS 2.0 新題：增資帳戶、低值 SEMP、self-cert 有效性同 90 日、reportable person、報表新欄位",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_002",
+   "counts": {
+    "quiz": 42,
+    "flashcards": 8,
+    "levels": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-003",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：AEOI Portal 登記細節、紀錄保存同 designated officer、罰則同上訴",
+   "note": "CRS 2.0 新題：AEOI Portal 登記細節、紀錄保存同 designated officer、罰則同上訴",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_003",
+   "counts": {
+    "quiz": 41,
+    "flashcards": 6,
+    "levels": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-004",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：託管／存款／投資實體界線、financial asset、SEMP 五個要件、CBDC、QNPE",
+   "note": "CRS 2.0 新題：託管／存款／投資實體界線、financial asset、SEMP 五個要件、CBDC、QNPE",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_004",
+   "counts": {
+    "quiz": 39,
+    "flashcards": 4,
+    "levels": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-005",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：多重居民、gross proceeds 同 CARF、reasonable efforts、暫時欠 self-cert 程序、寫作同砌報告關卡",
+   "note": "CRS 2.0 新題：多重居民、gross proceeds 同 CARF、reasonable efforts、暫時欠 self-cert 程序、寫作同砌報告關卡",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_005",
+   "counts": {
+    "quiz": 22,
+    "flashcards": 3,
+    "levels": 6
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-006",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：信託同家族辦公室 CP、PIC 分類、Responsible RFI 登記、XML 訊息、SP 罰則",
+   "note": "CRS 2.0 新題：信託同家族辦公室 CP、PIC 分類、Responsible RFI 登記、XML 訊息、SP 罰則",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_006",
+   "counts": {
+    "quiz": 22,
+    "flashcards": 2,
+    "levels": 4
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-007",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：Government Verification Service、實體／保單嘅 change in circumstances、IRD FAQ 行政同私隱、OECD 修訂原因",
+   "note": "CRS 2.0 新題：Government Verification Service、實體／保單嘅 change in circumstances、IRD FAQ 行政同私隱、OECD 修訂原因",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_007",
+   "counts": {
+    "quiz": 28,
+    "flashcards": 3,
+    "levels": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-008",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：IRD「Common AEOI Issues」— entity holder type、TIN 質素、對帳檢查、change in circumstances 跟進",
+   "note": "CRS 2.0 新題：IRD「Common AEOI Issues」— entity holder type、TIN 質素、對帳檢查、change in circumstances 跟進",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_008",
+   "counts": {
+    "quiz": 10,
+    "levels": 1
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-crs2-009",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CRS 2.0 新題：IRD AEOI 合規審查 — 審查類型、實地審查、高風險範疇",
+   "note": "CRS 2.0 新題：IRD AEOI 合規審查 — 審查類型、實地審查、高風險範疇",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "crs2/batch_009",
+   "counts": {
+    "quiz": 9,
+    "flashcards": 1,
+    "levels": 1
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-001",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：申報資料、CP、情況改變、申報對象（第 1 批）",
+   "note": "CARF 新增：申報資料、CP、情況改變、申報對象（第 1 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_001",
+   "counts": {
+    "quiz": 8,
+    "flashcards": 4,
+    "levels": 7
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-002",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：XML 代碼、兌換定轉讓、估值、self-cert（第 2 批）",
+   "note": "CARF 新增：XML 代碼、兌換定轉讓、估值、self-cert（第 2 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_002",
+   "counts": {
+    "flashcards": 4,
+    "levels": 8
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-003",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：SEMP／NFT、OECD FAQ、報表細節（第 3 批）",
+   "note": "CARF 新增：SEMP／NFT、OECD FAQ、報表細節（第 3 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_003",
+   "counts": {
+    "quiz": 12,
+    "flashcards": 3,
+    "levels": 3
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-004",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：轉移代碼、Sch 17EA、申報對象分類、開戶流程（第 4 批）",
+   "note": "CARF 新增：轉移代碼、Sch 17EA、申報對象分類、開戶流程（第 4 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_004",
+   "counts": {
+    "levels": 7
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-005",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：s.80S–80X 罪行、s.51BB 檢查、停業紀錄、雙重居民（第 5 批）",
+   "note": "CARF 新增：s.80S–80X 罪行、s.51BB 檢查、停業紀錄、雙重居民（第 5 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_005",
+   "counts": {
+    "quiz": 16,
+    "flashcards": 6,
+    "levels": 1
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-006",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：短寫作、情境、停業備忘同 2 棵決策樹（第 6 批）",
+   "note": "CARF 新增：短寫作、情境、停業備忘同 2 棵決策樹（第 6 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_006",
+   "counts": {
+    "levels": 11,
+    "trees": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-007",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：nexus、登記、報表形式、實體盡職審查（第 7 批）",
+   "note": "CARF 新增：nexus、登記、報表形式、實體盡職審查（第 7 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_007",
+   "counts": {
+    "quiz": 19,
+    "flashcards": 8,
+    "levels": 1
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-008",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：nexus／active entity／豁免分類、實體 CP 變動同第一年流程（第 8 批）",
+   "note": "CARF 新增：nexus／active entity／豁免分類、實體 CP 變動同第一年流程（第 8 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_008",
+   "counts": {
+    "levels": 6
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-009",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 新增：nexus 同實體開戶搵錯處、情境、短寫作同 2 棵決策樹（第 9 批）",
+   "note": "CARF 新增：nexus 同實體開戶搵錯處、情境、短寫作同 2 棵決策樹（第 9 批）",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_009",
+   "counts": {
+    "levels": 9,
+    "trees": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "batch-carf-010",
+   "file": "meta.json",
+   "change": "added",
+   "summary": "CARF 質素檢查修正：13 項改寫（去除近似重複題、修正字眼），ID 不變，由原 batch 移入",
+   "note": "CARF 質素檢查修正：13 項改寫（去除近似重複題、修正字眼），ID 不變，由原 batch 移入",
+   "baseline": false,
+   "batch_summary": true,
+   "batch": "carf/batch_010",
+   "counts": {
+    "quiz": 7,
+    "flashcards": 4,
+    "levels": 2
+   }
+  },
+  {
+   "date": "2026-11-27",
    "item_id": "content-2026.11.27",
    "file": "meta.json",
    "change": "modified",

@@ -1,10 +1,10 @@
 // All screens except play and the provision reader.
-import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v3';
-import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v3';
-import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v3';
-import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v3';
-import { startSession, playOne, mcqBody } from './play.js?v=v3';
-import { layeredGraph, treeFlow, venn } from './diagram.js?v=v3';
+import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v4';
+import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v4';
+import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v4';
+import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v4';
+import { startSession, playOne, mcqBody } from './play.js?v=v4';
+import { layeredGraph, treeFlow, venn } from './diagram.js?v=v4';
 
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
 const KIND_ICON = { match: 'link', sort: 'buckets', order: 'list', spot: 'search', story: 'chat', build: 'blocks', write: 'pen', quiz: 'timer' };
@@ -127,7 +127,7 @@ export function renderGames(root, sub) {
       t('#/challenge', 'bolt', '計分挑戰', '限時 · 連勝倍數'),
       t('#/adventure', 'route', '情境冒險', `${(D.quiz.adventure || []).length} 關`),
       t('#/bank', 'search', '題庫', `${D.quiz.items.filter((q) => q.track === r).length} 題`),
-      t('#/mini', 'checklist', '小測驗', `${D.quiz.items.filter((q) => q.set === 'mini' && q.track === r).length} 題`),
+      t('#/mini', 'checklist', '小測驗', `每組 ${Math.min(MINI_N, D.quiz.items.filter((q) => q.track === r).length)} 題`),
       t('#/flash', 'cards', 'Flashcards', `${D.flashcards.items.filter((f) => f.track === r).length} 張`),
       t('#/trees', 'tree', '決策樹', `${D.trees.items.filter((x) => r === 'INTEG' || x.track === r).length} 棵`),
       t('#/roles', 'people', '角色 × 行業', `${D.roles.items.length} 角色`),
@@ -197,15 +197,26 @@ export function renderFlash(root) {
 }
 
 // ================= MINI QUIZ =================
-const miniSel = {};
+const miniSel = {}; const MINI_N = 8; const miniRound = {};
+function miniSet(r) {
+  // the track's 'mini' questions always, topped up to MINI_N from the rest of the track (new batch items included); re-rolled on 換一組
+  const key = r + ':' + (miniRound[r] || 0);
+  if (miniRound.key !== key) {
+    const fixed = D.quiz.items.filter((q) => q.set === 'mini' && q.track === r);
+    const rest = shuffle(D.quiz.items.filter((q) => q.set !== 'mini' && q.track === r), rng(((miniRound[r] || 0) + 1) * 7919 + dayKey().length));
+    miniRound.key = key; miniRound.ids = fixed.concat(rest).slice(0, Math.max(MINI_N, fixed.length)).map((q) => q.id);
+  }
+  return miniRound.ids.map((id) => IX.q[id]).filter(Boolean);
+}
 export function renderMini(root) {
   root.append(screenHead('小測驗', { iconName: 'checklist' }));
-  const qs = D.quiz.items.filter((q) => q.set === 'mini' && q.track === route());
+  const qs = miniSet(route());
   const answered = qs.filter((q) => miniSel[q.id] != null); const good = answered.filter((q) => miniSel[q.id] === q.answer).length;
   root.append(h('div', { class: 'progress-line' }, bar(qs.length ? (100 * answered.length) / qs.length : 0, 'var(--games)'), h('span', null, `已答 ${answered.length}/${qs.length} · 啱 ${good}`)));
   if (!qs.length) root.append(h('p', { class: 'muted' }, '呢條路線未有小測驗題目。'));
   qs.forEach((q, i) => root.append(h('section', { class: 'panel' }, h('span', { class: 'muted small' }, `第 ${i + 1} 題`), mcqBody(q, miniSel[q.id], (k) => { miniSel[q.id] = k; const a = P.qa[q.id] || [0, 0]; P.qa[q.id] = [a[0] + (k === q.answer ? 1 : 0), a[1] + 1]; (q.element_ids || []).forEach((e) => { const o = P.qs[e] || [0, 0]; P.qs[e] = [o[0] + (k === q.answer ? 1 : 0), o[1] + 1]; }); save(); rerender(); }))));
-  if (answered.length) root.append(btn('重新做', () => { qs.forEach((q) => delete miniSel[q.id]); rerender(); }, 'ghost'));
+  root.append(h('div', { class: 'row-btns' }, answered.length ? btn('重新做', () => { qs.forEach((q) => delete miniSel[q.id]); rerender(); }, 'ghost') : null,
+    btn('換一組題目', () => { qs.forEach((q) => delete miniSel[q.id]); miniRound[route()] = (miniRound[route()] || 0) + 1; rerender(); window.scrollTo(0, 0); }, 'ghost')));
 }
 
 // ================= QUESTION BANK =================
