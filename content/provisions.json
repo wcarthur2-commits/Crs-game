@@ -13,7 +13,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "1. 簡稱及生效日期\n(1)本條例可引稱為《2026 年稅務(修訂)(加密資產申報框架及經修訂的共同匯報標準)條例》。\n(2)除第(3)、(4)及(5)款另有規定外，本條例自其於憲報刊登當日起實施。\n(3)第 2 部第 1 分部(第 8 條除外)自 2027 年 1 月 1 日起實施。\n(4)第 8 條在緊接《2026 年稅務(修訂)(自動交換資料)條例》(2026 年第 4 號)開始實施之後開始實施。\n(5)第 2 部第 2 分部自 2028 年 1 月 1 日起實施。",
    "zh_status": "verified",
    "element_ids": [
@@ -37,7 +38,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -58,7 +60,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -74,7 +78,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50N. 香港申報提供者的關聯規則\n(1)如某申報加密資產服務提供者——\n(a)屬個人或實體，並屬香港稅務居民；\n(b)屬符合以下說明的實體——\n(i)根據香港法律成立為法團或設立；及\n(ii)在香港具有法人資格，或有責任就該實體的收入向稅務局提交報稅表或稅務資料報表；\n(c)屬從香港管理的實體；或\n(d)屬在香港設有常設營業場所的個人或實體，則該提供者視為香港申報提供者。\n(2)如某申報加密資產服務提供者有設於香港的分行，而有人透過該分行達成相關交易，則該提供者視為香港申報提供者。\n(3)香港申報提供者——\n(a)如該提供者屬第(1)款所述的香港申報提供者——除第(4)、(5)、(6)、(7)、(8)及(9)款另有規定外，須履行第 8B 部下的所有責任；或\n(b)如該提供者屬第(2)款所述的香港申報提供者——須就透過設於香港的分行而達成的相關交易，履行第 8B 部下的所有責任。\n(4)凡某香港申報提供者屬實體，並且——\n(a)屬某夥伴稅務管轄區的稅務居民，而憑藉此事，該提供者在該管轄區遵守指明規定；及\n(b)須根據第 50Q(1)條提交報表，則該提供者不須遵守依據第(1)(b)、(c)或(d)款該提供者本須遵守的、第 50P 條下的盡職審查規定。\n(5)凡某香港申報提供者屬實體，兼且——\n(a)該提供者——\n(i)是根據某夥伴稅務管轄區的法律而成立為法團或設立的；及\n(ii)在該管轄區具有法人資格，或有責任就該實體的收入向該管轄區的稅務當局提交報稅表或稅務資料報表，而憑藉此事，該提供者在該管轄區遵守指明規定；及\n(b)該提供者須根據第 50Q(1)條提交報表，則該提供者不須遵守依據第(1)(c)或(d)款該提供者本須遵守的、第 50P 條下的盡職審查規定。\n(6)凡某香港申報提供者屬實體，並且——\n(a)是從某夥伴稅務管轄區管理的，而憑藉此事，該提供者在該管轄區遵守指明規定；及\n(b)須根據第 50Q(1)條提交報表，則該提供者不須遵守依據第(1)(d)款該提供者本須遵守的、第 50P 條下的盡職審查規定。\n(7)凡某香港申報提供者屬個人，並且——\n(a)屬某夥伴稅務管轄區的稅務居民，而憑藉此事，該提供者在該管轄區遵守指明規定；及\n(b)須根據第 50Q(1)條提交報表，則該提供者不須遵守依據第(1)(d)款該提供者本須遵守的、第 50P 條下的盡職審查規定。\n(8)凡某香港申報提供者透過在某夥伴稅務管轄區的分行達成相關交易，而——\n(a)該分行在該夥伴稅務管轄區遵守指明規定；及\n(b)該提供者須根據第 50Q(1)條提交報表，則該提供者不須就該等交易遵守第 50P 條下的盡職審查規定。\n(9)凡某香港申報提供者與某夥伴稅務管轄區之間有某項關聯，而該項關聯和該提供者與香港之間的關聯大致相似，兼且——\n(a)憑藉該提供者與該管轄區之間的關聯，該提供者根據該管轄區的規則，遵守指明規定；及\n(b)該提供者須根據第 50Q(1)條提交報表，則該提供者不須遵守依據第(1)(a)、(b)、(c)或(d)款該提供者本須遵守的、第 50P 條下的盡職審查規定。\n(10)為施行第(1)(a)款，如——\n(a)某申報加密資產服務提供者屬個人，而——\n(i)該人通常居於香港；或\n(ii)該人——\n(A)在某課稅年度內，在香港一次逗留超過 180 日，或多於一次逗留總共超過 180 日；或\n(B)在兩個連續的課稅年度(其中一年屬有關課稅年度)內，在香港一次逗留超過 300 日，或多於一次逗留總共超過 300 日；\n(b)某申報加密資產服務提供者屬實體亦屬公司，而——\n(i)該實體在香港成立為法團；或\n(ii)如該實體在香港以外成立為法團——該實體通常在香港管理或控制；或\n(c)某申報加密資產服務提供者屬實體但並非公司，而——\n(i)該實體根據香港法律組成；或\n(ii)如該實體以其他方式組成——該實體通常在香港管理或控制，則該提供者屬香港稅務居民。\n(11)在本條中——指明規定(specified requirements)指由經濟合作與發展組織在 2023 年 6 月 8 日公布的、名為《就稅務事宜自動交換資料的國際標準：加密資產申報框架及 2023 年就共同匯報標準的更新》(此為 “International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard” 的譯名)的文件第 I 部第 II 及 III 條的規則及評註所列的申報規定及盡職審查規定。",
    "zh_status": "verified",
    "element_ids": [
@@ -98,7 +103,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -119,7 +125,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reporting-crypto-asset-service-provider",
@@ -133,7 +141,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-resident-for-tax-purposes",
@@ -147,7 +157,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -161,7 +173,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-service-provider",
@@ -175,7 +189,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-transaction",
@@ -189,7 +205,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-partner-jurisdiction",
@@ -203,7 +221,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -219,7 +239,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50O. 香港申報提供者須登記\n(1)儘管有第 50N(4)、(5)、(6)、(7)、(8)及(9)條的規定，香港申報提供者須按照第(2)款及第 50V(1)條，向局長登記。\n(2)凡有關香港申報提供者在某公曆年內首次符合第 50N(1)及(2)條所指明的任何準則，上述登記須在下一個公曆年的 1 月 31 日或之前作出。",
    "zh_status": "verified",
    "element_ids": [
@@ -243,7 +264,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -264,7 +286,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -280,7 +304,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50P. 香港申報提供者的盡職審查責任\n(1)香港申報提供者須——\n(a)設立為達致以下效果而設計的程序——\n(i)識辨以下人士的居留司法管轄區——\n(A)屬該提供者的客户的加密資產使用者；及\n(B)就屬主動實體及豁除人士以外的實體的實體加密資產使用者而言——該使用者的控權人；\n(ii)識辨某加密資產使用者是否屬須申報使用者，及某控權人是否屬申報對象；\n(iii)確保就任何加密資產使用者及控權人進行該等程序所倚賴的證據以及所採取的步驟的紀錄，均備存至以下期間屆滿之時——\n(A)(除(B)分節另有規定外)緊接上述證據及紀錄所關乎的公曆年之後的 6 年期間；或\n(B)如按規定須就第 50Q(2)條所述的指明資料期間(上述證據及紀錄所關乎者)提交任何報表——第 50S(2)條所述的指明備存期；及\n(iv)使該提供者能夠識辨和收集第 50Q(4)條所指的所需資料(所需資料)；及\n(b)將附表 17EA 中的盡職審查規定，納入該等程序內。\n(2)香港申報提供者須維持遵照第(1)款設立的程序(所需程序)，並須為履行該提供者在本部之下的責任而應用該等程序，以——\n(a)識辨須申報使用者及申報對象，以及識辨和收集所需資料；及\n(b)確保第(1)(a)(iii)款所述目的能夠達到。\n(3)香港申報提供者履行其在本部之下的責任時——\n(a)可就任何加密資產使用者，應用所需程序，即使在以下情況下亦然——\n(i)該使用者是香港以外某個並非申報稅務管轄區的地區的稅務居民；或\n(ii)就屬主動實體及豁除人士以外的實體的實體加密資產使用者而言——該使用者的任何控權人，是香港以外某個並非申報稅務管轄區的地區的稅務居民；及\n(b)可應用所需程序，以就(a)段所提述的加密資產使用者及控權人，識辨和收集所需資料。",
    "zh_status": "verified",
    "element_ids": [
@@ -304,7 +329,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -325,7 +351,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-jurisdiction-of-residence",
@@ -339,7 +367,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -353,7 +383,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-entity-crypto-asset-user",
@@ -367,7 +399,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-active-entity",
@@ -381,7 +415,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-excluded-person",
@@ -395,7 +431,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-controlling-person",
@@ -409,7 +447,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -423,7 +463,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-user",
@@ -437,7 +479,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-person",
@@ -451,7 +495,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-resident-for-tax-purposes",
@@ -465,7 +511,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-jurisdiction",
@@ -479,7 +527,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -495,7 +545,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50Q. 香港申報提供者提交報表的責任\n(1)香港申報提供者須遵照評稅主任根據第(2)款發出的通知，並在符合第(5)款規定下，提交報表。\n(2)評稅主任可向香港申報提供者發出書面通知，要求該提供者提交報表，就該通知所指明的期間(指明資料期間)，申報第(4)款所提述的資料(所需資料)，而指明資料期間須是——\n(a)發出該通知的日期所在年份的上一個公曆年；或\n(b)局長認為適當的其他期間。\n(3)然而，凡某申報稅務管轄區於某日成為申報稅務管轄區，關乎該管轄區的指明資料期間，不得涵蓋該日之前的期間。\n(4)所需資料是——\n(a)除(b)段另有規定外——第 50R 條所提述的資料；\n(b)如在指明資料期間內——\n(i)有關香港申報提供者因符合第 50N(4)、(5)、(6)、(7)及(9)條所指明的任何準則，而不須遵守第 50P 條下的盡職審查規定，兼且指明規定(第 50N(11)條所界定者)已在某夥伴稅務管轄區獲遵守——第(6)款所述的資料；\n(ii)有關香港申報提供者不須就透過該提供者設於某夥伴稅務管轄區的分行而達成的相關交易遵守第 50P 條下的盡職審查規定，兼且該分行已在該管轄區遵守指明規定(第 50N(11)條所界定者)——(就透過該分行達成的相關交易而言)第(6)款所述的資料；或\n(iii)有關香港申報提供者沒有與被識辨為須申報使用者或具有屬申報對象的控權人的加密資產使用者(被識辨使用者)維持關係，或沒有為被識辨使用者達成或代表被識辨使用者達成任何相關交易——第(7)款所述的資料；及\n(c)稅務委員會指明的任何其他資料。\n(5)第(1)款所指的報表——\n(a)須載有所需資料；及\n(b)須——\n(i)在有關通知所指明的限期內提交；及\n(ii)遵照第 50V(2)條提交。\n(6)第(4)(b)(i)及(ii)款所提述的資料是——\n(a)有關香港申報提供者的姓名或名稱、地址及(如有的話)識辨編號；\n(b)該提供者或有關分行(視屬何情況而定)在哪一夥伴稅務管轄區遵守指明規定(第 50N(11)條所界定者)；及\n(c)該提供者符合第 50N(4)、(5)、(6)、(7)、(8)及(9)條所指明的哪一項準則。\n(7)第(4)(b)(iii)款所提述的資料是——\n(a)有關香港申報提供者的姓名或名稱、地址及(如有的話)識辨編號；及\n(b)對以下事實的陳述：有關香港申報提供者沒有與被識辨使用者維持關係，或沒有為被識辨使用者達成或代表被識辨使用者達成任何相關交易。",
    "zh_status": "verified",
    "element_ids": [
@@ -520,7 +571,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -541,7 +593,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-jurisdiction",
@@ -555,7 +609,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-partner-jurisdiction",
@@ -569,7 +625,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-transaction",
@@ -583,7 +641,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -597,7 +657,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-user",
@@ -611,7 +673,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-controlling-person",
@@ -625,7 +689,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-person",
@@ -639,7 +705,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -653,7 +721,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -669,7 +739,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50R. 第 50Q 條所指的所需資料\n(1)香港申報提供者根據第 50Q(4)條提交的報表，須載有該提供者的姓名或名稱、地址及(如有的話)識辨編號。\n(2)有關報表亦須就每名——\n(a)屬須申報使用者的加密資產使用者；或\n(b)具有任何屬申報對象的控權人的加密資產使用者，載有第(3)款所指明的資料。\n(3)上述資料是——\n(a)如有關加密資產使用者是一名屬須申報使用者的個人——該人的姓名、地址、居留司法管轄區、稅務編號、出生日期及出生地點；\n(b)如有關加密資產使用者是一個屬須申報使用者的實體——該實體的名稱、地址、居留司法管轄區及稅務編號；\n(c)如有關加密資產使用者屬實體，而該實體的一名或多於一名控權人屬申報對象——\n(i)該實體的名稱、地址、居留司法管轄區及稅務編號；\n(ii)每名申報對象的姓名、地址、居留司法管轄區、稅務編號、出生日期及出生地點；及\n(iii)每名申報對象憑藉甚麽角色而屬該實體的控權人；及\n(d)如有關香港申報提供者在根據第 50Q(2)條指明的期間內，或在該提供者不可撤銷地選擇的其他 12 個月的期間內，有就相關加密資產達成相關交易，則就每類該等相關加密資產而言——\n(i)該類相關加密資產的全稱；\n(ii)就以法定貨幣購入該類相關加密資產的相關交易而言——扣除交易費用後所支付的累計總金額、購入單位的總數及相關交易的數量；\n(iii)就以法定貨幣沽出該類相關加密資產的相關交易而言——扣除交易費用後所收取的累計總金額、沽出單位的總數及相關交易的數量；\n(iv)就以其他相關加密資產購入該類相關加密資產的相關交易而言——扣除交易費用後的累計公平市值、購入單位的總數及相關交易的數量；\n(v)就以其他相關加密資產沽出該類相關加密資產的相關交易而言——扣除交易費用後的累計公平市值、沽出單位的總數及相關交易的數量；\n(vi)就須申報零售付款交易而言——扣除交易費用後的累計公平市值、該等交易的單位總數及該等交易的數量；\n(vii)就向不受(d)(ii)及(iv)段涵蓋的須申報使用者作出的轉讓而言——扣除交易費用後的累計公平市值、單位總數、相關交易的數量及(如該提供者知悉的話)將該等轉讓以轉讓種類作分類的資料；\n(viii)就由不受(d)(iii)、(v)及(vi)段涵蓋的須申報使用者作出的轉讓而言——扣除交易費用後的累計公平市值、單位總數、相關交易的數量及(如該提供者知悉的話)將該等轉讓以轉讓種類作分類的資料；及\n(ix)如有由該提供者達成的、由有關須申報使用者作出的某些轉讓，該等轉讓是向某些錢包地址作出的，而該提供者並未知悉該等錢包地址與任何虛擬資產服務提供者或財務機構(上述虛擬資產服務提供者及財務機構由《財務行動特別組織的建議》所界定)有聯繫，則就該等轉讓而言——扣除交易費用後的累計公平市值及單位總數。\n附註——請亦參閱第(14)款。\n(4)為施行第(3)(d)(vi)款——\n(a)構成須申報零售付款交易的轉讓的匯總資料，須作為單獨的相關交易類別申報；\n(b)凡有關香港申報提供者為某商户或代表某商户提供達成須申報零售付款交易的服務，如依據當地反洗錢規則，該提供者須核實該等交易下客户一方的身分，則就該等交易而言，除了該商户外，該客户須視為有關加密資產使用者(在該客户符合在第 50M(1)條中加密資產使用者的定義所指明的條件的規限下)，從而作為須申報使用者；\n(c)凡就第(3)(d)(viii)款所指的轉讓作出申報，則就有關商户的客户所作出的須申報零售付款交易的匯總資料，不得包括在該項申報的匯總資料內；及\n(d)凡就第(3)(d)(vii)及(viii)款所指的轉讓作出申報，而某些轉讓僅因未達最低款額門檻而不構成須申報零售付款交易，則就該等轉讓的匯總資料，須包括在該項申報的匯總資料內。\n(5)為施行第(3)(d)(ii)及(iii)款，凡支付或收取任何金額，須以用於支付或收取該項金額的法定貨幣申報該項金額，而如有多於一項法定貨幣用於支付或收取該項金額，則須在進行每項相關交易時，將該等法定貨幣以有關香港申報提供者一貫採用的方式，兌換成單一法定貨幣，並以該單一法定貨幣申報該項金額。\n(6)為施行第(3)(d)(iv)、(v)、(vi)、(vii)、(viii)及(ix)款，有關公平市值，須以單一法定貨幣斷定和申報，並須在進行每項相關交易時，就有關公平市值，以有關香港申報提供者一貫採用的合理方式，作出估值。\n(7)凡有關香港申報提供者有維持加密資產與法定貨幣的交易對，則在為施行第(3)(d)(iv)及(v)款而作出估值時，該提供者可倚賴適用的交易對，以斷定有關的兩項相關加密資產的公平市值。\n(8)凡以某項相關加密資產(前者)兌換另一項相關加密資產(後者)，而前者屬難以估值的加密資產，但後者則屬可輕易估值的加密資產，則須倚賴後者以法定貨幣計算的估值，以確立前者以法定貨幣計算的價值。\n(9)凡有關香港申報提供者有維持某項相關加密資產與某項法定貨幣的交易對，則在為施行第(3)(d)(vi)、(vii)、(viii)或(ix)款而作出估值時，該提供者可參考交易對的價值，以斷定在轉讓該項相關加密資產時，該項相關加密資產的公平市值，而所申報的資料須識辨用於申報每項金額的法定貨幣。\n(10)如達成有關轉讓的香港申報提供者並沒有維持有關相關加密資產與法定貨幣的交易對的適用參考價值，則須倚賴以下估值方法——\n(a)須使用該提供者就該項相關加密資產維持的內部會計帳面值；\n(b)如沒有帳面值，而有第三方公司或網站提供某價值，該價值是該第三方將相關加密資產的時價總合而得出的，並且可合理預期該第三方所使用的估值方法，能夠提供一個可靠的價值指標——須使用該價值；\n(c)如(a)及(b)段所提述的估值方法均不可供使用，則須使用該提供者對該項相關加密資產作出的最新近估值；及\n(d)如應用(a)、(b)及(c)段仍未能得出估值，則作為最終手段，可應用一個合理的估算方法。\n(11)凡香港申報提供者就相關加密資產倚賴第(10)款所提述的替代估值方法，則須就每項該等資產，申報所倚賴的方法。\n(12)香港申報提供者須為申報第(3)(d)(ii)、(iii)、(iv)、(v)、(vi)、(vii)、(viii)及(ix)款所指的資料的目的，就每類相關加密資產而言，將可歸入每項申報類別的所有交易，按照第(5)款兌換，並予以總合。\n(13)根據本條申報的資料，須識辨用於申報每項金額的法定貨幣。\n(14)儘管有第(3)(a)、(b)及(c)款的規定——\n(a)在以下情況下，無須申報有關稅務編號——\n(i)有關申報稅務管轄區沒有發出稅務編號；或\n(ii)如有關申報稅務管轄區有發出稅務編號——根據該管轄區的當地法律，並無規定必須收集該編號；及\n(b)除非根據香港法律，有其他規定要求有關香港申報提供者取得和申報有關出生地點，而該出生地點可在該提供者所備存的可供電子方式搜尋的資料中取得，否則無須申報該出生地點。\n(15)本條文本中的附註僅供備知，並無立法效力。",
    "zh_status": "verified",
    "element_ids": [
@@ -694,7 +765,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -715,7 +787,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -729,7 +803,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-user",
@@ -743,7 +819,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-controlling-person",
@@ -757,7 +835,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-person",
@@ -771,7 +851,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -785,7 +867,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-jurisdiction-of-residence",
@@ -799,7 +883,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-crypto-asset",
@@ -813,7 +899,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-transaction",
@@ -827,7 +915,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-fiat-currency",
@@ -841,7 +931,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-retail-payment-transaction",
@@ -855,7 +947,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-transfer",
@@ -869,7 +963,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-service-provider",
@@ -883,7 +979,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-financial-institution",
@@ -897,7 +995,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-fatf-recommendations",
@@ -911,7 +1011,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -927,7 +1029,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50S. 香港申報提供者在報表等方面的進一步責任\n(1)香港申報提供者須將須在第 50Q(1)條規定提交的報表中申報的資料的充分紀錄，備存至指明備存期屆滿之時，使該等資料的正確性及準確性，能夠輕易確定。\n(2)為施行第(1)款，凡按第 50Q(1)條的規定，有關報表須於某日或之前提交，指明備存期是緊接該日之後的 6 年期間。\n(3)香港申報提供者如更改有關地址，須在更改後的 1 個月內，將有關新地址通知局長。\n(4)如某名個人或某實體不再屬香港申報提供者，該名個人或該實體須在此情況發生後的 1 個月內，向局長發出此情況的通知。\n(5)如在第(4)款所述的不再屬香港申報提供者的情況發生後，有關個人或實體於某日再次成為香港申報提供者，則該名個人或該實體須在該日之後的 1 個月內，向局長發出此情況的通知。\n(6)在某名個人或某實體發出第(4)款所指的、關於該名個人或該實體不再屬香港申報提供者的通知後，但在第(5)款所指的通知發出前，該名個人或該實體須——\n(a)如該名個人或該實體更改其地址——在更改後的 1 個月內，將有關新地址通知局長；及\n(b)確保儘管該名個人或該實體不再屬香港申報提供者，第(1)款所指的規定仍獲遵守。\n(7)如有實體解散，而在解散前 6 年內的任何時間，該實體屬香港申報提供者，則該實體的每名指明人員或該實體的指定人員(如有的話)，均須——\n(a)在解散後的 1 個月內，向局長發出解散一事的通知；及\n(b)確保儘管該實體已解散，第(1)款所指的規定仍獲遵守。\n(8)在實體如第(7)款解散後——\n(a)如沒有指定人員的指定正具有效力，而指明人員的聯絡資料有任何更改——該指明人員須在該項更改後的 1 個月內，向局長發出該項更改的通知；或\n(b)如有指定人員的指定正具有效力，而指定人員的聯絡資料有任何更改——該指定人員須在該項更改後的 1 個月內，向局長發出該項更改的通知。\n(9)為施行第(7)(a)款，凡已解散的實體的任何指明人員發出通知，該通知須視為由該實體的每名指明人員發出。\n(10)第(3)、(4)、(5)或(6)(a)款所指的通知，須遵照第 50V(3)條發出。\n(11)評稅主任可向香港申報提供者或曾屬香港申報提供者的個人或實體發出通知，或向指明人員或指定人員(如有的話)發出通知，要求該提供者、該名個人、該實體或有關人員(視屬何情況而定)提供資料，以確定——\n(a)該提供者在第 50N 條的任何條文下的關聯；或\n(b)該提供者根據第 50Q(1)條提交的報表中的任何資料，是否屬準確及完整。\n(12)上述香港申報提供者、個人、實體、指明人員或指定人員(如有的話)須——\n(a)在第(11)款所指的通知指明的期間內；及\n(b)以該通知指明的方式及形式(如有指明)，遵從該通知。\n(13)為施行第(7)、(8)及(12)款，凡符合第(7)款描述的實體的所有指明人員達成協議，並且有書面證據證明已達成該協議，該等人員可指定一名第(16)款所述的人作為指定人員，以——\n(a)如沒有第(7)(a)款所指的通知發出——\n(i)遵守第(7)(a)款；\n(ii)遵守第(7)(b)款；\n(iii)遵守第(8)款；及\n(iv)遵從第(12)款下的規定；或\n(b)如有第(7)(a)款所指的通知發出——\n(i)遵守第(7)(b)款；\n(ii)遵守第(8)款；及\n(iii)遵從第(12)款下的規定。\n(14)第(13)款所指的指定須藉通知作出，該項通知須——\n(a)由指定人員簽署，表示指定人員同意獲指定；\n(b)列出以下細節——\n(i)指定人員就有關實體而言的身分；\n(ii)指定人員的聯絡資料；\n(iii)作出指定的日期；及\n(c)附有已達成對指定人員作出指定的協議的證據。\n(15)儘管有第(13)款的規定，凡有對某指定人員作出指定的協議，而該項協議並非由所有指明人員達成，如局長基於向局長提供的任何解釋或支持材料，信納該項協議並非由所有指明人員達成一事是有合理因由的，則該項協議就第(13)款而言，可視為由所有指明人員達成。\n(16)任何以下人士可根據第(13)款獲指定——\n(a)有關實體的其中一名指明人員；\n(b)曾在該實體的董事的直接權限下，或曾在(如沒有董事)該實體的受託人或負責管理該實體的人的直接權限下，就該實體執行管理職能的人。\n(17)根據第(13)款作出的指定——\n(a)自以下日期起有效——\n(i)(除第(ii)節另有規定外)局長接獲有關指定通知當日；或\n(ii)如對有關指定人員作出指定的協議並非由所有指明人員達成——局長根據第(15)款將該項協議視為由所有指明人員達成當日；及\n(b)如根據(a)段屬有效——須視為自有關指定通知所列出的作出指定的日期起具有效力。\n(18)凡根據第(13)款指定某人，該項指定自以下日期(以較早者為準)起不再具有效力——\n(a)如局長接獲該人發出的終止該項指定的通知，而——\n(i)該通知是於該通知所述明的該項指定終止的生效日期(終止生效日期)後的 14 日期間內接獲的——終止生效日期；\n(ii)該通知是在第(i)節所述的期間後接獲的——局長接獲該通知的日期；或\n(iii)該通知是於終止生效日期或之前接獲的——終止生效日期；\n(b)如局長接獲根據第(13)款指定另一人以代替該人的指定通知——該通知所列出的作出指定的日期。\n(19)凡有第(17)款所指的有效指定，則所有指明人員免於負上——\n(a)如該項指定是關乎遵守第(13)(a)款所述的條文及遵從該款所述的規定的——遵守該等條文及遵從該項規定的責任；或\n(b)如該項指定是關乎遵守第(13)(b)款所述的條文及遵從該款所述的規定的——遵守該等條文及遵從該項規定的責任。\n(20)在本條中——指定人員(designated officer)指根據第(13)款獲指定的人；指定通知(designation notice)指第(14)款所述的、藉以作出第(13)款所指的指定的通知；指明人員(specified officer)就符合第(7)款所描述的實體而言，指每名在緊接解散前屬該實體董事的人或(如沒有董事)每名在緊接解散前屬該實體受託人的人或負責管理該實體的人。",
    "zh_status": "verified",
    "element_ids": [
@@ -951,7 +1054,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -972,7 +1076,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -988,7 +1094,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50U. 聘用服務提供者\n(1)可聘用服務提供者，為香港申報提供者或代表香港申報提供者履行該申報提供者在以下任何或所有條文下的責任——\n(a)第 50O(1)條；\n(b)第 50P(1)條；\n(c)第 50P(2)條；\n(d)第 50Q(1)條。\n(2)為免生疑問，即使已聘用服務提供者，有關香港申報提供者在第 50O(1)、50P(1)或(2)或 50Q(1)條(視情況所需而定)下的責任，亦不獲免除。",
    "zh_status": "verified",
    "element_ids": [
@@ -1013,7 +1120,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1034,7 +1142,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-service-provider",
@@ -1048,7 +1158,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-hkrcasp",
@@ -1062,7 +1174,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1078,7 +1192,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50V. 關於登記、報表及通知的進一步規定\n(1)根據第 50O(1)條作出的登記——\n(a)須採用電子紀錄的形式，並使用局長指定的系統傳送；及\n(b)須按局長指明的方式作出。\n(2)根據第 50Q(1)條提交的報表——\n(a)須以電子紀錄形式提交，而該電子紀錄須——\n(i)使用局長指定的系統傳送；及\n(ii)載有所需資料(以局長指明的格式編排者)；及\n(b)須以根據第 50Q(2)條發出的通知所指明的方式提交。\n(3)根據第 50S(3)、(4)、(5)或(6)(a)條發出的通知——\n(a)須採用電子紀錄的形式，並使用局長指定的系統傳送；及\n(b)須按局長指明的方式發出。\n(4)局長可就為施行第(1)、(2)及(3)款而與局長作出的通訊，批准通行密碼和指定任何系統。\n(5)局長可藉在憲報刊登的公告，指明關於以下事宜的規定——\n(a)為本條的施行而產生或傳送的電子紀錄(或須與該電子紀錄一併提交的附件)，須以何種方式產生或傳送；\n(b)如何在——\n(i)根據第 50O(1)條作出的登記；\n(ii)根據第 50Q(1)條提交的報表；\n(iii)根據第 50S(3)或(6)(a)條發出的通知；或\n(iv)根據第 50S(4)或(5)條發出的通知，附貼數碼簽署，或加載通行密碼；及\n(c)關於須與電子紀錄一併提交的附件的軟件及通訊。\n(6)儘管就登記而言，第(1)或(5)款下的某規定未獲遵守，局長仍可在一般情況下或在特定個案中，為施行第 50O(1)條，接納上述登記。\n(7)儘管就報表而言，第(2)或(5)款下的某規定未獲遵守，局長仍可在一般情況下或在特定個案中，為施行第 50Q(1)條，接納上述報表。\n(8)儘管就通知而言，第(3)或(5)款下的某規定未獲遵守，局長仍可在一般情況下或在特定個案中，為施行第 50S 條，接納上述通知。\n(9)局長可藉其認為適當的方式，指明會在何種情況下，或會在符合何種條件的前提下——\n(a)根據第(6)款接納登記；或\n(b)根據第(7)或(8)款接納報表或通知。\n(10)根據第(5)款作出的公告及根據第(9)款作出的指明，並非附屬法例。",
    "zh_status": "verified",
    "element_ids": [
@@ -1103,7 +1218,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1125,7 +1241,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50Y. 與《加密資產申報框架刊物》相符凡某適用方式及理解方式最能確保本部及附表 17EA 與《加密資產申報框架刊物》的規定及指引相符，本部及附表 17EA 須以該方式適用及理解。",
    "zh_status": "verified",
    "element_ids": [
@@ -1149,7 +1266,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1170,7 +1288,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1186,7 +1306,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "第2部\n一般盡職審查規定 1. 凡某加密資產使用者依據本部及本附表第 3、4、5 及 6 部所指的盡職審查規定，於某日被識辨為須申報使用者，則自該日起，該使用者須視為須申報使用者。\n2. 凡某香港申報提供者為《共同匯報標準》的施行亦屬申報財務機構，而該提供者已依據附表 17D 第 4 部完成有關盡職審查程序(相關程序)，則該提供者可為進行本附表第 3 部下的盡職審查程序的目的，倚賴相關程序。\n3. 凡某香港申報提供者為《共同匯報標準》的施行亦屬申報財務機構，而該提供者已依據附表 17D 第 6 部完成有關盡職審查程序(相關程序)，則該提供者可為進行本附表第 4 部下的盡職審查程序的目的，倚賴相關程序。\n4. 如已為其他稅務目的取得自我證明，而該項自我證明符合本附表第 5 部的規定，則香港申報提供者亦可倚賴該項自我證明。",
    "zh_status": "verified",
    "element_ids": [
@@ -1210,7 +1331,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1231,7 +1353,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-user",
@@ -1245,7 +1369,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-hkrcasp",
@@ -1259,7 +1385,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-reporting-financial-institution",
@@ -1273,7 +1401,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-financial-institution",
@@ -1287,7 +1417,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1303,7 +1435,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "第3部\n個人加密資產使用者的盡職審查規定 1. 適用範圍本部指明為斷定個人加密資產使用者是否屬須申報使用者的目的而適用的規定。\n2. 規定\n(1)在與個人加密資產使用者建立關係時，或就先前個人加密資產使用者而言，香港申報提供者須——\n(a)(除(b)段另有規定外)自該使用者取得容讓該提供者斷定該使用者的居留司法管轄區的自我證明；\n(b)就先前個人加密資產使用者而言——於 2028 年 1 月 1 日或之前自該使用者取得容讓該提供者斷定該使用者的居留司法管轄區的自我證明；及\n(c)基於該提供者取得的資料(包括依據打擊洗錢暨認識客户程序而收集的文件)，確定該項自我證明屬合理。\n(2)如香港申報提供者未能確定某項自我證明(原先自我證明)屬合理，該提供者在向有關個人加密資產使用者提供達成相關交易的服務前，須——\n(a)取得一項有效的自我證明；或\n(b)取得合理解釋及文件(如適用)，支持原先自我證明屬合理，並保留上述合理解釋及文件的副本或註明。\n(3)如在香港申報提供者自個人加密資產使用者取得自我證明(原先自我證明)後，關於該使用者的情況有所改變，導致該提供者知悉或有理由知悉，原先自我證明屬不正確或不可靠，則該提供者——\n(a)不得倚賴原先自我證明；及\n(b)須取得一項有效的自我證明，或取得合理解釋及文件(如適用)以支持原先自我證明屬有效。\n3. 情況改變\n(1)就本部第 2(3)條而言，情況有所改變包括以下任何情況——\n(a)有任何改變引致有新的資料，而該項資料是關於某個人加密資產使用者的身分的，或是以其他方式與該使用者的身分相抵觸的；\n(b)與該使用者有聯繫的任何檔案有任何改變，或有關於任何上述檔案的新的資料，而該項改變或資料影響該使用者的身分。\n(2)凡就有關個人加密資產使用者的檔案，按照打擊洗錢暨認識客户程序或其他規管責任，重新取得某些文件，並透過該等文件取得某些新資料，則有關香港申報提供者須斷定該等新資料是否載有構成情況有所改變的新資料。\n(3)凡情況有所改變，而該項改變影響向有關香港申報提供者提供的自我證明，則就不再屬可靠的資料而言，該項改變令該項自我證明不再有效，直至該項資料獲更新為止。\n(4)凡香港申報提供者持有某項由有關個人加密資產使用者提供的自我證明，而該提供者於某日知悉或有理由知悉，該項自我證明情況有所改變，兼且該項改變影響該項自我證明是否屬正確一事，則該項自我證明自該日起失效。然而，該提供者可選擇視該使用者為具有於情況有所改變前該使用者所具有的相同身分，直至——\n(a)由該項自我證明根據本款失效當日起計的 90 個公曆日期間屆滿之時；\n(b)該項自我證明獲確認為有效當日；或\n(c)取得新的有效自我證明當日，以較早者為準。\n(5)如在第(4)(a)款所述的 90 日的限期內，有關香港申報提供者未能取得原本的自我證明屬有效的確認或有效的自我證明，則該提供者須將有關個人加密資產使用者，視為以下司法管轄區的稅務居民——\n(a)該使用者於原本的自我證明中聲稱屬稅務居民的一個或多於一個司法管轄區；及\n(b)如因情況有所改變，令該使用者可能屬某個或某些司法管轄區的稅務居民——該個或該等司法管轄區。\n(6)除非有關香港申報提供者知悉或有理由知悉情況有所改變，否則該提供者可在不須查究情況是否可能有所改變以致可能影響某項自我證明是否屬有效的情況下，倚賴該項自我證明。\n4. 有錯誤之處的自我證明可視為有效儘管某項自我證明載有無關重要的錯誤之處，如某香港申報提供者已有充足存檔文件，以補充因上述錯誤之處而在該項自我證明中欠缺的資料，則該提供者可將該項自我證明視為有效，而在此情況下，所倚賴的文件須屬不可推翻。",
    "zh_status": "verified",
    "element_ids": [
@@ -1327,7 +1460,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1348,7 +1482,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -1362,7 +1498,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-user",
@@ -1376,7 +1514,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -1390,7 +1530,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-pre-existing-individual-crypto-asset-user",
@@ -1404,7 +1546,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-hkrcasp",
@@ -1418,7 +1562,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-jurisdiction-of-residence",
@@ -1432,7 +1578,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-transaction",
@@ -1446,7 +1594,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-resident-for-tax-purposes",
@@ -1460,7 +1610,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1476,7 +1628,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "第6部\n特別盡職審查規定 1. 適用範圍本部指明在應用本附表第 2、3、4 及 5 部中的盡職審查規定時適用的附加規定。\n2. 對自我證明及文件證據的倚賴香港申報提供者如知悉或有理由知悉，某項自我證明或文件證據屬不正確或不可靠，則不可倚賴該項自我證明或證據，包括(就自我證明而言)在以下任何情況下——\n(a)該提供者對某加密資產使用者或某控權人的居留司法管轄區存有疑問，而該項疑問是關於該使用者或該控權人所聲稱其屬居民的某司法管轄區有提供具有較高潛在風險的投資入籍或投資居留計劃一事的，但該提供者並未採取進一步措施(包括透過進一步提問或確認(如有的話)附有相關證明文件的回覆是否屬合理)，確定該使用者或該控權人的居留司法管轄區；\n(b)該項自我證明並未載有稅務編號，而經濟合作與發展組織所發布的資料顯示，有關申報稅務管轄區有向所有稅務居民發出稅務編號；\n(c)適用的打擊洗錢暨認識客户程序經過修訂，而根據經修訂的打擊洗錢暨認識客户程序而取得的額外資料，與該使用者或該控權人在自我證明中作出的聲稱並不相符。\n3. 不得倚賴加比規則如根據多於一個司法管轄區的當地法律，某加密資產使用者或某控權人在該等司法管轄區均屬稅務居民，則該使用者或該控權人——\n(a)不得倚賴載於任何適用稅務安排中的加比規則，以斷定該使用者或該控權人的居留司法管轄區；及\n(b)須申報該使用者或該控權人的所有居留司法管轄區。\n4. 情況改變凡適用的打擊洗錢暨認識客户程序經過修訂，則須使用根據經修訂的打擊洗錢暨認識客户程序而取得的額外資料，以斷定就有關加密資產使用者或控權人的身分及是否須作出申報一事而言，情況是否有所改變。",
    "zh_status": "verified",
    "element_ids": [
@@ -1502,7 +1655,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1523,7 +1677,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-jurisdiction-of-residence",
@@ -1537,7 +1693,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -1551,7 +1709,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-controlling-person",
@@ -1565,7 +1725,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-jurisdiction",
@@ -1579,7 +1741,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -1593,7 +1757,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-resident-for-tax-purposes",
@@ -1607,7 +1773,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1623,7 +1791,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "80R. 關於香港申報提供者犯罪的罰則\n(1)任何香港申報提供者無合理辯解而有以下作為，即屬犯罪——\n(a)不遵從以下條文下的規定或要求——\n(i)第 50O(1)條；\n(ii)第 50P(1)或(2)條；\n(iii)第 50Q(1)條；或\n(iv)第 50S(1)、(3)或(5)條；\n(b)不遵從第 50S(12)條下的規定；\n(c)不遵從根據第 51B(1AAAD)或 51BB(6)條向該提供者發出的通知的要求；或\n(d)妨礙或阻撓評稅主任行使第 51BB(2)條所指的權力。\n(2)就第(1)(a)(i)、(ii)及(iii)款而言，根據第 50U(1)條聘用服務提供者，此舉本身不構成合理辯解。\n(3)任何香港申報提供者如犯第(1)款所訂的罪行，一經定罪，可處第 3 級罰款，而法庭可命令該提供者在該命令所指明的時間內——\n(a)就第(1)(a)、(b)或(c)款而言——作出該提供者沒有作出的作為；或\n(b)就第(1)(d)款而言——容許和利便評稅主任行使第 51BB(2)條所指的權力。\n(4)如屬——\n(a)因不遵守第 50O(1)條而犯第(1)(a)(i)款所訂的罪行；\n(b)因違反第 50Q(1)條而犯第(1)(a)(iii)款所訂的罪行；或\n(c)因不遵從根據第 51B(1AAAD)或 51BB(6)條發出的通知而犯第(1)(c)款所訂的罪行，則有關香港申報提供者可就該罪行在定罪後持續期間的每一日(不足一日亦作一日計算)，另處罰款 $500。\n(5)如屬第(1)(a)(ii)款所訂的罪行，儘管有第(3)款所訂明的罰款，有關香港申報提供者一經定罪——\n(a)可處第 3 級罰款；或\n(b)可處一筆罰款，款額為屬該罪行的標的之加密資產使用者及加密資產使用者的控權人的數目，乘以 $1,000，以較高者為準。\n(6)香港申報提供者不遵從第(3)款所指的法庭命令，即屬犯罪，一經定罪，可處第 4 級罰款。\n(7)如香港申報提供者無合理辯解而——\n(a)在報表中提供在要項上屬不正確或不完整的資料，充作遵守第 50Q(1)條；或\n(b)以其他方式，提供關乎該提供者在第 8B 部之下的責任的、在要項上屬不正確或不完整的資料，或作出關乎該等責任的、在要項上屬不正確或不完整的陳述，該提供者即屬犯罪。\n(8)香港申報提供者犯第(7)款所訂的罪行，一經定罪——\n(a)可處第 3 級罰款；或\n(b)可處一筆罰款，款額為屬該罪行的標的之加密資產使用者及加密資產使用者的控權人的數目，乘以 $1,000，以較高者為準。\n(9)如香港申報提供者在報表中提供在要項上屬具誤導性、虛假或不準確的資料，充作遵守第 50Q(1)條，或以其他方式，提供關乎該提供者在第 8B 部之下的責任的、在要項上屬具誤導性、虛假或不準確的資料，或作出關乎該等責任的、在要項上屬具誤導性、虛假或不準確的陳述，而該提供者——\n(a)明知該等資料或陳述在有關要項上屬具誤導性、虛假或不準確；\n(b)罔顧該等資料或陳述是否在有關要項上屬具誤導性、虛假或不準確；或\n(c)沒有合理理由相信，該等資料或陳述在有關要項上是真實或準確的，該提供者即屬犯罪。\n(10)香港申報提供者犯第(9)款所訂的罪行，一經定罪——\n(a)可處第 4 級罰款；或\n(b)可處一筆罰款，款額為屬該罪行的標的之加密資產使用者及加密資產使用者的控權人的數目，乘以 $5,000，以較高者為準。\n(11)如香港申報提供者在為充作遵守第 50Q(1)條而提交報表後，或於在其他情況下提供關乎該提供者在第 8B 部之下的責任的資料後，或於在其他情況下作出關乎該等責任的陳述後，該提供者——\n(a)發現該報表、資料或陳述，屬具誤導性、虛假或不準確；及\n(b)無合理辯解而沒有在合理時間內，將該項發現通知局長，該提供者即屬犯罪。\n(12)香港申報提供者犯第(11)款所訂的罪行，一經定罪——\n(a)可處第 3 級罰款；或\n(b)可處一筆罰款，款額為屬該罪行的標的之加密資產使用者及加密資產使用者的控權人的數目，乘以 $1,000，以較高者為準。\n(13)任何香港申報提供者如出於欺騙的意圖，而——\n(a)在根據第 50Q(1)條提交的報表中，提供在要項上屬具誤導性、虛假或不準確的資料；或\n(b)以其他方式，提供關乎該提供者在第 8B 部之下的責任的、在要項上屬具誤導性、虛假或不準確的資料，或作出關乎該等責任的、在要項上屬具誤導性、虛假或不準確的陳述，該提供者即屬犯罪。\n(14)香港申報提供者犯第(13)款所訂的罪行——\n(a)一經循簡易程序定罪，可處——\n(i)以下罰款——\n(A)第 5 級罰款；或\n(B)一筆罰款，款額為屬該罪行的標的之加密資產使用者及加密資產使用者的控權人的數目，乘以 $10,000，以較高者為準；及\n(ii)監禁 6 個月；或\n(b)一經循公訴程序定罪，可處——\n(i)以下罰款——\n(A)第 6 級罰款；或\n(B)一筆罰款，款額為屬該罪行的標的之加密資產使用者及加密資產使用者的控權人的數目，乘以 $20,000，以較高者為準；及\n(ii)監禁 3 年。\n(15)就屬實體但並非法團的香港申報提供者而言，本條適用於代表該提供者與該提供者的加密資產使用者維持關係而行事的人，猶如提述香港申報提供者，是提述該人一樣。\n(16)在本條中——加密資產使用者(crypto-asset user)具有第 50M(1)條所給予的涵義；控權人(controlling person)具有第 50M(1)條所給予的涵義。\n80S. 香港申報提供者的僱員等的罪行\n(1)第(2)款適用於符合以下描述的人——\n(a)屬香港申報提供者的僱員，或(視情況所需而定)就並非法團的香港申報提供者而獲僱用為僱員；\n(b)獲聘用為香港申報提供者工作(作為服務提供者而工作除外)；或\n(c)關涉香港申報提供者的管理。\n(2)任何人如出於欺騙的意圖，致使或容許香港申報提供者——\n(a)在根據第 50Q(1)條提交的報表中，提供在要項上屬具誤導性、虛假或不準確的資料；或\n(b)以其他方式，提供關乎該提供者在第 8B 部之下的責任的、在要項上屬具誤導性、虛假或不準確的資料，或作出關乎該等責任的、在要項上屬具誤導性、虛假或不準確的陳述，該人即屬犯罪。\n(3)任何人犯第(2)款所訂的罪行——\n(a)一經循簡易程序定罪，可處——\n(i)第 3 級罰款；及\n(ii)監禁 6 個月；或\n(b)一經循公訴程序定罪，可處——\n(i)第 5 級罰款；及\n(ii)監禁 3 年。\n80T. 曾屬香港申報提供者的個人或實體的罪行\n(1)任何曾屬香港申報提供者的個人或實體無合理辯解而不遵守第 50S(4)或(6)條，或不遵從第 50S(12)條下的規定，即屬犯罪。\n(2)任何個人或實體因沒有作出某項作為而犯第(1)款所訂罪行，一經定罪，可處第 3 級罰款，而法庭可命令該名個人或該實體在該命令所指明的時間內，作出該項作為。\n(3)任何個人或實體不遵從第(2)款所指的法庭命令，即屬犯罪，一經定罪，可處第 4 級罰款。\n80U. 在解散前 6 年內屬香港申報提供者的實體：屬關乎該實體的指明人員或指定人員的人的罪行(1)任何屬第 50S(20)條所界定的指明人員或指定人員無合理辯解而不遵守第 50S(7)或(8)條，或不遵從第 50S(12)條下的規定，即屬犯罪。\n(2)任何人因沒有作出某項作為而犯第(1)款所訂罪行，一經定罪，可處第 3 級罰款，而法庭可命令該人在該命令所指明的時間內，作出該項作為。\n(3)任何人不遵從第(2)款所指的法庭命令，即屬犯罪，一經定罪，可處第 4 級罰款。\n(4)在不局限第(1)款中 “合理辯解” 的涵義的原則下，凡某人顯示有以下情況，則該人須視為已確立該人有合理辯解——\n(a)如該人因不遵守第 50S(7)(a)或(b)或(8)條或不遵從第 50S(12)條下的規定，而被控犯第(1)款所訂罪行——該人有合理理由相信，而又確實相信，有該人以外的勝任而可靠的人——\n(i)已獲委以確保上述條文獲遵守或上述規定獲遵從(視屬何情況而定)的責任；及\n(ii)能夠執行該責任；或\n(b)如該人因不遵守第 50S(7)(b)條或不遵從第 50S(12)條下的規定，而被控犯第(1)款所訂罪行——根據任何其他條例，另一人在其他情況下須備存第 50S(1)條所述的紀錄。\n80V. 香港申報提供者所聘用的服務提供者的罪行\n(1)凡任何人獲聘用為服務提供者，以履行香港申報提供者在第 50O(1)條下的責任，如該人無合理辯解而沒有安排該申報提供者按該條的規定登記，該人即屬犯罪。\n(2)凡任何人獲聘用為服務提供者，以履行香港申報提供者在第 50P(1)條下的責任，如該人無合理辯解而沒有——\n(a)設立第 50P(1)(a)條所描述的程序；或\n(b)將附表 17EA 中的盡職審查規定，納入該等程序內，該人即屬犯罪。\n(3)凡任何人獲聘用為服務提供者，以履行香港申報提供者在第 50P(2)條下的責任，如該人無合理辯解而沒有維持或應用遵照第 50P(1)(a)及(b)條而設立的程序，以——\n(a)識辨加密資產使用者是否屬須申報使用者及控權人是否屬申報對象，以及識辨和收集第 50Q(4)條所指的所需資料；或\n(b)確保第 50P(1)(a)(iii)條所述的目的能夠達到，該人即屬犯罪。\n(4)凡任何人獲聘用為服務提供者，以履行香港申報提供者在第 50Q(1)條下的責任，如該人無合理辯解而沒有安排按該條的規定提交報表，該人即屬犯罪。\n(5)凡任何人獲聘用為服務提供者，以履行香港申報提供者在第 50O(1)、50P(1)或(2)或 50Q(1)條之下的責任，如——\n(a)就第 50Q(1)條之下的責任而言——該人致使或容許該申報提供者在報表中提供在要項上屬具誤導性、虛假或不準確的資料，或在報表中提供在要項上屬具誤導性、虛假或不準確的資料，充作遵守第 50Q(1)條，而該人——\n(i)明知該等資料在有關要項上屬具誤導性、虛假或不準確；\n(ii)罔顧該等資料是否在有關要項上屬具誤導性、虛假或不準確；或\n(iii)沒有合理理由相信，該等資料在有關要項上是真實或準確的；\n(b)該人在並非按照該申報提供者給予該人的指示行事下，以其他方式，代表該申報提供者提供關乎該申報提供者在第 8B 部之下的責任的、在要項上屬具誤導性、虛假或不準確的資料，或代表該申報提供者作出關乎該申報提供者在第 8B 部之下的責任的、在要項上屬具誤導性、虛假或不準確的陳述，或致使或容許該申報提供者以其他方式提供該等資料或作出該等陳述，而該人——\n(i)明知該等資料或陳述在有關要項上屬具誤導性、虛假或不準確；\n(ii)罔顧該等資料或陳述是否在有關要項上屬具誤導性、虛假或不準確；或\n(iii)沒有合理理由相信，該等資料或陳述在有關要項上是真實或準確的；或\n(c)該人在為充作遵守第 50Q(1)條而提交報表後，或於在其他情況下提供關乎該申報提供者在第 8B 部之下的責任的資料後，或於在其他情況下作出關乎該等責任的陳述後——\n(i)發現該報表、資料或陳述，屬具誤導性、虛假或不準確；及\n(ii)無合理辯解而沒有在合理時間內，將該項發現通知局長，該人即屬犯罪。\n(6)任何屬服務提供者的人如無合理辯解而——\n(a)不遵從根據第 51B(1AAAD)或 51BB(6)條向該人發出的通知的要求；或\n(b)妨礙或阻撓評稅主任行使第 51BB(2)條所指的權力，該人即屬犯罪。\n(7)任何人犯第(1)、(2)、(3)、(4)、(5)或(6)款所訂的罪行，一經定罪，可處第 3 級罰款。\n(8)凡任何人獲聘用為服務提供者，以履行香港申報提供者在第 50O(1)、50P(1)或(2)或 50Q(1)條下的責任，如該人出於欺騙的意圖，致使或容許該申報提供者——\n(a)在根據第 50Q(1)條提交的報表中，提供在要項上屬具誤導性、虛假或不準確的資料；或\n(b)以其他方式，提供關乎該申報提供者在第 8B 部之下的責任的、在要項上屬具誤導性、虛假或不準確的資料，或作出關乎該等責任的、在要項上屬具誤導性、虛假或不準確的陳述，該人即屬犯罪。\n(9)任何人犯第(8)款所訂的罪行——\n(a)一經循簡易程序定罪，可處——\n(i)第 3 級罰款；及\n(ii)監禁 6 個月；或\n(b)一經循公訴程序定罪，可處——\n(i)第 5 級罰款；及\n(ii)監禁 3 年。\n(10)任何服務提供者如犯第(1)、(2)、(3)、(4)或(6)款所訂的罪行，法庭可命令該服務提供者在該命令所指明的時間內——\n(a)就第(1)、(2)、(3)、(4)或(6)(a)款而言——作出該服務提供者沒有作出的作為；或\n(b)就第(6)(b)款而言——容許和利便評稅主任行使第 51BB(2)條所指的權力。\n(11)任何服務提供者不遵從第(10)款所指的法庭命令，即屬犯罪，一經定罪，可處第 4 級罰款。\n(12)在本條中——加密資產使用者(crypto-asset user)具有第 50M(1)條所給予的涵義；申報對象(reportable person)具有第 50M(1)條所給予的涵義；控權人(controlling person)具有第 50M(1)條所給予的涵義；須申報使用者(reportable user)具有第 50M(1)條所給予的涵義。\n80W. 關乎第 80R 及 80V 條下的罪行的法團的董事等的罪行如——\n(a)任何以下人士是法團——\n(i)犯第 80R(1)、(6)、(7)、(9)、(11)或(13)條所訂的罪行的香港申報提供者；\n(ii)依據第 80R(15)條犯第 80R(1)、(6)、(7)、(9)、(11)或(13)條所訂的罪行的人；\n(iii)犯第 80V(1)、(2)、(3)、(4)、(5)、(6)、(8)或(11)條所訂的罪行的服務提供者；及\n(b)該罪行是在該法團的某董事或關涉該法團的管理的其他高級人員(或看來是以該等董事或高級人員的身分行事的人(該人))的同意或縱容下犯的，則該董事或高級人員或該人(視情況所需而定)亦犯該罪行，一經定罪，可處就該罪行而訂的刑罰。\n80X. 關乎香港申報提供者等的某些罪行的雜項條文\n(1)儘管有《裁判官條例》(第 227 章)第 26 條的規定，就第 80R、80S、80T、80U、80V 或 80W 條所訂的罪行(可公訴罪行除外)而進行的法律程序，可在該罪行發生的日期後的 6 年內提起。\n(2)局長可就第 80R、80S、80T、80U、80V 或 80W 條所訂的任何罪行而准以罰款代替起訴，及可就該等罪行提起的法律程序作出判決前，擱置該法律程序，或以罰款了結。",
    "zh_status": "verified",
    "element_ids": [
@@ -1647,7 +1816,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1668,7 +1838,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-service-provider",
@@ -1682,7 +1854,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -1696,7 +1870,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-controlling-person",
@@ -1710,7 +1886,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -1724,7 +1902,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-user",
@@ -1738,7 +1918,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-person",
@@ -1752,7 +1934,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1768,7 +1952,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "82E. 在某些情況下對香港申報提供者施加金錢罰則以代替檢控(1)如——\n(a)任何香港申報提供者無合理辯解而——\n(i)不遵守第 50O(1)條；\n(ii)不遵守第 50P(1)或(2)條；\n(iii)不遵守第 50Q(1)條；\n(iv)在報表中提供在要項上屬不正確或不完整的資料，充作遵守第 50Q(1)條；\n(v)以其他方式，提供關乎該提供者在第 8B 部之下的責任的、在要項上屬不正確或不完整的資料，或作出關乎該等責任的、在要項上屬不正確或不完整的陳述；或\n(vi)於根據第 50Q(1)條提交的報表中，或於關乎該提供者在第 8B 部之下的責任而以其他方式提供的資料或作出的陳述中，發現具誤導性、虛假或不準確的資料，但沒有在合理時間內，將該項發現通知局長；及\n(b)該提供者沒有就(a)(i)、(ii)、(iii)、(iv)、(v)或(vi)段(視何者屬適當而定)所關乎的相同事實，被控犯第 80R 條所訂罪行，則可對該提供者施加一筆根據本條評定的金錢罰則，金錢罰則的款額不得超過倘若該提供者根據第 80R 條被定罪便可被判處的罰款的款額。\n(2)就第(1)(a)款而言，根據第 50U 條聘用服務提供者，此舉本身不構成合理辯解。\n(3)金錢罰則的評定，只可由局長本人或副局長本人(皆稱為指明當局)親自作出。\n(4)在為施行第(1)款而評定金錢罰則之前，指明當局須——\n(a)給予有關香港申報提供者通知，說明指明當局擬評定金錢罰則，而該通知須——\n(i)告知指稱的該提供者不遵守第 50O(1)、50P(1)或(2)或 50Q(1)條(視何者屬適當而定)的行為、第(1)(a)(iv)款所提述的報表或第(1)(a)(v)款所提述的資料或陳述在要項上屬不正確或不完整的指稱，或第(1)(a)(vi)款所提述的沒有在合理時間內作出通知的指稱；\n(ii)述明就擬評定對該提供者施加的金錢罰則而言，該提供者可向指明當局呈交書面申述及證據；及\n(iii)指明該提供者若意欲根據第(ii)節呈交申述及證據，申述及證據最遲須於何日送抵指明當局，該日期不得在作出有關通知之後的 21 日期間內；及\n(b)考慮該提供者根據(a)(ii)段呈交的申述及證據，並將之列入考量。\n(5)儘管有第(4)款的規定，凡指明當局擬就屬個人的香港申報提供者(個人香港申報提供者)評定金錢罰則，或擬就屬實體但並非法團的香港申報提供者(非法團香港申報提供者)評定金錢罰則，則指明當局如認為該個人香港申報提供者或代表該非法團香港申報提供者與該非法團香港申報提供者的加密資產使用者維持關係而行事的任何人(指明人士)即將離開香港，便可就該個人香港申報提供者或指明人士作出評定，而無須給予第(4)(a)款所指的通知。\n(6)關於擬評定金錢罰則的通知及評定金錢罰則的通知，須按與第 58(2)條就第 62 條所指的評稅通知書而訂明的同樣方式發出。\n(7)凡可就個人香港申報提供者或非法團香港申報提供者評定金錢罰則，但該個人香港申報提供者或該非法團香港申報提供者的指明人士死亡，則可就該個人香港申報提供者或指明人士的遺囑執行人評定金錢罰則，而該項金錢罰則須作為該個人香港申報提供者或指明人士的遺產所欠的債項而追討，並以該個人香港申報提供者或指明人士的遺產支付。\n(8)就非法團香港申報提供者而言，本條適用於代表該提供者與該提供者的加密資產使用者維持關係而行事的人，猶如提述香港申報提供者，是提述該人一樣。\n(9)凡根據本條，就某作為或不作為而對香港申報提供者評定金錢罰則，該提供者不得被控就同一作為或不作為而犯第 80R 條所訂罪行。\n(10)在第(11)款的規限下，第 54 條及第 12 及 13 部就金錢罰則的繳付、追討及退還而具有效力，猶如金錢罰則是稅項一樣。\n(11)為施行第(10)款——\n(a)第 54 條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”；\n(b)第 77A 及 79(3)、(3A)、(4)及(5)條並不就金錢罰則而適用；及\n(c)第 79(1)條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”。\n(12)在本條中——加密資產使用者(crypto-asset user)具有第 50M(1)條所給予的涵義。",
    "zh_status": "verified",
    "element_ids": [
@@ -1792,7 +1977,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1813,7 +1999,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-service-provider",
@@ -1827,7 +2015,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -1841,7 +2031,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -1855,7 +2047,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1871,7 +2065,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "82F. 針對第 82E 條下的金錢罰則的評定，向稅務上訴委員會提出上訴(1)凡根據第 82E 條，就香港申報提供者評定金錢罰則，該提供者可——\n(a)在評定通知發出予該提供者後 1 個月內；或\n(b)在根據第(3)款延長的限期內，藉着按照第(2)款向稅務上訴委員會提交上訴通知，親自或由其獲授權代表針對該項評定提出上訴。\n(2)上訴通知須以書面向委員會書記提交，並須附有以下資料——\n(a)評定通知的副本；\n(b)列出上訴理由的陳述；\n(c)根據第 82E(4)(a)條發出的擬評定金錢罰則通知的副本；及\n(d)根據第 82E(4)條就有關評定呈交的書面申述及證據(如有的話)的副本。\n(3)委員會如信納由於疾病、不在香港或其他合理因由，令上訴人未能按照第(1)(a)款提交上訴通知，則可將根據第(1)款提交上訴通知的限期，延長一段委員會認為合適的時間。\n(4)在針對金錢罰則的評定的上訴中，上訴人可爭辯——\n(a)上訴人無須負上繳付金錢罰則的法律責任；\n(b)就其評定的金錢罰則款額，超逾其根據第 82E 條有法律責任繳付的款額；及\n(c)就其評定的金錢罰則款額雖沒有超逾其根據第 82E 條有法律責任繳付的款額，但在有關個案的情況下，仍屬過高。\n(5)第 66(2)及(3)、68、68AA、68AAB、68A、69 及 70 條在其適用的範圍內，就根據本條提出的上訴而具有效力，猶如該等上訴是為針對金錢罰則的評定以外的其他評稅而提出的一樣。\n(6)為施行第(5)款——\n(a)第 68(1D)條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”；及\n(b)第 70 條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”。\n82G. 在某些情況下，對指明人員或指定人員施加金錢罰則以代替第 80U 條下的檢控(1)如——\n(a)任何指明人員或指定人員無合理辯解而——\n(i)不遵守第 50S(7)(a)條；\n(ii)不遵守第 50S(7)(b)條；\n(iii)不遵守第 50S(8)條；或\n(iv)不遵從第 50S(12)條下的規定；及\n(b)該人員沒有就(a)(i)、(ii)、(iii)或(iv)段(視何者屬適當而定)所關乎的相同事實，被控犯第 80U 條所訂罪行，則可對該人員施加一筆根據本條評定的金錢罰則，金錢罰則的款額不得超過倘若該人員根據第 80U 條被定罪便可被判處的罰款的款額。\n(2)金錢罰則的評定，只可由局長本人或副局長本人(皆稱為指明當局)親自作出。\n(3)在為施行第(1)款而評定金錢罰則之前，指明當局須——\n(a)給予有關人員通知，說明指明當局擬評定金錢罰則，而該通知須——\n(i)告知指稱的該人員不遵守第 50S(7)(a)或(b)或(8)條或不遵從第 50S(12)條下的規定(視何者屬適當而定)的行為；\n(ii)述明就擬評定對該人員施加的金錢罰則而言，該人員可向指明當局呈交書面申述及證據；及\n(iii)指明該人員若意欲根據第(ii)節呈交申述及證據，申述及證據最遲須於何日送抵指明當局，該日期不得在作出有關通知之後的 21 日期間內；及\n(b)考慮該人員根據(a)(ii)段呈交的申述及證據，並將之列入考量。\n(4)儘管有第(3)款的規定，凡指明當局擬就屬個人的指明人員或屬個人的指定人員(個人人員)評定金錢罰則，則指明當局如認為該名個人人員即將離開香港，便可就該名個人人員作出評定，而無須給予第(3)(a)款所指的通知。\n(5)關於擬評定金錢罰則的通知及評定金錢罰則的通知，須按與第 58(2)條就第 62 條所指的評稅通知書而訂明的同樣方式發出。\n(6)凡可就個人人員評定金錢罰則，但該名個人人員死亡，則可就該名個人人員的遺囑執行人評定金錢罰則，而該項金錢罰則須作為該名個人人員的遺產所欠的債項而追討，並以該名個人人員的遺產支付。\n(7)凡根據本條，就某作為或不作為而對指明人員或指定人員評定金錢罰則，有關人員不得被控就同一作為或不作為而犯第 80U 條所訂罪行。\n(8)在第(9)款的規限下，第 54 條及第 12 及 13 部就金錢罰則的繳付、追討及退還而具有效力，猶如金錢罰則是稅項一樣。\n(9)為施行第(8)款——\n(a)第 54 條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”；\n(b)第 77A 及 79(3)、(3A)、(4)及(5)條並不就金錢罰則而適用；及\n(c)第 79(1)條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”。\n(10)在不局限第(1)(a)款中 “合理辯解” 的涵義的原則下，凡根據第(1)款可對某人施加一筆根據本條評定的金錢罰則，而該人顯示有以下情況，則該人須視為已確立該人有合理辯解——\n(a)該人有合理理由相信，而又確實相信，有該人以外的勝任而可靠的人——\n(i)已獲委以確保第 50S(7)(a)或(b)或(8)條獲遵守或第 50S(12)條下的規定獲遵從(視何者屬適當而定)的責任；及\n(ii)能夠執行該責任；或\n(b)根據任何其他條例，另一人在其他情況下須備存第 50S(1)條所述的紀錄。\n82H. 針對第 82G 條下的金錢罰則的評定，向稅務上訴委員會提出上訴(1)凡根據第 82G 條，就指明人員或指定人員評定金錢罰則，該人員可——\n(a)在評定通知發出予該人員後 1 個月內；或\n(b)在根據第(3)款延長的限期內，藉着按照第(2)款向稅務上訴委員會提交上訴通知，親自或由其獲授權代表針對該項評定提出上訴。\n(2)上訴通知須以書面向委員會書記提交，並須附有以下資料——\n(a)評定通知的副本；\n(b)列出上訴理由的陳述；\n(c)根據第 82G(3)(a)條發出的擬評定金錢罰則通知的副本；及\n(d)根據第 82G(3)條就有關評定呈交的書面申述及證據(如有的話)的副本。\n(3)委員會如信納由於疾病、不在香港或其他合理因由，令上訴人未能按照第(1)(a)款提交上訴通知，則可將根據第(1)款提交上訴通知的限期，延長一段委員會認為合適的時間。\n(4)在針對金錢罰則的評定的上訴中，上訴人可爭辯——\n(a)上訴人無須負上繳付金錢罰則的法律責任；\n(b)就其評定的金錢罰則款額，超逾其根據第 82G 條有法律責任繳付的款額；及\n(c)就其評定的金錢罰則款額雖沒有超逾其根據第 82G 條有法律責任繳付的款額，但在有關個案的情況下，仍屬過高。\n(5)第 66(2)及(3)、68、68AA、68AAB、68A、69 及 70 條在其適用的範圍內，就根據本條提出的上訴而具有效力，猶如該等上訴是為針對金錢罰則的評定以外的其他評稅而提出的一樣。\n(6)為施行第(5)款——\n(a)第 68(1D)條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”；及\n(b)第 70 條就金錢罰則而適用，猶如在該條中，提述 “課稅年度”，即提述 “公曆年”。",
    "zh_status": "verified",
    "element_ids": [
@@ -1895,7 +2090,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1916,7 +2112,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -1932,7 +2130,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "5A. 低值指明電子貨幣產品任何存款帳户如符合以下說明，即屬豁除帳户——\n(a)該帳户代表為客户的利益而持有的所有指明電子貨幣產品；及\n(b)在有關公曆年或其他適當申報期內的任何一日，該帳户總結餘或總價值的 90 日滾動平均值(以任何連續 90 日的期間內每日終結時該帳户的總結餘或總價值計)，並不超逾 $78,000。",
    "zh_status": "verified",
    "element_ids": [
@@ -1956,7 +2155,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -1977,7 +2177,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-depository-account",
@@ -1991,7 +2193,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-excluded-account",
@@ -2005,7 +2209,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2021,7 +2227,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "(2)如法律上沒有規定有關機構須應用與《財務行動特別組織的建議》相符的打擊洗錢暨認識客户程序，則該機構須為了斷定控權人，應用大致相似的程序。",
    "zh_status": "verified",
    "element_ids": [
@@ -2045,7 +2252,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2066,7 +2274,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-controlling-person",
@@ -2080,7 +2290,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2096,7 +2308,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "2A. 暫時欠缺自我證明\n(1)在特殊情況下，凡某新帳户在某申報期內開立，申報財務機構如未能依時就該新帳户取得自我證明並確認其為有效，以履行該機構就該申報期而具有的盡職審查和申報責任，則該機構須將適用於先前帳户的盡職審查程序，應用於該新帳户，直至該機構取得該等自我證明並確認其為有效為止。\n(2)儘管有第(1)款的規定，為施行第 50F(2)(d)條，第(1)款所述的帳户須申報為新帳户。\n(3)為免生疑問，第(1)款不得視為標準程序，亦不屬取得有效自我證明的規定的替代方案。",
    "zh_status": "verified",
    "element_ids": [
@@ -2120,7 +2333,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2141,7 +2355,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-new-account",
@@ -2155,7 +2371,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-pre-existing-account",
@@ -2169,7 +2387,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2185,7 +2405,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "2B. 不得倚賴加比規則如根據多於一個司法管轄區的當地法律，某帳户持有人或控權人在該等司法管轄區均屬稅務居民，則該帳户持有人或控權人——\n(a)不得倚賴載於任何適用稅務安排中的加比規則，以斷定該帳户持有人或控權人的居留司法管轄區；及\n(b)須申報該帳户持有人或控權人的所有居留司法管轄區。",
    "zh_status": "verified",
    "element_ids": [
@@ -2209,7 +2430,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2230,7 +2452,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-controlling-person",
@@ -2244,7 +2468,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-resident-for-tax-purposes",
@@ -2258,7 +2484,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-jurisdiction-of-residence",
@@ -2272,7 +2500,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2288,7 +2518,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "6. 情況改變\n(1)情況有所改變包括以下任何情況——\n(a)有任何改變引致有新的資料，而該項資料是關於某帳户持有人或控權人的身分的，或以其他方式與該帳户持有人或控權人的身分有矛盾；\n(b)有關帳户持有人的帳户的資料有任何更改或該帳户有任何新的資料(包括新增或替換帳户持有人或帳户持有人的其他改變)，或與上述帳户有關聯的任何帳户(應用本部第 5(1)、(2)、(3)、(4)及(5)條所描述的帳户合計規則)的資料有任何更改或該帳户有任何新的資料，而該項更改或新資料影響該帳户持有人的身分。\n(2)凡適用的打擊洗錢暨認識客户程序經過修訂，則須使用根據經修訂的打擊洗錢暨認識客户程序而取得的額外資料，以斷定就帳户持有人或控權人的身分及是否須作出申報一事而言，情況是否有所改變。",
    "zh_status": "verified",
    "element_ids": [
@@ -2312,7 +2543,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2333,7 +2565,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-controlling-person",
@@ -2347,7 +2581,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2363,7 +2599,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "50AB. 申報財務機構須登記\n(1)申報財務機構須按照第(2)款，向局長登記。\n(2)上述登記——\n(a)須採用電子紀錄的形式，並使用局長指定的系統傳送；\n(b)須按局長指明的方式作出；及\n(c)須在以下日期(以較遲者為準)或之前作出——\n(i) 2027 年 3 月 31 日；\n(ii)有關財務機構首次成為申報財務機構的公曆年的翌年的 1 月 31 日。",
    "zh_status": "verified",
    "element_ids": [
@@ -2388,7 +2625,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2409,7 +2647,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-financial-institution",
@@ -2423,7 +2663,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-financial-institution",
@@ -2437,7 +2679,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2453,7 +2697,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "(2ZD)任何人在作出須由香港申報提供者根據附表 17EA 收集的自我證明時——\n(a)作出在要項上屬具誤導性、虛假或不正確的陳述；及\n(b)明知該項陳述在要項上屬具誤導性、虛假或不正確，或罔顧該項陳述是否在要項上屬具誤導性、虛假或不正確，該人即屬犯罪。\n(2ZE)任何人犯第(2ZD)款所訂的罪行，一經定罪，可處第 3 級罰款。",
    "zh_status": "verified",
    "element_ids": [
@@ -2478,7 +2723,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2499,7 +2745,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -2516,6 +2764,7 @@
    "accessed": "2026-11-26",
    "status": "UNVERIFIED",
    "unverified_reason": "只抽取咗部分條文（excerpt）：只係 Ord 8 s.21(2) 新加嘅 s.50G(3)、(4)；s.50G 其餘部分要對照 Cap. 112 綜合本（U1）；香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "caveat": null,
    "zh_text": "(3)儘管有第 50F(2)(c)(iii)及(ga)條的規定，就申報財務機構在 2027 年 12 月 31 日維持的須申報帳户而言，及就於 2029 年 12 月 31 日或之前屆滿的申報期而言，無須申報關於每名申報對象憑藉甚麽角色而屬有關實體的控權人或股權權益的持有人的資料，但如該資料可在該機構所備存的可供電子方式搜尋的資料中取得則除外。\n(4)儘管有第 50F(2)(f)(iv)條的規定，在申報財務機構有根據《加密資產申報框架》申報來自出售或贖回財務資產的總收益的範圍內，無須申報該等總收益，但如該機構就任何已清楚識辨的帳户組別另作選擇則除外。",
    "zh_status": "UNVERIFIED",
    "element_ids": [
@@ -2540,6 +2789,7 @@
     "accessed": "2026-11-27",
     "status": "UNVERIFIED",
     "unverified_reason": "只抽取咗部分條文（excerpt）：只係 Ord 8 s.21(2) 新加嘅 s.50G(3)、(4)；s.50G 其餘部分要對照 Cap. 112 綜合本（U1）；香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "caveat": null,
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2560,7 +2810,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-reporting-financial-institution",
@@ -2574,7 +2826,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-reportable-person",
@@ -2588,7 +2842,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-controlling-person",
@@ -2602,7 +2858,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-equity-interest",
@@ -2616,7 +2874,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-financial-institution",
@@ -2630,7 +2890,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-financial-asset",
@@ -2644,7 +2906,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -2661,6 +2925,7 @@
    "accessed": "2026-11-26",
    "status": "UNVERIFIED",
    "unverified_reason": "只抽取咗部分條文（excerpt）：只係 Ord 4 s.6(3) 取代／新加嘅 s.50D(2) 起嘅分節；s.50D(1) 經 s.6(2) 修訂，全文要對照 Cap. 112 綜合本（U1）；香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "caveat": null,
    "zh_text": "(2)為施行第(1)款，凡按第 50C(1)條規定，有關報表須於某日或之前提交，指明備存期是緊接該日之後的 6 年期間。\n(3)申報財務機構如更改其地址，須在更改後的 1 個月內，將該機構的新地址通知局長。\n(4)某實體如不再屬申報財務機構，須在此情況發生後的 1 個月內，向局長發出此情況的通知。\n(5)如在第(4)款所述的不再屬申報財務機構的情況發生後，有關實體再次成為申報財務機構，則該實體須在再次成為申報財務機構後的 1 個月內，向局長發出此情況的通知。\n(6)實體在發出第(4)款所指的、關於該實體不再屬申報財務機構的通知後，但在第(5)款所指的通知發出前，須——\n(a)如該實體更改其地址——在更改後的 1 個月內，將該實體的新地址通知局長；及\n(b)確保儘管該實體不再屬申報財務機構，第(1)款所指的規定仍獲遵守。\n(7)第(3)、(4)、(5)或(6)(a)款所指的通知——\n(a)須採用電子紀錄的形式，並使用局長指定的系統傳送；及\n(b)須按局長指明的方式發出。\n(8)如有實體解散，而在解散前 6 年在內的任何時間，該實體屬申報財務機構，則每名在緊接解散前屬該實體董事的人或(如沒有董事)每名在緊接解散前屬該實體受託人的人或負責管理該實體的人(指明人員)，均須——\n(a)在解散後的 1 個月內，向局長發出解散一事的通知；及\n(b)確保儘管該實體已解散，第(1)款所指的規定仍獲遵守。\n(9)如指明人員的聯絡資料有任何更改，該人員須在該項更改後 1 個月內，向局長發出該項更改的通知。\n(10)為施行第(8)(a)款，凡已解散的實體的任何指明人員發出通知，該通知須視為由該實體的每名指明人員發出。\n(11)評稅主任可向申報財務機構、曾屬申報財務機構的實體或指明人員發出通知，要求該機構、實體或人員(視屬何情況而定)提供資料，以確定有關機構根據第 50C(1)條提交的報表中的任何資料，是否準確而完整。\n(12)上述申報財務機構、實體或指明人員須——\n(a)在第(11)款所指的通知指明的期間內；及\n(b)以該通知指明的方式及形式(如有指明)，遵從該通知。",
    "zh_status": "UNVERIFIED",
    "element_ids": [
@@ -2686,6 +2951,7 @@
     "accessed": "2026-11-27",
     "status": "UNVERIFIED",
     "unverified_reason": "只抽取咗部分條文（excerpt）：只係 Ord 4 s.6(3) 取代／新加嘅 s.50D(2) 起嘅分節；s.50D(1) 經 s.6(2) 修訂，全文要對照 Cap. 112 綜合本（U1）；香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "caveat": null,
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2706,7 +2972,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-financial-institution",
@@ -2720,7 +2988,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-financial-institution",
@@ -2734,7 +3004,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2751,6 +3023,7 @@
    "accessed": "2026-11-26",
    "status": "UNVERIFIED",
    "unverified_reason": "Ord. No. 22 of 2016 制定本原文；2016 年後有冇再修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "caveat": null,
    "zh_text": "(2E)任何人在作出須由申報財務機構根據附表 17D 收集的自我證明時——\n(a)作出在要項上屬具誤導性、虛假或不正確的陳述；及\n(b)明知該項陳述在要項上屬具誤導性、虛假或不正確，或罔顧該項陳述是否在要項上屬具誤導性、虛假或不正確，該人即屬犯罪。\n(2F)任何人犯第(2E)款所訂的罪行，一經定罪，可處第 3 級罰款。",
    "zh_status": "UNVERIFIED",
    "element_ids": [
@@ -2776,6 +3049,7 @@
     "accessed": "2026-11-27",
     "status": "UNVERIFIED",
     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；2016 年後有冇再修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "caveat": null,
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2796,7 +3070,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -2812,7 +3088,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "申報加密資產服務提供者(reporting crypto-asset service provider)指以提供為客户達成或代表客户達成兌換交易的服務(包括作為該等兌換交易的對手方或中介人，或提供買賣平台)作為業務的個人或實體；",
    "zh_status": "verified",
    "element_ids": [
@@ -2836,7 +3113,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2857,7 +3135,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -2871,7 +3151,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-service-provider",
@@ -2885,7 +3167,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-exchange-transaction",
@@ -2899,7 +3183,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -2915,7 +3201,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "相關加密資產(relevant crypto-asset)指不屬以下資產的加密資產——\n(a)中央銀行數碼貨幣；\n(b)指明電子貨幣產品；或\n(c)申報加密資產服務提供者充分斷定為屬不可用作付款或投資目的之加密資產；",
    "zh_status": "verified",
    "element_ids": [
@@ -2939,7 +3226,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -2960,7 +3248,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-relevant-crypto-asset",
@@ -2974,7 +3264,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -2988,7 +3280,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-central-bank-digital-currency",
@@ -3002,7 +3296,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-specified-electronic-money-product",
@@ -3016,7 +3312,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reporting-crypto-asset-service-provider",
@@ -3030,7 +3328,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3046,7 +3346,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "加密資產(crypto-asset)——\n(a)指符合以下說明的數碼形式價值——\n(i)該項價值倚賴加密保護分布式分類帳或類似技術，以驗證和保護交易；及\n(ii)該項價值的擁有權或權利，能夠以數碼形式買賣，或以數碼形式轉讓予另一名個人或另一實體；及\n(b)包括——\n(i)符合以下說明的加密代幣：代表針對個人或實體的申索或成員權利、財產權或其他絕對或相對權利，並且可透過數碼形式兌換為法定貨幣或其他加密資產；及\n(ii)某項同質化代幣及非同質化代幣，該項代幣能夠以數碼形式進行買賣，或以數碼形式轉讓予另一名個人或另一實體；",
    "zh_status": "verified",
    "element_ids": [
@@ -3070,7 +3371,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3091,7 +3393,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-crypto-asset",
@@ -3105,7 +3409,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3121,7 +3427,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "相關交易(relevant transaction)指——\n(a)兌換交易；或\n(b)相關加密資產的轉讓；",
    "zh_status": "verified",
    "element_ids": [
@@ -3145,7 +3452,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3166,7 +3474,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-exchange-transaction",
@@ -3180,7 +3490,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-transfer",
@@ -3194,7 +3506,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-crypto-asset",
@@ -3208,7 +3522,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3224,7 +3540,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "須申報零售付款交易(reportable retail payment transaction)指以價值超過 $390,000 的貨品或服務為代價的相關加密資產的轉讓；",
    "zh_status": "verified",
    "element_ids": [
@@ -3248,7 +3565,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3269,7 +3587,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-transfer",
@@ -3283,7 +3603,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-crypto-asset",
@@ -3297,7 +3619,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3313,7 +3637,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "兌換交易(exchange transaction)指——\n(a)相關加密資產與法定貨幣之間的兌換；及\n(b)相同或不同形式的相關加密資產之間的兌換；",
    "zh_status": "verified",
    "element_ids": [
@@ -3337,7 +3662,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3358,7 +3684,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-exchange-transaction",
@@ -3372,7 +3700,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-crypto-asset",
@@ -3386,7 +3716,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -3400,7 +3732,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3416,7 +3750,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "指明電子貨幣產品(specified electronic money product)除了就存款機構的定義而言外，指符合以下說明的加密資產——\n(a)屬單一法定貨幣的數碼形式；\n(b)是在收到資金後發行以用於支付交易的；\n(c)由向發行人以相同法定貨幣計值的申索所代表；\n(d)某自然人或法人(發行人除外)接受以該項資產付款；及\n(e)憑藉管限發行人的規管要求，可於任何時間，在該項資產的持有人的要求下，以相同法定貨幣的面值贖回該項資產；\n附註——請亦參閱第(15)款。",
    "zh_status": "verified",
    "element_ids": [
@@ -3440,7 +3775,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3461,7 +3797,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-specified-electronic-money-product",
@@ -3475,7 +3813,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-depository-institution",
@@ -3489,7 +3829,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -3503,7 +3845,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-fiat-currency",
@@ -3517,7 +3861,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3533,7 +3879,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "中央銀行數碼貨幣(central bank digital currency)指中央銀行發行的數碼法定貨幣；",
    "zh_status": "verified",
    "element_ids": [
@@ -3557,7 +3904,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3578,7 +3926,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-central-bank-digital-currency",
@@ -3592,7 +3942,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-central-bank",
@@ -3606,7 +3958,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-fiat-currency",
@@ -3620,7 +3974,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3636,7 +3992,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "先前個人加密資產使用者(pre-existing individual crypto- asset user)就某香港申報提供者而言，指於 2026 年 12 月 31 日已與該提供者建立關係的個人加密資產使用者；",
    "zh_status": "verified",
    "element_ids": [
@@ -3660,7 +4017,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3681,7 +4039,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-individual-crypto-asset-user",
@@ -3695,7 +4055,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -3709,7 +4071,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-hkrcasp",
@@ -3723,7 +4087,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -3737,7 +4103,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3753,7 +4121,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "申報對象(reportable person)——\n(a)指——\n(i)屬某申報稅務管轄區的稅務居民的個人或實體；或\n(ii)一名已去世的人的遺產，而該人曾屬某申報稅務管轄區的稅務居民；但\n(b)不包括豁除人士；",
    "zh_status": "verified",
    "element_ids": [
@@ -3777,7 +4146,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3798,7 +4168,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-resident-for-tax-purposes",
@@ -3812,7 +4184,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-jurisdiction",
@@ -3826,7 +4200,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-excluded-person",
@@ -3840,7 +4216,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3856,7 +4234,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "須申報使用者(reportable user)指屬申報對象的加密資產使用者；",
    "zh_status": "verified",
    "element_ids": [
@@ -3880,7 +4259,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3901,7 +4281,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -3915,7 +4297,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-person",
@@ -3929,7 +4313,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -3945,7 +4331,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "控權人(controlling person)具有第 50A(1)條所給予的涵義；",
    "zh_status": "verified",
    "element_ids": [
@@ -3969,7 +4356,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -3990,7 +4378,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -4006,7 +4396,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "轉讓(transfer)指符合以下說明的交易：該項交易將相關加密資產移離或移至某名加密資產使用者的加密資產地址或帳户(由有關申報加密資產服務提供者代表同一名加密資產使用者維持的地址或帳户除外)，而在進行該項交易時，基於該提供者可用的資訊掌握，該提供者不能斷定該項交易屬兌換交易。",
    "zh_status": "verified",
    "element_ids": [
@@ -4030,7 +4421,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4051,7 +4443,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-crypto-asset",
@@ -4065,7 +4459,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -4079,7 +4475,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset-user",
@@ -4093,7 +4491,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reporting-crypto-asset-service-provider",
@@ -4107,7 +4507,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-exchange-transaction",
@@ -4121,7 +4523,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -4137,7 +4541,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "申報稅務管轄區(reportable jurisdiction)指局長根據第(13)(b)款發布的清單中指明的司法管轄區；",
    "zh_status": "verified",
    "element_ids": [
@@ -4161,7 +4566,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4182,7 +4588,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -4198,7 +4606,8 @@
    "amending": false,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "加密資產使用者(crypto-asset user)指為進行相關交易而屬申報加密資產服務提供者的客户的個人或實體；\n附註——請亦參閱第(6)款。",
    "zh_status": "verified",
    "element_ids": [
@@ -4222,7 +4631,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4243,7 +4653,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-crypto-asset",
@@ -4257,7 +4669,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reporting-crypto-asset-service-provider",
@@ -4271,7 +4685,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-relevant-transaction",
@@ -4285,7 +4701,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -4302,6 +4720,7 @@
    "accessed": "2026-11-26",
    "status": "UNVERIFIED",
    "unverified_reason": "Ord. No. 22 of 2016 制定本原文；2016 年後有冇再修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "caveat": null,
    "zh_text": "財務機構(financial institution)指——\n(a)託管機構；\n(b)存款機構；\n(c)投資實體；或\n(d)指明保險公司；",
    "zh_status": "UNVERIFIED",
    "element_ids": [
@@ -4326,6 +4745,7 @@
     "accessed": "2026-11-27",
     "status": "UNVERIFIED",
     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；2016 年後有冇再修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "caveat": null,
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4346,7 +4766,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-custodial-institution",
@@ -4360,7 +4782,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-depository-institution",
@@ -4374,7 +4798,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-investment-entity",
@@ -4388,7 +4814,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-specified-insurance-company",
@@ -4402,7 +4830,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -4419,6 +4849,7 @@
    "accessed": "2026-11-26",
    "status": "UNVERIFIED",
    "unverified_reason": "Ord. No. 22 of 2016 制定本原文；2016 年後有冇再修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "caveat": null,
    "zh_text": "控權人(controlling person)——\n(a)就某實體而言，除(b)及(c)段另有規定外，指對該實體行使控制權的個人；\n(b)就屬信託的實體而言——\n(i)指屬該信託的財產授予人、受託人、保護人(如有的話)、受益人或某類別受益人的成員的個人；或\n(ii)(如該信託的財產授予人、受託人、保護人、受益人或某類別受益人的成員是另一實體)指對該另一實體行使控制權的個人；或\n(c)就屬一個相等於或相類於信託(但不稱為信託)的法律安排的實體而言——\n(i)指符合以下說明的個人︰該人就該法律安排而言，處於一個相類於信託的財產授予人、受託人、保護人(如有的話)、或受益人或某類別受益人的成員的位置；或\n(ii)(如就該法律安排而言，另一實體是處於一個相類於信託的財產授予人、受託人、保護人、或受益人或該類別受益人的成員的位置)指對該另一實體行使控制權的個人；\n附註——請亦參閱第(6)款。",
    "zh_status": "UNVERIFIED",
    "element_ids": [
@@ -4443,6 +4874,7 @@
     "accessed": "2026-11-27",
     "status": "UNVERIFIED",
     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；2016 年後有冇再修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "caveat": null,
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4463,7 +4895,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -4479,7 +4913,8 @@
    "amending": true,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "19. 修訂第 50A 條(釋義)\n(1)第 50A(1)條，在帳户持有人的定義的末處——加入 “附註——請亦參閱第(3A)款。”。\n(2)第 50A(1)條——廢除託管帳户的定義代以 “託管帳户(custodial account)指——\n(a)某財務機構所維持的帳户(保險合約或年金合約除外)，維持該帳户是為某名個人或某實體的利益，持有一項或多於一項財務資產；或\n(b)如一項或多於一項財務資產以加密資產形式發行——某財務機構作出的安排，作出該項安排是為了——\n(i)在該機構妥善保管或管理能夠將相關資產置於控制之下的工具的範圍內；及\n(ii)在該機構有能力代表某名個人或某實體管理或買賣該等資產或將該等資產轉讓予第三方的範圍內，為該名個人或該實體的利益而持有該等資產；”。\n(3)第 50A(1)條——廢除託管機構的定義代以 “託管機構(custodial institution)具有第 50M(1)條所給予的涵義；”。\n(4)第 50A(1)條，存款帳户的定義，(b)段——廢除 “及”。\n(5)第 50A(1)條，存款帳户的定義，在(c)段之後——加入 “(d)代表為客户的利益而持有的所有指明電子貨幣產品的帳户或名義帳户；及\n(e)為客户的利益而持有一項或多於一項中央銀行數碼貨幣的帳户；\n附註——請亦參閱第(9A)款。”。\n(6)第 50A(1)條——廢除存款機構的定義代以 “存款機構(depository institution)具有第 50M(1)條所給予的涵義；”。\n(7)第 50A(1)條——廢除《財務行動特別組織的建議》的定義代以 “《財務行動特別組織的建議》(FATF Recommendations)具有第 50M(1)條所給予的涵義；”。\n(8)第 50A(1)條——廢除財務資產的定義代以 “財務資產(financial asset)具有第 50M(1)條所給予的涵義；”。\n(9)第 50A(1)條，投資實體的定義，(d)(iii)段——廢除 “或金錢” 代以 “、金錢或相關加密資產”。\n(10)第 50A(1)條，投資實體的定義，(e)(ii)段，在 “資產” 之後——加入 “或相關加密資產”。\n(11)第 50A(1)條，被動收入的定義，(c)段，在 “利息” 之後——加入 “或股息”。\n(12)第 50A(1)條，被動收入的定義，在(e)段之後——加入 “(ea)得自相關加密資產的收入；”。\n(13)第 50A(1)條，被動收入的定義，(f)段——廢除 “產生(a)、(b)、(c)、(d)及(e)段中任何一段所述的被動收入的財務資產” 代以 “財務資產或相關加密資產”。\n(14)第 50A(1)條，被動收入的定義，(g)段，在 “資產” 之後——加入 “或相關加密資產”。\n(15)第 50A(1)條，在被動收入的定義的末處——加入 “附註——請亦參閱第(14B)款。”。\n(16)第 50A(1)條，先前帳户的定義，(a)(ii)段——廢除 “或”。\n(17)第 50A(1)條，先前帳户的定義，在(a)(ii)段之後——加入 “(iii)(儘管有第(i)及(ii)節的規定)如該帳户純粹憑藉《2023 年共同匯報標準修訂》而被視為財務帳户—— 2027 年 12 月 31 日；或”。\n(18)第 50A(1)條，先前帳户的定義，(b)(i)(B)段——廢除 “及”。\n(19)第 50A(1)條，先前帳户的定義，在(b)(i)(B)段之後——加入 “(C)(儘管有(A)及(B)分節的規定)如該帳户純粹憑藉《2023 年共同匯報標準修訂》而被視為財務帳户—— 2028 年 1 月 1 日；及”。\n(20)第 50A(1)條，申報對象的定義，(b)(i)段——廢除 “法團” 代以 “實體”。\n(21)第 50A(1)條，申報對象的定義，(b)(ii)段——廢除 “法團的有關連實體的法團” 代以 “實體的有關連實體的實體”。\n(22)第 50A(1)條，申報年的定義，(a)段——廢除 “或”。\n(23)第 50A(1)條，申報年的定義，(b)(ii)段，在 “2021；” 之後——加入 “或”。\n(24)第 50A(1)條，中文文本，申報年的定義，(b)段——廢除 “日期” 代以 “年份”。\n(25)第 50A(1)條，申報年的定義，在(b)段之後——加入 “(c)(儘管有(a)及(b)段的規定)就純粹憑藉《2023 年共同匯報標準修訂》而被視為財務帳户的帳户而言——指以下年份中的較遲者——\n(i)在附表 17E 第 1 部第 2 欄中與該管轄區相對之處指明的年份；\n(ii) 2029；”。\n(26)第 50A(1)條——按筆劃數目順序加入 “《2017 年共同匯報標準》(2017 Common Reporting Standard)具有第 50M(1)條所給予的涵義；《2023 年共同匯報標準修訂》(2023-CRS amendments)指《2026 年稅務(修訂)(加密資產申報框架及經修訂的共同匯報標準)條例》(2026 年第 8 號)第 2 部第 2 分部對本條例的修訂(作出該等修訂是為了納入對《2017 年共同匯報標準》的修改(包括規則及評註)，而上述修改列於由經濟合作與發展組織在 2023 年 6 月 8 日公布的、名為《就稅務事宜自動交換資料的國際標準：加密資產申報框架及 2023 年就共同匯報標準的更新》(此為 “ International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard” 的譯名)的文件第 II 部)；中央銀行數碼貨幣(central bank digital currency)具有第 50M(1)條所給予的涵義；加密資產(crypto-asset)具有第 50M(1)條所給予的涵義；《加密資產申報框架》(CARF)具有第 50M(1)條所給予的涵義；兌換交易(exchange transaction)具有第 50M(1)條所給予的涵義；法定貨幣(fiat currency)具有第 50M(1)條所給予的涵義；指明電子貨幣產品(specified electronic money product)指符合以下說明的產品——\n(a)屬單一法定貨幣的數碼形式；\n(b)是在收到資金後發行以用於支付交易的；\n(c)由向發行人以相同法定貨幣計值的申索所代表；\n(d)某自然人或法人(發行人除外)接受以該項產品付款；及\n(e)憑藉管限發行人的規管要求，可於任何時間，在該項產品的持有人的要求下，以相同法定貨幣的面值贖回該項產品；\n附註——請亦參閱第(16AAB)款。相關加密資產(relevant crypto-asset)具有第 50M(1)條所給予的涵義；新帳户(new account)指申報財務機構在以下日期或之後開立和維持的財務帳户——\n(a)如該機構不屬 2020 年涵蓋機構——2017 年 1 月 1 日；\n(b)如該機構屬 2020 年涵蓋機構——2020 年 1 月 1 日；或\n(c)(儘管有(a)及(b)段的規定)如該帳户純粹憑藉《2023 年共同匯報標準修訂》而被視為財務帳户——2028 年 1 月 1 日；”。\n(27)在第 50A(3)條之後——加入 “(3A)就第(1)款中帳户持有人的定義的(c)段而言，如有關帳户是為現金值保險合約而設的，而任何個人或實體有權利取用該合約的現金值，或有權利更改該合約的受益人，則除非該名個人或該實體已最終地、完全地及不可撤銷地放棄取用該合約的現金值的權利及更改該合約的受益人的權利，否則該名個人或該實體須就該合約而言，視為帳户持有人。”。\n(28)第 50A 條——廢除第(9)款。\n(29)在第 50A(10)條之前——加入 “(9A)就第(1)款中存款帳户的定義的(d)及(e)段而言——\n(a)某實體為某客户的利益而持有的所有指明電子貨幣產品，須一併視為該客户的一個存款帳户；\n(b)為釐定該存款帳户的價值，申報財務機構須將有關帳户持有人在該機構持有的所有指明電子貨幣產品的價值總合；\n(c)某實體凡透過某安排為某客户的利益而持有中央銀行數碼貨幣，該安排須視為存款帳户；及\n(d)凡某項指明電子貨幣產品或中央銀行數碼貨幣(相關資產)以加密資產的形式發行，則——\n(i)在某實體妥善保管或管理能夠將相關資產置於控制之下的工具的範圍內；及\n(ii)在該實體有能力代表該客户管理或買賣有關基礎資產或將該等資產轉讓予第三方的範圍內，該實體須視作為了該客户的利益而持有相關資產。”。\n(30)第 50A(13)(a)條——廢除 “；或” 代以分號。\n(31)第 50A(13)(b)條——廢除在 “資產” 之後的所有字句代以 “或相關加密資產的投資、再投資或買賣；或”。\n(32)在第 50A(13)(b)條之後——加入 “(c)就該定義的(d)(iii)段而言，提供為客户達成兌換交易的服務，或提供代表客户達成兌換交易的服務，不得視為以其他方式代其他實體或個人投資、處理或管理財務資產、金錢或相關加密資產。”。\n(33)在第 50A(14)條之後——加入 “(14A)為釐定第(14)款所指的總收入，某實體的相關活動的所有報酬均須列入考量，不論該等報酬是直接支付予該實體的，或是支付予另一實體的。\n(14B)如某非財務實體經常作為財務資產或相關加密資產的交易商而行事，則第(1)款中被動收入的定義，並不包括該實體以該交易商身分在其業務的通常運作中進行的交易所得的任何收入。”。\n(34)在第 50A(16AA)條之後——加入 “(16AAB)就第(1)款中指明電子貨幣產品的定義而言——\n(a)凡純粹為利便資金依據某客户的指示由該客户轉讓至另一人的目的而創設某項產品，則指明電子貨幣產品並不包括該項產品；及\n(b)就(a)段而言，凡某實體轉讓資金，而在該實體的業務的通常運作中——\n(i)如有收到利便該項轉讓的指示——該實體持有與有關產品有關連的資金多於收到指示後的 60 日；或\n(ii)如沒有收到該等指示——該實體持有與有關產品有關連的資金多於收到資金後的 60 日，則該項產品不得視為純粹為利便轉讓資金的目的而創設的。\n(16AAC)第(1)款中中央銀行數碼貨幣、加密資產、兌換交易、法定貨幣及相關加密資產的定義，須按與《加密資產申報框架》相符的方式解釋。”。\n(35)第 50A(16A)條——廢除在 “修訂” 之後的所有字句代以 “第(7)款所指的百分率。",
    "zh_status": "verified",
    "element_ids": [
@@ -4504,7 +4939,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4525,7 +4961,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-custodial-account",
@@ -4539,7 +4977,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-insurance-contract",
@@ -4553,7 +4993,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-annuity-contract",
@@ -4567,7 +5009,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-financial-institution",
@@ -4581,7 +5025,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-financial-asset",
@@ -4595,7 +5041,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-crypto-asset",
@@ -4609,7 +5057,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-custodial-institution",
@@ -4623,7 +5073,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-depository-account",
@@ -4637,7 +5089,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-specified-electronic-money-product",
@@ -4651,7 +5105,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-central-bank",
@@ -4665,7 +5121,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-depository-institution",
@@ -4679,7 +5137,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-fatf-recommendations",
@@ -4693,7 +5153,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-investment-entity",
@@ -4707,7 +5169,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-relevant-crypto-asset",
@@ -4721,7 +5185,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     }
    ]
   },
@@ -4737,7 +5203,8 @@
    "amending": true,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "20. 修訂第 50F 條(第 50C(3)條所指的所需資料)\n(1)第 50F(2)條——廢除(a)及(b)段代以 “(a)如帳户持有人是一名個人，並屬申報對象——\n(i)該人的姓名、地址、居留司法管轄區、稅務編號、出生日期及出生地點；及\n(ii)該人是否已提供有效的自我證明；\n(b)如帳户持有人是一個實體，並屬申報對象——\n(i)該實體的名稱、地址、居留司法管轄區及稅務編號；及\n(ii)該實體是否已提供有效的自我證明；”。\n(2)第 50F(2)(c)(i)條——廢除 “；及” 代以分號。\n(3)在第 50F(2)(c)(ii)條之後——加入 “(iii)每名申報對象憑藉甚麽角色而屬該實體的控權人；及\n(iv)每名申報對象是否已提供有效的自我證明；”。\n(4)在第 50F(2)(c)條之後——加入 “(ca)該帳户是否屬聯名帳户及(如屬聯名帳户)帳户持有人的數目；”。\n(5)第 50F(2)(d)條——廢除 “或(如沒有帳户編號)具有等同於帳户編號的功能的資料” 代以 “或(如沒有帳户編號)具有等同於帳户編號的功能的資料、該帳户的種類及該帳户屬先前帳户抑或新帳户”。\n(6)在第 50F(2)(g)條之後——加入 “(ga)就於屬法律安排的投資實體持有的股權權益而言——有關申報對象憑藉甚麽角色而屬股權權益的持有人；及",
    "zh_status": "verified",
    "element_ids": [
@@ -4762,7 +5229,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4783,7 +5251,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-reportable-person",
@@ -4797,7 +5267,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-jurisdiction-of-residence",
@@ -4811,7 +5283,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-controlling-person",
@@ -4825,7 +5299,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-pre-existing-account",
@@ -4839,7 +5315,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-new-account",
@@ -4853,7 +5331,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-equity-interest",
@@ -4867,7 +5347,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-investment-entity",
@@ -4881,7 +5363,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   },
@@ -4897,7 +5381,8 @@
    "amending": true,
    "accessed": "2026-11-26",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
    "zh_text": "21. 修訂第 50G 條(所需資料的變更)\n(1)第 50G(1)(a)(ii)條，在 “前，” 之後——加入 “及每當該機構依據當地的打擊洗錢暨認識客户程序的規定須更新關於先前帳户的資料時，”。\n(2)在第 50G(2)條之後——加入 “(3)儘管有第 50F(2)(c)(iii)及(ga)條的規定，就申報財務機構在 2027 年 12 月 31 日維持的須申報帳户而言，及就於 2029 年 12 月 31 日或之前屆滿的申報期而言，無須申報關於每名申報對象憑藉甚麽角色而屬有關實體的控權人或股權權益的持有人的資料，但如該資料可在該機構所備存的可供電子方式搜尋的資料中取得則除外。\n(4)儘管有第 50F(2)(f)(iv)條的規定，在申報財務機構有根據《加密資產申報框架》申報來自出售或贖回財務資產的總收益的範圍內，無須申報該等總收益，但如該機構就任何已清楚識辨的帳户組別另作選擇則除外。",
    "zh_status": "verified",
    "element_ids": [
@@ -4922,7 +5407,8 @@
     ],
     "accessed": "2026-11-27",
     "status": "verified",
-    "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+    "unverified_reason": null,
+    "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
     "extraction_note": "中文本逐字抽自同一份雙語憲報 PDF 嘅中文欄（IRD /chi/ 版本，中文欄同 /eng/ 版本逐字相同）；只將 PDF 排版產生嘅字距空格、換行、頁眉頁碼正規化，冇改字。",
     "updated": "2026-11-27"
    },
@@ -4943,7 +5429,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-pre-existing-account",
@@ -4957,7 +5445,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-reporting-financial-institution",
@@ -4971,7 +5461,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-reportable-person",
@@ -4985,7 +5477,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-controlling-person",
@@ -4999,7 +5493,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-equity-interest",
@@ -5013,7 +5509,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-financial-institution",
@@ -5027,7 +5525,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50M-financial-asset",
@@ -5041,7 +5541,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CARF",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A8-financial-asset",
@@ -5055,7 +5557,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
      "scheme": "HK-CRS",
      "status": "verified",
-     "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": null,
+     "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "definition_zh_note": null
     },
     {
      "id": "T-50A-financial-institution",
@@ -5069,7 +5573,9 @@
      "source_url_zh": "https://www.ird.gov.hk/chi/pdf/aeoi/Inland%20Revenue%20(Amendment)%20(No.%203)%20Ordinance%202016_Chi.pdf",
      "scheme": "HK-CRS",
      "status": "UNVERIFIED",
-     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）"
+     "unverified_reason": "Ord. No. 22 of 2016 制定本原文；之後（包括 Ord. No. 4 / No. 8 of 2026）有冇修訂未同 e-Legislation Cap. 112 綜合本核對（U1）",
+     "caveat": null,
+     "definition_zh_note": null
     }
    ]
   }

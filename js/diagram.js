@@ -1,5 +1,5 @@
 // SVG diagrams: layered node graph, decision-tree flowchart, Venn.
-import { s, h } from './ui.js?v=v2';
+import { s, h } from './ui.js?v=v3';
 
 function clip(t, n) { const a = Array.from(t || ''); return a.length > n ? a.slice(0, n - 1).join('') + '…' : a.join(''); }
 // wrap by visual width: CJK = 1 unit, latin = 0.56; up to `max` lines, last one clipped with …

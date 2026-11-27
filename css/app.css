@@ -418,3 +418,6 @@ dfn.uv{color:#ffd27a;border-bottom-color:#ffd27a}
 .who span{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 @media (max-width:400px){.home-top{gap:6px}.home-top .avatar{width:40px;height:40px;font-size:.8rem}.home-top .pill{padding:0 9px}.who b{font-size:.92rem}}
 .prov-text dfn{padding:8px 0;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+.caveat{font-size:.78rem;line-height:1.45;color:var(--text2);margin:4px 0 0}
+.caveat.one{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.upd-banner{margin-bottom:10px;border-color:#ff6b6b55}

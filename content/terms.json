@@ -9,7 +9,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "active entity",
    "term_zh": "主動實體",
    "definition": "active entity (主動實體) means an entity that falls within any of the following descriptions—\n(a) in terms of the entity’s gross income and its assets—\n(i) for the calendar year or other appropriate reporting period preceding the year in which the determination as to whether the entity is an active entity is made, less than 50% of the entity’s gross income is passive income; and\n(ii) less than 50% of the assets held by the entity during that calendar year or period are assets that produce, or are held for the production of, passive income;\n(b) the entity does not function, or does not hold itself out, as an investment fund (including a private equity fund, venture capital fund, leveraged buyout fund, or any investment vehicle whose purpose is to acquire or fund companies, and then to hold interests in those companies as capital assets for investment purposes) and—\n(i) 80% or more of the activities of the entity consist of holding, in whole or in part, the outstanding stock of, or providing financing and services to, one or more subsidiaries that engage in trades or businesses other than the business of a financial institution (holding or group finance activities); or\n(ii) if less than 80% of the activities of the entity consist of the entity’s holding or group finance activities, the sum of the entity’s holding or group finance activities and the entity’s other activities that generate income (other than passive income) constitute in total 80% or more of the activities of the entity;\n(c) not more than 24 months have elapsed since the date of the incorporation, formation or constitution of the entity and the entity—\n(i) has never operated a business; and\n(ii) is investing capital into assets with the intent to operate a business other than that of a financial institution;\n(d) the entity has never been a financial institution throughout the past 5 years and—\n(i) is in the process of liquidating its assets; or\n(ii) is reorganizing with the intent to continue or recommence operation in a business other than that of a financial institution;\n(e) the entity falls within all of the following descriptions—\n(i) the entity is primarily engaged in financing and hedging transactions with or for its related entities that are not financial institutions;\n(ii) the group of the related entities mentioned in subparagraph (i) is primarily engaged in a business other than that of a financial institution;\n(iii) the entity does not provide financing or hedging services to any entity that is not its related entity;\n(f) the entity falls within all of the following descriptions—\n(i) the entity is established and operated in its jurisdiction of residence, and—\n(A) is established and operated exclusively for religious, charitable, scientific, artistic, cultural, athletic or educational purposes; or\n(B) is a professional organization, business league, chamber of commerce, labour organization, agricultural or horticultural organization, civic league or an organization operated exclusively for the promotion of social welfare;\n(ii) the entity is exempt from income tax in its jurisdiction of residence;\n(iii) the entity has no shareholders or members who have a proprietary or beneficial interest in its income or assets;\n(iv) the laws of the entity’s jurisdiction of residence or the entity’s formation documents do not permit any income or assets of the entity to be distributed to, or applied for the benefit of, a private person or non-charitable entity other than—\n(A) pursuant to the conduct of the entity’s charitable activities;\n(B) a s p ay m e n t o f re a s o n abl e compensation for services rendered; or\n(C) as payment representing the fair market value of a property which the entity has purchased;\n(v) the laws of the entity’s jurisdiction of residence or the entity’s formation documents require that, on the entity’s liquidation or dissolution, all of its assets are to be distributed to a governmental entity or other non-profit organization, or be escheated to the government of that jurisdiction or any political subdivision of that government;\nNote— See also subsection (4).",
@@ -29,7 +29,8 @@
    "element_ids": [],
    "provision_ids": [
     "O8-s50P"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -38,7 +39,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "AML / KYC procedures",
    "term_zh": "打擊洗錢暨認識客户程序",
    "definition": "AML / KYC procedures (打擊洗錢暨認識客户程序) means the customer due diligence procedures required to be carried out by a reporting crypto-asset service provider pursuant to any anti-money laundering requirements or similar requirements (including requirements to know a customer) to which the provider is subject;",
@@ -56,7 +57,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -65,7 +67,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "annuity contract",
    "term_zh": "年金合約",
    "definition": "annuity contract (年金合約) has the meaning given by section 50A(1);",
@@ -83,7 +85,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -92,7 +95,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "branch",
    "term_zh": "分行",
    "definition": "branch (分行), in relation to a reporting crypto-asset service provider, means a unit, business or office of the provider that is treated as a branch under the regulatory regime of a jurisdiction or that is otherwise regulated under the laws of a jurisdiction as separate from other offices, units, or branches of the provider;\nNote— See also subsection (5).",
@@ -110,7 +113,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -119,7 +123,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "calendar year",
    "term_zh": "公曆年",
    "definition": "calendar year (公曆年) has the meaning given by section 50A(1);",
@@ -137,7 +141,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -146,7 +151,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "CARF",
    "term_zh": "加密資產申報框架",
    "definition": "CARF (《加密資產申報框架》) means the Crypto-Asset Reporting Framework, consisting of the Rules and the Commentaries, that are set out in Part I of the document entitled International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard, published by the Organisation for Economic Co-operation and Development on 8 June 2023;",
@@ -164,7 +169,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -173,7 +179,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "CARF publications",
    "term_zh": "加密資產申報框架刊物",
    "definition": "CARF publications (《加密資產申報框架刊物》) means—\n(a) Part I of the document entitled International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard, published by the Organisation for Economic Co-operation and Development on 8 June 2023; and\n(b) the document entitled Crypto-Asset Reporting Framework: Frequently Asked Questions, published by the Organisation for Economic Co-operation and Development and updated in December 2025, and as further updated from time to time;",
@@ -193,7 +199,8 @@
    "element_ids": [],
    "provision_ids": [
     "O8-s50Y"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -202,7 +209,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "cash value",
    "term_zh": "現金值",
    "definition": "cash value (現金值) has the meaning given by section 50A(1);",
@@ -220,7 +227,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -229,7 +237,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "cash value insurance contract",
    "term_zh": "現金值保險合約",
    "definition": "cash value insurance contract (現金值保險合約) has the meaning given by section 50A(1);",
@@ -247,7 +255,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -256,7 +265,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "central bank",
    "term_zh": "中央銀行",
    "definition": "central bank (中央銀行) has the meaning given by section 50A(1);",
@@ -278,7 +287,8 @@
    ],
    "provision_ids": [
     "O8-50M-cbdc"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -287,7 +297,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "central bank digital currency",
    "term_zh": "中央銀行數碼貨幣",
    "definition": "central bank digital currency (中央銀行數碼貨幣) means a digital fiat currency issued by a central bank;",
@@ -310,7 +320,8 @@
    "provision_ids": [
     "O8-50M-rca",
     "O8-50M-cbdc"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -319,7 +330,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "Common Reporting Standard",
    "term_zh": "共同匯報標準",
    "definition": "Common Reporting Standard (《共同匯報標準》) means—\n(a) the 2017 Common Reporting Standard; and\n(b) the amendments to the 2017 Common Reporting Standard, consisting of the Rules and the Commentaries, that are set out in Part II of the document entitled International Standards for Automatic Exchange of Information in Tax Matters: Crypto-Asset Reporting Framework and 2023 update to the Common Reporting Standard, published by the Organisation for Economic Co-operation and Development on 8 June 2023;",
@@ -337,7 +348,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -346,7 +358,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "controlling person",
    "term_zh": "控權人",
    "definition": "controlling person (控權人) has the meaning given by section 50A(1);",
@@ -378,7 +390,8 @@
     "O8-s80R",
     "O8-50M-cp",
     "O8-s21"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -387,7 +400,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "crypto-asset",
    "term_zh": "加密資產",
    "definition": "crypto-asset (加密資產)—\n(a) means a digital representation of value—\n(i) that relies on a cryptographically secured distributed ledger or a similar technology to validate and secure transactions; and\n(ii) the ownership of which, or the right to which, can be traded or transferred to another individual or entity in a digital manner; and\n(b) includes—\n(i) a cryptographic token that represents claims or rights of membership against an individual or entity, rights to property or other absolute or relative rights, and that can be digitally exchanged for fiat currencies or other crypto-assets; and\n(ii) fungible and non-fungible tokens that can be traded or transferred to another individual or entity in a digital manner;",
@@ -432,7 +445,8 @@
     "O8-50M-pre",
     "O8-50M-tr",
     "O8-50M-cau"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -441,7 +455,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "crypto-asset user",
    "term_zh": "加密資產使用者",
    "definition": "crypto-asset user (加密資產使用者) means an individual or entity that is a customer of a reporting crypto-asset service provider for the purpose of carrying out relevant transactions;\nNote— See also subsection (6).",
@@ -479,7 +493,8 @@
     "O8-50M-ru",
     "O8-50M-tr",
     "O8-50M-cau"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -488,7 +503,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "custodial institution",
    "term_zh": "託管機構",
    "definition": "custodial institution (託管機構) means an entity that holds, as a substantial portion of its business, financial assets for the account of another individual or entity;\nNote— See also subsections (7) and (8).",
@@ -506,7 +521,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -515,7 +531,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "depository institution",
    "term_zh": "存款機構",
    "definition": "depository institution (存款機構) means—\n(a) an authorized institution as defined by section 2(1) of the Banking Ordinance (Cap. 155);\n(b) an entity that accepts deposits in the ordinary course of a banking business or similar business; or\n(c) an entity that holds specified electronic money products or central bank digital currencies for the benefit of a customer;\nNote— See also subsections (9) and (15).",
@@ -535,7 +551,8 @@
    "element_ids": [],
    "provision_ids": [
     "O8-50M-semp"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -544,7 +561,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "entity",
    "term_zh": "實體",
    "definition": "entity (實體)—\n(a) means—\n(i) an entity, other than a natural person, that can establish a permanent customer relationship with a financial institution or otherwise own property; or\n(ii) a legal arrangement; and\n(b) includes a corporation, partnership and any other body of persons (incorporated or unincorporated) and a trust;\nNote— The definition of entity reflects the following—\n(a) under the CARF and the CARF publications (both expressions are defined by this subsection), entity covers a legal person and a legal arrangement; and\n(b) under the FATF Recommendations (as defined by this subsection), legal person means an entity other than a natural person that can establish a permanent customer relationship with a financial institution or otherwise own property.",
@@ -562,7 +579,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -571,7 +589,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "entity crypto-asset user",
    "term_zh": "實體加密資產使用者",
    "definition": "entity crypto-asset user (實體加密資產使用者) means a crypto-asset user that is an entity;",
@@ -591,7 +609,8 @@
    "element_ids": [],
    "provision_ids": [
     "O8-s50P"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -600,7 +619,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "established securities market",
    "term_zh": "具規模證券市場",
    "definition": "established securities market (具規模證券市場) has the meaning given by section 50A(1);",
@@ -618,7 +637,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -627,7 +647,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "exchange transaction",
    "term_zh": "兌換交易",
    "definition": "exchange transaction (兌換交易) means—\n(a) an exchange between relevant crypto-assets and fiat currencies; and\n(b) an exchange between relevant crypto-assets of the same or different forms;",
@@ -653,7 +673,8 @@
     "O8-50M-rtx",
     "O8-50M-ex",
     "O8-50M-tr"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -662,7 +683,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "excluded person",
    "term_zh": "豁除人士",
    "definition": "excluded person (豁除人士) means—\n(a) an entity the stock of which is regularly traded on one or more established securities markets;\n(b) an entity that is a related entity of an entity described in paragraph (a);\n(c) a governmental entity;\n(d) an international organization;\n(e) a central bank; or\n(f) a financial institution other than an entity described in paragraph (e) of the definition of investment entity in this subsection;",
@@ -686,7 +707,8 @@
    "provision_ids": [
     "O8-s50P",
     "O8-50M-rp"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -695,7 +717,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "FATF Recommendations",
    "term_zh": "財務行動特別組織的建議",
    "definition": "FATF Recommendations (《財務行動特別組織的建議》) means the International Standards on Combating Money Laundering and the Financing of Terrorism & Proliferation—the FATF Recommendations, as adopted by the Financial Action Task Force Plenary in February 2012 and as in force from time to time;",
@@ -715,7 +737,8 @@
    "element_ids": [],
    "provision_ids": [
     "O8-s50R"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -724,7 +747,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "fiat currency",
    "term_zh": "法定貨幣",
    "definition": "fiat currency (法定貨幣)—\n(a) means the official currency of a jurisdiction which is issued by that jurisdiction or by that jurisdiction’s designated central bank or monetary authority, as represented by physical banknotes or coins or by money in different digital forms, including bank reserves and central bank digital currencies; and\n(b) includes commercial bank money and electronic money products (including specified electronic money products);",
@@ -748,7 +771,8 @@
     "O8-s50R",
     "O8-50M-semp",
     "O8-50M-cbdc"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -757,7 +781,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "financial asset",
    "term_zh": "財務資產",
    "definition": "financial asset (財務資產) includes—\n(a) any security (including share units of a stock in a corporation; partnership or beneficial ownership interest in a widely held or publicly traded partnership or trust; note, bond, debenture or other evidence of indebtedness);\n(b) partnership interest;\n(c) commodity;\n(d) swap (including interest rate swap, currency swap, basis swap, interest rate caps, interest rate floors, commodity swap, equity swap, equity index swap and similar agreement);\n(e) insurance contract or annuity contract;\n(f) any interest (including a futures or forward contract or option) in any of the assets mentioned in paragraphs (a), (b), (c), (d) and (e); and\n(g) any interest (including a futures or forward contract or option) in relevant crypto-assets, but does not include a non-debt direct interest in real property;",
@@ -779,7 +803,8 @@
    ],
    "provision_ids": [
     "O8-s21"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -788,7 +813,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "financial institution",
    "term_zh": "財務機構",
    "definition": "financial institution (財務機構) means—\n(a) a custodial institution;\n(b) a depository institution;\n(c) an investment entity; or\n(d) a specified insurance company;",
@@ -816,7 +841,8 @@
     "O4-s50AB",
     "O4-s50D-2",
     "O8-s21"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -825,7 +851,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "governmental entity",
    "term_zh": "政府實體",
    "definition": "governmental entity (政府實體) has the meaning given by section 50A(1);",
@@ -843,7 +869,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -852,7 +879,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "HKRCASP",
    "term_zh": "香港申報提供者",
    "definition": "HKRCASP (香港申報提供者) means a reporting crypto-asset service provider that meets any of the criteria specified in section 50N(1) and (2);",
@@ -897,7 +924,8 @@
     "O8-s82F",
     "O8-s80-2ZD",
     "O8-50M-pre"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -906,7 +934,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "individual crypto-asset user",
    "term_zh": "個人加密資產使用者",
    "definition": "individual crypto-asset user (個人加密資產使用者) means a crypto-asset user that is an individual;",
@@ -929,7 +957,8 @@
    "provision_ids": [
     "O8-17EA-P3",
     "O8-50M-pre"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -938,7 +967,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "insurance contract",
    "term_zh": "保險合約",
    "definition": "insurance contract (保險合約) has the meaning given by section 50A(1);",
@@ -956,7 +985,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -965,7 +995,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "international organization",
    "term_zh": "國際組織",
    "definition": "international organization (國際組織) has the meaning given by section 50A(1);",
@@ -983,7 +1013,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -992,7 +1023,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "investment entity",
    "term_zh": "投資實體",
    "definition": "investment entity (投資實體) means—\n(a) a corporation licensed under the Securities and Futures Ordinance (Cap. 571) to carry out one or more of the following regulated activities (as defined by section 1 of Part 1 of Schedule 1 to that Ordinance)—\n(i) dealing in securities;\n(ii) dealing in futures contracts;\n(iii) leveraged foreign exchange trading;\n(iv) asset management;\n(b) an institution registered under the Securities and Futures Ordinance (Cap. 571) to carry out one or more of the following regulated activities (as defined by section 1 of Part 1 of Schedule 1 to that Ordinance)—\n(i) dealing in securities;\n(ii) dealing in futures contracts;\n(iii) asset management;\n(c) a collective investment scheme authorized under the Securities and Futures Ordinance (Cap. 571);\n(d) an entity that primarily conducts as its business one or more of the following activities or operations for its customers—\n(i) trading in—\n(A) money market instruments, including cheques, bills, certificates of deposit, and derivatives;\n(B) foreign exchange;\n(C) exchange, interest rate and index instruments;\n(D) transferable securities; or\n(E) commodity futures;\n(ii) individual and collective portfolio management;\n(iii) otherwise investing in, administering, or managing financial assets, money or relevant crypto-assets on behalf of other entities or individuals; or\n(e) an entity—\n(i) that is managed by a custodial institution, a depository institution, a specified insurance company, or an entity mentioned in paragraph (a), (b), (c) or (d); and\n(ii) whose gross income is primarily attributable to investing, reinvesting, or trading in financial assets or relevant crypto-assets, but does not include an entity that is an active entity solely because it falls within any of the descriptions in paragraphs (b), (c), (d) and (e) of the definition of active entity in this subsection;\nNote— See also subsections (10), (11) and (12).",
@@ -1012,7 +1043,8 @@
    "element_ids": [
     "ddshare"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1021,7 +1053,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "jurisdiction of residence",
    "term_zh": "居留司法管轄區",
    "definition": "jurisdiction of residence (居留司法管轄區) has the meaning given by section 50A(1);",
@@ -1048,7 +1080,8 @@
     "O8-s50R",
     "O8-17EA-P3",
     "O8-17EA-P6"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1057,7 +1090,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "partner jurisdiction",
    "term_zh": "夥伴稅務管轄區",
    "definition": "partner jurisdiction (夥伴稅務管轄區) means any territory outside Hong Kong—\n(a) that has put in place equivalent legal requirements in relation to CARF; and\n(b) that is specified in a list published under subsection (13)(a) by the Commissioner;",
@@ -1082,7 +1115,8 @@
    "provision_ids": [
     "O8-s50N",
     "O8-s50Q"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1091,7 +1125,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "passive income",
    "term_zh": "被動收入",
    "definition": "passive income (被動收入)—\n(a) means the portion of gross income that consists of—\n(i) dividends;\n(ii) interest;\n(iii) income equivalent to interest or dividends;\n(iv) rents and royalties (other than rents and royalties derived in the active conduct of a business conducted, at least in part, by the employees of an entity);\n(v) annuities;\n(vi) income derived from relevant crypto-assets;\n(vii) the excess of gains over losses from the sale or exchange of relevant crypto-assets or financial assets;\n(viii) the excess of gains over losses from transactions (including futures, forwards, options, and similar transactions) in any relevant crypto-assets or financial assets;\n(ix) the excess of foreign currency gains over foreign currency losses;\n(x) net income from swaps; or\n(xi) amounts received under cash value insurance contracts; but\n(b) does not include, in the case of an entity that regularly acts as a dealer in relevant crypto-assets or financial assets, any income from any transaction entered into in the ordinary course of the entity’s business as such a dealer;",
@@ -1109,7 +1143,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1118,7 +1153,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "pre-existing entity crypto-asset user",
    "term_zh": "先前實體加密資產使用者",
    "definition": "pre-existing entity crypto-asset user (先前實體加密資產使用者), in relation to an HKRCASP, means an entity crypto-asset user that has established a relationship with the HKRCASP as of 31 December 2026;",
@@ -1136,7 +1171,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1145,7 +1181,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "pre-existing individual crypto-asset user",
    "term_zh": "先前個人加密資產使用者",
    "definition": "pre-existing individual crypto-asset user (先前個人加密資產使用者), in relation to an HKRCASP, means an individual crypto-asset user that has established a relationship with the HKRCASP as of 31 December 2026;",
@@ -1168,7 +1204,8 @@
    "provision_ids": [
     "O8-17EA-P3",
     "O8-50M-pre"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1177,7 +1214,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "regularly traded",
    "term_zh": "經常買賣",
    "definition": "regularly traded (經常買賣) has the meaning given by section 50A(1);",
@@ -1195,7 +1232,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1204,7 +1242,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "relevant crypto-asset",
    "term_zh": "相關加密資產",
    "definition": "relevant crypto-asset (相關加密資產) means a crypto-asset that is not—\n(a) a central bank digital currency;\n(b) a specified electronic money product; or\n(c) a crypto-asset that, as adequately determined by a reporting crypto-asset service provider, cannot be used for payment or investment purposes;",
@@ -1234,7 +1272,8 @@
     "O8-50M-rrpt",
     "O8-50M-ex",
     "O8-50M-tr"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1243,7 +1282,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "relevant transaction",
    "term_zh": "相關交易",
    "definition": "relevant transaction (相關交易) means—\n(a) an exchange transaction; or\n(b) a transfer of relevant crypto-assets;",
@@ -1271,7 +1310,8 @@
     "O8-17EA-P3",
     "O8-50M-rtx",
     "O8-50M-cau"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1280,7 +1320,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "reportable jurisdiction",
    "term_zh": "申報稅務管轄區",
    "definition": "reportable jurisdiction (申報稅務管轄區) means a jurisdiction that is specified in a list published under subsection (13)(b) by the Commissioner;",
@@ -1306,7 +1346,8 @@
     "O8-17EA-P6",
     "O8-50M-rp",
     "O8-50M-rj"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1315,7 +1356,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "reportable person",
    "term_zh": "申報對象",
    "definition": "reportable person (申報對象)—\n(a) means—\n(i) an individual or entity that is a resident for tax purposes of a reportable jurisdiction; or\n(ii) the estate of a deceased person who was a resident for tax purposes of a reportable jurisdiction; but\n(b) does not include an excluded person;",
@@ -1346,7 +1387,8 @@
     "O8-50M-rp",
     "O8-50M-ru",
     "O8-s21"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1355,7 +1397,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "reportable retail payment transaction",
    "term_zh": "須申報零售付款交易",
    "definition": "reportable retail payment transaction (須申報零售付款交易) means a transfer of relevant crypto-assets in consideration of goods or services for a value exceeding $390,000;",
@@ -1378,7 +1420,8 @@
    "provision_ids": [
     "O8-s50R",
     "O8-50M-rrpt"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1387,7 +1430,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "reportable user",
    "term_zh": "須申報使用者",
    "definition": "reportable user (須申報使用者) means a crypto-asset user that is a reportable person;",
@@ -1417,7 +1460,8 @@
     "O8-17EA-P3",
     "O8-s80R",
     "O8-50M-ru"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1426,7 +1470,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "reporting crypto-asset service provider",
    "term_zh": "申報加密資產服務提供者",
    "definition": "reporting crypto-asset service provider (申報加密資產服務提供者) means an individual or entity that provides, as a business, a service of effectuating exchange transactions for or on behalf of customers, including by way of acting as a counterparty to, or as an intermediary of, the exchange transactions, or by making available a trading platform;",
@@ -1459,7 +1503,8 @@
     "O8-50M-rca",
     "O8-50M-tr",
     "O8-50M-cau"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1468,7 +1513,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "resident for tax purposes",
    "term_zh": "稅務居民",
    "definition": "resident for tax purposes (稅務居民) has the meaning given by section 50A(1);",
@@ -1496,7 +1541,8 @@
     "O8-17EA-P3",
     "O8-17EA-P6",
     "O8-50M-rp"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1505,7 +1551,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "service provider",
    "term_zh": "服務提供者",
    "definition": "service provider (服務提供者) means a service provider engaged to carry out the obligations of an HKRCASP as referred to in section 50U;",
@@ -1535,7 +1581,8 @@
     "O8-s80R",
     "O8-s82E",
     "O8-50M-rcasp"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1544,7 +1591,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "specified electronic money product",
    "term_zh": "指明電子貨幣產品",
    "definition": "specified electronic money product (指明電子貨幣產品), except for the purposes of the definition of depository institution, means a crypto-asset that—\n(a) is a digital representation of a single fiat currency;\n(b) is issued on receipt of funds for the purpose of making payment transactions;\n(c) is represented by a claim on the issuer denominated in the same fiat currency;\n(d) is accepted in payment by a natural or legal person other than the issuer; and\n(e) is, by virtue of the regulatory requirements to which the issuer is subject, redeemable at any time and at par value for the same fiat currency on request of the holder of the asset;\nNote— See also subsection (15).",
@@ -1568,7 +1615,8 @@
    "provision_ids": [
     "O8-50M-rca",
     "O8-50M-semp"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1577,7 +1625,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "specified insurance company",
    "term_zh": "指明保險公司",
    "definition": "specified insurance company (指明保險公司) has the meaning given by section 50A(1);",
@@ -1595,7 +1643,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1604,7 +1653,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "TIN",
    "term_zh": "稅務編號",
    "definition": "TIN (稅務編號) has the meaning given by section 50A(1);",
@@ -1622,7 +1671,8 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CARF",
@@ -1631,7 +1681,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "transfer",
    "term_zh": "轉讓",
    "definition": "transfer (轉讓) means a transaction that moves a relevant crypto-asset from or to the crypto-asset address or account of a crypto-asset user (other than one maintained by the reporting crypto-asset service provider on behalf of the same crypto-asset user) where, based on the knowledge available to the provider at the time of the transaction, the provider cannot determine that the transaction is an exchange transaction.",
@@ -1656,7 +1706,8 @@
     "O8-50M-rtx",
     "O8-50M-rrpt",
     "O8-50M-tr"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1665,7 +1716,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "custodial account",
    "term_zh": "託管帳户",
    "definition": "custodial account (託管帳户) means—\n(a) an account, other than an insurance contract or annuity contract, maintained by a financial institution to hold one or more financial assets for the benefit of an individual or entity; or\n(b) if one or more financial assets are issued in the form of a crypto-asset, an arrangement by a financial institution to hold such assets for the benefit of an individual or entity to the extent that the institution—\n(i) safekeeps or administers the instruments enabling control over the assets; and\n(ii) has the ability to manage, trade or transfer to third parties, those assets on behalf of the individual or entity;",
@@ -1687,7 +1738,8 @@
    ],
    "provision_ids": [
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1696,7 +1748,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "custodial institution",
    "term_zh": "託管機構",
    "definition": "custodial institution (託管機構) has the meaning given by section 50M(1);",
@@ -1719,7 +1771,8 @@
    "provision_ids": [
     "O16-50A-fi",
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1728,7 +1781,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "depository institution",
    "term_zh": "存款機構",
    "definition": "depository institution (存款機構) has the meaning given by section 50M(1);",
@@ -1751,7 +1804,8 @@
    "provision_ids": [
     "O16-50A-fi",
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1760,7 +1814,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "FATF Recommendations",
    "term_zh": "財務行動特別組織的建議",
    "definition": "FATF Recommendations (《財務行動特別組織的建議》) has the meaning given by section 50M(1);",
@@ -1783,7 +1837,8 @@
    "provision_ids": [
     "O8-17D-P6-5-2",
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1792,7 +1847,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "financial asset",
    "term_zh": "財務資產",
    "definition": "financial asset (財務資產) has the meaning given by section 50M(1);",
@@ -1817,7 +1872,8 @@
     "O8-s50G-3-4",
     "O8-s19",
     "O8-s21"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1826,7 +1882,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "CARF",
    "term_zh": "加密資產申報框架",
    "definition": "CARF (《加密資產申報框架》) has the meaning given by section 50M(1);",
@@ -1844,7 +1900,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1853,7 +1910,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "central bank digital currency",
    "term_zh": "中央銀行數碼貨幣",
    "definition": "central bank digital currency (中央銀行數碼貨幣) has the meaning given by section 50M(1);",
@@ -1875,7 +1932,8 @@
    ],
    "provision_ids": [
     "O8-50M-cbdc"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1884,7 +1942,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "crypto-asset",
    "term_zh": "加密資產",
    "definition": "crypto-asset (加密資產) has the meaning given by section 50M(1);",
@@ -1909,7 +1967,8 @@
    "provision_ids": [
     "O8-50M-ca",
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1918,7 +1977,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "exchange transaction",
    "term_zh": "兌換交易",
    "definition": "exchange transaction (兌換交易) has the meaning given by section 50M(1);",
@@ -1940,7 +1999,8 @@
    ],
    "provision_ids": [
     "O8-50M-ex"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1949,7 +2009,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "fiat currency",
    "term_zh": "法定貨幣",
    "definition": "fiat currency (法定貨幣) has the meaning given by section 50M(1);",
@@ -1969,7 +2029,8 @@
    "element_ids": [
     "dfp"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -1978,7 +2039,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "new account",
    "term_zh": "新帳户",
    "definition": "new account (新帳户) means a financial account opened and maintained by a reporting financial institution on or after—\n(a) if the institution is not a 2020-covered institution—1 January 2017;\n(b) if the institution is a 2020-covered institution—1 January 2020; or\n(c) (despite paragraphs (a) and (b)) if the account is treated as a financial account solely by virtue of the 2023-CRS amendments—1 January 2028;",
@@ -2002,7 +2063,8 @@
    "provision_ids": [
     "O8-17D-P7-2A",
     "O8-s20"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -2011,7 +2073,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "relevant crypto-asset",
    "term_zh": "相關加密資產",
    "definition": "relevant crypto-asset (相關加密資產) has the meaning given by section 50M(1);",
@@ -2037,7 +2099,8 @@
    "provision_ids": [
     "O8-50M-rca",
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -2046,7 +2109,7 @@
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "source_url_zh": "https://www.ird.gov.hk/chi/pdf/iro/gazette/ord_112_8_2026.pdf",
    "status": "verified",
-   "unverified_reason": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）",
+   "unverified_reason": null,
    "term": "specified electronic money product",
    "term_zh": "指明電子貨幣產品",
    "definition": "specified electronic money product (指明電子貨幣產品) means any product that—\n(a) is a digital representation of a single fiat currency;\n(b) is issued on receipt of funds for the purpose of making payment transactions;\n(c) is represented by a claim on the issuer denominated in the same fiat currency;\n(d) is accepted in payment by a natural or legal person other than the issuer; and\n(e) is, by virtue of the regulatory requirements to which the issuer is subject, redeemable at any time and at par value for the same fiat currency on request of the holder of the product;\nNote— See also subsection (16AAB).",
@@ -2072,7 +2135,8 @@
     "O8-17C-5A",
     "O8-50M-semp",
     "O8-s19"
-   ]
+   ],
+   "caveat": "香港條文引自 IRD 寄存嘅憲報修訂條例 PDF，未同 e-Legislation Cap. 112 綜合本核對（U1）"
   },
   {
    "scheme": "HK-CRS",
@@ -2108,7 +2172,8 @@
     "O8-17D-P7-6",
     "O8-s19",
     "O8-s20"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2135,7 +2200,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2162,7 +2228,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2193,7 +2260,8 @@
    ],
    "provision_ids": [
     "O8-s19"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2220,7 +2288,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2247,7 +2316,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2277,7 +2347,8 @@
     "fi",
     "ret2"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2308,7 +2379,8 @@
    ],
    "provision_ids": [
     "O8-s19"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2335,7 +2407,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2372,7 +2445,8 @@
     "O8-s50G-3-4",
     "O16-50A-cp",
     "O8-s20"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2400,7 +2474,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2428,7 +2503,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2461,7 +2537,8 @@
    "provision_ids": [
     "O8-17C-5A",
     "O8-s19"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2489,7 +2566,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2516,7 +2594,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2549,7 +2628,8 @@
     "O8-s50G-3-4",
     "O8-s20",
     "O8-s21"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2576,7 +2656,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2607,7 +2688,8 @@
    ],
    "provision_ids": [
     "O8-17C-5A"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2637,7 +2719,8 @@
     "ret2",
     "sys"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2665,7 +2748,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2705,7 +2789,8 @@
     "O16-50A-fi",
     "O8-s19",
     "O8-s21"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2732,7 +2817,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2761,7 +2847,8 @@
    "element_ids": [],
    "provision_ids": [
     "O8-s19"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2788,7 +2875,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2815,7 +2903,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2849,7 +2938,8 @@
     "O16-50A-fi",
     "O8-s19",
     "O8-s20"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2881,7 +2971,8 @@
    "provision_ids": [
     "O8-17D-P7-2B",
     "O8-s20"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2908,7 +2999,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2935,7 +3027,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2962,7 +3055,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -2989,7 +3083,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3016,7 +3111,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3043,7 +3139,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3074,7 +3171,8 @@
     "O8-17D-P7-2A",
     "O8-s20",
     "O8-s21"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3101,7 +3199,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3133,7 +3232,8 @@
    "provision_ids": [
     "O8-s50G-3-4",
     "O8-s21"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3162,7 +3262,8 @@
    "element_ids": [
     "rp2"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3195,7 +3296,8 @@
    "provision_ids": [
     "O8-s50G-3-4",
     "O8-s20"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3236,7 +3338,8 @@
     "O4-s50D-2",
     "O16-s80-2E",
     "O8-s21"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3263,7 +3366,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3295,7 +3399,8 @@
    ],
    "provision_ids": [
     "O8-17D-P7-2B"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3326,7 +3431,8 @@
    ],
    "provision_ids": [
     "O8-s50U"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3357,7 +3463,8 @@
    ],
    "provision_ids": [
     "O16-50A-fi"
-   ]
+   ],
+   "caveat": null
   },
   {
    "scheme": "HK-CRS",
@@ -3384,7 +3491,8 @@
    "track": "CRS2",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null
   },
   {
    "id": "T-CARF-IV-A1",
@@ -3415,7 +3523,9 @@
     "rca",
     "pen"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-A2",
@@ -3445,7 +3555,9 @@
    "element_ids": [
     "rca"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-A3",
@@ -3473,7 +3585,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-A4",
@@ -3501,7 +3615,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-B1",
@@ -3533,7 +3649,9 @@
     "rec",
     "sp"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-C1",
@@ -3564,7 +3682,9 @@
     "rtx",
     "crep"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-C2",
@@ -3595,7 +3715,9 @@
     "rcasp",
     "rtx"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-C3",
@@ -3625,7 +3747,9 @@
    "element_ids": [
     "rtx"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-C4",
@@ -3655,7 +3779,9 @@
    "element_ids": [
     "rtx"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-C5",
@@ -3685,7 +3811,9 @@
    "element_ids": [
     "crep"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D1",
@@ -3715,7 +3843,9 @@
    "element_ids": [
     "rp"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D2",
@@ -3745,7 +3875,9 @@
    "element_ids": [
     "pen"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D3",
@@ -3775,7 +3907,9 @@
    "element_ids": [
     "dd"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D4",
@@ -3805,7 +3939,9 @@
    "element_ids": [
     "dd"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D5",
@@ -3833,7 +3969,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D6",
@@ -3861,7 +3999,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D7",
@@ -3892,7 +4032,9 @@
     "rp",
     "ccp"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D8",
@@ -3920,7 +4062,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D9",
@@ -3950,7 +4094,9 @@
    "element_ids": [
     "rp"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D10",
@@ -3982,7 +4128,9 @@
     "ccp",
     "pen"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-D11",
@@ -4010,7 +4158,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E1",
@@ -4038,7 +4188,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E2",
@@ -4066,7 +4218,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E3",
@@ -4094,7 +4248,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E4",
@@ -4122,7 +4278,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E5",
@@ -4150,7 +4308,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E6",
@@ -4178,7 +4338,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E7",
@@ -4206,7 +4368,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E8",
@@ -4234,7 +4398,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E9",
@@ -4262,7 +4428,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E10",
@@ -4290,7 +4458,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E11",
@@ -4318,7 +4488,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E12",
@@ -4346,7 +4518,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E13",
@@ -4374,7 +4548,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E14",
@@ -4402,7 +4578,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-E15",
@@ -4430,7 +4608,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-F1",
@@ -4460,7 +4640,9 @@
    "element_ids": [
     "ret"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-F2",
@@ -4490,7 +4672,9 @@
    "element_ids": [
     "coc"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-F3",
@@ -4523,7 +4707,9 @@
     "ccp",
     "rec"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-F5",
@@ -4551,7 +4737,9 @@
    "track": "CARF",
    "updated": "2026-11-27",
    "element_ids": [],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   },
   {
    "id": "T-CARF-IV-F6",
@@ -4581,7 +4769,9 @@
    "element_ids": [
     "rcasp"
    ],
-   "provision_ids": []
+   "provision_ids": [],
+   "caveat": null,
+   "definition_zh_note": "官方中文本未有"
   }
  ]
 }

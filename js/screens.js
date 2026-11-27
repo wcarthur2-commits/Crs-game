@@ -1,10 +1,10 @@
 // All screens except play and the provision reader.
-import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v2';
-import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v2';
-import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v2';
-import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME } from './common.js?v=v2';
-import { startSession, playOne, mcqBody } from './play.js?v=v2';
-import { layeredGraph, treeFlow, venn } from './diagram.js?v=v2';
+import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v3';
+import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v3';
+import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v3';
+import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v3';
+import { startSession, playOne, mcqBody } from './play.js?v=v3';
+import { layeredGraph, treeFlow, venn } from './diagram.js?v=v3';
 
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
 const KIND_ICON = { match: 'link', sort: 'buckets', order: 'list', spot: 'search', story: 'chat', build: 'blocks', write: 'pen', quiz: 'timer' };
@@ -427,6 +427,10 @@ export function renderNews(root) {
   const unseen = unseenLog();
   root.append(seg([['news', `新聞${unreadNews().filter(inInfo(route())).length ? ' •' : ''}`], ['tl', '時間表'], ['log', `更新紀錄${unseen.length ? ' •' : ''}`]], newsTab, (v) => { newsTab = v; rerender(); }, 'tabs'));
   if (newsTab === 'news') {
+    root.append(liveLog().filter((e) => e.summary).map((e) => h('button', { type: 'button', class: 'card log upd-banner', onclick: () => { P.seenLog[logKey(e)] = 1; save(); rerender(); logSheet(e); } },
+      h('span', { class: 'card-ic ch-' + e.change }, icon('refresh', 20)),
+      h('span', { class: 'card-main' }, h('span', { class: 'card-meta' }, `內容更新 · ${e.date}`), h('span', { class: 'card-title' }, e.summary)),
+      !P.seenLog[logKey(e)] ? h('span', { class: 'reddot static', 'aria-label': '未睇' }) : h('span', { class: 'card-go' }, '›'))));
     const ns = D.news.items.filter(inInfo(route()));
     root.append(h('div', { class: 'timeline' }, ns.map((n) => h('button', { type: 'button', class: 'tl-item news-card', onclick: () => { P.newsRead[n.id] = true; save(); rerender(); detailSheet(n, ...(n.element_ids || []).map((e) => IX.el[e] ? btn('知識點：' + IX.el[e].title, () => elementSheet(IX.el[e]), 'ghost') : null)); } },
       h('span', { class: 'tl-dot t-' + n.track }), !P.newsRead[n.id] ? h('span', { class: 'reddot', 'aria-label': '未讀' }) : null,
@@ -451,9 +455,9 @@ export function renderNews(root) {
     const FL = { provisions: '條文', terms: '定義詞', quotes: '引文', title: '標題', title_long: '長標題', short: '摘要', detail: '詳情', sources: '來源', status: '核實狀態', options: '選項', answer: '答案', explain: '解釋', minutes: '時長', items: '內容', non_statutory: '非法定標記', zh: '中文本', zh_text: '中文本', zh_status: '中文本狀態', acts: '幕', text: '原文' };
     const logCard = (e) => {
       const target = itemById(e.file, e.item_id); const seen = !!P.seenLog[logKey(e)]; const isLive = liveSet.has(e);
-      return h('button', { type: 'button', class: 'card log', onclick: () => { P.seenLog[logKey(e)] = 1; save(); rerender(); if (target) openItem(e.file, target); else if (e.file === 'terms.json') nav('#/glossary'); else sheet(e.item_id, h('p', null, e.note || '')); } },
+      return h('button', { type: 'button', class: 'card log', onclick: () => { P.seenLog[logKey(e)] = 1; save(); rerender(); if (target) openItem(e.file, target); else if (e.file === 'terms.json') nav('#/glossary'); else logSheet(e); } },
         h('span', { class: 'card-ic ch-' + e.change }, icon(e.change === 'added' ? 'star' : e.change === 'removed' ? 'x' : 'refresh', 20)),
-        h('span', { class: 'card-main' }, h('span', { class: 'card-title' }, `${CH[e.change] || e.change} · ${target ? target.title || target.ref || target.term || e.item_id : e.item_id}`), e.note ? h('span', { class: 'card-short' }, e.note) : null,
+        h('span', { class: 'card-main' }, h('span', { class: 'card-title' }, e.summary ? e.summary : `${CH[e.change] || e.change} · ${target ? target.title || target.ref || target.term || e.item_id : e.item_id}`), e.note && e.note !== e.summary ? h('span', { class: 'card-short' }, e.note) : null, e.summary ? h('span', { class: 'card-short' }, `${CH[e.change] || e.change} · ${e.item_id}`) : null,
           (e.fields || []).length ? h('span', { class: 'chip-row' }, e.fields.map((x) => h('span', { class: 'tag tag-field' }, FL[x] || x))) : null,
           h('span', { class: 'card-meta' }, e.file)),
         isLive && !seen ? h('span', { class: 'reddot static', 'aria-label': '未睇' }) : h('span', { class: 'card-go' }, '›'));
@@ -471,6 +475,13 @@ export function renderNews(root) {
   }
 }
 
+function logSheet(e) {
+  const CH = { added: '新增', modified: '修改', removed: '刪除' };
+  sheet(e.summary || e.item_id, h('div', { class: 'chip-row' }, h('span', { class: 'tag' }, e.date), h('span', { class: 'tag' }, CH[e.change] || e.change), h('span', { class: 'tag' }, e.file)),
+    e.summary ? h('p', { class: 'lead' }, e.summary) : null, e.note && e.note !== e.summary ? h('p', { class: 'pre' }, e.note) : null,
+    (e.fields || []).length ? h('p', { class: 'muted small' }, e.fields.join('、')) : null,
+    h('p', { class: 'muted small' }, `內容版本 ${D.meta.content_version}`));
+}
 function itemById(file, id) {
   const m = { 'levels.json': IX.lv, 'quiz.json': IX.q, 'elements.json': IX.el, 'flashcards.json': IX.fc, 'badges.json': IX.badge, 'news.json': IX.news, 'provisions.json': IX.prov, 'trees.json': IX.tree, 'diagrams.json': IX.dg, 'terms.json': IX.term };
   return m[file] ? m[file][id] : null;
@@ -587,6 +598,7 @@ export function renderGlossary(root) {
       h('span', { class: 'card-main' },
         h('span', { class: 'card-title' }, t.term_zh ? h('span', null, t.term_zh, '　') : null, h('span', { class: 'en' }, t.term)),
         h('span', { class: 'card-meta' }, `${SCHEME[t.scheme] || t.scheme} · ${t.provision_ref}`),
+        t.caveat ? h('span', { class: 'caveat one' }, '附註：' + t.caveat) : null,
         h('span', { class: 'chip-row' }, statusChips(t), t.superseded_by ? h('span', { class: 'tag tag-pend' }, '已被取代') : null)),
       h('span', { class: 'card-go', 'aria-hidden': 'true' }, '›'));
     el._hay = [t.term, t.term_zh, t.definition, t.definition_zh, t.provision_ref].filter(Boolean).join('\n').toLowerCase();

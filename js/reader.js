@@ -1,8 +1,8 @@
 // Provision reader: full verbatim text (EN or official 中文本), never truncated or rewritten.
-import { h, icon, btn, sheet, closeSheets, toast, seg } from './ui.js?v=v2';
-import { IX, P, save, nav, isNewItem } from './state.js?v=v2';
-import { provisionDepths } from './engine.js?v=v2';
-import { srcLink, elementSheet, termSheet, fullTerm } from './common.js?v=v2';
+import { h, icon, btn, sheet, closeSheets, toast, seg } from './ui.js?v=v3';
+import { IX, P, save, nav, isNewItem } from './state.js?v=v3';
+import { provisionDepths } from './engine.js?v=v3';
+import { srcLink, elementSheet, termSheet, fullTerm, caveatNote } from './common.js?v=v3';
 
 const isHeading = (t) => /^\d+[A-Z]*\.\s/.test(t) || /^Part \d+[A-Z]*\b/.test(t) || /^Division \d+/.test(t) || /^Schedule /.test(t) || /^第\s*\d+\s*[部分]/.test(t);
 export function resetReaderCache() {}
@@ -12,9 +12,9 @@ const uiZh = () => /^zh/i.test(document.documentElement.lang || '');
 function version(p, lang) {
   if (lang === 'zh' && p.zh && p.zh.text) {
     const z = p.zh;
-    return { lang: 'zh', label: '中文', text: z.text, url: z.source_url, url2: z.source_url_bilingual, src: z.source_id || p.source_id, status: z.status, reason: z.unverified_reason, date: z.accessed, where: z.pdf_pages ? `PDF 頁 ${z.pdf_pages.join('–')}` : '', title: z.title, note: z.extraction_note, htmlLang: 'zh-Hant' };
+    return { lang: 'zh', label: '中文', text: z.text, url: z.source_url, url2: z.source_url_bilingual, src: z.source_id || p.source_id, status: z.status, reason: z.unverified_reason, caveat: z.caveat, date: z.accessed, where: z.pdf_pages ? `PDF 頁 ${z.pdf_pages.join('–')}` : '', title: z.title, note: z.extraction_note, htmlLang: 'zh-Hant' };
   }
-  return { lang: 'en', label: 'English', text: p.text, url: p.source_url || p.url, src: p.source_id, status: p.status, reason: p.unverified_reason, date: p.version_date || p.accessed, where: p.pdf_lines ? `PDF 行 ${p.pdf_lines.join('–')}` : '', htmlLang: 'en' };
+  return { lang: 'en', label: 'English', text: p.text, url: p.source_url || p.url, src: p.source_id, status: p.status, reason: p.unverified_reason, caveat: p.caveat, date: p.version_date || p.accessed, where: p.pdf_lines ? `PDF 行 ${p.pdf_lines.join('–')}` : '', htmlLang: 'en' };
 }
 
 // first occurrence of each of the provision's terms[] in the text (longest terms first, no overlaps)
@@ -77,6 +77,7 @@ export function renderReader(root, id, line) {
       isNewItem(p.id) ? h('span', { class: 'tag tag-new' }, '新') : null,
       V.note ? h('button', { type: 'button', class: 'tag tag-info', onclick: () => sheet('中文本抽取說明', h('p', { class: 'pre' }, V.note)) }, '抽取說明') : null),
     uv && V.reason ? h('p', { class: 'uv-note' }, 'UNVERIFIED：' + V.reason) : null,
+    caveatNote(V),
     h('p', { class: 'muted small' }, `版本／查閱日期 ${V.date || '—'}${V.where ? ' · ' + V.where : ''}`),
     srcLink(V.url, '來源：' + srcTitle + (lang === 'zh' ? '（中文本）' : '')),
     V.url2 && V.url2 !== V.url ? srcLink(V.url2, '雙語版本') : null,

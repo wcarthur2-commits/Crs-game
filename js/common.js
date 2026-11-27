@@ -1,7 +1,7 @@
 // Shared building blocks: screen header, status chips, detail sheet, quotes, sources, cards.
-import { h, icon, btn, sheet, seg, closeSheets } from './ui.js?v=v2';
-import { D, IX, P, TRACK, route, setRoute, nav, isNewItem, sourceInfo, trackName } from './state.js?v=v2';
-import { mastery } from './engine.js?v=v2';
+import { h, icon, btn, sheet, seg, closeSheets } from './ui.js?v=v3';
+import { D, IX, P, TRACK, route, setRoute, nav, isNewItem, sourceInfo, trackName } from './state.js?v=v3';
+import { mastery } from './engine.js?v=v3';
 
 export function routeSeg() {
   return seg(Object.keys(TRACK).map((t) => [t, TRACK[t].short]), route(), setRoute, 'route-seg r-' + route());
@@ -63,7 +63,8 @@ export function quoteBlock(q) {
       (q.accessed || q.version_date) ? h('span', { class: 'meta' }, '查閱 ' + (q.version_date || q.accessed)) : null,
       ...statusChips(q),
       srcLink(q.url || q.source_id)),
-    q.status === 'UNVERIFIED' && q.unverified_reason ? h('p', { class: 'uv-note' }, q.unverified_reason) : null);
+    q.status === 'UNVERIFIED' && q.unverified_reason ? h('p', { class: 'uv-note' }, q.unverified_reason) : null,
+    caveatNote(q));
 }
 
 export function detailBody(item) {
@@ -73,6 +74,7 @@ export function detailBody(item) {
     item.detail && item.detail !== item.short ? h('p', { class: 'pre' }, item.detail) : null,
     item.status === 'UNVERIFIED' && item.unverified_reason ? h('p', { class: 'uv-note' }, 'UNVERIFIED：' + item.unverified_reason) : null,
     (item.unverified_notes || []).map((n) => h('p', { class: 'uv-note' }, n)),
+    caveatNote(item),
     item.quotes && item.quotes.length ? h('div', null, h('h3', { class: 'sub' }, '原文引文'), item.quotes.map(quoteBlock)) : null,
     sourcesList(item),
     item.updated ? h('p', { class: 'muted small' }, '更新 ' + item.updated) : null,
@@ -149,15 +151,20 @@ export function termSheet(t0, { prefer } = {}) {
   const t = fullTerm(t0);
   const zhFirst = (prefer || P.readerLang || 'zh') === 'zh' && t.definition_zh;
   const en = h('figure', { class: 'quote' }, h('blockquote', { class: 'pre', lang: 'en' }, t.definition), h('figcaption', null, h('span', { class: 'meta' }, 'English'), srcLink(t.source_url, '英文原文')));
+  const zhNote = !t.definition_zh && t.definition_zh_note ? h('p', { class: 'muted small zh-note' }, '中文本：' + t.definition_zh_note) : null;
   const zh = t.definition_zh ? h('figure', { class: 'quote' }, h('blockquote', { class: 'pre', lang: 'zh-Hant' }, t.definition_zh), h('figcaption', null, h('span', { class: 'meta' }, '中文'), srcLink(t.source_url_zh || t.source_url, '中文本'))) : null;
   const sup = t.superseded_by && IX.term[t.superseded_by];
   return sheet(t.term_zh ? `${t.term_zh}　${t.term}` : t.term,
     h('div', { class: 'chip-row' }, h('span', { class: 'tag' }, SCHEME[t.scheme] || t.scheme), ...statusChips(t), sup ? h('span', { class: 'tag tag-pend' }, '已被取代') : null),
     t.status === 'UNVERIFIED' && t.unverified_reason ? h('p', { class: 'uv-note' }, 'UNVERIFIED：' + t.unverified_reason) : null,
-    zhFirst ? [zh, en] : [en, zh],
+    zhFirst ? [zh, en] : [en, zh || zhNote],
     h('p', { class: 'muted small' }, t.provision_ref),
+    caveatNote(t),
     t.term_zh_note ? h('p', { class: 'muted small' }, t.term_zh_note) : null,
     sup ? btn('睇取代後嘅定義：' + (sup.term_zh || sup.term), () => termSheet(sup), 'ghost') : null,
     t.provision_id && IX.prov[t.provision_id] ? btn('喺條文睇', () => { closeSheets(); nav('#/reader/' + encodeURIComponent(t.provision_id)); }, 'ghost') : null,
     btn('詞彙表', () => { closeSheets(); nav('#/glossary'); }, 'ghost'));
 }
+
+// caveat: small print shown wherever the content provides one (verified items too)
+export function caveatNote(x) { return x && x.caveat ? h('p', { class: 'caveat' }, '附註：' + x.caveat) : null; }
