@@ -40,7 +40,21 @@
     "B-113",
     "B-114",
     "B-115",
-    "B-123"
+    "B-123",
+    "Q2B-201",
+    "Q2B-211",
+    "Q2B-213",
+    "Q2B-215",
+    "Q2B-220",
+    "Q2B-222",
+    "Q2B-223",
+    "Q2B-226",
+    "Q2B-228",
+    "Q2B-522",
+    "Q2B-525",
+    "Q2B-526",
+    "Q2B-610",
+    "Q2B-802"
    ]
   },
   {
@@ -61,7 +75,33 @@
     "B-137",
     "B-138",
     "B-139",
-    "B-140"
+    "B-140",
+    "Q2B-005",
+    "Q2B-012",
+    "Q2B-013",
+    "Q2B-014",
+    "Q2B-015",
+    "Q2B-016",
+    "Q2B-019",
+    "Q2B-025",
+    "Q2B-026",
+    "Q2B-031",
+    "Q2B-101",
+    "Q2B-107",
+    "Q2B-114",
+    "Q2B-122",
+    "Q2B-132",
+    "Q2B-142",
+    "Q2B-404",
+    "Q2B-414",
+    "Q2B-421",
+    "Q2B-501",
+    "Q2B-506",
+    "Q2B-509",
+    "Q2B-602",
+    "Q2B-606",
+    "Q2B-614",
+    "Q2B-707"
    ]
   },
   {
@@ -85,7 +125,16 @@
     "B-081",
     "B-082",
     "B-083",
-    "B-084"
+    "B-084",
+    "Q2B-301",
+    "Q2B-307",
+    "Q2B-314",
+    "Q2B-327",
+    "Q2B-329",
+    "Q2B-333",
+    "Q2B-512",
+    "Q2B-624",
+    "Q2B-710"
    ]
   },
   {
@@ -114,7 +163,25 @@
     "B-101",
     "B-102",
     "B-103",
-    "B-141"
+    "B-141",
+    "Q2B-029",
+    "Q2B-034",
+    "Q2B-106",
+    "Q2B-110",
+    "Q2B-117",
+    "Q2B-131",
+    "Q2B-140",
+    "Q2B-401",
+    "Q2B-406",
+    "Q2B-412",
+    "Q2B-413",
+    "Q2B-502",
+    "Q2B-508",
+    "Q2B-511",
+    "Q2B-605",
+    "Q2B-607",
+    "Q2B-622",
+    "Q2B-702"
    ]
   },
   {
@@ -149,7 +216,12 @@
     "B-022",
     "B-023",
     "B-024",
-    "B-025"
+    "B-025",
+    "QCB-013",
+    "QCB-041",
+    "QCB-043",
+    "QCB-053",
+    "QCB-056"
    ]
   },
   {
@@ -188,7 +260,16 @@
     "B-052",
     "B-053",
     "B-054",
-    "B-055"
+    "B-055",
+    "QCB-005",
+    "QCB-006",
+    "QCB-011",
+    "QCB-012",
+    "QCB-023",
+    "QCB-032",
+    "QCB-035",
+    "QCB-051",
+    "QCB-058"
    ]
   },
   {
@@ -218,7 +299,9 @@
     "B-119",
     "B-120",
     "B-121",
-    "B-122"
+    "B-122",
+    "QCB-021",
+    "QCB-028"
    ]
   }
  ],
@@ -11787,12 +11870,23 @@
      "url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
      "lang": "en",
      "accessed": "2026-11-26",
-     "status": "UNVERIFIED",
-     "unverified_reason": "G2：培訓／委員會／監控測試屬良好做法，唔係法定要求"
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "regular training is provided to ensure that frontline officers are aware of the required information and required procedures;",
+     "pin": "IRD AEOI Compliance 頁：審查高風險範疇",
+     "source_id": "COMP",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
     }
    ],
    "sources": [
-    "O8"
+    "O8",
+    "COMP"
    ],
    "source_url": "https://www.ird.gov.hk/eng/pdf/iro/gazette/ord_112_8_2026.pdf",
    "minutes": 0.5,
@@ -11800,8 +11894,8 @@
     "prog",
     "gov"
    ],
-   "status": "UNVERIFIED",
-   "unverified_reason": "G2：培訓／委員會／監控測試屬良好做法，唔係法定要求",
+   "status": "verified",
+   "unverified_reason": null,
    "updated": "2026-11-27",
    "set": "integ",
    "topic": "盡職審查",
@@ -11816,7 +11910,8 @@
    "explain": "s.50P(2) 要求維持同應用程序；培訓係達成方法之一（G2）。",
    "source_id": "O8",
    "new": true,
-   "non_statutory": true
+   "non_statutory": true,
+   "caveat": "良好做法，唔係法例明文規定：法例要求維持同應用盡職審查程序；IRD AEOI 合規頁將「定期培訓前線」列為合規審查會睇嘅高風險範疇。"
   },
   {
    "id": "IQ-97",
@@ -11861,7 +11956,8 @@
    "explain": "委員會報告屬管治良好做法（G2）。",
    "source_id": "O8",
    "new": true,
-   "non_statutory": true
+   "non_statutory": true,
+   "caveat": "良好做法（管治）；官方來源冇講合規委員會報告，所以維持 UNVERIFIED。"
   },
   {
    "id": "IQ-98",
@@ -11877,12 +11973,23 @@
      "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
      "lang": "en",
      "accessed": "2026-11-26",
-     "status": "UNVERIFIED",
-     "unverified_reason": "G2：培訓／委員會／監控測試屬良好做法，唔係法定要求"
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "examine the internal policy, procedural manual or handbook and staff training materials relating to the compliance of the standard for automatic exchange of financial account information;",
+     "pin": "IRD AEOI Compliance 頁：實地審查",
+     "source_id": "COMP",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
     }
    ],
    "sources": [
-    "BRF"
+    "BRF",
+    "COMP"
    ],
    "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
    "minutes": 0.5,
@@ -11890,8 +11997,8 @@
     "prog",
     "gov"
    ],
-   "status": "UNVERIFIED",
-   "unverified_reason": "G2：培訓／委員會／監控測試屬良好做法，唔係法定要求",
+   "status": "verified",
+   "unverified_reason": null,
    "updated": "2026-11-27",
    "set": "integ",
    "topic": "IRD 指引",
@@ -11906,7 +12013,8 @@
    "explain": "IRD 簡報 slide p.63；點樣測試監控係良好做法（G2）。",
    "source_id": "BRF",
    "new": true,
-   "non_statutory": true
+   "non_statutory": true,
+   "caveat": "IRD 簡報嘅建議同合規審查重點（良好做法），唔係法例條文。"
   },
   {
    "id": "Q2B-001",

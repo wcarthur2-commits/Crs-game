@@ -7661,6 +7661,65 @@
   },
   {
    "date": "2026-11-27",
+   "item_id": "C11",
+   "file": "levels.json",
+   "change": "modified",
+   "fields": [
+    "caveat",
+    "detail",
+    "non_statutory",
+    "quotes",
+    "sources",
+    "status",
+    "steps",
+    "unverified_reason"
+   ],
+   "note": "更新：caveat、詳情、non_statutory、引文、sources、狀態、steps、未核實原因",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-96",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "caveat",
+    "quotes",
+    "sources",
+    "status",
+    "unverified_reason"
+   ],
+   "note": "更新：caveat、引文、sources、狀態、未核實原因",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-97",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "caveat"
+   ],
+   "note": "更新：caveat",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "IQ-98",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "caveat",
+    "quotes",
+    "sources",
+    "status",
+    "unverified_reason"
+   ],
+   "note": "更新：caveat、引文、sources、狀態、未核實原因",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
    "item_id": "batch-crs2-001",
    "file": "meta.json",
    "change": "added",

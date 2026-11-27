@@ -291,7 +291,7 @@
   },
   "ISS": {
    "id": "ISS",
-   "title": "IRD：AEOI issues 頁",
+   "title": "IRD：Common AEOI Issues 頁",
    "url": "https://www.ird.gov.hk/eng/tax/aeoi/issues.htm",
    "kind": "ird",
    "lang": "en",
@@ -303,7 +303,7 @@
   },
   "COMP": {
    "id": "COMP",
-   "title": "IRD：AEOI comparison 頁",
+   "title": "IRD：AEOI Compliance 頁",
    "url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
    "kind": "ird",
    "lang": "en",

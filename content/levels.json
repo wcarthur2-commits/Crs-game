@@ -4467,7 +4467,7 @@
        "text": "前線同第二道防線培訓：所有居民地、reasonableness、change of circumstances",
        "risk": 0,
        "correct": true,
-       "explain": "良好做法（UNVERIFIED 法定要求）。",
+       "explain": "良好做法（非法定）：IRD AEOI 合規頁期望「regular training is provided to ensure that frontline officers are aware of the required information and required procedures」。",
        "source_id": "BRF"
       },
       {
@@ -4496,15 +4496,49 @@
     ]
    },
    "short": "情境決策｜4 步｜約 3 分鐘",
-   "detail": "UNVERIFIED：培訓係遊戲建議嘅良好做法；我嘅來源冇列為法定要求（UNVERIFIED）。",
-   "quotes": [],
+   "detail": null,
+   "quotes": [
+    {
+     "text": "Update internal CRS policies, controls and guidance",
+     "pin": "IRD 簡報 slide p.63",
+     "source_id": "BRF",
+     "url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "regular training is provided to ensure that frontline officers are aware of the required information and required procedures;",
+     "pin": "IRD AEOI Compliance 頁：審查高風險範疇",
+     "source_id": "COMP",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    },
+    {
+     "text": "appropriate systems and procedures are in place to ensure complete and accurate information at the point of data extraction and return submission; and",
+     "pin": "IRD AEOI Compliance 頁：審查高風險範疇",
+     "source_id": "COMP",
+     "url": "https://www.ird.gov.hk/eng/tax/aeoi/dta_comp.htm",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
    "sources": [
-    "BRF"
+    "BRF",
+    "COMP"
    ],
    "source_url": "https://www.ird.gov.hk/eng/pdf/carf/Recent%20Legislative%20Amendments%20(CARF%20and%20CRS%20amendments).pdf",
-   "status": "UNVERIFIED",
-   "unverified_reason": "培訓係遊戲建議嘅良好做法；我嘅來源冇列為法定要求（UNVERIFIED）。",
-   "updated": "2026-11-27"
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-27",
+   "non_statutory": true,
+   "caveat": "政策、程序、系統同培訓呢啲步驟係 IRD 簡報建議同 IRD AEOI 合規頁列明嘅審查重點（良好做法），唔係法例逐條規定。"
   },
   {
    "id": "A1",
