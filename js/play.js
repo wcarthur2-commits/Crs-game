@@ -1,9 +1,9 @@
 // Session runner and the game engines for every level kind.
-import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v4';
-import { D, IX, P, save, nav, route, trackName } from './state.js?v=v4';
-import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v4';
-import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v4';
-import { treeWalker } from './screens.js?v=v4';
+import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v5';
+import { D, IX, P, save, nav, route, trackName } from './state.js?v=v5';
+import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v5';
+import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v5';
+import { treeWalker } from './screens.js?v=v5';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
@@ -261,16 +261,46 @@ const GAMES = {
 };
 
 // multiple-choice body used by quiz level, quiz item, bank, challenge, adventure
+// per-option explanations (content: option_explains[], same order as options). When present, the ✓/✗ lines
+// duplicated inside explain are dropped and only the rest of explain is shown; items without it are unchanged.
+const MARK_LINE = /^\s*[✓✗]/;
+export function explainBlock(q, sel) {
+  const oe = Array.isArray(q.option_explains) && q.option_explains.length === q.options.length ? q.option_explains : null;
+  if (!oe) return h('p', { class: 'pre' }, q.explain || q.detail || '');
+  const rest = (q.explain || '').split('\n').filter((l) => !MARK_LINE.test(l)).join('\n').trim();
+  return h('div', { class: 'opt-ex-wrap' },
+    rest ? h('p', { class: 'pre' }, rest) : null,
+    h('ul', { class: 'opt-ex', 'aria-label': '逐個選項解釋' }, oe.map((t, i) => {
+      const good = i === q.answer;
+      return h('li', { class: (good ? 'ok' : 'bad') + (i === sel ? ' picked' : '') },
+        h('span', { class: 'mk', 'aria-label': good ? '啱' : '錯' }, good ? '✓' : '✗'), h('b', { class: 'let' }, LETTERS[i]),
+        h('span', { class: 'tx' }, t), i === sel ? h('span', { class: 'tag tag-pick' }, '你揀') : null);
+    })));
+}
+let freshAnswer = null; // id of the question just answered: its feedback is scrolled into view once
+function revealFeedback(wrap) {
+  requestAnimationFrame(() => {
+    const fb = wrap.querySelector('.fb'); if (!fb || !fb.isConnected) return;
+    const hd = document.querySelector('#view .scr-head'); const top = hd ? hd.getBoundingClientRect().bottom : 0;
+    const r = fb.getBoundingClientRect();
+    const box = (wrap.closest('.panel') || wrap).getBoundingClientRect(); const room = innerHeight - top - 24;
+    if (r.top >= top + 8 && r.bottom <= innerHeight) return; // already fully visible below the bar
+    // whole question + feedback fits: show it from its top; otherwise start at the feedback. Never under the bar.
+    const target = box.bottom - box.top <= room ? box.top : r.top;
+    window.scrollBy(0, target - top - 12);
+  });
+}
 export function mcqBody(q, sel, onAnswer) {
   const wrap = h('div', { class: 'mcq' },
     h('div', { class: 'chip-row' }, q.format ? h('span', { class: 'tag' }, q.format) : null, q.topic ? h('span', { class: 'tag' }, q.topic) : null, h('span', { class: 'tag' }, '★'.repeat(q.difficulty || 1)), ...statusChips(q)),
     h('p', { class: 'q' }, q.title),
-    h('div', { class: 'opts' }, q.options.map((o, i) => h('button', { type: 'button', class: 'opt ' + (sel == null ? '' : i === q.answer ? 'ok' : i === sel ? 'bad' : ''), disabled: sel != null, onclick: () => onAnswer(i) }, h('span', { class: 'let' }, LETTERS[i]), h('span', null, o)))));
+    h('div', { class: 'opts' }, q.options.map((o, i) => h('button', { type: 'button', class: 'opt ' + (sel == null ? '' : i === q.answer ? 'ok' : i === sel ? 'bad' : ''), disabled: sel != null, onclick: () => { freshAnswer = q.id; onAnswer(i); } }, h('span', { class: 'let' }, LETTERS[i]), h('span', null, o)))));
   if (sel != null) {
     wrap.append(h('div', { class: 'fb ' + (sel === q.answer ? 'ok' : 'bad') }, h('b', null, sel === q.answer ? '✓ 啱' : sel === -2 ? '⏱ 超時' : '✗ 唔啱'),
-      h('p', { class: 'pre' }, q.explain || q.detail || ''),
+      explainBlock(q, sel),
       h('div', { class: 'row-btns' }, (q.quotes && q.quotes.length) || q.source_id ? btn('原文同來源', () => sheet(q.title, ...(q.quotes || []).map(quoteBlock), srcLink(q.source_id || q.source_url)), 'small ghost') : null)));
   }
+  if (sel != null && freshAnswer === q.id) { freshAnswer = null; revealFeedback(wrap); }
   return wrap;
 }
 

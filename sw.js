@@ -4,23 +4,23 @@
  * updates show on the next open; the cached copy is only an offline fallback.
  * This worker only touches Cache Storage entries starting with PREFIX. It never touches IndexedDB or
  * localStorage, where scores and progress live. */
-const BUILD = 'v4';
+const BUILD = 'v5';
 const PREFIX = 'crs-game-';
 const CACHE = `${PREFIX}${BUILD}`;
 const ASSETS = [
   "./",
   "./index.html",
-  "./manifest.json?v=v4",
-  "./css/app.css?v=v4",
-  "./js/app.js?v=v4",
-  "./js/common.js?v=v4",
-  "./js/diagram.js?v=v4",
-  "./js/engine.js?v=v4",
-  "./js/play.js?v=v4",
-  "./js/reader.js?v=v4",
-  "./js/screens.js?v=v4",
-  "./js/state.js?v=v4",
-  "./js/ui.js?v=v4",
+  "./manifest.json?v=v5",
+  "./css/app.css?v=v5",
+  "./js/app.js?v=v5",
+  "./js/common.js?v=v5",
+  "./js/diagram.js?v=v5",
+  "./js/engine.js?v=v5",
+  "./js/play.js?v=v5",
+  "./js/reader.js?v=v5",
+  "./js/screens.js?v=v5",
+  "./js/state.js?v=v5",
+  "./js/ui.js?v=v5",
   "./icons/apple-touch-icon.png",
   "./icons/favicon-32.png",
   "./icons/icon-192.png",

@@ -1,9 +1,9 @@
 // Boot, router, layout (sidebar on wide screens), service worker.
-import { h, icon, closeSheets } from './ui.js?v=v4';
-import { D, P, loadContent, loadProgress, save, nav, route, unreadNews, TRACK } from './state.js?v=v4';
-import * as S from './screens.js?v=v4';
-import { renderPlay } from './play.js?v=v4';
-import { renderReader } from './reader.js?v=v4';
+import { h, icon, closeSheets } from './ui.js?v=v5';
+import { D, P, loadContent, loadProgress, save, nav, route, unreadNews, TRACK } from './state.js?v=v5';
+import * as S from './screens.js?v=v5';
+import { renderPlay } from './play.js?v=v5';
+import { renderReader } from './reader.js?v=v5';
 
 const NAV = [
   ['#/home', 'home', '主畫面'], ['#/tonight', 'play', '今晚一局'], ['#/games', 'games', '遊戲中心'], ['#/map', 'map', '知識地圖'], ['#/glossary', 'abc', '詞彙表'],
@@ -40,9 +40,20 @@ function render() {
   (R[name] || R.home)();
   app.replaceChildren(sidebar(name), view);
   document.body.dataset.screen = name;
+  trackHead();
   document.body.dataset.route = route();
 }
 
+// expose the sticky header height as --head-h (used by scroll-padding / scroll-margin so nothing lands under it)
+let headRO = null;
+function trackHead() {
+  const hd = document.querySelector('#view .scr-head');
+  const set = () => document.documentElement.style.setProperty('--head-h', (hd ? Math.ceil(hd.getBoundingClientRect().height) : 0) + 'px');
+  if (headRO) headRO.disconnect();
+  if (hd && 'ResizeObserver' in window) { headRO = new ResizeObserver(set); headRO.observe(hd); }
+  set();
+}
+export function headBottom() { const hd = document.querySelector('#view .scr-head'); return hd ? hd.getBoundingClientRect().bottom : 0; }
 let lastHash = location.hash;
 async function boot() {
   loadProgress();
@@ -71,5 +82,5 @@ function registerSW() {
   });
 }
 
-window.__BUILD__ = 'v4';
+window.__BUILD__ = 'v5';
 boot().catch((err) => { console.error(err); if (window.__amFail) window.__amFail(err); });

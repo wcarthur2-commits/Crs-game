@@ -7720,6 +7720,28 @@
   },
   {
    "date": "2026-11-27",
+   "item_id": "B-038",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "cross_track"
+   ],
+   "note": "更新：cross_track",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "B-088",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "cross_track"
+   ],
+   "note": "更新：cross_track",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
    "item_id": "batch-crs2-001",
    "file": "meta.json",
    "change": "added",
