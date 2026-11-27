@@ -1,10 +1,10 @@
 // All screens except play and the provision reader.
-import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v5';
-import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v5';
-import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v5';
-import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v5';
-import { startSession, playOne, mcqBody } from './play.js?v=v5';
-import { layeredGraph, treeFlow, venn } from './diagram.js?v=v5';
+import { h, s, icon, btn, ring, bar, sheet, seg, chips, toast, closeSheets } from './ui.js?v=v6';
+import { D, IX, P, save, nav, route, setRoute, TRACK, trackName, unreadNews, unseenLog, liveLog, logKey, isNewItem, storageOk, RECENT_DAYS } from './state.js?v=v6';
+import { buildSession, maxMinutes, queueMinutes, tonightLevel, trackPct, trackDone, mastery, badgeEarned, badgeKnown, caseActDone, dayKey, rng, shuffle, inTrack, inInfo, sessionPlan } from './engine.js?v=v6';
+import { screenHead, statusChips, card, detailSheet, detailBody, elementSheet, levelCard, srcLink, quoteBlock, sourcesList, termSheet, SCHEME, caveatNote } from './common.js?v=v6';
+import { startSession, playOne, mcqBody } from './play.js?v=v6';
+import { layeredGraph, treeFlow, venn } from './diagram.js?v=v6';
 
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;
 const KIND_ICON = { match: 'link', sort: 'buckets', order: 'list', spot: 'search', story: 'chat', build: 'blocks', write: 'pen', quiz: 'timer' };
@@ -226,7 +226,7 @@ export function renderBank(root) {
   const all = D.quiz.items.filter((q) => q.track === route());
   const topics = [...new Set(all.map((q) => q.topic).filter(Boolean))];
   const fmts = [...new Set(all.map((q) => q.format).filter(Boolean))];
-  const sets = [...new Set(all.map((q) => q.set))];
+  const sets = [...new Set(all.map((q) => q.set).filter(Boolean))]; // items without a set stay under 全部 only
   const SETN = { quickfire: '快答', mini: '小測', bank: '題庫', integ: '一併' };
   const f = all.filter((q) => (!bank.topic || q.topic === bank.topic) && (!bank.diff || q.difficulty === bank.diff) && (!bank.set || q.set === bank.set) && (!bank.fmt || q.format === bank.fmt));
   const filt = h('details', { class: 'filters', open: !bank.cur },

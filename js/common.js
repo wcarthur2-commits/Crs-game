@@ -1,7 +1,7 @@
 // Shared building blocks: screen header, status chips, detail sheet, quotes, sources, cards.
-import { h, icon, btn, sheet, seg, closeSheets } from './ui.js?v=v5';
-import { D, IX, P, TRACK, route, setRoute, nav, isNewItem, sourceInfo, trackName } from './state.js?v=v5';
-import { mastery } from './engine.js?v=v5';
+import { h, icon, btn, sheet, seg, closeSheets } from './ui.js?v=v6';
+import { D, IX, P, TRACK, route, setRoute, nav, isNewItem, sourceInfo, trackName } from './state.js?v=v6';
+import { mastery } from './engine.js?v=v6';
 
 export function routeSeg() {
   return seg(Object.keys(TRACK).map((t) => [t, TRACK[t].short]), route(), setRoute, 'route-seg r-' + route());

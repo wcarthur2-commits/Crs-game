@@ -1,8 +1,8 @@
 // Provision reader: full verbatim text (EN or official 中文本), never truncated or rewritten.
-import { h, icon, btn, sheet, closeSheets, toast, seg } from './ui.js?v=v5';
-import { IX, P, save, nav, isNewItem } from './state.js?v=v5';
-import { provisionDepths } from './engine.js?v=v5';
-import { srcLink, elementSheet, termSheet, fullTerm, caveatNote } from './common.js?v=v5';
+import { h, icon, btn, sheet, closeSheets, toast, seg } from './ui.js?v=v6';
+import { IX, P, save, nav, isNewItem } from './state.js?v=v6';
+import { provisionDepths } from './engine.js?v=v6';
+import { srcLink, elementSheet, termSheet, fullTerm, caveatNote } from './common.js?v=v6';
 
 const isHeading = (t) => /^\d+[A-Z]*\.\s/.test(t) || /^Part \d+[A-Z]*\b/.test(t) || /^Division \d+/.test(t) || /^Schedule /.test(t) || /^第\s*\d+\s*[部分]/.test(t);
 export function resetReaderCache() {}

@@ -1,9 +1,9 @@
 {
  "schema_version": "1.0.0",
- "content_version": "2026.11.27-18",
- "generated_at": "2026-11-27T07:31:44-05:00",
- "last_checked": "2026-11-26T23:02:00-05:00",
- "last_checked_note": "來源連結最後一次 HTTP 檢查（parts/lt.json，48 條 URL 200）",
+ "content_version": "2026.11.27-20",
+ "generated_at": "2026-11-27T09:12:28-05:00",
+ "last_checked": "2026-11-27T09:20:00-05:00",
+ "last_checked_note": "2026-11-27 每日檢查：已重新抓取 OECD Global Forum CARF 工作坊頁同瑞士聯邦委員會／SIF 新聞稿。全站來源 HTTP 檢查仍係 2026-11-26T23:02:00-05:00（parts/lt.json，48 條 URL 200）。",
  "tracks": {
   "CRS2": "CRS 2.0（amended CRS）",
   "CARF": "CARF",

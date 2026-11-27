@@ -12068,6 +12068,75 @@
   },
   {
    "date": "2026-11-27",
+   "item_id": "Q2B-1321",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "set"
+   ],
+   "note": "更新：set",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-1322",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "set"
+   ],
+   "note": "更新：set",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-1323",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "set"
+   ],
+   "note": "更新：set",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "Q2B-1324",
+   "file": "quiz.json",
+   "change": "modified",
+   "fields": [
+    "set"
+   ],
+   "note": "更新：set",
+   "baseline": true
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "content-2026.11.27",
+   "file": "meta.json",
+   "change": "modified",
+   "summary": "中文條文、定義詞表、一併管理新關卡同短題",
+   "note": "中文條文、定義詞表、一併管理新關卡同短題",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "N-2026-11-25-01",
+   "file": "news.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
+   "item_id": "N-2026-11-20-01",
+   "file": "news.json",
+   "change": "added",
+   "note": "新增",
+   "baseline": false
+  },
+  {
+   "date": "2026-11-27",
    "item_id": "batch-crs2-001",
    "file": "meta.json",
    "change": "added",
@@ -12559,15 +12628,6 @@
     "quiz": 4,
     "flashcards": 3
    }
-  },
-  {
-   "date": "2026-11-27",
-   "item_id": "content-2026.11.27",
-   "file": "meta.json",
-   "change": "modified",
-   "summary": "中文條文、定義詞表、一併管理新關卡同短題",
-   "note": "中文條文、定義詞表、一併管理新關卡同短題",
-   "baseline": false
   }
  ]
 }

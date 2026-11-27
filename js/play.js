@@ -1,9 +1,9 @@
 // Session runner and the game engines for every level kind.
-import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v5';
-import { D, IX, P, save, nav, route, trackName } from './state.js?v=v5';
-import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v5';
-import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v5';
-import { treeWalker } from './screens.js?v=v5';
+import { h, icon, btn, ring, bar, sheet, toast } from './ui.js?v=v6';
+import { D, IX, P, save, nav, route, trackName } from './state.js?v=v6';
+import { rng, shuffle, score, quickPoints, writeKeywordHits, dayKey, badgeEarned, mastery } from './engine.js?v=v6';
+import { srcLink, quoteBlock, detailSheet, statusChips, screenHead, elementSheet } from './common.js?v=v6';
+import { treeWalker } from './screens.js?v=v6';
 
 const LETTERS = ['A', 'B', 'C', 'D', 'E', 'F'];
 const kindLabel = (k) => (D.levels.kinds || {})[k] || k;

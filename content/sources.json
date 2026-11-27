@@ -258,6 +258,30 @@
    "unverified_reason": null,
    "updated": "2026-11-26"
   },
+  "GFW": {
+   "id": "GFW",
+   "title": "OECD Global Forum：區域 CARF 工作坊新聞（2026-11-20）",
+   "url": "https://www.oecd.org/en/networks/global-forum-tax-transparency/news-events/2026/global-forum-regional-workshops-strengthen-preparedness-for-implementation-of-the-crypto-asset-reporting-framework.html",
+   "kind": "oecd",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
+  "CHPR": {
+   "id": "CHPR",
+   "title": "瑞士聯邦委員會／SIF 新聞稿：批准 CARF 夥伴司法管轄區（2026-11-25）",
+   "url": "https://www.sif.admin.ch/en/newnsb/hy3YlIU2OxQn",
+   "kind": "ird",
+   "lang": "en",
+   "accessed": null,
+   "link_check": null,
+   "status": "verified",
+   "unverified_reason": null,
+   "updated": "2026-11-26"
+  },
   "O4": {
    "id": "O4",
    "title": "Inland Revenue (Amendment) (Automatic Exchange of Information) Ordinance 2026（Ord. No. 4 of 2026）",

@@ -131,6 +131,68 @@
    "updated": "2026-11-26"
   },
   {
+   "id": "N-2026-11-25-01",
+   "track": "CARF",
+   "date": "2026-11-25",
+   "title": "瑞士批准 57 個 CARF 夥伴司法管轄區",
+   "short": "由 2028 年起交換，香港是否在名單上 UNVERIFIED。",
+   "detail": "由 2028 年起交換，香港是否在名單上 UNVERIFIED。瑞士聯邦委員會於 2026年11月25日批准 57 個對加密市場相關嘅國家同地區，可由 2028 年起交換 crypto-asset 資料；名單包括所有歐盟成員國、英國同部分 G20 國家。官方英文新聞稿冇列出 57 個名稱，亦未有當日決定嘅官方名單附件；德文稿同樣冇列名、冇提及 Hongkong。2025 年草案聯邦決議（BBl 2025 1981）列有包括香港在內嘅更長名單，但唔等於 2026-11-25 批准嘅 57 個。交換仍須對方有意願並符合 OECD 標準（保密同數據安全），聯邦委員會會喺交換前再審查。呢項係瑞士單方面批准夥伴名單，唔改香港法例。",
+   "quotes": [
+    {
+     "text": "On this basis, at its meeting on 25 November 2026, the Federal Council approved 57 states and territories of relevance for the cryptomarket with which Switzerland may automatically exchange information on cryptoassets starting in 2028. This includes all EU member states, the United Kingdom and various G20 countries.",
+     "pin": null,
+     "source_id": "CHPR",
+     "url": "https://www.sif.admin.ch/en/newnsb/hy3YlIU2OxQn",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "CHPR"
+   ],
+   "source_url": "https://www.sif.admin.ch/en/newnsb/hy3YlIU2OxQn",
+   "status": "planned",
+   "verification": "UNVERIFIED",
+   "unverified_reason": "官方新聞稿冇列出 57 個夥伴名單，無法核實香港是否在內",
+   "element_ids": [],
+   "minutes": 0.5,
+   "updated": "2026-11-27"
+  },
+  {
+   "id": "N-2026-11-20-01",
+   "track": "CARF",
+   "date": "2026-11-20",
+   "title": "OECD：CARF 區域工作坊；首次交換訂於 2027年9月",
+   "short": "全球首次 CARF 交換訂於 2027年9月。",
+   "detail": "全球首次 CARF 交換訂於 2027年9月。OECD Global Forum 於 2026年11月16至20日舉辦四場區域工作坊，共 319 名參加者、來自 80 個司法管轄區。秘書處會繼續提供技術支援，直至首次交換及之後。呢個係全球（較早實施稅區）嘅交換時間，唔等於香港嘅時間表；香港官方新聞稿講由 2028 年起同夥伴交換。唔改香港法例。",
+   "quotes": [
+    {
+     "text": "The Secretariat will continue to assist jurisdictions through tailored guidance, peer-learning opportunities and bilateral technical support in the lead-up to, and beyond, the first exchanges under the CARF scheduled in September 2027.",
+     "pin": null,
+     "source_id": "GFW",
+     "url": "https://www.oecd.org/en/networks/global-forum-tax-transparency/news-events/2026/global-forum-regional-workshops-strengthen-preparedness-for-implementation-of-the-crypto-asset-reporting-framework.html",
+     "lang": "en",
+     "accessed": "2026-11-27",
+     "status": "verified",
+     "unverified_reason": null
+    }
+   ],
+   "sources": [
+    "GFW"
+   ],
+   "source_url": "https://www.oecd.org/en/networks/global-forum-tax-transparency/news-events/2026/global-forum-regional-workshops-strengthen-preparedness-for-implementation-of-the-crypto-asset-reporting-framework.html",
+   "status": "planned",
+   "verification": "verified",
+   "unverified_reason": null,
+   "element_ids": [
+    "mcaa"
+   ],
+   "minutes": 0.5,
+   "updated": "2026-11-27"
+  },
+  {
    "id": "N-2026-11-18-05",
    "track": "INTEG",
    "date": "2026-11-18",

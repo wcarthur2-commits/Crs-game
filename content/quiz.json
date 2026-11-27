@@ -37954,7 +37954,7 @@
    "industries": [
     "all"
    ],
-   "set": null,
+   "set": "bank",
    "topic": "盡職審查",
    "difficulty": 2,
    "format": "多步案例",
@@ -38013,7 +38013,7 @@
    "industries": [
     "all"
    ],
-   "set": null,
+   "set": "bank",
    "topic": "盡職審查",
    "difficulty": 1,
    "format": "揾錯處",
@@ -38079,7 +38079,7 @@
    "industries": [
     "bank"
    ],
-   "set": null,
+   "set": "bank",
    "topic": "盡職審查",
    "difficulty": 2,
    "format": "邊條適用？",
@@ -38137,7 +38137,7 @@
    "industries": [
     "all"
    ],
-   "set": null,
+   "set": "bank",
    "topic": "盡職審查",
    "difficulty": 2,
    "format": "多步案例",
